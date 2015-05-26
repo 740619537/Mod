@@ -1,0 +1,3 @@
+locale = Chinese Simplified
+poFile = <.po filename>
+id = <unique id>
