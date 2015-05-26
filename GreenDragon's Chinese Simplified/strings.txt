@@ -154,72 +154,72 @@ msgstr "侵入这个控制台来获得它的PWR"
 #: STRINGS.ABILITIES.HIJACK_CONSOLE_DESC_CONVERT_TO_CRED
 msgctxt "STRINGS.ABILITIES.HIJACK_CONSOLE_DESC_CONVERT_TO_CRED"
 msgid "Use {1} to convert this console's PWR to credit."
-msgstr ""
+msgstr "使用 {1} 来转换这个控制台的PWR成为钱"
 
 #: STRINGS.ABILITIES.HIJACK_CONSOLE_INSTALL_VIRUS
 msgctxt "STRINGS.ABILITIES.HIJACK_CONSOLE_INSTALL_VIRUS"
 msgid "Install Virus"
-msgstr ""
+msgstr "安装病毒"
 
 #: STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.CONVERT_TO_CREDIT
 msgctxt "STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.CONVERT_TO_CREDIT"
 msgid "CONVERT [%d PWR] INTO %d CREDITS"
-msgstr ""
+msgstr "转换 [%d PWR] 成为 %d 钱"
 
 #: STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.CONVERT_TO_CREDIT_BONUS
 msgctxt "STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.CONVERT_TO_CREDIT_BONUS"
 msgid "CONVERT [%d PWR] +%d BONUS INTO +%d CREDITS"
-msgstr ""
+msgstr "转换 [%d PWR] =%d 加成成为 +%d 钱"
 
 #: STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR
 msgctxt "STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR"
 msgid "HIJACK [%d PWR]"
-msgstr ""
+msgstr "侵入 [%d PWR]"
 
 #: STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR_BONUS
 msgctxt "STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR_BONUS"
 msgid "HIJACK [%d PWR] +%d BONUS"
-msgstr ""
+msgstr "侵入 [%d PWR] +%d 加成"
 
 #: STRINGS.ABILITIES.HIJACK_STORE_PWR
 msgctxt "STRINGS.ABILITIES.HIJACK_STORE_PWR"
 msgid "Store PWR"
-msgstr ""
+msgstr "储存PWR"
 
 #: STRINGS.ABILITIES.HIJACK_STORE_PWR_DESC
 msgctxt "STRINGS.ABILITIES.HIJACK_STORE_PWR_DESC"
 msgid "Store PWR from this console into the prototype chip."
-msgstr ""
+msgstr "储存这个控制台的PWR进原型芯片中"
 
 #: STRINGS.ABILITIES.ICEBREAK
 msgctxt "STRINGS.ABILITIES.ICEBREAK"
 msgid "Icebreak"
-msgstr ""
+msgstr "破冰"
 
 #: STRINGS.ABILITIES.INJECTION
 msgctxt "STRINGS.ABILITIES.INJECTION"
 msgid "Injection"
-msgstr ""
+msgstr "感染"
 
 #: STRINGS.ABILITIES.INJECTION_APPLY
 msgctxt "STRINGS.ABILITIES.INJECTION_APPLY"
 msgid "Apply %s"
-msgstr ""
+msgstr "使用 %s"
 
 #: STRINGS.ABILITIES.INSTALL_AUGMENT
 msgctxt "STRINGS.ABILITIES.INSTALL_AUGMENT"
 msgid "Install Augment"
-msgstr ""
+msgstr "安装补充物"
 
 #: STRINGS.ABILITIES.INSTALL_AUGMENT_DESC
 msgctxt "STRINGS.ABILITIES.INSTALL_AUGMENT_DESC"
 msgid "Permanently install this into an Augment Slot"
-msgstr ""
+msgstr "永久安装进一个补充物槽"
 
 #: STRINGS.ABILITIES.INSTALL_INCOGNITA
 msgctxt "STRINGS.ABILITIES.INSTALL_INCOGNITA"
 msgid "Install Incognita"
-msgstr ""
+msgstr "安装Incognita"
 
 #: STRINGS.ABILITIES.INSTALL_INCOGNITA_DESC
 msgctxt "STRINGS.ABILITIES.INSTALL_INCOGNITA_DESC"
@@ -229,7 +229,7 @@ msgstr ""
 #: STRINGS.ABILITIES.INTERROGATE
 msgctxt "STRINGS.ABILITIES.INTERROGATE"
 msgid "Interrogate"
-msgstr ""
+msgstr "审问"
 
 #: STRINGS.ABILITIES.JACKIN
 msgctxt "STRINGS.ABILITIES.JACKIN"
@@ -244,7 +244,7 @@ msgstr ""
 #: STRINGS.ABILITIES.LAST_WORDS
 msgctxt "STRINGS.ABILITIES.LAST_WORDS"
 msgid "LAST WORDS"
-msgstr ""
+msgstr "遗言"
 
 #: STRINGS.ABILITIES.LAST_WORDS_DESC
 msgctxt "STRINGS.ABILITIES.LAST_WORDS_DESC"
@@ -254,7 +254,7 @@ msgstr ""
 #: STRINGS.ABILITIES.MANUAL_SHUTDOWN
 msgctxt "STRINGS.ABILITIES.MANUAL_SHUTDOWN"
 msgid "Manual Shutdown"
-msgstr ""
+msgstr "手动关闭"
 
 #: STRINGS.ABILITIES.MANUAL_SHUTDOWN_DESC
 msgctxt "STRINGS.ABILITIES.MANUAL_SHUTDOWN_DESC"
@@ -264,7 +264,7 @@ msgstr ""
 #: STRINGS.ABILITIES.MELEE
 msgctxt "STRINGS.ABILITIES.MELEE"
 msgid "Take Down"
-msgstr ""
+msgstr "拿下"
 
 #: STRINGS.ABILITIES.MELEE_DESC
 msgctxt "STRINGS.ABILITIES.MELEE_DESC"
@@ -274,72 +274,72 @@ msgstr ""
 #: STRINGS.ABILITIES.MELEE_OVERWATCH
 msgctxt "STRINGS.ABILITIES.MELEE_OVERWATCH"
 msgid "Close range reaction"
-msgstr ""
+msgstr "近身反应"
 
 #: STRINGS.ABILITIES.MELEE_OVERWATCH_DESC
 msgctxt "STRINGS.ABILITIES.MELEE_OVERWATCH_DESC"
 msgid "This agent will auto attack an enemy at close range"
-msgstr ""
+msgstr "这个特工会自动攻击近范围敌人"
 
 #: STRINGS.ABILITIES.MOVE_BODY
 msgctxt "STRINGS.ABILITIES.MOVE_BODY"
 msgid "Move Body"
-msgstr ""
+msgstr "移动躯体"
 
 #: STRINGS.ABILITIES.MOVE_BODY_DRAG
 msgctxt "STRINGS.ABILITIES.MOVE_BODY_DRAG"
 msgid "Drag Body"
-msgstr ""
+msgstr "拖拽躯体"
 
 #: STRINGS.ABILITIES.MOVE_BODY_DRAG_DESC
 msgctxt "STRINGS.ABILITIES.MOVE_BODY_DRAG_DESC"
 msgid "Move body to a new location"
-msgstr ""
+msgstr "移动躯体到新位置"
 
 #: STRINGS.ABILITIES.MOVE_BODY_DROP
 msgctxt "STRINGS.ABILITIES.MOVE_BODY_DROP"
 msgid "Drop Body"
-msgstr ""
+msgstr "放下躯体"
 
 #: STRINGS.ABILITIES.MOVE_BODY_DROP_DESC
 msgctxt "STRINGS.ABILITIES.MOVE_BODY_DROP_DESC"
 msgid "Leave body here"
-msgstr ""
+msgstr "放下这具躯体"
 
 #: STRINGS.ABILITIES.NT
 msgctxt "STRINGS.ABILITIES.NT"
 msgid "NT"
-msgstr ""
+msgstr "NT"
 
 #: STRINGS.ABILITIES.OBSERVE
 msgctxt "STRINGS.ABILITIES.OBSERVE"
 msgid "Observe"
-msgstr ""
+msgstr "侧写"
 
 #: STRINGS.ABILITIES.OBSERVE_DESC
 msgctxt "STRINGS.ABILITIES.OBSERVE_DESC"
 msgid "Predict this guard's movements"
-msgstr ""
+msgstr "预测这个守卫的行动"
 
 #: STRINGS.ABILITIES.OPEN_DETENTION_CELLS
 msgctxt "STRINGS.ABILITIES.OPEN_DETENTION_CELLS"
 msgid "Deactivate cell doors"
-msgstr ""
+msgstr "解锁门"
 
 #: STRINGS.ABILITIES.OPEN_DETENTION_CELLS_DESC
 msgctxt "STRINGS.ABILITIES.OPEN_DETENTION_CELLS_DESC"
 msgid "Open the detention cell doors."
-msgstr ""
+msgstr "打开探测门"
 
 #: STRINGS.ABILITIES.OPEN_SECURE_BOXES
 msgctxt "STRINGS.ABILITIES.OPEN_SECURE_BOXES"
 msgid "Open Security Boxes"
-msgstr ""
+msgstr "打开安全盒子"
 
 #: STRINGS.ABILITIES.OPEN_SECURE_BOXES_DESC
 msgctxt "STRINGS.ABILITIES.OPEN_SECURE_BOXES_DESC"
 msgid "Unlocks the security boxes."
-msgstr ""
+msgstr "解锁安全盒子"
 
 #: STRINGS.ABILITIES.OVERWATCH
 msgctxt "STRINGS.ABILITIES.OVERWATCH"
@@ -354,7 +354,7 @@ msgstr ""
 #: STRINGS.ABILITIES.OVERWATCH_MELEE
 msgctxt "STRINGS.ABILITIES.OVERWATCH_MELEE"
 msgid "Ambush"
-msgstr ""
+msgstr "埋伏"
 
 #: STRINGS.ABILITIES.OVERWATCH_MELEE_DESC
 msgctxt "STRINGS.ABILITIES.OVERWATCH_MELEE_DESC"
@@ -364,22 +364,22 @@ msgstr ""
 #: STRINGS.ABILITIES.OVERWATCH_ON
 msgctxt "STRINGS.ABILITIES.OVERWATCH_ON"
 msgid " ON"
-msgstr ""
+msgstr "否"
 
 #: STRINGS.ABILITIES.OVERWATCH_SHOOT
 msgctxt "STRINGS.ABILITIES.OVERWATCH_SHOOT"
 msgid "Reaction Shot"
-msgstr ""
+msgstr "自动射击"
 
 #: STRINGS.ABILITIES.OVERWATCH_SHOOT_DESC
 msgctxt "STRINGS.ABILITIES.OVERWATCH_SHOOT_DESC"
 msgid "This weapon will react to enemy fire"
-msgstr ""
+msgstr "这个武器会自动对于敌人的活力做出反应"
 
 #: STRINGS.ABILITIES.PARALYZE
 msgctxt "STRINGS.ABILITIES.PARALYZE"
 msgid "Paralyzer dose"
-msgstr ""
+msgstr "瘫痪剂"
 
 #: STRINGS.ABILITIES.PARALYZE_DESC
 msgctxt "STRINGS.ABILITIES.PARALYZE_DESC"
@@ -389,7 +389,7 @@ msgstr ""
 #: STRINGS.ABILITIES.PEEK
 msgctxt "STRINGS.ABILITIES.PEEK"
 msgid "Peek"
-msgstr ""
+msgstr "窥视"
 
 #: STRINGS.ABILITIES.PEEK_DESC
 msgctxt "STRINGS.ABILITIES.PEEK_DESC"
@@ -414,7 +414,7 @@ msgstr ""
 #: STRINGS.ABILITIES.READABLE
 msgctxt "STRINGS.ABILITIES.READABLE"
 msgid "Readable"
-msgstr ""
+msgstr "可读"
 
 #: STRINGS.ABILITIES.READABLE_DESC
 msgctxt "STRINGS.ABILITIES.READABLE_DESC"
@@ -424,57 +424,57 @@ msgstr ""
 #: STRINGS.ABILITIES.RECHARGE
 msgctxt "STRINGS.ABILITIES.RECHARGE"
 msgid "Charge device"
-msgstr ""
+msgstr "重新给装置充能"
 
 #: STRINGS.ABILITIES.RECHARGE_DESC
 msgctxt "STRINGS.ABILITIES.RECHARGE_DESC"
 msgid "Use Charge Pack to lower the current cooldown time by 2."
-msgstr ""
+msgstr "使用充能包减少两轮冷却"
 
 #: STRINGS.ABILITIES.RELOAD
 msgctxt "STRINGS.ABILITIES.RELOAD"
 msgid "Manual Reload"
-msgstr ""
+msgstr "手动上弹"
 
 #: STRINGS.ABILITIES.RELOAD_DESC
 msgctxt "STRINGS.ABILITIES.RELOAD_DESC"
 msgid "Reload the equipped gun."
-msgstr ""
+msgstr "给装备的枪重新上弹"
 
 #: STRINGS.ABILITIES.RESCUE
 msgctxt "STRINGS.ABILITIES.RESCUE"
 msgid "Rescue"
-msgstr ""
+msgstr "营救"
 
 #: STRINGS.ABILITIES.RESCUE_DESC
 msgctxt "STRINGS.ABILITIES.RESCUE_DESC"
 msgid "Rescue this agent."
-msgstr ""
+msgstr "营救这个特工"
 
 #: STRINGS.ABILITIES.REVIVE
 msgctxt "STRINGS.ABILITIES.REVIVE"
 msgid "REVIVE"
-msgstr ""
+msgstr "复苏"
 
 #: STRINGS.ABILITIES.REVIVE_DESC
 msgctxt "STRINGS.ABILITIES.REVIVE_DESC"
 msgid "Use %s to revive an agent."
-msgstr ""
+msgstr "使用 %s 复苏特工"
 
 #: STRINGS.ABILITIES.REVIVE_NAME
 msgctxt "STRINGS.ABILITIES.REVIVE_NAME"
 msgid "REVIVE %s"
-msgstr ""
+msgstr "复苏 %s"
 
 #: STRINGS.ABILITIES.SCAN
 msgctxt "STRINGS.ABILITIES.SCAN"
 msgid "SCAN"
-msgstr ""
+msgstr "扫描"
 
 #: STRINGS.ABILITIES.SCAN_DEVICE
 msgctxt "STRINGS.ABILITIES.SCAN_DEVICE"
 msgid "Scan Device"
-msgstr ""
+msgstr "扫描设备"
 
 #: STRINGS.ABILITIES.SET_NAME
 msgctxt "STRINGS.ABILITIES.SET_NAME"
@@ -484,7 +484,7 @@ msgstr ""
 #: STRINGS.ABILITIES.SHOOT
 msgctxt "STRINGS.ABILITIES.SHOOT"
 msgid "SHOOT"
-msgstr ""
+msgstr "开枪"
 
 #: STRINGS.ABILITIES.SHOOT_DYING
 msgctxt "STRINGS.ABILITIES.SHOOT_DYING"
@@ -494,12 +494,12 @@ msgstr ""
 #: STRINGS.ABILITIES.SHOOT_KO
 msgctxt "STRINGS.ABILITIES.SHOOT_KO"
 msgid " : KO %d"
-msgstr ""
+msgstr "放倒了 %d"
 
 #: STRINGS.ABILITIES.SPRINT
 msgctxt "STRINGS.ABILITIES.SPRINT"
 msgid "Sprint"
-msgstr ""
+msgstr "冲刺"
 
 #: STRINGS.ABILITIES.SPRINT_DESC
 msgctxt "STRINGS.ABILITIES.SPRINT_DESC"
@@ -524,6 +524,7 @@ msgstr ""
 #: STRINGS.ABILITIES.STORE
 msgctxt "STRINGS.ABILITIES.STORE"
 msgid "Open Store"
+msgstr "进入购买设备"
 msgstr ""
 
 #: STRINGS.ABILITIES.TEMPORARY_LOSS
@@ -534,7 +535,7 @@ msgstr ""
 #: STRINGS.ABILITIES.THROW
 msgctxt "STRINGS.ABILITIES.THROW"
 msgid "THROW"
-msgstr ""
+msgstr "扔"
 
 #: STRINGS.ABILITIES.THROW_DESC
 msgctxt "STRINGS.ABILITIES.THROW_DESC"
