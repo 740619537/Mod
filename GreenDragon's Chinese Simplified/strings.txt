@@ -615,7 +615,7 @@ msgstr ""
 #: STRINGS.ABILITIES.WIRELESS_SCAN
 msgctxt "STRINGS.ABILITIES.WIRELESS_SCAN"
 msgid "Wireless Scanner"
-msgstr ""
+msgstr "无线扫描仪"
 
 #: STRINGS.AGENTS.BANKS.AGE
 msgctxt "STRINGS.AGENTS.BANKS.AGE"
