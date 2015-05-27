@@ -4,12 +4,12 @@
 #: STRINGS.ABILITIES.ACCESS_BANK
 msgctxt "STRINGS.ABILITIES.ACCESS_BANK"
 msgid "Access Bank Account"
-msgstr ""
+msgstr "获取银行账户"
 
 #: STRINGS.ABILITIES.BREAK_DOOR
 msgctxt "STRINGS.ABILITIES.BREAK_DOOR"
 msgid "BREAK DOOR"
-msgstr ""
+msgstr "破门"
 
 #: STRINGS.ABILITIES.BREAK_DOOR_DESC
 msgctxt "STRINGS.ABILITIES.BREAK_DOOR_DESC"
@@ -59,12 +59,12 @@ msgstr "使用隐身装置"
 #: STRINGS.ABILITIES.DEACTIVATE_LOCK
 msgctxt "STRINGS.ABILITIES.DEACTIVATE_LOCK"
 msgid "Deactivate lock"
-msgstr ""
+msgstr "解锁"
 
 #: STRINGS.ABILITIES.DEACTIVATE_LOCK_DESC
 msgctxt "STRINGS.ABILITIES.DEACTIVATE_LOCK_DESC"
 msgid "Open the doors and let Central into the Corporate Mainframe."
-msgstr "打开门让Central进入集团框架"
+msgstr "打开门让Central进入集团系统"
 
 #: STRINGS.ABILITIES.DECODING
 msgctxt "STRINGS.ABILITIES.DECODING"
@@ -224,7 +224,7 @@ msgstr "安装Incognita"
 #: STRINGS.ABILITIES.INSTALL_INCOGNITA_DESC
 msgctxt "STRINGS.ABILITIES.INSTALL_INCOGNITA_DESC"
 msgid "Connect Incognita's portable memory to this data terminal socket."
-msgstr ""
+msgstr "插入Incognita的便携记忆体到这台数据终端插口"
 
 #: STRINGS.ABILITIES.INTERROGATE
 msgctxt "STRINGS.ABILITIES.INTERROGATE"
@@ -249,7 +249,7 @@ msgstr "遗言"
 #: STRINGS.ABILITIES.LAST_WORDS_DESC
 msgctxt "STRINGS.ABILITIES.LAST_WORDS_DESC"
 msgid "<c:FDFA68>DELIVER FINAL WORDS</>\nIf there's nothing left to do..."
-msgstr ""
+msgstr "<c:FDFA68>说出遗言</>\n如果你实在无能为力了"
 
 #: STRINGS.ABILITIES.MANUAL_SHUTDOWN
 msgctxt "STRINGS.ABILITIES.MANUAL_SHUTDOWN"
@@ -344,12 +344,12 @@ msgstr "解锁安全盒子"
 #: STRINGS.ABILITIES.OVERWATCH
 msgctxt "STRINGS.ABILITIES.OVERWATCH"
 msgid "Overwatch"
-msgstr ""
+msgstr "处于看守中"
 
 #: STRINGS.ABILITIES.OVERWATCH_DESC
 msgctxt "STRINGS.ABILITIES.OVERWATCH_DESC"
 msgid "<tthotkey>ATTACK</>\nThis unit will shoot at movement during the enemy's turn."
-msgstr ""
+msgstr "<ttotkey>攻击</>\n这个单位会自动射击移动的物体"
 
 #: STRINGS.ABILITIES.OVERWATCH_MELEE
 msgctxt "STRINGS.ABILITIES.OVERWATCH_MELEE"
@@ -359,7 +359,7 @@ msgstr "埋伏"
 #: STRINGS.ABILITIES.OVERWATCH_MELEE_DESC
 msgctxt "STRINGS.ABILITIES.OVERWATCH_MELEE_DESC"
 msgid "<tthotkey>ATTACK</>\nThis agent will melee nearby moving enemies during the enemy turn."
-msgstr ""
+msgstr "<ttotkey>攻击</>\n这个单位会自动使用近战攻击移动的物体"
 
 #: STRINGS.ABILITIES.OVERWATCH_ON
 msgctxt "STRINGS.ABILITIES.OVERWATCH_ON"
@@ -394,22 +394,22 @@ msgstr "窥视"
 #: STRINGS.ABILITIES.PEEK_DESC
 msgctxt "STRINGS.ABILITIES.PEEK_DESC"
 msgid "Carefully look around corners.\nPeek through closed doors."
-msgstr ""
+msgstr "在墙角边窥视一眼\n通过门窥视情况"
 
 #: STRINGS.ABILITIES.PICKUP
 msgctxt "STRINGS.ABILITIES.PICKUP"
 msgid "Pickup %s"
-msgstr ""
+msgstr "拾起 %s"
 
 #: STRINGS.ABILITIES.PRIME_EMP
 msgctxt "STRINGS.ABILITIES.PRIME_EMP"
 msgid "Prime EMP"
-msgstr ""
+msgstr "运行电磁脉冲"
 
 #: STRINGS.ABILITIES.PRIME_EMP_DESC
 msgctxt "STRINGS.ABILITIES.PRIME_EMP_DESC"
 msgid "Places the EMP Pack on the ground and primes it. It will detonate at the end of the turn."
-msgstr ""
+msgstr "安装这个电磁脉冲到地面，它会在这一轮结束时自动激活。"
 
 #: STRINGS.ABILITIES.READABLE
 msgctxt "STRINGS.ABILITIES.READABLE"
@@ -419,7 +419,7 @@ msgstr "可读"
 #: STRINGS.ABILITIES.READABLE_DESC
 msgctxt "STRINGS.ABILITIES.READABLE_DESC"
 msgid "Somebody has left a note behind."
-msgstr ""
+msgstr "有人留下了一些记录"
 
 #: STRINGS.ABILITIES.RECHARGE
 msgctxt "STRINGS.ABILITIES.RECHARGE"
@@ -479,7 +479,7 @@ msgstr "扫描设备"
 #: STRINGS.ABILITIES.SET_NAME
 msgctxt "STRINGS.ABILITIES.SET_NAME"
 msgid "SET %s"
-msgstr ""
+msgstr "设置 %s"
 
 #: STRINGS.ABILITIES.SHOOT
 msgctxt "STRINGS.ABILITIES.SHOOT"
@@ -504,12 +504,12 @@ msgstr "冲刺"
 #: STRINGS.ABILITIES.SPRINT_DESC
 msgctxt "STRINGS.ABILITIES.SPRINT_DESC"
 msgid "+{1} AP this turn\nMovement makes noise\nMust have full AP to activate."
-msgstr ""
+msgstr "这一轮 +{1} AP\n移动会发出声响\n必须要有满AP量才能激活"
 
 #: STRINGS.ABILITIES.SPRINT_TOGGLE
 msgctxt "STRINGS.ABILITIES.SPRINT_TOGGLE"
 msgid "TOGGLE SPRINT"
-msgstr ""
+msgstr "切换冲刺模式"
 
 #: STRINGS.ABILITIES.STIM
 msgctxt "STRINGS.ABILITIES.STIM"
@@ -519,7 +519,7 @@ msgstr ""
 #: STRINGS.ABILITIES.STIM_DESC
 msgctxt "STRINGS.ABILITIES.STIM_DESC"
 msgid "A shot that restores an agent's AP."
-msgstr ""
+msgstr "一根存储特工AP点数的注射装置"
 
 #: STRINGS.ABILITIES.STORE
 msgctxt "STRINGS.ABILITIES.STORE"
@@ -540,12 +540,12 @@ msgstr "扔"
 #: STRINGS.ABILITIES.THROW_DESC
 msgctxt "STRINGS.ABILITIES.THROW_DESC"
 msgid "This object can be thrown."
-msgstr ""
+msgstr "这个装置可以被投掷"
 
 #: STRINGS.ABILITIES.TOOLTIPS.AUGMENT_ALREADY_INSTALLED
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.AUGMENT_ALREADY_INSTALLED"
 msgid "This augment is already installed."
-msgstr ""
+msgstr "这个插入物已经被安装"
 
 #: STRINGS.ABILITIES.TOOLTIPS.BREAKS_FIREWALLS
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.BREAKS_FIREWALLS"
@@ -560,7 +560,7 @@ msgstr ""
 #: STRINGS.ABILITIES.TOOLTIPS.HACK
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.HACK"
 msgid "HACK %s"
-msgstr ""
+msgstr "骇入 %s"
 
 #: STRINGS.ABILITIES.TOOLTIPS.NOT_AUGMENT
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.NOT_AUGMENT"
@@ -575,17 +575,17 @@ msgstr ""
 #: STRINGS.ABILITIES.TOOLTIPS.SCAN
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.SCAN"
 msgid "Reveals DAEMON program on %s"
-msgstr ""
+msgstr "揭露 %s 上的DAEMON程序"
 
 #: STRINGS.ABILITIES.TOOLTIPS.UNLOCK_WITH_INCOGNITA
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.UNLOCK_WITH_INCOGNITA"
 msgid "Unlock this using Incognita."
-msgstr ""
+msgstr "用Incognita解锁这一项"
 
 #: STRINGS.ABILITIES.UPLOAD_INCOGNITA
 msgctxt "STRINGS.ABILITIES.UPLOAD_INCOGNITA"
 msgid "Upload Incognita"
-msgstr ""
+msgstr "上传Incognita"
 
 #: STRINGS.ABILITIES.UPLOAD_INCOGNITA_DESC
 msgctxt "STRINGS.ABILITIES.UPLOAD_INCOGNITA_DESC"
@@ -595,7 +595,7 @@ msgstr ""
 #: STRINGS.ABILITIES.USABLE
 msgctxt "STRINGS.ABILITIES.USABLE"
 msgid "Usable"
-msgstr ""
+msgstr "可以使用"
 
 #: STRINGS.ABILITIES.USABLE_DESC
 msgctxt "STRINGS.ABILITIES.USABLE_DESC"
