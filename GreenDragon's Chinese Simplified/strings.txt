@@ -15685,17 +15685,17 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_DESTROYED
 msgctxt "STRINGS.UI.TOOLTIP_DESTROYED"
 msgid "DESTROYED"
-msgstr ""
+msgstr "毁坏"
 
 #: STRINGS.UI.TOOLTIP_DESTROYED_DESC
 msgctxt "STRINGS.UI.TOOLTIP_DESTROYED_DESC"
 msgid "This device has been destroyed."
-msgstr ""
+msgstr "该设备已经被摧毁"
 
 #: STRINGS.UI.TOOLTIP_HACKED
 msgctxt "STRINGS.UI.TOOLTIP_HACKED"
 msgid "CAPTURED"
-msgstr ""
+msgstr "占领"
 
 #: STRINGS.UI.TOOLTIP_HACK_CAMERA_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_CAMERA_DB"
@@ -15755,7 +15755,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_NAME_KO_TIME
 msgctxt "STRINGS.UI.TOOLTIP_NAME_KO_TIME"
 msgid "%s KO (%d)"
-msgstr ""
+msgstr "%s KO (%d)"
 
 #: STRINGS.UI.TOOLTIP_NAME_PARALYZED
 msgctxt "STRINGS.UI.TOOLTIP_NAME_PARALYZED"
@@ -15775,7 +15775,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_REQUIRES_SKILL_LVL
 msgctxt "STRINGS.UI.TOOLTIP_REQUIRES_SKILL_LVL"
 msgid "Requires %s Skill Level %d"
-msgstr ""
+msgstr "需要%s 的技能等级%d"
 
 #: STRINGS.UI.TOOLTIP_SCANNER
 msgctxt "STRINGS.UI.TOOLTIP_SCANNER"
@@ -15825,27 +15825,27 @@ msgstr ""
 #: STRINGS.UI.TUTORIAL_DIFFICULTY
 msgctxt "STRINGS.UI.TUTORIAL_DIFFICULTY"
 msgid "Tutorial"
-msgstr ""
+msgstr "教程"
 
 #: STRINGS.UI.UPDATE_COMPLETE
 msgctxt "STRINGS.UI.UPDATE_COMPLETE"
 msgid "NO REMAINING DATA\n--- DECODE COMPLETE ---"
-msgstr ""
+msgstr "没有剩余数据\n---破译完成---"
 
 #: STRINGS.UI.UPGRADE
 msgctxt "STRINGS.UI.UPGRADE"
 msgid "> UPGRADE AGENTS"
-msgstr ""
+msgstr ">升级特工"
 
 #: STRINGS.UI.UPGRADE_SCREEN_AUGMENT_CONFIRM
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_AUGMENT_CONFIRM"
 msgid "Are you SURE you want to install {1}?"
-msgstr ""
+msgstr "你确定想要安装{1}"
 
 #: STRINGS.UI.UPGRADE_SCREEN_AVAILABLE_CREDITS
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_AVAILABLE_CREDITS"
 msgid "%d CR"
-msgstr ""
+msgstr "%d CR"
 
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM"
@@ -15855,12 +15855,12 @@ msgstr ""
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM_BUY
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM_BUY"
 msgid "Are you SURE you want to buy a {1} for {2} CR?"
-msgstr ""
+msgstr "你确定以{2}CR来购买一个{1}"
 
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM_SELL
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM_SELL"
 msgid "Are you SURE you want to sell a {1} for {2} CR?"
-msgstr ""
+msgstr "你确定以{2}CR来出售一个{1}"
 
 #: STRINGS.UI.UPGRADE_SCREEN_MAX
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_MAX"
@@ -15885,7 +15885,7 @@ msgstr ""
 #: STRINGS.UI.VERY_HARD_DIFFICULTY
 msgctxt "STRINGS.UI.VERY_HARD_DIFFICULTY"
 msgid "Expert Plus"
-msgstr ""
+msgstr "专家加强"
 
 #: STRINGS.UI.VERY_HARD_SHORT_DESC
 msgctxt "STRINGS.UI.VERY_HARD_SHORT_DESC"
@@ -15895,7 +15895,7 @@ msgstr "这个模式有一些变态。你确定选择该模式吗？"
 #: STRINGS.UI.WARNING_CANT_MOVE
 msgctxt "STRINGS.UI.WARNING_CANT_MOVE"
 msgid "{1} cannot move there."
-msgstr ""
+msgstr "{1}不能移动到这里"
 
 #: STRINGS.UI.WARNING_CANT_USE
 msgctxt "STRINGS.UI.WARNING_CANT_USE"
@@ -15910,7 +15910,7 @@ msgstr ""
 #: STRINGS.UI.WARNING_MAX_AGENTS
 msgctxt "STRINGS.UI.WARNING_MAX_AGENTS"
 msgid "You have the maximum number of agents, your team cannot support any more."
-msgstr ""
+msgstr "你拥有的特工数量已经达到最大值了，你的队伍不能接纳更多的特工了"
 
 #: STRINGS.UI.WARNING_MOVE_INTO_SIGHT
 msgctxt "STRINGS.UI.WARNING_MOVE_INTO_SIGHT"
@@ -15940,12 +15940,12 @@ msgstr "结束你的回合来恢复行动点"
 #: STRINGS.UI.WARNING_NO_ATTACKS
 msgctxt "STRINGS.UI.WARNING_NO_ATTACKS"
 msgid "Agent has no more ATTACKS this turn."
-msgstr ""
+msgstr "特工不能在本轮中继续攻击了"
 
 #: STRINGS.UI.WARNING_NO_CENTRAL
 msgctxt "STRINGS.UI.WARNING_NO_CENTRAL"
 msgid "That unit cannot move there."
-msgstr ""
+msgstr "那个单元不能移动到这里"
 
 #: STRINGS.UI.WARNING_NO_CENTRAL_2
 msgctxt "STRINGS.UI.WARNING_NO_CENTRAL_2"
@@ -16014,8 +16014,8 @@ msgstr "祝贺您完成老手模式！\n如果您想尝试更高的挑战，请�
 
 #: STRINGS.WIN_TIPS.EXPERT
 msgctxt "STRINGS.WIN_TIPS.EXPERT"
-msgid "Congratulations on completing Expert Mode!\nFor the ultimate challenge, you can try Expert Plus Mode."
-msgstr "祝贺您完成专家模式！\n 如果您想体验终极挑战，可以尝试专家以上的难度."
+msgid "Congratulations  on completing Expert Mode!\nFor the ultimate challenge, you can try Expert Plus Mode."
+msgstr "祝贺您完成专家模式！\n 如果您想体验终极挑战，可以尝试专家加强难度."
 
 #: STRINGS.WIN_TIPS.EXPERT_PLUS
 msgctxt "STRINGS.WIN_TIPS.EXPERT_PLUS"
