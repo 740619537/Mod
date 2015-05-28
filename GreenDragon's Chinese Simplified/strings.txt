@@ -15930,7 +15930,7 @@ msgstr ""
 #: STRINGS.UI.WARNING_NO_AP
 msgctxt "STRINGS.UI.WARNING_NO_AP"
 msgid "Not enough Action Points."
-msgstr ""
+msgstr "没有足够的行动点数"
 
 #: STRINGS.UI.WARNING_NO_AP2
 msgctxt "STRINGS.UI.WARNING_NO_AP2"
