@@ -770,7 +770,7 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2"
 msgid "Are you watching this, Operator? This is on you."
-msgstr ""
+msgstr "执行官，你在看吗？"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3"
@@ -780,7 +780,7 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4"
 msgid "Operator, don't let Invisible die with me."
-msgstr ""
+msgstr "执行官，不要让Invisible和你一同死去"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.1
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.1"
@@ -795,7 +795,7 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.3
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.3"
 msgid "Just do the job, and we can all go home."
-msgstr ""
+msgstr "快点结束任务，我们就能快点回去"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.4
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.4"
@@ -805,12 +805,12 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.5
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.5"
 msgid "Be professional, people."
-msgstr ""
+msgstr "专业点，各位"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.6
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.6"
 msgid "Let's do the job we came to do."
-msgstr ""
+msgstr "让我们把该做的做完吧"
 
 #: STRINGS.AGENTS.CENTRAL.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.CENTRAL.BIO_SPOKEN"
@@ -825,12 +825,12 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.HOMETOWN
 msgctxt "STRINGS.AGENTS.CENTRAL.HOMETOWN"
 msgid "London"
-msgstr ""
+msgstr "伦敦"
 
 #: STRINGS.AGENTS.CENTRAL.NAME
 msgctxt "STRINGS.AGENTS.CENTRAL.NAME"
 msgid "Central"
-msgstr ""
+msgstr "Central"
 
 #: STRINGS.AGENTS.CENTRAL.RESCUED
 msgctxt "STRINGS.AGENTS.CENTRAL.RESCUED"
@@ -840,12 +840,12 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.CENTRAL.YEARS_OF_SERVICE"
 msgid "??"
-msgstr ""
+msgstr "？？"
 
 #: STRINGS.AGENTS.DECKARD.AGE
 msgctxt "STRINGS.AGENTS.DECKARD.AGE"
 msgid "38"
-msgstr ""
+msgstr "38"
 
 #: STRINGS.AGENTS.DECKARD.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_1.BIO"
