@@ -15935,7 +15935,7 @@ msgstr "没有足够的行动点数"
 #: STRINGS.UI.WARNING_NO_AP2
 msgctxt "STRINGS.UI.WARNING_NO_AP2"
 msgid "End your turn to refresh Action Points"
-msgstr ""
+msgstr "结束你的回合来恢复行动点"
 
 #: STRINGS.UI.WARNING_NO_ATTACKS
 msgctxt "STRINGS.UI.WARNING_NO_ATTACKS"
@@ -15955,7 +15955,7 @@ msgstr ""
 #: STRINGS.UI.WARNING_NO_PATH
 msgctxt "STRINGS.UI.WARNING_NO_PATH"
 msgid "There is no valid path there."
-msgstr ""
+msgstr "这里没有有效路径"
 
 #: STRINGS.UI.WARNING_NO_TARGETS
 msgctxt "STRINGS.UI.WARNING_NO_TARGETS"
@@ -15975,12 +15975,12 @@ msgstr ""
 #: STRINGS.UI.WARNING_PEEK_GUARD
 msgctxt "STRINGS.UI.WARNING_PEEK_GUARD"
 msgid "Peek through the door."
-msgstr ""
+msgstr "透过门偷看"
 
 #: STRINGS.UI.WARNING_PEEK_GUARD_2
 msgctxt "STRINGS.UI.WARNING_PEEK_GUARD_2"
 msgid "Peeking from the side of the door is safer."
-msgstr ""
+msgstr "从门的一侧偷看更加安全"
 
 #: STRINGS.UI.WARNING_RECAPTURE
 msgctxt "STRINGS.UI.WARNING_RECAPTURE"
@@ -15995,7 +15995,7 @@ msgstr ""
 #: STRINGS.UI.WATCHED_TT
 msgctxt "STRINGS.UI.WATCHED_TT"
 msgid "This location is watched by the enemy."
-msgstr ""
+msgstr "敌人正在看守这个地方"
 
 #: STRINGS.WIN_TIPS.BEGINNER
 msgctxt "STRINGS.WIN_TIPS.BEGINNER"
@@ -16005,17 +16005,17 @@ msgstr ""
 #: STRINGS.WIN_TIPS.CUSTOM
 msgctxt "STRINGS.WIN_TIPS.CUSTOM"
 msgid "Thank you for playing!"
-msgstr ""
+msgstr "感谢您通关游戏！"
 
 #: STRINGS.WIN_TIPS.EXPERIENCED
 msgctxt "STRINGS.WIN_TIPS.EXPERIENCED"
 msgid "Congratulations on completing Experienced Mode!\nFor a greater challenge, try Expert Mode. As the base difficulty of the game, we pull no punches here."
-msgstr ""
+msgstr "祝贺您完成老手模式！\n如果您想尝试更高的挑战，请尝试专家模式。我们坦诚的说，老手模式是这个游戏的基础难度"
 
 #: STRINGS.WIN_TIPS.EXPERT
 msgctxt "STRINGS.WIN_TIPS.EXPERT"
 msgid "Congratulations on completing Expert Mode!\nFor the ultimate challenge, you can try Expert Plus Mode."
-msgstr ""
+msgstr "祝贺您完成专家模式！\n 如果您想体验终极挑战，可以尝试专家以上的难度."
 
 #: STRINGS.WIN_TIPS.EXPERT_PLUS
 msgctxt "STRINGS.WIN_TIPS.EXPERT_PLUS"
