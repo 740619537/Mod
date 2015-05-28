@@ -600,7 +600,7 @@ msgstr "可以使用"
 #: STRINGS.ABILITIES.USABLE_DESC
 msgctxt "STRINGS.ABILITIES.USABLE_DESC"
 msgid "Upload virus to %s"
-msgstr ""
+msgstr "已经上传%s病毒"
 
 #: STRINGS.ABILITIES.USE_AGGRESSION
 msgctxt "STRINGS.ABILITIES.USE_AGGRESSION"
