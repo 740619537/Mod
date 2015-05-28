@@ -519,7 +519,7 @@ msgstr ""
 #: STRINGS.ABILITIES.STIM_DESC
 msgctxt "STRINGS.ABILITIES.STIM_DESC"
 msgid "A shot that restores an agent's AP."
-msgstr "一根存储特工AP点数的注射装置"
+msgstr "一个存储特工AP点数的注射装置"
 
 #: STRINGS.ABILITIES.STORE
 msgctxt "STRINGS.ABILITIES.STORE"
