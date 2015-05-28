@@ -15890,7 +15890,7 @@ msgstr ""
 #: STRINGS.UI.VERY_HARD_SHORT_DESC
 msgctxt "STRINGS.UI.VERY_HARD_SHORT_DESC"
 msgid "This mode is a bit ridiculous. Are you ready?"
-msgstr ""
+msgstr "这个模式有一些变态。你确定选择该模式吗？"
 
 #: STRINGS.UI.WARNING_CANT_MOVE
 msgctxt "STRINGS.UI.WARNING_CANT_MOVE"
@@ -15900,7 +15900,7 @@ msgstr ""
 #: STRINGS.UI.WARNING_CANT_USE
 msgctxt "STRINGS.UI.WARNING_CANT_USE"
 msgid "Cannot Use Ability"
-msgstr ""
+msgstr "不能使用能力"
 
 #: STRINGS.UI.WARNING_CONSCIOUSNESS_MONITOR
 msgctxt "STRINGS.UI.WARNING_CONSCIOUSNESS_MONITOR"
@@ -15915,7 +15915,7 @@ msgstr ""
 #: STRINGS.UI.WARNING_MOVE_INTO_SIGHT
 msgctxt "STRINGS.UI.WARNING_MOVE_INTO_SIGHT"
 msgid "Moving into enemy vision is dangerous"
-msgstr ""
+msgstr "移动到敌人的视野内是危险的"
 
 #: STRINGS.UI.WARNING_MOVE_INTO_SIGHT_2
 msgctxt "STRINGS.UI.WARNING_MOVE_INTO_SIGHT_2"
