@@ -44,5 +44,5 @@ Items
 Plastech medical 离子医疗
 cybernetic augmentation 数控植入物
 Operator 执行官
-Daemon 守护程序
+Daemon 守护进程
 
