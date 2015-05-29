@@ -16,7 +16,7 @@ Block(ed) 视野被阻挡
 	Cloaking Rig 隐身披风
 	Econ Chip 金融入侵
 	EMP Pack 电磁脉冲装置
-	Camera Canister （没使用过，如何翻译好？）
+	Camera Canister 视野手雷
 	Charge Pack 充能装置
 	Hologram Projector 全息投影装置
 	Shock Trap 震撼陷阱
@@ -29,14 +29,14 @@ Block(ed) 视野被阻挡
 	Scanning Grenader 扫描手雷
 	Stim 兴奋剂
 	Wireless Scanner 无线扫描仪
-	T.A.G. pistol 标记枪 (这是什么的缩写？)
+	T.A.G. pistol 标记枪 
 
-
+4NoneXLZ9--5None3G7N
 Items
 	Archdaemon Inhibitor （没使用过，如何翻译？）
 	
-	Keycard (red) 红色通行卡
-	Keycard (yellow) 绿色通行卡
+	Keycard (red) 红色电梯卡
+	Keycard (yellow) 绿色电梯卡
 	Pass Card 通行卡
 	Site Plans 站点计划图（怎么翻译好？）
 	Valuable Tech （怎么翻译传神？）
@@ -47,3 +47,4 @@ Operator 执行官
 Daemon 守护进程
 pinning 注射
 
+CE5WoneNoneDone
