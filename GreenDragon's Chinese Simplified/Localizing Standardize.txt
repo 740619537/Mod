@@ -1,0 +1,48 @@
+Item 工具
+Augment 植入体
+Console 控制台
+Safe 保险柜
+Camera 监控
+Power supply 电源设备
+Drone 无人机
+Torret 炮塔
+Database 数据中心
+PWR PWR不翻译 (同理 Power如果指的是PWR那么就翻译成PWR)
+CR CR不翻译（Credit翻译成CR）
+Block(ed) 视野被阻挡
+
+	Accelerator Chip ？（应该不能直接翻译，这么翻译好？）
+	Buster Chip ？
+	Cloaking Rig 隐身披风
+	Econ Chip ？
+	EMP Pack 电磁脉冲装置
+	Camera Canister （没使用过，如何翻译好？）
+	Charge Pack 充能装置
+	Hologram Projector 全息投影装置
+	Shock Trap 震撼陷阱
+	Lock Decoder 开锁装置
+	Med Gel 复苏剂
+	Paralyzer 瘫痪剂
+	Portable Server 便携式服务器
+	Prototype Chip （如何翻译好？）
+	Scan Chip （如何翻译好？）
+	Scanning Grenader （扫描榴弹？没使用过，如何翻译好？）
+	Stim 兴奋剂
+	Wireless Scanner 无线扫描仪
+	T.A.G. pistol T.A.G.手枪 (这是什么的缩写？)
+
+
+Items
+	Archdaemon Inhibitor （没使用过，如何翻译？）
+	
+	Keycard (red) 红色通行卡
+	Keycard (yellow) 绿色通行卡
+	Pass Card 通行卡
+	Site Plans 站点计划图（怎么翻译好？）
+	Valuable Tech （怎么翻译传神？）
+	Vault Access Code 金库通行码
+Plastech medical 离子医疗
+cybernetic augmentation 数控植入物
+Operator 执行官
+Daemon 守护程序
+
