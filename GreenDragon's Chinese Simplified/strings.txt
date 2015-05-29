@@ -259,7 +259,7 @@ msgstr "手动关闭"
 #: STRINGS.ABILITIES.MANUAL_SHUTDOWN_DESC
 msgctxt "STRINGS.ABILITIES.MANUAL_SHUTDOWN_DESC"
 msgid "DISABLE %s FOR %d TURN"
-msgstr ""
+msgstr "关闭 %s %d 轮"
 
 #: STRINGS.ABILITIES.MELEE
 msgctxt "STRINGS.ABILITIES.MELEE"
@@ -269,7 +269,7 @@ msgstr "拿下"
 #: STRINGS.ABILITIES.MELEE_DESC
 msgctxt "STRINGS.ABILITIES.MELEE_DESC"
 msgid "<tthotkey>ATTACK</>\nKO the target for: %d turn(s)"
-msgstr ""
+msgstr "<tthotkey>袭击</>\n目标会持续晕倒 %d 轮"
 
 #: STRINGS.ABILITIES.MELEE_OVERWATCH
 msgctxt "STRINGS.ABILITIES.MELEE_OVERWATCH"
@@ -309,12 +309,12 @@ msgstr "放下这具躯体"
 #: STRINGS.ABILITIES.NT
 msgctxt "STRINGS.ABILITIES.NT"
 msgid "NT"
-msgstr "NT"
+msgstr ""
 
 #: STRINGS.ABILITIES.OBSERVE
 msgctxt "STRINGS.ABILITIES.OBSERVE"
 msgid "Observe"
-msgstr "侧写"
+msgstr "观察"
 
 #: STRINGS.ABILITIES.OBSERVE_DESC
 msgctxt "STRINGS.ABILITIES.OBSERVE_DESC"
@@ -384,7 +384,7 @@ msgstr "瘫痪剂"
 #: STRINGS.ABILITIES.PARALYZE_DESC
 msgctxt "STRINGS.ABILITIES.PARALYZE_DESC"
 msgid "Inject pinned victims with paralytic toxin. Target will be KO'd for {1} more turns."
-msgstr ""
+msgstr "向被击晕的人注射瘫痪剂。被注射者会延长晕倒状态 {1} 轮"
 
 #: STRINGS.ABILITIES.PEEK
 msgctxt "STRINGS.ABILITIES.PEEK"
@@ -514,7 +514,7 @@ msgstr "切换冲刺模式"
 #: STRINGS.ABILITIES.STIM
 msgctxt "STRINGS.ABILITIES.STIM"
 msgid "Stim Dose"
-msgstr ""
+msgstr "兴奋剂"
 
 #: STRINGS.ABILITIES.STIM_DESC
 msgctxt "STRINGS.ABILITIES.STIM_DESC"
@@ -550,12 +550,12 @@ msgstr "这个插入物已经被安装"
 #: STRINGS.ABILITIES.TOOLTIPS.BREAKS_FIREWALLS
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.BREAKS_FIREWALLS"
 msgid "Breaks %d firewalls."
-msgstr ""
+msgstr "突破 %d 防火墙"
 
 #: STRINGS.ABILITIES.TOOLTIPS.CANT_ACT
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.CANT_ACT"
 msgid "Can't Act"
-msgstr ""
+msgstr "无法动作"
 
 #: STRINGS.ABILITIES.TOOLTIPS.HACK
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.HACK"
@@ -565,12 +565,12 @@ msgstr "骇入 %s"
 #: STRINGS.ABILITIES.TOOLTIPS.NOT_AUGMENT
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.NOT_AUGMENT"
 msgid "Not an Augment"
-msgstr ""
+msgstr "不是植入物"
 
 #: STRINGS.ABILITIES.TOOLTIPS.NO_AUGMENT_SLOTS_AVAILABLE
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.NO_AUGMENT_SLOTS_AVAILABLE"
 msgid "No available augment slots."
-msgstr ""
+msgstr "没有可用的植入物安装槽"
 
 #: STRINGS.ABILITIES.TOOLTIPS.SCAN
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.SCAN"
@@ -620,7 +620,7 @@ msgstr "无线扫描仪"
 #: STRINGS.AGENTS.BANKS.AGE
 msgctxt "STRINGS.AGENTS.BANKS.AGE"
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #: STRINGS.AGENTS.BANKS.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.BANKS.ALT_1.BIO"
@@ -640,7 +640,7 @@ msgstr ""
 #: STRINGS.AGENTS.BANKS.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.AGE"
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #: STRINGS.AGENTS.BANKS.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.BIO"
@@ -730,7 +730,7 @@ msgstr ""
 #: STRINGS.AGENTS.BANKS.NAME
 msgctxt "STRINGS.AGENTS.BANKS.NAME"
 msgid "Banks"
-msgstr ""
+msgstr "Banks"
 
 #: STRINGS.AGENTS.BANKS.RESCUED
 msgctxt "STRINGS.AGENTS.BANKS.RESCUED"
@@ -740,12 +740,12 @@ msgstr ""
 #: STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: STRINGS.AGENTS.CENTRAL.AGE
 msgctxt "STRINGS.AGENTS.CENTRAL.AGE"
 msgid "68"
-msgstr ""
+msgstr "68"
 
 #: STRINGS.AGENTS.CENTRAL.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.BIO"
@@ -770,7 +770,7 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2"
 msgid "Are you watching this, Operator? This is on you."
-msgstr ""
+msgstr "执行官，你在看吗？"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3"
@@ -780,7 +780,7 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4"
 msgid "Operator, don't let Invisible die with me."
-msgstr ""
+msgstr "执行官，不要让Invisible和你一同死去"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.1
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.1"
@@ -795,7 +795,7 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.3
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.3"
 msgid "Just do the job, and we can all go home."
-msgstr ""
+msgstr "快点结束任务，我们就能快点回去"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.4
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.4"
@@ -805,12 +805,12 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.5
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.5"
 msgid "Be professional, people."
-msgstr ""
+msgstr "专业点，各位"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.6
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.6"
 msgid "Let's do the job we came to do."
-msgstr ""
+msgstr "让我们把该做的做完吧"
 
 #: STRINGS.AGENTS.CENTRAL.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.CENTRAL.BIO_SPOKEN"
@@ -825,12 +825,12 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.HOMETOWN
 msgctxt "STRINGS.AGENTS.CENTRAL.HOMETOWN"
 msgid "London"
-msgstr ""
+msgstr "伦敦"
 
 #: STRINGS.AGENTS.CENTRAL.NAME
 msgctxt "STRINGS.AGENTS.CENTRAL.NAME"
 msgid "Central"
-msgstr ""
+msgstr "Central"
 
 #: STRINGS.AGENTS.CENTRAL.RESCUED
 msgctxt "STRINGS.AGENTS.CENTRAL.RESCUED"
@@ -840,12 +840,12 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.CENTRAL.YEARS_OF_SERVICE"
 msgid "??"
-msgstr ""
+msgstr "？？"
 
 #: STRINGS.AGENTS.DECKARD.AGE
 msgctxt "STRINGS.AGENTS.DECKARD.AGE"
 msgid "38"
-msgstr ""
+msgstr "38"
 
 #: STRINGS.AGENTS.DECKARD.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_1.BIO"
@@ -1055,12 +1055,12 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE_2.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.YEARS_OF_SERVICE"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: STRINGS.AGENTS.INTERNATIONALE.AGE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.AGE"
 msgid "36"
-msgstr ""
+msgstr "36"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.BIO"
