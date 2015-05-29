@@ -2240,7 +2240,7 @@ msgstr ""
 #: STRINGS.DAEMONS.ALERTBLOWFISH.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.ACTIVE_DESC"
 msgid "ALARM RAISED %d BY DAEMON"
-msgstr "守护神生效，警报增加 %d 格"
+msgstr "守护进程生效，警报增加 %d 格"
 
 #: STRINGS.DAEMONS.ALERTBLOWFISH.DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.DESC"
@@ -2260,12 +2260,12 @@ msgstr "触发追踪器"
 #: STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC"
 msgid "SPAWNS DAEMONS ON ALL FIREWALLS."
-msgstr "守护神生效，所有防火墙生成守护神"
+msgstr "守护进程生效，所有防火墙生成守护进程"
 
 #: STRINGS.DAEMONS.ALERTFRACTAL.DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.DESC"
 msgid "Spawns Daemons on all FIREWALLS."
-msgstr "在所有防火墙上生成守护神"
+msgstr "在所有防火墙上生成守护进程"
 
 #: STRINGS.DAEMONS.ALERTFRACTAL.NAME
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.NAME"
@@ -2275,12 +2275,12 @@ msgstr "分型 2.0"
 #: STRINGS.DAEMONS.ALERTFRACTAL.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.SHORT_DESC"
 msgid "Spawns Daemons"
-msgstr "生成守护神"
+msgstr "生成守护进程"
 
 #: STRINGS.DAEMONS.ALERTMODULATE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.ACTIVE_DESC"
 msgid "+2 PWR COST TO PROGRAMS FOR %d turns"
-msgstr "守护神生效，使用程序消耗 PWR +2，持续 %d 轮"
+msgstr "守护进程生效，使用程序消耗 PWR +2，持续 %d 轮"
 
 #: STRINGS.DAEMONS.ALERTMODULATE.DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.DESC"
@@ -2300,7 +2300,7 @@ msgstr "消耗 PWR"
 #: STRINGS.DAEMONS.ALERTPULSE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTPULSE.ACTIVE_DESC"
 msgid "ITEM COOLDOWNS SHORT-CIRCUITED"
-msgstr "守护神生效，装备冷却发生短路"
+msgstr "守护进程生效，装备冷却发生短路"
 
 #: STRINGS.DAEMONS.ALERTPULSE.DESC
 msgctxt "STRINGS.DAEMONS.ALERTPULSE.DESC"
@@ -2320,7 +2320,7 @@ msgstr "所有装备冷却回合 +3"
 #: STRINGS.DAEMONS.AUTHORITY.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.AUTHORITY.ACTIVE_DESC"
 msgid "SAFES ARE ALARMED."
-msgstr "守护神生效，保险柜警报启动"
+msgstr "守护进程生效，保险柜警报启动"
 
 #: STRINGS.DAEMONS.AUTHORITY.DESC
 msgctxt "STRINGS.DAEMONS.AUTHORITY.DESC"
@@ -2340,12 +2340,12 @@ msgstr "保险柜启动警报"
 #: STRINGS.DAEMONS.AUTHORITY.WARNING
 msgctxt "STRINGS.DAEMONS.AUTHORITY.WARNING"
 msgid "AUTHORITY DAEMON\nGUARD ALERTED"
-msgstr "守护神 权限\n守卫被惊动"
+msgstr "守护进程 权限\n守卫被惊动"
 
 #: STRINGS.DAEMONS.BLOWFISH.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.BLOWFISH.ACTIVE_DESC"
 msgid "ALARM RAISED %d BY DAEMON"
-msgstr "守护神生效，警报增加了 %d 格"
+msgstr "守护进程生效，警报增加了 %d 格"
 
 #: STRINGS.DAEMONS.BLOWFISH.DESC
 msgctxt "STRINGS.DAEMONS.BLOWFISH.DESC"
@@ -2370,7 +2370,7 @@ msgstr ""
 #: STRINGS.DAEMONS.FAILSAFE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.FAILSAFE.ACTIVE_DESC"
 msgid "DAEMON REBOOTS 2 OBJECTS EACH TURN"
-msgstr "守护神每回合重启 2 个装置"
+msgstr "守护进程每回合重启 2 个装置"
 
 #: STRINGS.DAEMONS.FAILSAFE.DESC
 msgctxt "STRINGS.DAEMONS.FAILSAFE.DESC"
@@ -2390,7 +2390,7 @@ msgstr "每回合重启 2 个装置"
 #: STRINGS.DAEMONS.FELIX.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.FELIX.ACTIVE_DESC"
 msgid "Siphons %d credits from the agency."
-msgstr "守护神生效，特工被抽取 %d CR"
+msgstr "守护进程生效，特工被抽取 %d CR"
 
 #: STRINGS.DAEMONS.FELIX.DESC
 msgctxt "STRINGS.DAEMONS.FELIX.DESC"
@@ -2410,12 +2410,12 @@ msgstr "抽取 CR"
 #: STRINGS.DAEMONS.FRACTAL.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.FRACTAL.ACTIVE_DESC"
 msgid "NEW DAEMONS INSTALLED BY DAEMON"
-msgstr "守护神生效，新守护神被安装"
+msgstr "守护进程生效，新守护进程被安装"
 
 #: STRINGS.DAEMONS.FRACTAL.DESC
 msgctxt "STRINGS.DAEMONS.FRACTAL.DESC"
 msgid "Creates two new DAEMON programs on random objects"
-msgstr "在随机两个设备上生成新守护神程序"
+msgstr "在随机两个设备上生成新守护进程程序"
 
 #: STRINGS.DAEMONS.FRACTAL.NAME
 msgctxt "STRINGS.DAEMONS.FRACTAL.NAME"
@@ -2425,17 +2425,17 @@ msgstr "分形"
 #: STRINGS.DAEMONS.FRACTAL.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.FRACTAL.SHORT_DESC"
 msgid "Spawns additional Daemons"
-msgstr "生成额外的守护神"
+msgstr "生成额外的守护进程"
 
 #: STRINGS.DAEMONS.GENERIC_TITLE
 msgctxt "STRINGS.DAEMONS.GENERIC_TITLE"
 msgid "Installing Daemon"
-msgstr "安装守护神"
+msgstr "安装守护进程"
 
 #: STRINGS.DAEMONS.LABYRINTH.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.LABYRINTH.ACTIVE_DESC"
 msgid "DAEMON REDUCES AGENTS AP BY 2"
-msgstr "守护神生效，特工 AP 值减少 2"
+msgstr "守护进程生效，特工 AP 值减少 2"
 
 #: STRINGS.DAEMONS.LABYRINTH.DESC
 msgctxt "STRINGS.DAEMONS.LABYRINTH.DESC"
@@ -2455,12 +2455,12 @@ msgstr "使所有特工 AP 值减少 2"
 #: STRINGS.DAEMONS.MASK.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.MASK.ACTIVE_DESC"
 msgid "Daemons are hidden."
-msgstr "守护神生效，所有守护神进入隐藏状态"
+msgstr "守护进程生效，所有守护进程进入隐藏状态"
 
 #: STRINGS.DAEMONS.MASK.DESC
 msgctxt "STRINGS.DAEMONS.MASK.DESC"
 msgid "Daemons are hidden while Mask is active."
-msgstr "当伪装守护神启动时，所有守护神会进入隐藏状态"
+msgstr "当伪装守护进程启动时，所有守护进程会进入隐藏状态"
 
 #: STRINGS.DAEMONS.MASK.NAME
 msgctxt "STRINGS.DAEMONS.MASK.NAME"
@@ -2470,12 +2470,12 @@ msgstr "伪装"
 #: STRINGS.DAEMONS.MASK.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.MASK.SHORT_DESC"
 msgid "Daemons are hidden"
-msgstr "守护神进入隐藏状态"
+msgstr "守护进程进入隐藏状态"
 
 #: STRINGS.DAEMONS.MODULATE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.MODULATE.ACTIVE_DESC"
 msgid "+2 PWR COST TO PROGRAMS FOR %d turns"
-msgstr "守护神生效，使用程序消耗 PWR +2，持续 %d 轮"
+msgstr "守护进程生效，使用程序消耗 PWR +2，持续 %d 轮"
 
 #: STRINGS.DAEMONS.MODULATE.DESC
 msgctxt "STRINGS.DAEMONS.MODULATE.DESC"
@@ -2495,7 +2495,7 @@ msgstr "PWR 消耗"
 #: STRINGS.DAEMONS.PANIC.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.PANIC.ACTIVE_DESC"
 msgid "ONE GUARD SENT TO INVESTIGATE THE LOCATION OF AN AGENT EACH TURN"
-msgstr "守护神生效，每回合派遣一个守卫到特工所在位置进行调查"
+msgstr "守护进程生效，每回合派遣一个守卫到特工所在位置进行调查"
 
 #: STRINGS.DAEMONS.PANIC.DESC
 msgctxt "STRINGS.DAEMONS.PANIC.DESC"
@@ -2515,7 +2515,7 @@ msgstr "特工所在位置被发现"
 #: STRINGS.DAEMONS.PARADOX.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.PARADOX.ACTIVE_DESC"
 msgid "Incognita hacking ability stopped for %d turns"
-msgstr "守护神生效，Incognita 黑客功能被禁用 持续 %d 回合"
+msgstr "守护进程生效，Incognita 黑客功能被禁用 持续 %d 回合"
 
 #: STRINGS.DAEMONS.PARADOX.DESC
 msgctxt "STRINGS.DAEMONS.PARADOX.DESC"
@@ -2535,7 +2535,7 @@ msgstr "禁用黑客功能"
 #: STRINGS.DAEMONS.RUBIKS.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.RUBIKS.ACTIVE_DESC"
 msgid "ALL FIREWALLS RAISED BY DAEMON"
-msgstr "守护神生效，所有防火墙等级被提升"
+msgstr "守护进程生效，所有防火墙等级被提升"
 
 #: STRINGS.DAEMONS.RUBIKS.DESC
 msgctxt "STRINGS.DAEMONS.RUBIKS.DESC"
@@ -2555,7 +2555,7 @@ msgstr "提升一级防火墙"
 #: STRINGS.DAEMONS.SIPHON.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.SIPHON.ACTIVE_DESC"
 msgid "%d PWR DRAINED BY DAEMON"
-msgstr "守护神生效，流失 %d PWR"
+msgstr "守护进程生效，流失 %d PWR"
 
 #: STRINGS.DAEMONS.SIPHON.DESC
 msgctxt "STRINGS.DAEMONS.SIPHON.DESC"
@@ -2575,7 +2575,7 @@ msgstr "抽取 PWR"
 #: STRINGS.DAEMONS.VALIDATE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.VALIDATE.ACTIVE_DESC"
 msgid "GUARD SPAWNED BY DAEMON"
-msgstr "守护神生效，出现新守卫"
+msgstr "守护进程生效，出现新守卫"
 
 #: STRINGS.DAEMONS.VALIDATE.DESC
 msgctxt "STRINGS.DAEMONS.VALIDATE.DESC"
@@ -2595,7 +2595,7 @@ msgstr "增加守卫"
 #: STRINGS.DAEMONS.WARNING_TITLE
 msgctxt "STRINGS.DAEMONS.WARNING_TITLE"
 msgid "%s Daemon"
-msgstr "%s 守护神"
+msgstr "%s 守护进程"
 
 #: STRINGS.DEATH_TIPS.1
 msgctxt "STRINGS.DEATH_TIPS.1"
@@ -9575,7 +9575,7 @@ msgstr ""
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.ACTIVE_DESC"
 msgid "PROGRAM PWR COST DECREASED BY ALGORITHM"
-msgstr "反向守护神生效，程序减少 PWR 消耗"
+msgstr "反向守护进程生效，程序减少 PWR 消耗"
 
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.DESC"
@@ -9595,7 +9595,7 @@ msgstr "所有程序消耗减少 1"
 #: STRINGS.REVERSE_DAEMONS.ENERGIZE.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ENERGIZE.ACTIVE_DESC"
 msgid "200 CREDITS EARNED BY ALGORITHM"
-msgstr "反向守护神生效，获得 200 CR"
+msgstr "反向守护进程生效，获得 200 CR"
 
 #: STRINGS.REVERSE_DAEMONS.ENERGIZE.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ENERGIZE.DESC"
@@ -9615,12 +9615,12 @@ msgstr "获得 200 CR"
 #: STRINGS.REVERSE_DAEMONS.GENERIC_TITLE
 msgctxt "STRINGS.REVERSE_DAEMONS.GENERIC_TITLE"
 msgid "Daemon Reversed"
-msgstr "守护神 发生反转"
+msgstr "守护进程 发生反转"
 
 #: STRINGS.REVERSE_DAEMONS.ORDER.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ORDER.ACTIVE_DESC"
 msgid "AGENT'S AP INCREASED BY ALGORITHM"
-msgstr "反向守护神生效，特工的 AP 值增加"
+msgstr "反向守护进程生效，特工的 AP 值增加"
 
 #: STRINGS.REVERSE_DAEMONS.ORDER.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ORDER.DESC"
