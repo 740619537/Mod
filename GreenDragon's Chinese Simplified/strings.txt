@@ -5975,12 +5975,12 @@ msgstr ""
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_1"
 msgid "The <Corporation> satellite network is having technical issues and has no visibility in this sector."
-msgstr ""
+msgstr "<Corporation>的卫星网络出现了技术故障，并且在这个区域产生了盲点。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_10
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_10"
 msgid "There has to be a pattern to Corp behaviour. We'll crack it, but first we need supplies."
-msgstr ""
+msgstr "公司一定会有行为模板。我们会将其破解，可首先我们需要资源。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_11
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_11"
@@ -6000,17 +6000,17 @@ msgstr "执行官，我们获得了此地设施的一次性访问权力。"
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_4"
 msgid "Incognita says that there's something interesting in this building."
-msgstr "Incognita说这栋建筑里有我们感兴趣的东西。"
+msgstr "Incognita说这栋建筑里有东西能引起我们的兴趣。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_5
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_5"
 msgid "There's a gap in the security coverage at this facility. We can get a team inside before they know any better."
-msgstr "这个设施上的安保覆盖还是有漏洞的。我们能在他们发觉之前送一队人进去。"
+msgstr "这里设施的安保覆盖面里有缝隙可钻。我们可乘其不备派遣小队进入。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_6
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_6"
 msgid "This is a by-the-numbers infiltration, Operator. You will be going here."
-msgstr "这是一次常规潜入，执行官。下指令吧。"
+msgstr "这是一次常规潜入，执行官。你将会到这里。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_7
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_7"
@@ -6030,37 +6030,37 @@ msgstr "官僚主义是如此美妙。他们正在逐步停用这里的设施，
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_1"
 msgid "Keep a low profile - we don't want them to know we've been here."
-msgstr ""
+msgstr "办事低调些，我们不想让他们知道我们来过这。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_10
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_10"
 msgid "Try not to lose any agents, Operator. We're barely hanging on as is."
-msgstr ""
+msgstr "请尽量避免损员，指挥官。当下的我们可是如履薄冰。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_11
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_11"
 msgid "The window on this won't last long. Get out before they can get reinforcements on site."
-msgstr ""
+msgstr "这里提供的窗口不会持续多久。尽快在增援抵达现场前离开。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_2"
 msgid "Information is power, Operator, so try to get as much intel as you can find."
-msgstr ""
+msgstr "信息就是力量，执行官，所以请尽可能多地收集网络。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_3"
 msgid "Grab what you can, but don't take any unnecessary risks. Good luck."
-msgstr ""
+msgstr "能拿的就拿，但是别冒任何不必要的风险。祝好运。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_4"
 msgid "There's no benefit in making a ruckus, Operator. Be subtle."
-msgstr ""
+msgstr "大吵大闹不会有任何好处。办事细腻点。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_5
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_5"
 msgid "They'll sense an intrusion as soon as you hit the floor, so don't dally."
-msgstr ""
+msgstr "，所以不要磨蹭。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_6
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_6"
@@ -6110,12 +6110,12 @@ msgstr ""
 #: STRINGS.MISSIONS.ESCAPE.OBJECTIVE
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJECTIVE"
 msgid "Get out alive"
-msgstr ""
+msgstr "活着出来"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_BRAINSCAN
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_BRAINSCAN"
 msgid "Brain scan in progress"
-msgstr ""
+msgstr "正在扫描大脑"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_CEO_OFFICE
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_CEO_OFFICE"
@@ -6125,37 +6125,37 @@ msgstr ""
 #: STRINGS.MISSIONS.ESCAPE.OBJ_CYBERLAB
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_CYBERLAB"
 msgid "Locate the Cyberlab"
-msgstr ""
+msgstr "定位数控实验室"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_DETENTION_CENTER
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_DETENTION_CENTER"
 msgid "Recon the Detention Center"
-msgstr ""
+msgstr "侦查拘留中心"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_DISABLE_DRAIN
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_DISABLE_DRAIN"
 msgid "Disable the PWR reversal node"
-msgstr ""
+msgstr "解除PWR反转节点"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_DISABLE_TARGET
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_DISABLE_TARGET"
 msgid "Get near and disable the target"
-msgstr ""
+msgstr "靠近后瘫痪目标"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_EXIT_PASSCARD
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_EXIT_PASSCARD"
 msgid "Find the exit passcard and get out alive"
-msgstr ""
+msgstr "找到出口通信卡后逃生"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_GET_NEAR
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_GET_NEAR"
 msgid "Get near the target to activate scan"
-msgstr ""
+msgstr "靠近目标以激活扫描"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_GUARD_OFFICE
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_GUARD_OFFICE"
 msgid "Locate the Guard Office"
-msgstr ""
+msgstr "定位守卫办公室"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_NANO_FAB
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_NANO_FAB"
@@ -6165,42 +6165,42 @@ msgstr ""
 #: STRINGS.MISSIONS.ESCAPE.OBJ_RESCUE_AGENT
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_RESCUE_AGENT"
 msgid "Rescue %s"
-msgstr ""
+msgstr "救援 %s"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_RESCUE_HOSTAGE
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_RESCUE_HOSTAGE"
 msgid "Rescue the hostage"
-msgstr ""
+msgstr "营救人质"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_RESCUE_PRISONER
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_RESCUE_PRISONER"
 msgid "Rescue the prisoner"
-msgstr ""
+msgstr "营救被关押人员"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_RETRIEVE_ACCESS_CODE
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_RETRIEVE_ACCESS_CODE"
 msgid "Retrieve the access code"
-msgstr ""
+msgstr "回收登录密码"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_RETRIEVE_MAP_LIST
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_RETRIEVE_MAP_LIST"
 msgid "Retrieve encrypted data"
-msgstr ""
+msgstr "回收加密数据"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SCANNER
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SCANNER"
 msgid "Disable the scanner"
-msgstr ""
+msgstr "解除扫描仪"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY"
 msgid "Locate the Guard Office"
-msgstr ""
+msgstr "定位守卫办公室"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SERVERFARM
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SERVERFARM"
 msgid "Access the Server Farm"
-msgstr ""
+msgstr "登录服务器群"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_STAYNEAR
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_STAYNEAR"
@@ -6210,17 +6210,17 @@ msgstr ""
 #: STRINGS.MISSIONS.ESCAPE.OBJ_TERMINALS
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_TERMINALS"
 msgid "Locate the Executive Terminals"
-msgstr ""
+msgstr "定位执行终端"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_VAULT
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_VAULT"
 msgid "Recon the Vault"
-msgstr ""
+msgstr "勘探金库"
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_ESCAPE_AGENT
 msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_ESCAPE_AGENT"
 msgid "%s is out, excellent work Operator."
-msgstr ""
+msgstr "%s出来了,好样的执行官。"
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_ESCAPE_PRISONER
 msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_ESCAPE_PRISONER"
