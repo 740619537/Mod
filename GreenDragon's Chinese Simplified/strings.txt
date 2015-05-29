@@ -755,17 +755,17 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME"
 msgid "Olivia Gladstone"
-msgstr ""
+msgstr "Olivia Gladstone"
 
 #: STRINGS.AGENTS.CENTRAL.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.TOOLTIP"
 msgid "The Leader"
-msgstr ""
+msgstr "领导者。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.1"
 msgid "Just do it. I'm not afraid of death."
-msgstr ""
+msgstr "下手吧，我不怕死。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2"
@@ -775,7 +775,7 @@ msgstr "执行官，你在看吗？"
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3"
 msgid "I won't be taken alive."
-msgstr ""
+msgstr "我不会活着跟着你们走的。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4"
@@ -785,32 +785,32 @@ msgstr "执行官，不要让Invisible和你一同死去"
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.1
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.1"
 msgid "Alright, people. Don't mess this up."
-msgstr ""
+msgstr "好的朋友，别搞砸事情就行了。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.2
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.2"
 msgid "By the numbers, people. No unnecessary risks."
-msgstr ""
+msgstr "从数字上来说，这里诶有实际的风险。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.3
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.3"
 msgid "Just do the job, and we can all go home."
-msgstr "快点结束任务，我们就能快点回去"
+msgstr "快点结束任务，我们就能快点回去。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.4
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.4"
 msgid "Put THIS on your quarterly earnings report."
-msgstr ""
+msgstr "你应该把这事放在你的季度总结报告里面。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.5
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.5"
 msgid "Be professional, people."
-msgstr "专业点，各位"
+msgstr "我们得专业点，各位。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.6
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.6"
 msgid "Let's do the job we came to do."
-msgstr "让我们把该做的做完吧"
+msgstr "让我们把该做的做完吧。"
 
 #: STRINGS.AGENTS.CENTRAL.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.CENTRAL.BIO_SPOKEN"
@@ -820,7 +820,7 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.FILE
 msgctxt "STRINGS.AGENTS.CENTRAL.FILE"
 msgid "FILE #00-0000000-0000001"
-msgstr ""
+msgstr "文件 #00-0000000-0000001"
 
 #: STRINGS.AGENTS.CENTRAL.HOMETOWN
 msgctxt "STRINGS.AGENTS.CENTRAL.HOMETOWN"
@@ -835,7 +835,7 @@ msgstr "Central"
 #: STRINGS.AGENTS.CENTRAL.RESCUED
 msgctxt "STRINGS.AGENTS.CENTRAL.RESCUED"
 msgid "It's about time. What am I paying you for, anyway?"
-msgstr ""
+msgstr "是时候了。总之，记得我为什么招募你。"
 
 #: STRINGS.AGENTS.CENTRAL.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.CENTRAL.YEARS_OF_SERVICE"
@@ -855,17 +855,17 @@ msgstr ""
 #: STRINGS.AGENTS.DECKARD.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_1.FULLNAME"
 msgid "Brian Decker"
-msgstr ""
+msgstr "Brian Becker"
 
 #: STRINGS.AGENTS.DECKARD.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_1.TOOLTIP"
 msgid "Ex-Corporate Security"
-msgstr ""
+msgstr "前集团安保人员"
 
 #: STRINGS.AGENTS.DECKARD.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.AGE"
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #: STRINGS.AGENTS.DECKARD.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.BIO"
@@ -875,7 +875,7 @@ msgstr ""
 #: STRINGS.AGENTS.DECKARD.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.FULLNAME"
 msgid "ARCHIVED -- COLLECTOR"
-msgstr ""
+msgstr "文档 - 收集"
 
 #: STRINGS.AGENTS.DECKARD.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.TOOLTIP"
@@ -885,57 +885,57 @@ msgstr ""
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1"
 msgid "I'm tired of this crap, anyway."
-msgstr ""
+msgstr "我已经厌烦这堆东西了，随便吧。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2"
 msgid "Well played. You got me dead to rights."
-msgstr ""
+msgstr "干得不错。今天你让我交代在这里了。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3"
 msgid "Well, damn it."
-msgstr ""
+msgstr "好吧，见鬼去。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4"
 msgid "Can I have one last swig, first?"
-msgstr ""
+msgstr "行，能让我最后喝一杯吗？"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.1
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.1"
 msgid "No resistance at the entry point. Amateurs."
-msgstr ""
+msgstr "进来时一点阻碍都没有。太业余了。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.2
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.2"
 msgid "Let's get this over with. I need a drink."
-msgstr ""
+msgstr "让我们速战速决。结束后我要喝一杯。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.3
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.3"
 msgid "All of these places start to look the same after a while."
-msgstr ""
+msgstr "一段时间之后，这些地方都会看上去给人差不多的感觉"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.4
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.4"
 msgid "I'm getting too old for this crap."
-msgstr ""
+msgstr "对于处理这些烦人的东西，我已经老了。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.5
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.5"
 msgid "I wonder who does their security.\n\nThey aren't doing a very good job so far."
-msgstr ""
+msgstr "我在猜想谁在负责他们的安保工作。\n\n他们做得实在差。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.6
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.6"
 msgid "We're in the building. This shouldn't take too long."
-msgstr ""
+msgstr "我们在建筑里了，别花太久时间"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.7
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.7"
 msgid "We wouldn't have got in so easy if I were running this joint."
-msgstr ""
+msgstr "如果我们启动这个节点，进入这里会有点困难"
 
 #: STRINGS.AGENTS.DECKARD.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.DECKARD.BIO_SPOKEN"
@@ -945,32 +945,32 @@ msgstr ""
 #: STRINGS.AGENTS.DECKARD.FILE
 msgctxt "STRINGS.AGENTS.DECKARD.FILE"
 msgid "FILE #00-000490A-04932325"
-msgstr ""
+msgstr "文件 #00-000490A-04932325"
 
 #: STRINGS.AGENTS.DECKARD.HOMETOWN
 msgctxt "STRINGS.AGENTS.DECKARD.HOMETOWN"
 msgid "Los Angeles"
-msgstr ""
+msgstr "洛杉矶"
 
 #: STRINGS.AGENTS.DECKARD.NAME
 msgctxt "STRINGS.AGENTS.DECKARD.NAME"
 msgid "Decker"
-msgstr ""
+msgstr "Decker"
 
 #: STRINGS.AGENTS.DECKARD.RESCUED
 msgctxt "STRINGS.AGENTS.DECKARD.RESCUED"
 msgid "Back on the job."
-msgstr ""
+msgstr "回到正轨"
 
 #: STRINGS.AGENTS.DECKARD.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.DECKARD.YEARS_OF_SERVICE"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: STRINGS.AGENTS.HOSTAGE.AGE
 msgctxt "STRINGS.AGENTS.HOSTAGE.AGE"
 msgid "26"
-msgstr ""
+msgstr "26"
 
 #: STRINGS.AGENTS.HOSTAGE.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.HOSTAGE.ALT_1.BIO"
@@ -995,7 +995,7 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE.HOMETOWN
 msgctxt "STRINGS.AGENTS.HOSTAGE.HOMETOWN"
 msgid "unknown"
-msgstr ""
+msgstr "未知"
 
 #: STRINGS.AGENTS.HOSTAGE.NAME
 msgctxt "STRINGS.AGENTS.HOSTAGE.NAME"
@@ -1010,12 +1010,12 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.HOSTAGE.YEARS_OF_SERVICE"
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #: STRINGS.AGENTS.HOSTAGE_2.AGE
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.AGE"
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #: STRINGS.AGENTS.HOSTAGE_2.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.ALT_1.BIO"
@@ -1030,7 +1030,7 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE_2.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.ALT_1.TOOLTIP"
 msgid "STATUS: weak, but ready to go"
-msgstr ""
+msgstr "状态:虚弱，但还能移动"
 
 #: STRINGS.AGENTS.HOSTAGE_2.FILE
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.FILE"
@@ -1040,7 +1040,7 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE_2.HOMETOWN
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.HOMETOWN"
 msgid "unknown"
-msgstr ""
+msgstr "未知"
 
 #: STRINGS.AGENTS.HOSTAGE_2.NAME
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.NAME"
