@@ -1,48 +1,48 @@
-Item ¹¤¾ß
-Augment Ö²ÈëÌå
-Console ¿ØÖÆÌ¨
-Safe ±£ÏÕ¹ñ
-Camera ¼à¿Ø
-Power supply µçÔ´Éè±¸
-Drone ÎŞÈË»ú
-Torret ÅÚËş
-Database Êı¾İÖĞĞÄ
-PWR PWR²»·­Òë (Í¬Àí PowerÈç¹ûÖ¸µÄÊÇPWRÄÇÃ´¾Í·­Òë³ÉPWR)
-CR CR²»·­Òë£¨Credit·­Òë³ÉCR£©
-Block(ed) ÊÓÒ°±»×èµ²
+ï»¿Item å·¥å…·
+Augment æ¤å…¥ä½“
+Console æ§åˆ¶å°
+Safe ä¿é™©æŸœ
+Camera ç›‘æ§
+Power supply ç”µæºè®¾å¤‡
+Drone æ— äººæœº
+Torret ç‚®å¡”
+Database æ•°æ®ä¸­å¿ƒ
+PWR PWRä¸ç¿»è¯‘ (åŒç† Powerå¦‚æœæŒ‡çš„æ˜¯PWRé‚£ä¹ˆå°±ç¿»è¯‘æˆPWR)
+CR CRä¸ç¿»è¯‘ï¼ˆCreditç¿»è¯‘æˆCRï¼‰
+Block(ed) è§†é‡è¢«é˜»æŒ¡
 
-	Accelerator Chip £¿£¨Ó¦¸Ã²»ÄÜÖ±½Ó·­Òë£¬ÕâÃ´·­ÒëºÃ£¿£©
-	Buster Chip £¿
-	Cloaking Rig ÒşÉíÅû·ç
-	Econ Chip £¿
-	EMP Pack µç´ÅÂö³å×°ÖÃ
-	Camera Canister £¨Ã»Ê¹ÓÃ¹ı£¬ÈçºÎ·­ÒëºÃ£¿£©
-	Charge Pack ³äÄÜ×°ÖÃ
-	Hologram Projector È«Ï¢Í¶Ó°×°ÖÃ
-	Shock Trap Õğº³ÏİÚå
-	Lock Decoder ¿ªËø×°ÖÃ
-	Med Gel ¸´ËÕ¼Á
-	Paralyzer Ì±»¾¼Á
-	Portable Server ±ãĞ¯Ê½·şÎñÆ÷
-	Prototype Chip £¨ÈçºÎ·­ÒëºÃ£¿£©
-	Scan Chip £¨ÈçºÎ·­ÒëºÃ£¿£©
-	Scanning Grenader £¨É¨ÃèÁñµ¯£¿Ã»Ê¹ÓÃ¹ı£¬ÈçºÎ·­ÒëºÃ£¿£©
-	Stim ĞË·Ü¼Á
-	Wireless Scanner ÎŞÏßÉ¨ÃèÒÇ
-	T.A.G. pistol T.A.G.ÊÖÇ¹ (ÕâÊÇÊ²Ã´µÄËõĞ´£¿)
+	Accelerator Chip ï¼Ÿï¼ˆåº”è¯¥ä¸èƒ½ç›´æ¥ç¿»è¯‘ï¼Œè¿™ä¹ˆç¿»è¯‘å¥½ï¼Ÿï¼‰
+	Buster Chip ï¼Ÿ
+	Cloaking Rig éšèº«æŠ«é£
+	Econ Chip ï¼Ÿ
+	EMP Pack ç”µç£è„‰å†²è£…ç½®
+	Camera Canister ï¼ˆæ²¡ä½¿ç”¨è¿‡ï¼Œå¦‚ä½•ç¿»è¯‘å¥½ï¼Ÿï¼‰
+	Charge Pack å……èƒ½è£…ç½®
+	Hologram Projector å…¨æ¯æŠ•å½±è£…ç½®
+	Shock Trap éœ‡æ’¼é™·é˜±
+	Lock Decoder å¼€é”è£…ç½®
+	Med Gel å¤è‹å‰‚
+	Paralyzer ç˜«ç—ªå‰‚
+	Portable Server ä¾¿æºå¼æœåŠ¡å™¨
+	Prototype Chip ï¼ˆå¦‚ä½•ç¿»è¯‘å¥½ï¼Ÿï¼‰
+	Scan Chip ï¼ˆå¦‚ä½•ç¿»è¯‘å¥½ï¼Ÿï¼‰
+	Scanning Grenader ï¼ˆæ‰«ææ¦´å¼¹ï¼Ÿæ²¡ä½¿ç”¨è¿‡ï¼Œå¦‚ä½•ç¿»è¯‘å¥½ï¼Ÿï¼‰
+	Stim å…´å¥‹å‰‚
+	Wireless Scanner æ— çº¿æ‰«æä»ª
+	T.A.G. pistol T.A.G.æ‰‹æª (è¿™æ˜¯ä»€ä¹ˆçš„ç¼©å†™ï¼Ÿ)
 
 
 Items
-	Archdaemon Inhibitor £¨Ã»Ê¹ÓÃ¹ı£¬ÈçºÎ·­Òë£¿£©
+	Archdaemon Inhibitor ï¼ˆæ²¡ä½¿ç”¨è¿‡ï¼Œå¦‚ä½•ç¿»è¯‘ï¼Ÿï¼‰
 	
-	Keycard (red) ºìÉ«Í¨ĞĞ¿¨
-	Keycard (yellow) ÂÌÉ«Í¨ĞĞ¿¨
-	Pass Card Í¨ĞĞ¿¨
-	Site Plans Õ¾µã¼Æ»®Í¼£¨ÔõÃ´·­ÒëºÃ£¿£©
-	Valuable Tech £¨ÔõÃ´·­Òë´«Éñ£¿£©
-	Vault Access Code ½ğ¿âÍ¨ĞĞÂë
-Plastech medical Àë×ÓÒ½ÁÆ
-cybernetic augmentation Êı¿ØÖ²ÈëÎï
-Operator Ö´ĞĞ¹Ù
-Daemon ÊØ»¤½ø³Ì
+	Keycard (red) çº¢è‰²é€šè¡Œå¡
+	Keycard (yellow) ç»¿è‰²é€šè¡Œå¡
+	Pass Card é€šè¡Œå¡
+	Site Plans ç«™ç‚¹è®¡åˆ’å›¾ï¼ˆæ€ä¹ˆç¿»è¯‘å¥½ï¼Ÿï¼‰
+	Valuable Tech ï¼ˆæ€ä¹ˆç¿»è¯‘ä¼ ç¥ï¼Ÿï¼‰
+	Vault Access Code é‡‘åº“é€šè¡Œç 
+Plastech medical ç¦»å­åŒ»ç–—
+cybernetic augmentation æ•°æ§æ¤å…¥ç‰©
+Operator æ‰§è¡Œå®˜
+Daemon å®ˆæŠ¤è¿›ç¨‹
 
