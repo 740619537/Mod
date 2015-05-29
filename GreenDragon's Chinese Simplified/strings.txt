@@ -15355,7 +15355,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.EQUIPPED
 msgctxt "STRINGS.UI.TOOLTIPS.EQUIPPED"
 msgid "EQUIPPED"
-msgstr ""
+msgstr "装备"
 
 #: STRINGS.UI.TOOLTIPS.FIREWALLS
 msgctxt "STRINGS.UI.TOOLTIPS.FIREWALLS"
@@ -15400,12 +15400,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR"
 msgid "HEAVY ARMOR %d"
-msgstr ""
+msgstr "重型装甲 %d"
 
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC"
 msgid "Requires Armor Piercing weapons."
-msgstr ""
+msgstr "需要具有穿刺效果的武器"
 
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON"
