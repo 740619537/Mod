@@ -11,10 +11,10 @@ PWR PWR不翻译 (同理 Power如果指的是PWR那么就翻译成PWR)
 CR CR不翻译（Credit翻译成CR）
 Block(ed) 视野被阻挡
 
-	Accelerator Chip ？（应该不能直接翻译，这么翻译好？）
-	Buster Chip ？
+	Accelerator Chip 优化芯片
+	Buster Chip 爆破芯片
 	Cloaking Rig 隐身披风
-	Econ Chip ？
+	Econ Chip 金融入侵
 	EMP Pack 电磁脉冲装置
 	Camera Canister （没使用过，如何翻译好？）
 	Charge Pack 充能装置
@@ -25,11 +25,11 @@ Block(ed) 视野被阻挡
 	Paralyzer 瘫痪剂
 	Portable Server 便携式服务器
 	Prototype Chip （如何翻译好？）
-	Scan Chip （如何翻译好？）
-	Scanning Grenader （扫描榴弹？没使用过，如何翻译好？）
+	Scan Chip 扫描芯片
+	Scanning Grenader 扫描手雷
 	Stim 兴奋剂
 	Wireless Scanner 无线扫描仪
-	T.A.G. pistol T.A.G.手枪 (这是什么的缩写？)
+	T.A.G. pistol 标记枪 (这是什么的缩写？)
 
 
 Items
