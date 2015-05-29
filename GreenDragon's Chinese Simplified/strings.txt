@@ -5985,47 +5985,47 @@ msgstr ""
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_11
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_11"
 msgid "It looks like we've found a hole in the security here"
-msgstr ""
+msgstr "看来我们找到了这里的安保漏洞"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_2"
 msgid "They're rebooting their regional servers, and aren't recording the security telemetry from this installation."
-msgstr ""
+msgstr "他们正在重新启动区域服务器，这里的安保感应信息装置还未处于记录状态。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_3"
 msgid "Operator, we've gained one-time access to the facility here."
-msgstr ""
+msgstr "执行官，我们获得了此地设施的一次性访问权力。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_4"
 msgid "Incognita says that there's something interesting in this building."
-msgstr ""
+msgstr "Incognita说这栋建筑里有我们感兴趣的东西。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_5
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_5"
 msgid "There's a gap in the security coverage at this facility. We can get a team inside before they know any better."
-msgstr ""
+msgstr "这个设施上的安保覆盖还是有漏洞的。我们能在他们发觉之前送一队人进去。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_6
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_6"
 msgid "This is a by-the-numbers infiltration, Operator. You will be going here."
-msgstr ""
+msgstr "这是一次常规潜入，执行官。下指令吧。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_7
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_7"
 msgid "I can't believe how sloppy they've become. Look at the grid around this building"
-msgstr ""
+msgstr "我无法想像他们竟会如此懒散。看看这座建筑周围的网络。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_8
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_8"
 msgid "We need resources. They have resources. The mathematics are quite simple."
-msgstr ""
+msgstr "我们需要资源。他们拥有资源。这道数学题再简单不过了。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_9
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_9"
 msgid "Bureaucracy is a beautiful thing. They're decommissioning this facility and they started with the security grid."
-msgstr ""
+msgstr "官僚主义是如此美妙。他们正在逐步停用这里的设施，而且还是先从保险网络开刀。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_1"
