@@ -9000,142 +9000,142 @@ msgstr ""
 #: STRINGS.PROPS.ARTIFACT
 msgctxt "STRINGS.PROPS.ARTIFACT"
 msgid "Research Experiment"
-msgstr ""
+msgstr "研究性实验"
 
 #: STRINGS.PROPS.ARTIFACT_DESC
 msgctxt "STRINGS.PROPS.ARTIFACT_DESC"
 msgid "An ongoing science project. The black market will pay well for its secrets.\n\nBring it with you when you exit the level."
-msgstr ""
+msgstr "一项正在进行的科学项目，它的情报能在黑市卖个好价钱。\n\n关卡结束时别忘了拿上它再离开。"
 
 #: STRINGS.PROPS.AUGMENT_GRAFTER
 msgctxt "STRINGS.PROPS.AUGMENT_GRAFTER"
 msgid "Augment Grafter"
-msgstr ""
+msgstr "插入体移植器"
 
 #: STRINGS.PROPS.BEAM_EMITTER
 msgctxt "STRINGS.PROPS.BEAM_EMITTER"
 msgid "Beam Emitter"
-msgstr ""
+msgstr "光束发射器"
 
 #: STRINGS.PROPS.CAMERA_CORE
 msgctxt "STRINGS.PROPS.CAMERA_CORE"
 msgid "Camera Database"
-msgstr ""
+msgstr "监控数据中心"
 
 #: STRINGS.PROPS.CAPTURED_AGENT
 msgctxt "STRINGS.PROPS.CAPTURED_AGENT"
 msgid "Captured Agent"
-msgstr ""
+msgstr "被抓捕的特工"
 
 #: STRINGS.PROPS.CELL_DOOR
 msgctxt "STRINGS.PROPS.CELL_DOOR"
 msgid "Cell Door"
-msgstr ""
+msgstr "房门"
 
 #: STRINGS.PROPS.CONSOLE
 msgctxt "STRINGS.PROPS.CONSOLE"
 msgid "Console"
-msgstr ""
+msgstr "控制台"
 
 #: STRINGS.PROPS.CONSOLE_CORE
 msgctxt "STRINGS.PROPS.CONSOLE_CORE"
 msgid "Console Database"
-msgstr ""
+msgstr "控制台数据中心"
 
 #: STRINGS.PROPS.CORP_INTEL
 msgctxt "STRINGS.PROPS.CORP_INTEL"
 msgid "Corporate Intelligence"
-msgstr ""
+msgstr "企业情报"
 
 #: STRINGS.PROPS.CORP_INTEL_DESC
 msgctxt "STRINGS.PROPS.CORP_INTEL_DESC"
 msgid "This is rare technology that can be sold. Bring this back to Central to get a credit payout."
-msgstr ""
+msgstr "这是一种罕见的技术，可以用来贩卖。把它带回总部能得到经济奖励"
 
 #: STRINGS.PROPS.DAEMON_CORE
 msgctxt "STRINGS.PROPS.DAEMON_CORE"
 msgid "Daemon Database"
-msgstr ""
+msgstr "后台程序数据中心"
 
 #: STRINGS.PROPS.DATA_CORE
 msgctxt "STRINGS.PROPS.DATA_CORE"
 msgid "Mainframe Shard"
-msgstr ""
+msgstr "主机碎片"
 
 #: STRINGS.PROPS.DEPOSIT_BOXES
 msgctxt "STRINGS.PROPS.DEPOSIT_BOXES"
 msgid "Deposit Boxes"
-msgstr ""
+msgstr "保管箱"
 
 #: STRINGS.PROPS.DETENTION_PROCESSOR
 msgctxt "STRINGS.PROPS.DETENTION_PROCESSOR"
 msgid "Cell Door Console"
-msgstr ""
+msgstr "房门总控制台"
 
 #: STRINGS.PROPS.DOOR_DECODER
 msgctxt "STRINGS.PROPS.DOOR_DECODER"
 msgid "Door Decoder"
-msgstr ""
+msgstr "房门解码器"
 
 #: STRINGS.PROPS.ENDING_JACKIN
 msgctxt "STRINGS.PROPS.ENDING_JACKIN"
 msgid "Security Hub"
-msgstr ""
+msgstr "安保中心"
 
 #: STRINGS.PROPS.EYEBALL
 msgctxt "STRINGS.PROPS.EYEBALL"
 msgid "Eyeball"
-msgstr ""
+msgstr "眼球"
 
 #: STRINGS.PROPS.FINAL_CONSOLE
 msgctxt "STRINGS.PROPS.FINAL_CONSOLE"
 msgid "FULL ACCESS HUB"
-msgstr ""
+msgstr "可以对中心进行完全访问"
 
 #: STRINGS.PROPS.FINAL_TERMINAL
 msgctxt "STRINGS.PROPS.FINAL_TERMINAL"
 msgid "Quantum Data Terminal"
-msgstr ""
+msgstr "量子数据终端"
 
 #: STRINGS.PROPS.FTM_SCANNER
 msgctxt "STRINGS.PROPS.FTM_SCANNER"
 msgid "FTM Scanning Amp"
-msgstr ""
+msgstr "FTM定位探测仪"
 
 #: STRINGS.PROPS.FTM_SCANNER_TAB
 msgctxt "STRINGS.PROPS.FTM_SCANNER_TAB"
 msgid "Scanning AMP"
-msgstr ""
+msgstr "定位探测仪"
 
 #: STRINGS.PROPS.GENERIC_USABLE
 msgctxt "STRINGS.PROPS.GENERIC_USABLE"
 msgid "Generic Usable"
-msgstr ""
+msgstr "一般情况下可用"
 
 #: STRINGS.PROPS.GUARD_LOCKER
 msgctxt "STRINGS.PROPS.GUARD_LOCKER"
 msgid "Secure Locker"
-msgstr ""
+msgstr "安全柜"
 
 #: STRINGS.PROPS.HOSTAGE
 msgctxt "STRINGS.PROPS.HOSTAGE"
 msgid "Hostage"
-msgstr ""
+msgstr "人质"
 
 #: STRINGS.PROPS.INFRARED_BEAM
 msgctxt "STRINGS.PROPS.INFRARED_BEAM"
 msgid "Infrared Beam"
-msgstr ""
+msgstr "红外光束"
 
 #: STRINGS.PROPS.INFRARED_BEAM_TOOLTIP
 msgctxt "STRINGS.PROPS.INFRARED_BEAM_TOOLTIP"
 msgid "The beams will advance the alarm tracker."
-msgstr ""
+msgstr "光束将会提升警报追踪器。"
 
 #: STRINGS.PROPS.INFRARED_WALL
 msgctxt "STRINGS.PROPS.INFRARED_WALL"
 msgid "Infrared Wall"
-msgstr ""
+msgstr "红外线光墙"
 
 #: STRINGS.PROPS.INFRARED_WALL_TOOLTIP
 msgctxt "STRINGS.PROPS.INFRARED_WALL_TOOLTIP"
@@ -9150,12 +9150,12 @@ msgstr ""
 #: STRINGS.PROPS.KEY
 msgctxt "STRINGS.PROPS.KEY"
 msgid "Key"
-msgstr ""
+msgstr "钥匙"
 
 #: STRINGS.PROPS.LASER_BEAM
 msgctxt "STRINGS.PROPS.LASER_BEAM"
 msgid "Laser"
-msgstr ""
+msgstr "激光"
 
 #: STRINGS.PROPS.LASER_BEAM_TOOLTIP
 msgctxt "STRINGS.PROPS.LASER_BEAM_TOOLTIP"
