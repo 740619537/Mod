@@ -652,175 +652,175 @@ msgid "ARCHIVED -- ROBIN HOOD"
 msgstr ""文档 -- ROBIN HOOD"
 
 #: STRINGS.AGENTS.BANKS.ALT_2.TOOLTIP
- msgctxt "STRINGS.AGENTS.BANKS.ALT_2.TOOLTIP"
- msgid "Robin Hood"
--msgstr "Robin Hood"
+msgctxt "STRINGS.AGENTS.BANKS.ALT_2.TOOLTIP"
+msgid "Robin Hood"
+msgstr "Robin Hood"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1"
- msgid "Tick tock, tick tock. My time's run out."
--msgstr "滴滴，滴滴。我的时间结束了"
+#: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1"
+msgid "Tick tock, tick tock. My time's run out."
+msgstr "滴滴，滴滴。我的时间结束了"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2"
- msgid "The reaper's finally come for his due."
--msgstr "死神终于为他的日子而来了。"
+#: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2"
+msgid "The reaper's finally come for his due."
+msgstr "死神终于为他的日子而来了。"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3"
- msgid "I've had a good run, but not a long one."
--msgstr "我算是有了一场精彩的表演，但是不算长啊。"
+#: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3"
+msgid "I've had a good run, but not a long one."
+msgstr "我算是有了一场精彩的表演，但是不算长啊。"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4"
- msgid "Dust to dust."
--msgstr "尘归尘，土归土"
+#: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4"
+msgid "Dust to dust."
+msgstr "尘归尘，土归土"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.START.1
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.1"
- msgid "Did you hear that? No? Neither did I, then."
--msgstr "你听到动静了吗？没有？其实也没听到。"
+#: STRINGS.AGENTS.BANKS.BANTER.START.1
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.1"
+msgid "Did you hear that? No? Neither did I, then."
+msgstr "你听到动静了吗？没有？其实也没听到。"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.START.2
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.2"
- msgid "Live high while you can, ye mighty. Your reckoning will come."
--msgstr "尽可能的享受你的日子吧，在你现在还能得时候。也许有一天。你什么都做不到了。"
+#: STRINGS.AGENTS.BANKS.BANTER.START.2
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.2"
+msgid "Live high while you can, ye mighty. Your reckoning will come."
+msgstr "尽可能的享受你的日子吧，在你现在还能得时候。也许有一天。你什么都做不到了。"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.START.3
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.3"
- msgid "Stick to the shadows. Be fleet of foot. We'll get out of here alive."
--msgstr "贴着影子走，放轻脚步。我们要活着出去。"
+#: STRINGS.AGENTS.BANKS.BANTER.START.3
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.3"
+msgid "Stick to the shadows. Be fleet of foot. We'll get out of here alive."
+msgstr "贴着影子走，放轻脚步。我们要活着出去。"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.START.4
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.4"
- msgid "This room smells like burnt toast. But most things do!"	
--msgstr "这间屋子有烤土司的味道。但很多东西都有这个味道。"
+#: STRINGS.AGENTS.BANKS.BANTER.START.4
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.4"
+msgid "This room smells like burnt toast. But most things do!"	
+msgstr "这间屋子有烤土司的味道。但很多东西都有这个味道。"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.START.5
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.5"
- msgid "Some day soon this will all be shaken to the ground."
--msgstr "总有一天，这些事情都会水落石出的。"
+#: STRINGS.AGENTS.BANKS.BANTER.START.5
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.5"
+msgid "Some day soon this will all be shaken to the ground."
+msgstr "总有一天，这些事情都会水落石出的。"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.START.6
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.6"
- msgid "The farmer in the dell... The farmer in the dell..."
--msgstr "山谷中的农民......山谷中的农民......"
+#: STRINGS.AGENTS.BANKS.BANTER.START.6
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.6"
+msgid "The farmer in the dell... The farmer in the dell..."
+msgstr "山谷中的农民......山谷中的农民......"
  		 
- #: STRINGS.AGENTS.BANKS.BANTER.START.7
- msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.7"
- msgid "The wind will shake the barley."
--msgstr "风会摇晃小麦。"
+#: STRINGS.AGENTS.BANKS.BANTER.START.7
+msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.7"
+msgid "The wind will shake the barley."
+msgstr "风会摇晃小麦。"
  		 
- #: STRINGS.AGENTS.BANKS.BIO_SPOKEN	
- msgctxt "STRINGS.AGENTS.BANKS.BIO_SPOKEN"
- msgid "Even with the brain damage, Banks is one of the most effective hackers I've ever encountered. With stims and neuro-conditioning she's able to stay lucid, but I wonder what kind of long term effects that might have on her stability."
--msgstr "即使有严重的脑损伤，Banks依旧是我所遇到过的最好的特工。她可以使用兴奋剂和神经调节剂来保持冷静和清醒，但是我仍然怀疑这对她的稳定性会有长期影响。"
+#: STRINGS.AGENTS.BANKS.BIO_SPOKEN	
+msgctxt "STRINGS.AGENTS.BANKS.BIO_SPOKEN"
+msgid "Even with the brain damage, Banks is one of the most effective hackers I've ever encountered. With stims and neuro-conditioning she's able to stay lucid, but I wonder what kind of long term effects that might have on her stability."
+msgstr "即使有严重的脑损伤，Banks依旧是我所遇到过的最好的特工。她可以使用兴奋剂和神经调节剂来保持冷静和清醒，但是我仍然怀疑这对她的稳定性会有长期影响。"
  		 
- #: STRINGS.AGENTS.BANKS.FILE
- msgctxt "STRINGS.AGENTS.BANKS.FILE"
- msgid "FILE #00-725114A-12852148"
--msgstr "文件 #00-725114A-12852148"	
+#: STRINGS.AGENTS.BANKS.FILE
+msgctxt "STRINGS.AGENTS.BANKS.FILE"
+msgid "FILE #00-725114A-12852148"
+msgstr "文件 #00-725114A-12852148"	
  		 
- #: STRINGS.AGENTS.BANKS.HOMETOWN
- msgctxt "STRINGS.AGENTS.BANKS.HOMETOWN"
- msgid "Dublin Nua"
--msgstr "都柏林"
+#: STRINGS.AGENTS.BANKS.HOMETOWN
+msgctxt "STRINGS.AGENTS.BANKS.HOMETOWN"
+msgid "Dublin Nua"
+msgstr "都柏林"
  		 
- #: STRINGS.AGENTS.BANKS.NAME
- msgctxt "STRINGS.AGENTS.BANKS.NAME"
- msgid "Banks"
--msgstr "Banks"
+#: STRINGS.AGENTS.BANKS.NAME
+msgctxt "STRINGS.AGENTS.BANKS.NAME"
+msgid "Banks"
+msgstr "Banks"
  		 
- #: STRINGS.AGENTS.BANKS.RESCUED
- msgctxt "STRINGS.AGENTS.BANKS.RESCUED"	
- msgid "Let's get the hell out of here."
--msgstr "让我们快点离开这里"
+#: STRINGS.AGENTS.BANKS.RESCUED
+msgctxt "STRINGS.AGENTS.BANKS.RESCUED"	
+msgid "Let's get the hell out of here."
+msgstr "让我们快点离开这里"
  		 
- #: STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE
- msgctxt "STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE"
- msgid "1"
--msgstr "1"	
+#: STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE
+msgctxt "STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE"
+msgid "1"
+msgstr "1"	
  		 
- #: STRINGS.AGENTS.CENTRAL.AGE
- msgctxt "STRINGS.AGENTS.CENTRAL.AGE"
- msgid "68"
--msgstr "68"
+#: STRINGS.AGENTS.CENTRAL.AGE
+msgctxt "STRINGS.AGENTS.CENTRAL.AGE"
+msgid "68"
+msgstr "68"
 
 #: STRINGS.AGENTS.CENTRAL.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.BIO"
 msgid "Olivia Gladstone was the highest-ranking officer in the Pan-Euro Infosec Agency before it collapsed at the end of the Resource Wars.\n\nForced into hiding, she re-emerged as the founder and leader of Invisible Inc. She currently holds the record for highest total corporate bounty ever offered for a single target."
 msgstr ""
 
- #: STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME
- msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME"
- msgid "Olivia Gladstone"
--msgstr "Olivia Gladstone"
+#: STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME
+msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME"
+msgid "Olivia Gladstone"
+msgstr "Olivia Gladstone"
 
  
- #: STRINGS.AGENTS.CENTRAL.ALT_1.TOOLTIP
- msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.TOOLTIP"
- msgid "The Leader"
--msgstr "领导者。"
+#: STRINGS.AGENTS.CENTRAL.ALT_1.TOOLTIP
+msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.TOOLTIP"
+msgid "The Leader"
+msgstr "领导者。"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.1
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.1"
- msgid "Just do it. I'm not afraid of death."
--msgstr "下手吧，我不怕死。"
+#: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.1
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.1"
+msgid "Just do it. I'm not afraid of death."
+msgstr "下手吧，我不怕死。"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2"
- msgid "Are you watching this, Operator? This is on you."
--msgstr "执行官，你在看吗？"
+#: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2"
+msgid "Are you watching this, Operator? This is on you."
+msgstr "执行官，你在看吗？"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3"
- msgid "I won't be taken alive."
--msgstr "我不会活着跟着你们走的。"
+#: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3"
+msgid "I won't be taken alive."
+msgstr "我不会活着跟着你们走的。"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4"
- msgid "Operator, don't let Invisible die with me."
--msgstr "执行官，不要让Invisible和你一同死去"
+#: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4"
+msgid "Operator, don't let Invisible die with me."
+msgstr "执行官，不要让Invisible和你一同死去"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.START.1
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.1"
- msgid "Alright, people. Don't mess this up."
--msgstr "好的朋友，别搞砸事情就行了。"
+#: STRINGS.AGENTS.CENTRAL.BANTER.START.1
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.1"
+msgid "Alright, people. Don't mess this up."
+msgstr "好的朋友，别搞砸事情就行了。"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.START.2
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.2"
- msgid "By the numbers, people. No unnecessary risks."
--msgstr "从数字上来说，这里诶有实际的风险。"
+#: STRINGS.AGENTS.CENTRAL.BANTER.START.2
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.2"
+msgid "By the numbers, people. No unnecessary risks."
+msgstr "从数字上来说，这里诶有实际的风险。"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.START.3
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.3"
- msgid "Just do the job, and we can all go home."
--msgstr "快点结束任务，我们就能快点回去。"
+#: STRINGS.AGENTS.CENTRAL.BANTER.START.3
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.3"
+msgid "Just do the job, and we can all go home."
+msgstr "快点结束任务，我们就能快点回去。"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.START.4
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.4"
- msgid "Put THIS on your quarterly earnings report."
--msgstr "你应该把这事放在你的季度总结报告里面。"
+#: STRINGS.AGENTS.CENTRAL.BANTER.START.4
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.4"
+msgid "Put THIS on your quarterly earnings report."
+msgstr "你应该把这事放在你的季度总结报告里面。"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.START.5
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.5"
- msgid "Be professional, people."
--msgstr "我们得专业点，各位。"
+#: STRINGS.AGENTS.CENTRAL.BANTER.START.5
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.5"
+msgid "Be professional, people."
+msgstr "我们得专业点，各位。"
 
  
- #: STRINGS.AGENTS.CENTRAL.BANTER.START.6
- msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.6"
- msgid "Let's do the job we came to do."
--msgstr "让我们把该做的做完吧。"
+#: STRINGS.AGENTS.CENTRAL.BANTER.START.6
+msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.6"
+msgid "Let's do the job we came to do."
+msgstr "让我们把该做的做完吧。"
 
 
 #: STRINGS.AGENTS.CENTRAL.BIO_SPOKEN
@@ -829,27 +829,27 @@ msgid "My name is Olivia Gladstone. I ran the Pan-Euro Infosec Agency, back when
 msgstr ""
 
 #: STRINGS.AGENTS.CENTRAL.FILE
- msgctxt "STRINGS.AGENTS.CENTRAL.FILE"
- msgid "FILE #00-0000000-0000001"
--msgstr "文件 #00-0000000-0000001"
+msgctxt "STRINGS.AGENTS.CENTRAL.FILE"
+msgid "FILE #00-0000000-0000001"
+msgstr "文件 #00-0000000-0000001"
 
  
- #: STRINGS.AGENTS.CENTRAL.HOMETOWN
- msgctxt "STRINGS.AGENTS.CENTRAL.HOMETOWN"
- msgid "London"
--msgstr "伦敦"
+#: STRINGS.AGENTS.CENTRAL.HOMETOWN
+msgctxt "STRINGS.AGENTS.CENTRAL.HOMETOWN"
+msgid "London"
+msgstr "伦敦"
 
  
- #: STRINGS.AGENTS.CENTRAL.NAME
- msgctxt "STRINGS.AGENTS.CENTRAL.NAME"
- msgid "Central"
--msgstr "Central"
+#: STRINGS.AGENTS.CENTRAL.NAME
+msgctxt "STRINGS.AGENTS.CENTRAL.NAME"
+msgid "Central"
+msgstr "Central"
 
  
- #: STRINGS.AGENTS.CENTRAL.RESCUED
- msgctxt "STRINGS.AGENTS.CENTRAL.RESCUED"
- msgid "It's about time. What am I paying you for, anyway?"
--msgstr "是时候了。总之，记得我为什么招募你。"
+#: STRINGS.AGENTS.CENTRAL.RESCUED
+msgctxt "STRINGS.AGENTS.CENTRAL.RESCUED"
+msgid "It's about time. What am I paying you for, anyway?"
+msgstr "是时候了。总之，记得我为什么招募你。"
 
  
 
@@ -898,60 +898,60 @@ msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.TOOLTIP"
 msgid "Antiques Collector"
 msgstr ""
 
- #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1"
- msgid "I'm tired of this crap, anyway."
--msgstr "我已经厌烦这堆东西了，随便吧。"
+#: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1"
+msgid "I'm tired of this crap, anyway."
+msgstr "我已经厌烦这堆东西了，随便吧。"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2"
- msgid "Well played. You got me dead to rights."
--msgstr "干得不错。今天你让我交代在这里了。"
+#: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2"
+msgid "Well played. You got me dead to rights."
+msgstr "干得不错。今天你让我交代在这里了。"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3"
- msgid "Well, damn it."
--msgstr "好吧，见鬼去。"
+#: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3"
+msgid "Well, damn it."
+msgstr "好吧，见鬼去。"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4"
- msgid "Can I have one last swig, first?"
--msgstr "行，能让我最后喝一杯吗？"
+#: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4"
+msgid "Can I have one last swig, first?"
+msgstr "行，能让我最后喝一杯吗？"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.START.1
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.1"
- msgid "No resistance at the entry point. Amateurs."
--msgstr "进来时一点阻碍都没有。太业余了。"
+#: STRINGS.AGENTS.DECKARD.BANTER.START.1
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.1"
+msgid "No resistance at the entry point. Amateurs."
+msgstr "进来时一点阻碍都没有。太业余了。"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.START.2
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.2"
- msgid "Let's get this over with. I need a drink."
--msgstr "让我们速战速决。结束后我要喝一杯。"
+#: STRINGS.AGENTS.DECKARD.BANTER.START.2
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.2"
+msgid "Let's get this over with. I need a drink."
+msgstr "让我们速战速决。结束后我要喝一杯。"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.START.3
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.3"
- msgid "All of these places start to look the same after a while."
--msgstr "一段时间之后，这些地方都会看上去给人差不多的感觉"
+#: STRINGS.AGENTS.DECKARD.BANTER.START.3
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.3"
+msgid "All of these places start to look the same after a while."
+msgstr "一段时间之后，这些地方都会看上去给人差不多的感觉"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.START.4
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.4"
- msgid "I'm getting too old for this crap."
--msgstr "对于处理这些烦人的东西，我已经老了。"
+#: STRINGS.AGENTS.DECKARD.BANTER.START.4
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.4"
+msgid "I'm getting too old for this crap."
+msgstr "对于处理这些烦人的东西，我已经老了。"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.START.5
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.5"
- msgid "I wonder who does their security.\n\nThey aren't doing a very good job so far."
--msgstr "我在猜想谁在负责他们的安保工作。\n\n他们做得实在差。"
+#: STRINGS.AGENTS.DECKARD.BANTER.START.5
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.5"
+msgid "I wonder who does their security.\n\nThey aren't doing a very good job so far."
+msgstr "我在猜想谁在负责他们的安保工作。\n\n他们做得实在差。"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.START.6
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.6"
- msgid "We're in the building. This shouldn't take too long."
--msgstr "我们在建筑里了，别花太久时间"
+#: STRINGS.AGENTS.DECKARD.BANTER.START.6
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.6"
+msgid "We're in the building. This shouldn't take too long."
+msgstr "我们在建筑里了，别花太久时间"
  
- #: STRINGS.AGENTS.DECKARD.BANTER.START.7
- msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.7"
- msgid "We wouldn't have got in so easy if I were running this joint."
--msgstr "如果我们启动这个节点，进入这里会有点困难"
+#: STRINGS.AGENTS.DECKARD.BANTER.START.7
+msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.7"
+msgid "We wouldn't have got in so easy if I were running this joint."
+msgstr "如果我们启动这个节点，进入这里会有点困难"
 
 #: STRINGS.AGENTS.DECKARD.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.DECKARD.BIO_SPOKEN"
