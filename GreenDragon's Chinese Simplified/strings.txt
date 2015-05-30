@@ -1000,7 +1000,7 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE.NAME
 msgctxt "STRINGS.AGENTS.HOSTAGE.NAME"
 msgid "The Courier"
-msgstr ""
+msgstr "导游"
 
 #: STRINGS.AGENTS.HOSTAGE.RESCUED
 msgctxt "STRINGS.AGENTS.HOSTAGE.RESCUED"
@@ -1010,7 +1010,7 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.HOSTAGE.YEARS_OF_SERVICE"
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #: STRINGS.AGENTS.HOSTAGE_2.AGE
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.AGE"
@@ -1025,12 +1025,12 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE_2.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.ALT_1.FULLNAME"
 msgid "Corporate Shakedown"
-msgstr ""
+msgstr "团伙诈骗"
 
 #: STRINGS.AGENTS.HOSTAGE_2.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.ALT_1.TOOLTIP"
 msgid "STATUS: weak, but ready to go"
-msgstr ""
+msgstr "状态：虚弱，但准备行动。"
 
 #: STRINGS.AGENTS.HOSTAGE_2.FILE
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.FILE"
@@ -1040,12 +1040,12 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE_2.HOMETOWN
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.HOMETOWN"
 msgid "unknown"
-msgstr ""
+msgstr "未知"
 
 #: STRINGS.AGENTS.HOSTAGE_2.NAME
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.NAME"
 msgid "Weak Link"
-msgstr ""
+msgstr "薄弱环节"
 
 #: STRINGS.AGENTS.HOSTAGE_2.RESCUED
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.RESCUED"
@@ -1055,52 +1055,52 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE_2.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.YEARS_OF_SERVICE"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: STRINGS.AGENTS.INTERNATIONALE.AGE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.AGE"
 msgid "36"
-msgstr ""
+msgstr "36"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.BIO"
 msgid "An ex-airborne scout in the Free Cuban Army, Valdes went underground after the re-annexation of Havana.\n\nSeveral years of freelance action against Corporate interests led to a considerable bounty on her head, and she joined Invisible for the chance to pay it off. Her tactical prowess is legendary, but her conscience can be a liability on and off the field."
-msgstr ""
+msgstr "一位曾在自由古巴军队的前空降侦察兵，Valdes在哈瓦那重组之后转入地下。\几年的对抗集团利益者的自由活动为她添上了不少悬赏，而她为了把这些赏金付清加入了隐形公司。她在战术上非凡的造诣已是传说的级别，但她的良知在场上场下都是负担。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.FULLNAME"
 msgid "Maria \"Internationale\" Valdes"
-msgstr ""
+msgstr "Maria\“Internationale\"Valdes"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.TOOLTIP"
 msgid "Freedom Fighter"
-msgstr ""
+msgstr "自由战士"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.AGE"
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.BIO"
 msgid "During her work as a freelancer in the years following Havana's re-annexation and the San Francisco Accord, Internationale became a legend in the anti-Corporate underground.\n\nAccording to classified documents, she once cost Sankaku over 50 million credits in a single week of subversion and sabotage."
-msgstr ""
+msgstr "在她作为自由战士奔走在哈瓦那重组和圣弗朗西斯科协定的这些年，Internationale成为了地下反集团的传说。\据加密文件记载，她曾在仅仅一周的瓦解和破坏活动中使Sankaku付出了5000万CR的代价。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.FULLNAME"
 msgid "ARCHIVED -- FREELANCER"
-msgstr ""
+msgstr "档案：自由战士"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.TOOLTIP"
 msgid "Freelancer"
-msgstr ""
+msgstr "自由战士"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.1"
 msgid "Arise, ye wretched of the earth!"
-msgstr ""
+msgstr "起来，全世界受苦受难的人们！"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.2"
@@ -1110,397 +1110,397 @@ msgstr ""
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.3"
 msgid "A new world will be born from the ashes of the old!"
-msgstr ""
+msgstr "新世界将诞生于旧世界的灰烬中！"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.4"
 msgid "Can't you see? The bosses keep us apart!"
-msgstr ""
+msgstr "还不明白吗？老板们把我们分开！"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.1
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.1"
 msgid "Take what you can. They won't miss it."
-msgstr ""
+msgstr "把能带走的都带走吧，他们才不会心疼呢。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.2
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.2"
 msgid "Each according to their means!"
-msgstr ""
+msgstr "都按照他们的意思来。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.3
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.3"
 msgid "Time to strike one for the good guys!"
-msgstr ""
+msgstr "是时候"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.4
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.4"
 msgid "Can we do this without collateral damage, maybe?"
-msgstr ""
+msgstr "我们或许可以做的干净些，不留后患。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.5
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.5"
 msgid "These corporate pigs make me sick."
-msgstr ""
+msgstr "这些集团猪真让人恶心。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.6
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.6"
 msgid "Remember, the guards are just doing their job."
-msgstr ""
+msgstr "记住，这些警卫只是在做本职工作。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.7
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.7"
 msgid "Look around. All of this is built on the backs of average working people."
-msgstr ""
+msgstr "看看周围。所有的一切都是建立在劳苦人民的努力之上。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN"
 msgid "Internationionale is one of the best all-round operatives I've ever seen, but she's held back by an unfortunate abundance of social concern. If used correctly, she's the bedrock upon which you can build a winning team. Just don't ask her about the plight of the global proletariat."
-msgstr ""
+msgstr "Internationionale是我所见过的最优秀的全能特工之一，然而她的能力却被一股不幸的，大量的社会关怀所抑制。如果安排得当，她将是你建立起一支胜利队伍的基石。只是不要问她全球无产阶级的痛苦就好。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.FILE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.FILE"
 msgid "FILE #00-382392A-41190101"
-msgstr ""
+msgstr "文件#00-382392A-41190101"
 
 #: STRINGS.AGENTS.INTERNATIONALE.HOMETOWN
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.HOMETOWN"
 msgid "Havana"
-msgstr ""
+msgstr "哈瓦那"
 
 #: STRINGS.AGENTS.INTERNATIONALE.NAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.NAME"
 msgid "Internationale"
-msgstr ""
+msgstr "Internationale"
 
 #: STRINGS.AGENTS.INTERNATIONALE.RESCUED
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.RESCUED"
 msgid "They won't even know until we're gone."
-msgstr ""
+msgstr "直到我们离去他们也不会察觉"
 
 #: STRINGS.AGENTS.INTERNATIONALE.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.YEARS_OF_SERVICE"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: STRINGS.AGENTS.MONST3R.AGE
 msgctxt "STRINGS.AGENTS.MONST3R.AGE"
 msgid "46"
-msgstr ""
+msgstr "46"
 
 #: STRINGS.AGENTS.MONST3R.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.MONST3R.ALT_1.BIO"
 msgid "Derek Mossman learned his trade the hard way, running petty info grafts as an orphan in post-industrial Manchester.\n\nSeeking access to the latest technologies, he wiped his own record and enlisted with the Pan-Euro Infosec Agency. He rose quickly through the ranks, joining the elite infiltration group run by Olivia Gladstone. Records after the war's end are spotty at best."
-msgstr ""
+msgstr "Derek Mossman用一种很艰难的方式学到了他的商业，在后工业时代的纺织中心里将枝叶发芽嫁接。在寻求接近最新科技的途径同时，他把自己的记录抹去并在泛欧信息安全局入伍。他在军衔的等级上爬的很快，加入了由Olivia Gladstone运营的菁英渗透小组。战争结束后的评价参差不齐。"
 
 #: STRINGS.AGENTS.MONST3R.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.MONST3R.ALT_1.FULLNAME"
 msgid "Derek 'Monst3r' Mossman"
-msgstr ""
+msgstr "Derek 'Monst3r' 莫斯曼"
 
 #: STRINGS.AGENTS.MONST3R.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.MONST3R.ALT_1.TOOLTIP"
 msgid "The Information Broker"
-msgstr ""
+msgstr "情报商"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.FINAL_WORDS.1"
 msgid "This is why I hate live operations."
-msgstr ""
+msgstr "这就是为啥我讨厌实时行动。"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.FINAL_WORDS.2"
 msgid "You want credits? I can get you credits."
-msgstr ""
+msgstr "想要CR？我能帮你弄到CR。"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.FINAL_WORDS.3"
 msgid "Could we not talk this over like adults?"
-msgstr ""
+msgstr "我们能不要像成年人一样讨论这个问题吗？"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.FINAL_WORDS.4"
 msgid "Operator, you better fix this."
-msgstr ""
+msgstr "专员，你最好尽快处理下这个。"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.START.1
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.START.1"
 msgid "Information is power."
-msgstr ""
+msgstr "情报就是力量。"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.START.2
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.START.2"
 msgid "Let's not take any chances."
-msgstr ""
+msgstr "我们不能冒险。"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.START.3
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.START.3"
 msgid "Their technology is quaint."
-msgstr ""
+msgstr "他们的科技真奇葩。"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.START.4
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.START.4"
 msgid "God, I hate how that feels."
-msgstr ""
+msgstr "艹，我真的很讨厌那种感觉！"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.START.5
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.START.5"
 msgid "Just point me at the consoles."
-msgstr ""
+msgstr "就在在操作台那里指着我。"
 
 #: STRINGS.AGENTS.MONST3R.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.MONST3R.BIO_SPOKEN"
 msgid "Derek was a promising young recruit in the PEIA when the Resource Wars broke out in the 50s. He was my Chief Information Officer during the height of the conflict, and his elite hacking skills have pulled more than a few missions out of the dustbin.\n\nWhen the war ended the price on his head forced him underground. I had been buying intelligence from 'Monst3r' for ages before realizing that it was Derek."
-msgstr ""
+msgstr "50年代能源战争爆发时，Derek 曾是个前途一片光明的PEIA新兵。他曾是我在整个战局高度的情报首长，他那精湛的黑客手段将不少任务从垃圾桶中拿出来执行。战争结束后，他迫于头上的悬赏而转入地下。在我向Monst3r购买了无数情报后才意识到，那是Derek。"
 
 #: STRINGS.AGENTS.MONST3R.FILE
 msgctxt "STRINGS.AGENTS.MONST3R.FILE"
 msgid "FILE #XX-XXXXXX-XXXXXXX"
-msgstr ""
+msgstr "文件#XX-XXXXXX-XXXXXXX"
 
 #: STRINGS.AGENTS.MONST3R.HOMETOWN
 msgctxt "STRINGS.AGENTS.MONST3R.HOMETOWN"
 msgid "Manchester"
-msgstr ""
+msgstr "曼彻斯特"
 
 #: STRINGS.AGENTS.MONST3R.NAME
 msgctxt "STRINGS.AGENTS.MONST3R.NAME"
 msgid "Monst3r"
-msgstr ""
+msgstr "Monst3r"
 
 #: STRINGS.AGENTS.MONST3R.RESCUED
 msgctxt "STRINGS.AGENTS.MONST3R.RESCUED"
 msgid "Fancy meeting you here."
-msgstr ""
+msgstr "想不到在这遇到你。"
 
 #: STRINGS.AGENTS.MONST3R.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.MONST3R.YEARS_OF_SERVICE"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: STRINGS.AGENTS.NIKA.AGE
 msgctxt "STRINGS.AGENTS.NIKA.AGE"
 msgid "32"
-msgstr ""
+msgstr "32"
 
 #: STRINGS.AGENTS.NIKA.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.BIO"
 msgid "Muratova served as bodyguard to the head of the most powerful oil company in Russia. A hostile takeover attempt led to an extended melee, during which she neutralized two dozen would-be assassins.\n\nShe relented only after her employer died of a flashbang-induced heart attack. Not much of a conversationalist, Muratova prefers to let her actions do the talking."
-msgstr ""
+msgstr "Muratova 在俄罗斯为一名最具影响力的石油公司老总做保镖。再一次不怀好意的收购引起的大规模骚乱中，她使两打子刺客无计可施。只有在她的雇主死于闪光弹引起的心脏病突发后她才变得温和一些。作为一个不是特别健谈的人，Muratova更喜欢用行动来证明自己。"
 
 #: STRINGS.AGENTS.NIKA.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.FULLNAME"
 msgid "Nika Muratova"
-msgstr ""
+msgstr "Nika Muratova"
 
 #: STRINGS.AGENTS.NIKA.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.TOOLTIP"
 msgid "Blunt Instrument"
-msgstr ""
+msgstr "Blunt Instrument"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.AGE"
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.BIO"
 msgid "Muratova spent years honing her martial technique, and this training served her well in her previous employment as a body guard.\n\nShe has broken almost every bone in her body at least once, but it barely slows her down. She claims that it hurts less the more you do it."
-msgstr ""
+msgstr "Muratova用了很长时间来磨练她的武技，这在她之前的保镖生涯里表现的尤为明显。她的每根骨头都至少断过一次，然而这并不会阻挡她的脚步。她说，你做得越多就疼的越轻。"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.FULLNAME"
 msgid "ARCHIVED -- BODY GUARD"
-msgstr ""
+msgstr "达成成就：保镖"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.TOOLTIP"
 msgid "Body Guard"
-msgstr ""
+msgstr "保镖"
 
 #: STRINGS.AGENTS.NIKA.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.FINAL_WORDS.1"
 msgid "Just get it over with."
-msgstr ""
+msgstr "一切已是追忆。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.FINAL_WORDS.2"
 msgid "No more options. Goodbye world."
-msgstr ""
+msgstr "没路了。永别了。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.FINAL_WORDS.3"
 msgid "Uvidimsya v adu."
-msgstr ""
+msgstr "Uvidimsya v adu"
 
 #: STRINGS.AGENTS.NIKA.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.FINAL_WORDS.4"
 msgid "Do svidaniya."
-msgstr ""
+msgstr "До свидания（再见）。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.START.1
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.START.1"
 msgid "We are here."
-msgstr ""
+msgstr "我们在这"
 
 #: STRINGS.AGENTS.NIKA.BANTER.START.2
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.START.2"
 msgid "Ready to do the job."
-msgstr ""
+msgstr "准备开工了。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.START.3
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.START.3"
 msgid "I sense trouble up ahead. Be ready for it."
-msgstr ""
+msgstr "麻烦来了，准备好。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.START.4
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.START.4"
 msgid "If they try to stop us, we will stop them."
-msgstr ""
+msgstr "神挡杀神，佛挡杀佛。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.START.5
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.START.5"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: STRINGS.AGENTS.NIKA.BANTER.START.6
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.START.6"
 msgid "We will not be hindered."
-msgstr ""
+msgstr "没人能妨碍我们。"
 
 #: STRINGS.AGENTS.NIKA.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.NIKA.BIO_SPOKEN"
 msgid "Muratova is a deadly weapon in human form. One would think that such an aggressive style would be a liability, but she makes it work. Just try not make any sudden moves in her peripheral vision if you want your arms to remain in their sockets."
-msgstr ""
+msgstr "Muratova是致命的人形兵器。可能有人会想这样一种咄咄逼人的气势会惹麻烦，但她却把这种气势用得出神入化。千万不要尝试着在她的视线内做任何突然的事情，如果你还想让你的手臂呆在原来的位置的话。"
 
 #: STRINGS.AGENTS.NIKA.FILE
 msgctxt "STRINGS.AGENTS.NIKA.FILE"
 msgid "FILE #00-910303A-96581742"
-msgstr ""
+msgstr "文件#00-910303A-96581742"
 
 #: STRINGS.AGENTS.NIKA.HOMETOWN
 msgctxt "STRINGS.AGENTS.NIKA.HOMETOWN"
 msgid "Saint Petersburg"
-msgstr ""
+msgstr "圣彼得堡"
 
 #: STRINGS.AGENTS.NIKA.NAME
 msgctxt "STRINGS.AGENTS.NIKA.NAME"
 msgid "Nika"
-msgstr ""
+msgstr "Nika"
 
 #: STRINGS.AGENTS.NIKA.RESCUED
 msgctxt "STRINGS.AGENTS.NIKA.RESCUED"
 msgid "I was beginning to think you'd forgotten about me."
-msgstr ""
+msgstr "我都要以为你忘掉我了。"
 
 #: STRINGS.AGENTS.NIKA.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.NIKA.YEARS_OF_SERVICE"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: STRINGS.AGENTS.PRISM.AGE
 msgctxt "STRINGS.AGENTS.PRISM.AGE"
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #: STRINGS.AGENTS.PRISM.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.PRISM.ALT_1.BIO"
 msgid "Esther Martins was a rising Holovid star when a rival leaked her teenage participation in anti-corporate riots. Fired by her studio and facing an unrelenting public smear campaign, she faked her death and went underground.\n\nWith her dramatic training and a commandeered holorig, she spent a couple years running confidence jobs against corporate execs before joining Invisible."
-msgstr ""
+msgstr "Esther Martins曾是一名前途在望的好莱坞新星，直到她的竞争对手泄露她青年时曾参加反集团运动。面对被工作室炒掉和群众不停的诽谤，她制造出自己已死的假象并转入地下。"
 
 #: STRINGS.AGENTS.PRISM.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.PRISM.ALT_1.FULLNAME"
 msgid "Esther \"Prism\" Martins"
-msgstr ""
+msgstr "Esther Martins"
 
 #: STRINGS.AGENTS.PRISM.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.PRISM.ALT_1.TOOLTIP"
 msgid "Master of Disguise"
-msgstr ""
+msgstr "伪装大师"
 
 #: STRINGS.AGENTS.PRISM.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.FINAL_WORDS.1"
 msgid "How about a re-take?"
-msgstr ""
+msgstr "咔，重拍。？"
 
 #: STRINGS.AGENTS.PRISM.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.FINAL_WORDS.2"
 msgid "Is this the final curtain?"
-msgstr ""
+msgstr "这是最后一幕了吗？"
 
 #: STRINGS.AGENTS.PRISM.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.FINAL_WORDS.3"
 msgid "Do you want my autograph, first?"
-msgstr ""
+msgstr "那么开始之前，想要我的签名么？"
 
 #: STRINGS.AGENTS.PRISM.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.FINAL_WORDS.4"
 msgid "I'm so tired of running from you people."
-msgstr ""
+msgstr "我已经玩腻了，和你的人们躲猫猫。"
 
 #: STRINGS.AGENTS.PRISM.BANTER.START.1
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.START.1"
 msgid "Now you see me..."
-msgstr ""
+msgstr "现在，你看到我了。"
 
 #: STRINGS.AGENTS.PRISM.BANTER.START.2
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.START.2"
 msgid "I was right about these bastards all along."
-msgstr ""
+msgstr "对那帮王八蛋的话我一直很准。"
 
 #: STRINGS.AGENTS.PRISM.BANTER.START.3
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.START.3"
 msgid "My head is spinning!"
-msgstr ""
+msgstr "我的头...好晕！"
 
 #: STRINGS.AGENTS.PRISM.BANTER.START.4
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.START.4"
 msgid "These fat cats make me sick."
-msgstr ""
+msgstr "这些肥猫让我恶心。"
 
 #: STRINGS.AGENTS.PRISM.BANTER.START.5
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.START.5"
 msgid "Let's rob from the rich and give to ourselves."
-msgstr ""
+msgstr "来找土豪们补贴补贴家用吧。"
 
 #: STRINGS.AGENTS.PRISM.BANTER.START.6
 msgctxt "STRINGS.AGENTS.PRISM.BANTER.START.6"
 msgid "Perception is everything."
-msgstr ""
+msgstr "感觉就是一切。"
 
 #: STRINGS.AGENTS.PRISM.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.PRISM.BIO_SPOKEN"
 msgid "Esther is one of our newest recruits, and she shows great promise. She's certainly motivated to get back at the Corps, after the smear-job they did on her. I don't keep up with the Holovids, but even I had heard about her so-called 'youthful indiscretions'. The Corps are never more ruthless than when they are trying to control their public image. I feel the same may be said for Esther."
-msgstr ""
+msgstr "Esther是我们中最后来的，而她也展示出了十足的天分。经历了集团的侮辱和诽谤后，她有十足的动机报复他们。我不怎么了解娱乐圈的事，但即使是这样我也听说过她“年少轻狂”的事迹。集团在对于控制公众形象方面可谓是无所不用其极。这点上Esther也是一样的。"
 
 #: STRINGS.AGENTS.PRISM.FILE
 msgctxt "STRINGS.AGENTS.PRISM.FILE"
 msgid "FILE #00-910303A-96581742"
-msgstr ""
+msgstr "文件#00-910303A-96581742"
 
 #: STRINGS.AGENTS.PRISM.HOMETOWN
 msgctxt "STRINGS.AGENTS.PRISM.HOMETOWN"
 msgid "Nairobi"
-msgstr ""
+msgstr "Nairobi"
 
 #: STRINGS.AGENTS.PRISM.NAME
 msgctxt "STRINGS.AGENTS.PRISM.NAME"
 msgid "Prism"
-msgstr ""
+msgstr "Prism"
 
 #: STRINGS.AGENTS.PRISM.RESCUED
 msgctxt "STRINGS.AGENTS.PRISM.RESCUED"
 msgid "You won't regret this."
-msgstr ""
+msgstr "你不会后悔的。"
 
 #: STRINGS.AGENTS.PRISM.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.PRISM.YEARS_OF_SERVICE"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: STRINGS.AGENTS.PRISONER.AGE
 msgctxt "STRINGS.AGENTS.PRISONER.AGE"
 msgid "38"
-msgstr ""
+msgstr "38"
 
 #: STRINGS.AGENTS.PRISONER.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.PRISONER.ALT_1.BIO"
@@ -1510,32 +1510,32 @@ msgstr ""
 #: STRINGS.AGENTS.PRISONER.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.PRISONER.ALT_1.FULLNAME"
 msgid "Corporate Patsy"
-msgstr ""
+msgstr "集团懦夫"
 
 #: STRINGS.AGENTS.PRISONER.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.PRISONER.ALT_1.TOOLTIP"
 msgid "STATUS: weak, but ready to go"
-msgstr ""
+msgstr "状态：虚弱，但准备行动。"
 
 #: STRINGS.AGENTS.PRISONER.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.PRISONER.BANTER.FINAL_WORDS.1"
 msgid "I am not a number! I am a free man!"
-msgstr ""
+msgstr "我不是一个代号！我是一个自由的人！"
 
 #: STRINGS.AGENTS.PRISONER.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.PRISONER.BANTER.FINAL_WORDS.2"
 msgid "I'd rather be back in a cell..."
-msgstr ""
+msgstr "我宁愿回监狱去..."
 
 #: STRINGS.AGENTS.PRISONER.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.PRISONER.BANTER.FINAL_WORDS.3"
 msgid "Hope is a fragile thing."
-msgstr ""
+msgstr "希望那么脆弱。"
 
 #: STRINGS.AGENTS.PRISONER.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.PRISONER.BANTER.FINAL_WORDS.4"
 msgid "Spies. Can't trust the lot of 'em."
-msgstr ""
+msgstr "间谍。"
 
 #: STRINGS.AGENTS.PRISONER.FILE
 msgctxt "STRINGS.AGENTS.PRISONER.FILE"
@@ -1545,12 +1545,12 @@ msgstr ""
 #: STRINGS.AGENTS.PRISONER.HOMETOWN
 msgctxt "STRINGS.AGENTS.PRISONER.HOMETOWN"
 msgid "unknown"
-msgstr ""
+msgstr "未知"
 
 #: STRINGS.AGENTS.PRISONER.NAME
 msgctxt "STRINGS.AGENTS.PRISONER.NAME"
 msgid "Prisoner"
-msgstr ""
+msgstr "囚犯"
 
 #: STRINGS.AGENTS.PRISONER.RESCUED
 msgctxt "STRINGS.AGENTS.PRISONER.RESCUED"
@@ -1560,127 +1560,127 @@ msgstr ""
 #: STRINGS.AGENTS.PRISONER.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.PRISONER.YEARS_OF_SERVICE"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: STRINGS.AGENTS.SHALEM.AGE
 msgctxt "STRINGS.AGENTS.SHALEM.AGE"
 msgid "40"
-msgstr ""
+msgstr "40"
 
 #: STRINGS.AGENTS.SHALEM.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_1.BIO"
 msgid "Shalem was a licensed assassin with a perfect record and an ego to match. He specialized as a sharpshooter, and would track a target for months, patiently waiting for the perfect shot.\n\nEnjoying almost celebrity status, he was able to finance a lavish lifestyle from his contracts. Why he turned away from a life of fame and riches to work for Invisible is an open question."
-msgstr ""
+msgstr "Shalem曾是一个记录完美而好胜心又强的职业杀手。他作为一个专修狙击手，会花上数月的时间追踪目标，耐心地等待最佳的射击时间。由于享有盛名，他可以无休止地挥霍合同中挣来的钱。至于他为什么会放弃这样名利双收的生活而转为隐形公司效力，所有人都无从得知。"
 
 #: STRINGS.AGENTS.SHALEM.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_1.FULLNAME"
 msgid "Raymond \"Shalem 11\" Malik"
-msgstr ""
+msgstr "Raymond\Shalem\Malik"
 
 #: STRINGS.AGENTS.SHALEM.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_1.TOOLTIP"
 msgid "Licensed Assassin"
-msgstr ""
+msgstr "职业杀手"
 
 #: STRINGS.AGENTS.SHALEM.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_2.AGE"
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #: STRINGS.AGENTS.SHALEM.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_2.BIO"
 msgid "Shalem's mother was a conscript surgeon during the opening years of the Resource Wars. When she lost the use of her right hand in a mortar attack, she trained young Shalem to wield her scalpel for her.\n\nWhile his true passion lies in ending life, he still remembers how to preserve it."
-msgstr ""
+msgstr "Shalem的母亲在能源战争年检被征入伍称为军医。在她收到迫击炮袭击失去右手后，她教会小Shalem替她掌刀。他仍记得如何保护生命，尽管他更热衷于结束它。"
 
 #: STRINGS.AGENTS.SHALEM.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_2.FULLNAME"
 msgid "ARCHIVED -- COMBAT MEDIC"
-msgstr ""
+msgstr "达成成就：战地军医"
 
 #: STRINGS.AGENTS.SHALEM.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_2.TOOLTIP"
 msgid "Combat Medic"
-msgstr ""
+msgstr "战地军医"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.1"
 msgid "I should have stayed independent."
-msgstr ""
+msgstr "我应该一个人呆着。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.2"
 msgid "This is why I prefer to work alone."
-msgstr ""
+msgstr "这就是为什么我喜欢独行。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.3"
 msgid "A gun. Is that supposed to be irony? Ha."
-msgstr ""
+msgstr "一把枪。这是在嘲讽么？哼。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.4"
 msgid "Do me a favour aim for the heart. I want to leave a good looking corpse."
-msgstr ""
+msgstr "算我求你，瞄准心脏。我想留个全尸。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.1
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.1"
 msgid "In position. Now make this quick."
-msgstr ""
+msgstr "到达指定地点。赶快开工吧。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.2
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.2"
 msgid "Let me deal with any opposition."
-msgstr ""
+msgstr "任何反对意见都交给我处理。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.3
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.3"
 msgid "Why must these missions always be indoors?"
-msgstr ""
+msgstr "为什么所有的任务都在室内。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.4
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.4"
 msgid "Covering the sightlines."
-msgstr ""
+msgstr "掩盖视线。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.5
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.5"
 msgid "Best not dirty my suit."
-msgstr ""
+msgstr "最好别弄脏我的衣服。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.6
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.6"
 msgid "Damn - tight corners. I'd prefer a bit more room to maneuver."
-msgstr ""
+msgstr "艹，空间太小，好歹再给点地方能伸展开啊。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.7
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.7"
 msgid "No contacts on the roof. Proceeding to target."
-msgstr ""
+msgstr "屋顶上没有遭遇地方。正在向目标方向前进。"
 
 #: STRINGS.AGENTS.SHALEM.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.SHALEM.BIO_SPOKEN"
 msgid "Shalem is good at covering his tracks. I usually don't employ people I don't understand, but his skillset was too useful to pass up. He's obviously using us as a means to some personal end. We'll see who shows their hand first."
-msgstr ""
+msgstr "Shalem善于掩盖他的踪迹。我通常不会雇佣我看不懂的人，可他那实用的技能实在是不能坐视不管。很明显他是在利用我们达成他的个人目的。就让我们拭目以待，看是谁先摊牌吧。"
 
 #: STRINGS.AGENTS.SHALEM.FILE
 msgctxt "STRINGS.AGENTS.SHALEM.FILE"
 msgid "FILE #00-504490A-83654535"
-msgstr ""
+msgstr "文件#00-504490A-83654535"
 
 #: STRINGS.AGENTS.SHALEM.HOMETOWN
 msgctxt "STRINGS.AGENTS.SHALEM.HOMETOWN"
 msgid "Beirut"
-msgstr ""
+msgstr "Beirut"
 
 #: STRINGS.AGENTS.SHALEM.NAME
 msgctxt "STRINGS.AGENTS.SHALEM.NAME"
 msgid "Shalem 11"
-msgstr ""
+msgstr "Shalem 11"
 
 #: STRINGS.AGENTS.SHALEM.RESCUED
 msgctxt "STRINGS.AGENTS.SHALEM.RESCUED"
 msgid "Guess that means break time is over."
-msgstr ""
+msgstr "看来休息时间结束了。"
 
 #: STRINGS.AGENTS.SHALEM.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.SHALEM.YEARS_OF_SERVICE"
