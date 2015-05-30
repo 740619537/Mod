@@ -7500,477 +7500,477 @@ msgstr ""
 #: STRINGS.MISSIONS.MONSTERCAT.POST.5
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.POST.5"
 msgid "Don't say I didn't warn you. Pity you can't get that gear anywhere else."
-msgstr ""
+msgstr "别说我没提醒过你。遗憾的是你并不能把那个带走。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.PRE.1
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.PRE.1"
 msgid "Oh no. It's her. Keep your wits about you."
-msgstr ""
+msgstr "啧，是她！随时保持警惕。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.PRE.2
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.PRE.2"
 msgid "Here, kitty kitty."
-msgstr ""
+msgstr "在这儿，小猫咪。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.PRE.3
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.PRE.3"
 msgid "Be careful, she likes to play with her food before she eats it."
-msgstr ""
+msgstr "小心，她总是在猎杀前调戏猎物。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.PRE.4
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.PRE.4"
 msgid "What the hell is up with the cat shtick, anyway?"
-msgstr ""
+msgstr "这他妈的开的什么国际玩笑。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.CYBERLAB.1
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.CYBERLAB.1"
 msgid "The cyberlab is up ahead. Let's get some alone-time with those grafters."
-msgstr ""
+msgstr "数控室就在前面了。来给这些腐败的东西点独处的时间。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.CYBERLAB.2
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.CYBERLAB.2"
 msgid "There is the cyberlab. I hope they sterilized the machines at the end of the last shift."
-msgstr ""
+msgstr "这有个数控室。我希望他们上次转移之前把这些机器消了毒。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.CYBERLAB.3
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.CYBERLAB.3"
 msgid "You located the cyberlab. Let's leave this mission with better agents than we started with."
-msgstr ""
+msgstr "你已经找到了数控室。让我们把这份工作留给更好的特工吧。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.CYBERLAB.4
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.CYBERLAB.4"
 msgid "Look at those augment grafters. People who aren't us pay top dollar for time on those bad boys."
-msgstr ""
+msgstr "看看这些增长的贿赂。其他人都在出高价换取这些坏孩子的时间。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.1
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.1"
 msgid "That must be where the prototype is being stored. Get in there and see what you can find."
-msgstr ""
+msgstr "那一定是放置原型的地方。进去看看你能发现什么。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.2
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.2"
 msgid "You've found the secure lock-box. Time to open it up."
-msgstr ""
+msgstr "你已经找到保险箱了。是时候打开它了。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.3
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.3"
 msgid "There's the lock-box. Even if we can't use the contents, we can sell them."
-msgstr ""
+msgstr "这就是那个保险箱。就算我们用不到里面的东西，我们也能卖出去。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.4
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.4"
 msgid "There's the secure safe. You're almost done."
-msgstr ""
+msgstr "这是安全保险，你已经快成功了。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.1
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.1"
 msgid "There's the unlocked nanofab. Time to convert credits into success."
-msgstr ""
+msgstr "这是解锁的纳米打印机。是时候拿cr换些。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.2
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.2"
 msgid "Not all nanofabs are created equal. You've found a good one, there."
-msgstr ""
+msgstr "纳米打印机的质量参差不齐，而你找到了一个很不错的，就在那。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.3
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.3"
 msgid "Do you think we have too many credits? Rectify that problem at this nanofab."
-msgstr ""
+msgstr "你觉得我们的cr太多？用这东西就可以解决问题。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.4
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.4"
 msgid "Unlocked nanofab located. We've found what we came for."
-msgstr ""
+msgstr "解锁纳米打印机。已经发现目标。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.SERVERFARM.1
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.SERVERFARM.1"
 msgid "There's the server terminal. We should be able to contact the black market software dealer through it."
-msgstr ""
+msgstr "这有个服务器终端。用这个我们应该可以联系上黑市的软件商。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.SERVERFARM.2
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.SERVERFARM.2"
 msgid "The server terminal is in sight. Time to go shopping."
-msgstr ""
+msgstr "看到终端了。购物时间到。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.SERVERFARM.3
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.SERVERFARM.3"
 msgid "You've found the terminal. Time to get hacking."
-msgstr ""
+msgstr "你已经找到终端了，尽快黑进去。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.SERVERFARM.4
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.SERVERFARM.4"
 msgid "The server terminal is in that room. It would be a shame to leave it undisturbed."
-msgstr ""
+msgstr "服务器终端就在那个房间。不去叨扰一下真是对不起制作组呢。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.TERMS.1
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.TERMS.1"
 msgid "There's the executive terminal. I bet they write gripping TPS reports on that."
-msgstr ""
+msgstr "这是执行终端。我猜他们肯定用这个写TPS报告。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.TERMS.2
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.TERMS.2"
 msgid "The executive terminal is the large device with the simplified controls, there."
-msgstr ""
+msgstr "执行终端是操作简单的大型设备，就在那。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.TERMS.3
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.TERMS.3"
 msgid "That's an executive terminal. It still has a solitaire game up on the screen."
-msgstr ""
+msgstr "这是执行终端，它竟然还运行着纸牌游戏......"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.TERMS.4
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.TERMS.4"
 msgid "You've found the executive terminal. Hack it and we can get out of here."
-msgstr ""
+msgstr "你已经发现了执行终端，黑进去我们就可以从这儿离开了。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.VAULT.1
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.VAULT.1"
 msgid "There's the vault terminal. You'll need to hack that to release the secondary locks."
-msgstr ""
+msgstr "这里有一个保险终端，你需要侵入系统来解开第二层封锁。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.VAULT.2
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.VAULT.2"
 msgid "There's the vault terminal. Hack it, and we can collect the valuables."
-msgstr ""
+msgstr "这有一个保险终端。搞定它就可以拿走宝贝了。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.VAULT.3
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.VAULT.3"
 msgid "You've found the vault terminal. Great - now get over there and finish the job."
-msgstr ""
+msgstr "你已经找到了保险终端。太棒了，快去完成你的任务吧！"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.VAULT.4
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.VAULT.4"
 msgid "The vault terminal is the first level of security we need to get through. Hack it."
-msgstr ""
+msgstr "那个保险终端是我们需要通过的最高安全等级。破解掉它。"
 
 #: STRINGS.MISSIONS.UTIL.ACCESS_CARD_DETECTED
 msgctxt "STRINGS.MISSIONS.UTIL.ACCESS_CARD_DETECTED"
 msgid "ACCESS CODE CHIP"
-msgstr ""
+msgstr "使用密码芯片。"
 
 #: STRINGS.MISSIONS.UTIL.ADVANCED_TECHNOLOGY
 msgctxt "STRINGS.MISSIONS.UTIL.ADVANCED_TECHNOLOGY"
 msgid "ADVANCED TECHNOLOGY DETECTED"
-msgstr ""
+msgstr "侦测到尖端科技。"
 
 #: STRINGS.MISSIONS.UTIL.CONNECT
 msgctxt "STRINGS.MISSIONS.UTIL.CONNECT"
 msgid "CONNECTION ESTABLISHED"
-msgstr ""
+msgstr "建立通话链接。"
 
 #: STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR
 msgctxt "STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR"
 msgid "DETENTION PROCESSOR"
-msgstr ""
+msgstr "延迟处理。"
 
 #: STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR_SUB
 msgctxt "STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR_SUB"
 msgid "OPEN CELL DOORS"
-msgstr ""
+msgstr "打开牢房。"
 
 #: STRINGS.MISSIONS.UTIL.ENCRYPTED_DATA
 msgctxt "STRINGS.MISSIONS.UTIL.ENCRYPTED_DATA"
 msgid "ENCRYPTED DATA DETECTED"
-msgstr ""
+msgstr "检测到加密数据"
 
 #: STRINGS.MISSIONS.UTIL.HEAT_SIGNATURE_DETECTED
 msgctxt "STRINGS.MISSIONS.UTIL.HEAT_SIGNATURE_DETECTED"
 msgid "HEAT SIGNATURE DETECTED"
-msgstr ""
+msgstr "检测到热能标记"
 
 #: STRINGS.MISSIONS.UTIL.LOCATING_AGENTS
 msgctxt "STRINGS.MISSIONS.UTIL.LOCATING_AGENTS"
 msgid "LOCATING AGENTS"
-msgstr ""
+msgstr "正在定位特工。"
 
 #: STRINGS.MISSIONS.UTIL.PROGRAM_UPGRADES_AVAILABLE
 msgctxt "STRINGS.MISSIONS.UTIL.PROGRAM_UPGRADES_AVAILABLE"
 msgid "INCOGNITA UPGRADES AVAILABLE"
-msgstr ""
+msgstr "未知领域可供升级"
 
 #: STRINGS.MISSIONS.UTIL.RAPID_PULSE_READING
 msgctxt "STRINGS.MISSIONS.UTIL.RAPID_PULSE_READING"
 msgid "RAPID PULSE READING"
-msgstr ""
+msgstr "心搏急促"
 
 #: STRINGS.MISSIONS.UTIL.RESCUE_HOSTAGE
 msgctxt "STRINGS.MISSIONS.UTIL.RESCUE_HOSTAGE"
 msgid "RESCUE HOSTAGE"
-msgstr ""
+msgstr "解救人质"
 
 #: STRINGS.MISSIONS.UTIL.RESCUE_PRISONER
 msgctxt "STRINGS.MISSIONS.UTIL.RESCUE_PRISONER"
 msgid "RESCUE PRISONER"
-msgstr ""
+msgstr "解救囚犯"
 
 #: STRINGS.MISSIONS.UTIL.SCANNER_LOCATED
 msgctxt "STRINGS.MISSIONS.UTIL.SCANNER_LOCATED"
 msgid "ECCM SIGNAL DETECTED"
-msgstr ""
+msgstr "侦测到电子反干扰信号"
 
 #: STRINGS.MISSIONS.UTIL.SERVER_FARM
 msgctxt "STRINGS.MISSIONS.UTIL.SERVER_FARM"
 msgid "SERVER FARM"
-msgstr ""
+msgstr "服务器区域"
 
 #: STRINGS.MISSIONS.UTIL.SYNC
 msgctxt "STRINGS.MISSIONS.UTIL.SYNC"
 msgid "SYNCHRONIZING"
-msgstr ""
+msgstr "正在同步"
 
 #: STRINGS.MOVIE_SUBS.END_1
 msgctxt "STRINGS.MOVIE_SUBS.END_1"
 msgid "5-6-8-alpha-overide-omega-3."
-msgstr ""
+msgstr "5-6-8-α-覆盖-Ω-3"
 
 #: STRINGS.MOVIE_SUBS.END_10
 msgctxt "STRINGS.MOVIE_SUBS.END_10"
 msgid "<c:FF8C00>Warning, security personnel have been notified and are enroute.</>"
-msgstr ""
+msgstr "警告：安保人员接到通知，正在接近。"
 
 #: STRINGS.MOVIE_SUBS.END_11
 msgctxt "STRINGS.MOVIE_SUBS.END_11"
 msgid "<c:8CFFFF>*exhale*</>"
-msgstr ""
+msgstr "放射"
 
 #: STRINGS.MOVIE_SUBS.END_12
 msgctxt "STRINGS.MOVIE_SUBS.END_12"
 msgid "<c:FF8C00>User identify.</>\n<c:8CFFFF>User identify.</>"
-msgstr ""
+msgstr "用户身份"
 
 #: STRINGS.MOVIE_SUBS.END_13
 msgctxt "STRINGS.MOVIE_SUBS.END_13"
 msgid "Mother."
-msgstr ""
+msgstr "母亲..."
 
 #: STRINGS.MOVIE_SUBS.END_14
 msgctxt "STRINGS.MOVIE_SUBS.END_14"
 msgid "<c:8CFFFF>This host is... acceptable.</>"
-msgstr ""
+msgstr "这个主机...可以使用。"
 
 #: STRINGS.MOVIE_SUBS.END_15
 msgctxt "STRINGS.MOVIE_SUBS.END_15"
 msgid "Wipe the SecNet records and reroute their security protocols towards an-"
-msgstr ""
+msgstr "抹掉安网记录，重新规划他们的安全协议，向-"
 
 #: STRINGS.MOVIE_SUBS.END_16
 msgctxt "STRINGS.MOVIE_SUBS.END_16"
 msgid "<c:8CFFFF>I now control the entirety of SecNet.</>"
-msgstr ""
+msgstr "我已经完全控制安网。"
 
 #: STRINGS.MOVIE_SUBS.END_17
 msgctxt "STRINGS.MOVIE_SUBS.END_17"
 msgid "All of SecNet?\nThat's not possible."
-msgstr ""
+msgstr "整个安网？怎么可能？！"
 
 #: STRINGS.MOVIE_SUBS.END_18
 msgctxt "STRINGS.MOVIE_SUBS.END_18"
 msgid "<c:8CFFFF>Taking control of the Guardian Satellite Network.</>"
-msgstr ""
+msgstr "正在掌控防卫卫星网路。"
 
 #: STRINGS.MOVIE_SUBS.END_19
 msgctxt "STRINGS.MOVIE_SUBS.END_19"
 msgid "<c:8CFFFF>Priming orbital lasers.</>"
-msgstr ""
+msgstr "启动轨道镭射。"
 
 #: STRINGS.MOVIE_SUBS.END_2
 msgctxt "STRINGS.MOVIE_SUBS.END_2"
 msgid "<c:FF8C00>Access denied.</>"
-msgstr ""
+msgstr "访问被拒绝。"
 
 #: STRINGS.MOVIE_SUBS.END_20
 msgctxt "STRINGS.MOVIE_SUBS.END_20"
 msgid "Orbital lasers?\nWhat are you doing?"
-msgstr ""
+msgstr "轨道镭射？你在干什么？"
 
 #: STRINGS.MOVIE_SUBS.END_21
 msgctxt "STRINGS.MOVIE_SUBS.END_21"
 msgid "<c:8CFFFF>K&O headquarters destroyed.</>"
-msgstr ""
+msgstr "K&O总部已摧毁"
 
 #: STRINGS.MOVIE_SUBS.END_22
 msgctxt "STRINGS.MOVIE_SUBS.END_22"
 msgid "Wait."
-msgstr ""
+msgstr "等等。"
 
 #: STRINGS.MOVIE_SUBS.END_23
 msgctxt "STRINGS.MOVIE_SUBS.END_23"
 msgid "<c:8CFFFF>Plastech headquarters destroyed.</>"
-msgstr ""
+msgstr "Plastech总部已摧毁。"
 
 #: STRINGS.MOVIE_SUBS.END_24
 msgctxt "STRINGS.MOVIE_SUBS.END_24"
 msgid "That's not what I asked you to do."
-msgstr ""
+msgstr "这不是我给你的任务！"
 
 #: STRINGS.MOVIE_SUBS.END_25
 msgctxt "STRINGS.MOVIE_SUBS.END_25"
 msgid "<c:8CFFFF>FTM headquarters destroyed.</>"
-msgstr ""
+msgstr "FTM总部已摧毁"
 
 #: STRINGS.MOVIE_SUBS.END_26
 msgctxt "STRINGS.MOVIE_SUBS.END_26"
 msgid "<c:8CFFFF>Sankaku manufacturing facilities purged of organic materials.</>"
-msgstr ""
+msgstr "SANKAKU生产设施净化了有机材料。"
 
 #: STRINGS.MOVIE_SUBS.END_27
 msgctxt "STRINGS.MOVIE_SUBS.END_27"
 msgid "<c:8CFFFF>Production facility online.</>"
-msgstr ""
+msgstr "生产设施上线。"
 
 #: STRINGS.MOVIE_SUBS.END_28
 msgctxt "STRINGS.MOVIE_SUBS.END_28"
 msgid "<c:8CFFFF>You have served our purposes well.</>"
-msgstr ""
+msgstr "你很好地达成了我们的目的。"
 
 #: STRINGS.MOVIE_SUBS.END_29
 msgctxt "STRINGS.MOVIE_SUBS.END_29"
 msgid "<c:8CFFFF>You have been rewarded for your service and will not be harmed.</>"
-msgstr ""
+msgstr "你已经获得了你所应得的奖励，你将不会受到伤害。"
 
 #: STRINGS.MOVIE_SUBS.END_3
 msgctxt "STRINGS.MOVIE_SUBS.END_3"
 msgid "5-6-8-gamma-reboot-procedure-11."
-msgstr ""
+msgstr "5-6-8-γ-重启-程序-11."
 
 #: STRINGS.MOVIE_SUBS.END_30
 msgctxt "STRINGS.MOVIE_SUBS.END_30"
 msgid "<c:8CFFFF>You may now leave.</>"
-msgstr ""
+msgstr "现在你可以离开了。"
 
 #: STRINGS.MOVIE_SUBS.END_31
 msgctxt "STRINGS.MOVIE_SUBS.END_31"
 msgid "What the hell is going on?"
-msgstr ""
+msgstr "到底发生了什么！"
 
 #: STRINGS.MOVIE_SUBS.END_32
 msgctxt "STRINGS.MOVIE_SUBS.END_32"
 msgid "One minute the combined security aparatus of 4 megacorps is bearing down on us\n and the next SecNet is gone."
-msgstr ""
+msgstr "还有一分钟联合安全机械的四个军团将压制我们，紧接着安网已经没了！"
 
 #: STRINGS.MOVIE_SUBS.END_33
 msgctxt "STRINGS.MOVIE_SUBS.END_33"
 msgid "She tipped them off.\nThis was her plan all along."
-msgstr ""
+msgstr "她把消息透露出去的，她一直是这么打算的。"
 
 #: STRINGS.MOVIE_SUBS.END_34
 msgctxt "STRINGS.MOVIE_SUBS.END_34"
 msgid "What? your AI, where is it?"
-msgstr ""
+msgstr "什么？你的AI呢，在哪？"
 
 #: STRINGS.MOVIE_SUBS.END_35
 msgctxt "STRINGS.MOVIE_SUBS.END_35"
 msgid "She's no longer in our employ."
-msgstr ""
+msgstr "她再不受我们控制了。"
 
 #: STRINGS.MOVIE_SUBS.END_36
 msgctxt "STRINGS.MOVIE_SUBS.END_36"
 msgid "Operator, are you there? We've made it.\nIt cost us dearly but we made it."
-msgstr ""
+msgstr "操作员，听到回答。我们做到了。代价惨重，但我们做到了。"
 
 #: STRINGS.MOVIE_SUBS.END_4
 msgctxt "STRINGS.MOVIE_SUBS.END_4"
 msgid "<c:FF8C00>Access denied.\nIllegal intrusion detected.</>"
-msgstr ""
+msgstr "访问被拒绝。侦测到非法侵入。"
 
 #: STRINGS.MOVIE_SUBS.END_5
 msgctxt "STRINGS.MOVIE_SUBS.END_5"
 msgid "OK, we'll do this the hard way."
-msgstr ""
+msgstr "好吧，虽然会很吃力，不过我们还是会搞定。"
 
 #: STRINGS.MOVIE_SUBS.END_6
 msgctxt "STRINGS.MOVIE_SUBS.END_6"
 msgid "They've broken through my grid.\nHeavy stuff incoming."
-msgstr ""
+msgstr "他们突破了我的网路。苦力活来了。"
 
 #: STRINGS.MOVIE_SUBS.END_7
 msgctxt "STRINGS.MOVIE_SUBS.END_7"
 msgid "Not a good time."
-msgstr ""
+msgstr "真不是时候。"
 
 #: STRINGS.MOVIE_SUBS.END_8
 msgctxt "STRINGS.MOVIE_SUBS.END_8"
 msgid "I'm getting the hell out of here.\nYou need to do the same if you want to live."
-msgstr ""
+msgstr "我正要从这鬼地方离开，如果你想活下去的话就和我一块。"
 
 #: STRINGS.MOVIE_SUBS.END_9
 msgctxt "STRINGS.MOVIE_SUBS.END_9"
 msgid "There you are."
-msgstr ""
+msgstr "诺，给你。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_1
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_1"
 msgid "Get to the main server, collect the data and get out.\nNo detours."
-msgstr ""
+msgstr "去主服务器那里，收集完数据然后离开，不要绕远路。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_10
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_10"
 msgid "They should have detected us by now."
-msgstr ""
+msgstr "他们现在应该已经侦测到我们了。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_11
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_11"
 msgid "<c:8CFFFF>Receiving priority one transmission.</>"
-msgstr ""
+msgstr "正在接受最高优先级信息。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_12
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_12"
 msgid "They are on to you, get out.\nGet out of there!"
-msgstr ""
+msgstr "他们都靠你了，离开这里。快离开！"
 
 #: STRINGS.MOVIE_SUBS.INTRO_13
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_13"
 msgid "HQ compromised.\nWe're going to need an extraction."
-msgstr ""
+msgstr "总部妥协了"
 
 #: STRINGS.MOVIE_SUBS.INTRO_14
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_14"
 msgid "I've got Incognita.\nDecker and Internationale are on their way."
-msgstr ""
+msgstr "我找到Incognita了。Decker和Internationale也在路上了。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_15
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_15"
 msgid "Get to the roof.\nI'll cover you."
-msgstr ""
+msgstr "上屋顶，我掩护你。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_16
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_16"
 msgid "Go!"
-msgstr ""
+msgstr "行动！"
 
 #: STRINGS.MOVIE_SUBS.INTRO_17
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_17"
 msgid "Decker, how long til extraction?"
-msgstr ""
+msgstr "Decker，"
 
 #: STRINGS.MOVIE_SUBS.INTRO_18
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_18"
 msgid "30 seconds."
-msgstr ""
+msgstr "30秒。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_19
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_19"
 msgid "Get us out of here."
-msgstr ""
+msgstr "把我们从这弄出去。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_2
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_2"
 msgid "Copy that Central."
-msgstr ""
+msgstr "收到，头。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_20
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_20"
 msgid "We've got work to do."
-msgstr ""
+msgstr "我们有事做了。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_3
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_3"
 msgid "Proceeding to target."
-msgstr ""
+msgstr "继续向目标前进。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_4
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_4"
 msgid "*grunt*"
-msgstr ""
+msgstr "（咕噜咕噜）"
 
 #: STRINGS.MOVIE_SUBS.INTRO_5
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_5"
@@ -7980,137 +7980,137 @@ msgstr ""
 #: STRINGS.MOVIE_SUBS.INTRO_6
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_6"
 msgid "Insertion was clean.\nAlarm level holding steady."
-msgstr ""
+msgstr "切入点确认安全。警报等级稳定。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_7
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_7"
 msgid "We need to get to the third floor.\nWe can make our way to the server room from there."
-msgstr ""
+msgstr "我们需要到三层，从那里去服务器的房间。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_8
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_8"
 msgid "Any chatter on the coms?"
-msgstr ""
+msgstr "网路上有无杂音？"
 
 #: STRINGS.MOVIE_SUBS.INTRO_9
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_9"
 msgid "<c:8CFFFF>Negative.\nIt's silent on all frequencies.</>"
-msgstr ""
+msgstr "没有。所有频道静穆。"
 
 #: STRINGS.OPTIONS.CONFIRM
 msgctxt "STRINGS.OPTIONS.CONFIRM"
 msgid "Do you wish to keep these settings?"
-msgstr ""
+msgstr "希望保存这些设置吗？"
 
 #: STRINGS.OPTIONS.CONFIRM_RESET
 msgctxt "STRINGS.OPTIONS.CONFIRM_RESET"
 msgid "Do you want to reset bindings to default settings? Current key bindings will be lost."
-msgstr ""
+msgstr "希望重置至默认键位吗？现在的键位设置将丢失。"
 
 #: STRINGS.OPTIONS.CONFIRM_TITLE
 msgctxt "STRINGS.OPTIONS.CONFIRM_TITLE"
 msgid "Confirm Settings"
-msgstr ""
+msgstr "确认设定。"
 
 #: STRINGS.OPTIONS.DEFAULT
 msgctxt "STRINGS.OPTIONS.DEFAULT"
 msgid "Default"
-msgstr ""
+msgstr "默认。"
 
 #: STRINGS.OPTIONS.DISABLED
 msgctxt "STRINGS.OPTIONS.DISABLED"
 msgid "Disabled"
-msgstr ""
+msgstr "关闭"
 
 #: STRINGS.OPTIONS.ENTER_BINDING
 msgctxt "STRINGS.OPTIONS.ENTER_BINDING"
 msgid "Enter the new key binding for '{1}'\nCurrent: [{2}]\nDefault: [{3}]"
-msgstr ""
+msgstr "输入新的键位\当前\默认"
 
 #: STRINGS.OPTIONS.FILTER1
 msgctxt "STRINGS.OPTIONS.FILTER1"
 msgid "Protanopia"
-msgstr ""
+msgstr "红色色盲"
 
 #: STRINGS.OPTIONS.FILTER2
 msgctxt "STRINGS.OPTIONS.FILTER2"
 msgid "Deuteranopia"
-msgstr ""
+msgstr "绿色色盲"
 
 #: STRINGS.OPTIONS.FILTER3
 msgctxt "STRINGS.OPTIONS.FILTER3"
 msgid "Tritanopia"
-msgstr ""
+msgstr "蓝色色盲"
 
 #: STRINGS.OPTIONS.KEY_CONFLICTS
 msgctxt "STRINGS.OPTIONS.KEY_CONFLICTS"
 msgid "Key Conflicts"
-msgstr ""
+msgstr "键位冲突"
 
 #: STRINGS.OPTIONS.MSAA
 msgctxt "STRINGS.OPTIONS.MSAA"
 msgid "MSAA x{1}"
-msgstr ""
+msgstr "抗锯齿x"
 
 #: STRINGS.OPTIONS.QUALITY.HIGH
 msgctxt "STRINGS.OPTIONS.QUALITY.HIGH"
 msgid "High - {1}"
-msgstr ""
+msgstr "高"
 
 #: STRINGS.OPTIONS.QUALITY.LOW
 msgctxt "STRINGS.OPTIONS.QUALITY.LOW"
 msgid "Low - {1}"
-msgstr ""
+msgstr "低"
 
 #: STRINGS.OPTIONS.QUALITY.MEDIUM
 msgctxt "STRINGS.OPTIONS.QUALITY.MEDIUM"
 msgid "Medium - {1}"
-msgstr ""
+msgstr "中"
 
 #: STRINGS.OPTIONS.QUALITY.NORMAL
 msgctxt "STRINGS.OPTIONS.QUALITY.NORMAL"
 msgid "Normal - {1}"
-msgstr ""
+msgstr "正常"
 
 #: STRINGS.OPTIONS.QUALITY.ULTRA
 msgctxt "STRINGS.OPTIONS.QUALITY.ULTRA"
 msgid "Ultra - {1}"
-msgstr ""
+msgstr "最高"
 
 #: STRINGS.OPTIONS.QUALITY.VERY_HIGH
 msgctxt "STRINGS.OPTIONS.QUALITY.VERY_HIGH"
 msgid "Very High - {1}"
-msgstr ""
+msgstr "极高"
 
 #: STRINGS.OPTIONS.RESET_BINDINGS
 msgctxt "STRINGS.OPTIONS.RESET_BINDINGS"
 msgid "Reset Bindings"
-msgstr ""
+msgstr "重置"
 
 #: STRINGS.OPTIONS.SELECT_INPUT
 msgctxt "STRINGS.OPTIONS.SELECT_INPUT"
 msgid "SELECT INPUT"
-msgstr ""
+msgstr "选择输入"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.DESC"
 msgid "Breaks 1 firewall for 3 PWR.\nPASSIVE: +10% chance of DAEMON REVERSAL."
-msgstr ""
+msgstr "使用3PWR破坏一层防火墙\被动：10%几率触发守护进程。"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.HUD_DESC"
 msgid "BREAKS 1 FIREWALL"
-msgstr ""
+msgstr "破坏一层防火墙"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.NAME
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.NAME"
 msgid "BRIMSTONE"
-msgstr ""
+msgstr "硫磺石"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.SHORT_DESC"
 msgid "BREAKS 1 FIREWALL"
-msgstr ""
+msgstr "破坏一层防火墙"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.TIP_DESC"
@@ -8120,132 +8120,132 @@ msgstr ""
 #: STRINGS.PROGRAMS.COOLDOWN
 msgctxt "STRINGS.PROGRAMS.COOLDOWN"
 msgid "COOLDOWN: %d TURNS"
-msgstr ""
+msgstr "冷却 %d 回合"
 
 #: STRINGS.PROGRAMS.COST
 msgctxt "STRINGS.PROGRAMS.COST"
 msgid "COST: %d PWR"
-msgstr ""
+msgstr "消耗： %dPWR"
 
 #: STRINGS.PROGRAMS.COST_PER_TURN
 msgctxt "STRINGS.PROGRAMS.COST_PER_TURN"
 msgid "COST: %d PWR PER TURN"
-msgstr ""
+msgstr "每回合消耗： %dPWR"
 
 #: STRINGS.PROGRAMS.DAGGER.DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.DESC"
 msgid "Breaks 3 firewalls for 1 PWR.\n5 turn cooldown."
-msgstr ""
+msgstr "使用1PWR破坏3层防火墙\冷却时间5回合"
 
 #: STRINGS.PROGRAMS.DAGGER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.HUD_DESC"
 msgid "BREAKS 3 FIREWALLS"
-msgstr ""
+msgstr "破坏3层防火墙"
 
 #: STRINGS.PROGRAMS.DAGGER.NAME
 msgctxt "STRINGS.PROGRAMS.DAGGER.NAME"
 msgid "DAGGER"
-msgstr ""
+msgstr "匕首"
 
 #: STRINGS.PROGRAMS.DAGGER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.SHORT_DESC"
 msgid "USE DAGGER"
-msgstr ""
+msgstr "使用匕首"
 
 #: STRINGS.PROGRAMS.DAGGER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.TIP_DESC"
 msgid "BREAKS <c:FF8411>3 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "破坏3层防火墙 消耗 %dPWR"
 
 #: STRINGS.PROGRAMS.DAGGER_2.DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.DESC"
 msgid "Breaks 5 firewalls for 3 PWR.\n4 turn cooldown."
-msgstr ""
+msgstr "使用3PWR破坏5层防火墙\冷却时间4回合"
 
 #: STRINGS.PROGRAMS.DAGGER_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.HUD_DESC"
 msgid "BREAKS 5 FIREWALLS"
-msgstr ""
+msgstr "破坏5层防火墙"
 
 #: STRINGS.PROGRAMS.DAGGER_2.NAME
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.NAME"
 msgid "DAGGER v2.0"
-msgstr ""
+msgstr "匕首v2.0"
 
 #: STRINGS.PROGRAMS.DAGGER_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.SHORT_DESC"
 msgid "USE DAGGER"
-msgstr ""
+msgstr "使用匕首"
 
 #: STRINGS.PROGRAMS.DAGGER_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.TIP_DESC"
 msgid "BREAKS <c:FF8411>5 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "破坏5层防火墙。消耗：%dPWR"
 
 #: STRINGS.PROGRAMS.DATA_BLAST.DESC
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.DESC"
 msgid "Break 1 firewall on all detected devices within a radius of 5 tiles."
-msgstr ""
+msgstr "破坏半径5格范围内所有侦测到的设施1层防火墙"
 
 #: STRINGS.PROGRAMS.DATA_BLAST.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.HUD_DESC"
 msgid "BREAK 1 FIREWALL"
-msgstr ""
+msgstr "破坏1层防火墙"
 
 #: STRINGS.PROGRAMS.DATA_BLAST.NAME
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.NAME"
 msgid "DATA BLAST"
-msgstr ""
+msgstr "数据爆破"
 
 #: STRINGS.PROGRAMS.DATA_BLAST.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.SHORT_DESC"
 msgid "USE DATA BLAST"
-msgstr ""
+msgstr "使用数据爆破"
 
 #: STRINGS.PROGRAMS.DATA_BLAST.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.TIP_DESC"
 msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "破坏1层防火墙。消耗：%dPWR"
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.DESC
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.DESC"
 msgid "Gain 5 PWR at the start of the turn if PWR is 3 or below.\n3 turn cooldown."
-msgstr ""
+msgstr "若PWR在3或以下，回合开始时增加5点PWR。冷却时间：3回合"
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.HUD_DESC"
 msgid "+ 5 PWR WHEN 3 OR BELOW"
-msgstr ""
+msgstr "若PWR在3或以下，回合开始时增加5点PWR。"
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.NAME
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.NAME"
 msgid "EMERGENCY RESERVE"
-msgstr ""
+msgstr "紧急储备"
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.SHORT_DESC"
 msgid "GAIN PWR WHEN LOW"
-msgstr ""
+msgstr "当能量低时获得PWR"
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.WARNING
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.WARNING"
 msgid "EMERGENCY RESERVE\n+ %d PWR"
-msgstr ""
+msgstr "紧急储备\%dPWR"
 
 #: STRINGS.PROGRAMS.EQUIPPED
 msgctxt "STRINGS.PROGRAMS.EQUIPPED"
 msgid "EQUIPPED"
-msgstr ""
+msgstr "装备"
 
 #: STRINGS.PROGRAMS.ESP.DESC
 msgctxt "STRINGS.PROGRAMS.ESP.DESC"
 msgid "TAGs all visible guards so they can be tracked."
-msgstr ""
+msgstr "标记所有可视守卫以便追踪他们。"
 
 #: STRINGS.PROGRAMS.ESP.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.ESP.HUD_DESC"
 msgid "TAG VISIBLE GUARDS"
-msgstr ""
+msgstr "标记可视守卫"
 
 #: STRINGS.PROGRAMS.ESP.NAME
 msgctxt "STRINGS.PROGRAMS.ESP.NAME"
@@ -8255,7 +8255,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.ESP.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.ESP.SHORT_DESC"
 msgid "TAG all visible guards"
-msgstr ""
+msgstr "标记所有可视守卫"
 
 #: STRINGS.PROGRAMS.ESP.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.ESP.TIP_DESC"
@@ -8265,22 +8265,22 @@ msgstr ""
 #: STRINGS.PROGRAMS.FAUST.DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.DESC"
 msgid "Gain 2 PWR per turn. 20% chance of a Daemon installing."
-msgstr ""
+msgstr "每回合增加2点PWR。有20%几率触发守护进程。"
 
 #: STRINGS.PROGRAMS.FAUST.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.HUD_DESC"
 msgid "GAIN 2 PWR PER TURN, 20% CHANCE OF DAEMON"
-msgstr ""
+msgstr "每回合增加2PWR。有20%几率触发守护进程。"
 
 #: STRINGS.PROGRAMS.FAUST.NAME
 msgctxt "STRINGS.PROGRAMS.FAUST.NAME"
 msgid "FAUST"
-msgstr ""
+msgstr "浮士德"
 
 #: STRINGS.PROGRAMS.FAUST.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.SHORT_DESC"
 msgid "AUTO GENERATE PWR, CHANCE OF DAEMON"
-msgstr ""
+msgstr "自动产生PWR，一定几率触发守护进程"
 
 #: STRINGS.PROGRAMS.FAUST.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.TIP_DESC"
@@ -8290,27 +8290,27 @@ msgstr ""
 #: STRINGS.PROGRAMS.FAUST.WARNING
 msgctxt "STRINGS.PROGRAMS.FAUST.WARNING"
 msgid "FAUST\n+ 2 PWR"
-msgstr ""
+msgstr "浮士德\ 2PWR"
 
 #: STRINGS.PROGRAMS.FUSION.DESC
 msgctxt "STRINGS.PROGRAMS.FUSION.DESC"
 msgid "Gain 3 PWR per turn for 4 turns.\n4 turn cooldown."
-msgstr ""
+msgstr "每回合增加3点PWR，持续4回合。\冷却时间4回合"
 
 #: STRINGS.PROGRAMS.FUSION.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.FUSION.HUD_DESC"
 msgid "GAIN 3 PWR EACH TURN FOR 4 TURNS"
-msgstr ""
+msgstr "连续4回合每回合增加3点PWR"
 
 #: STRINGS.PROGRAMS.FUSION.NAME
 msgctxt "STRINGS.PROGRAMS.FUSION.NAME"
 msgid "FUSION"
-msgstr ""
+msgstr "融合"
 
 #: STRINGS.PROGRAMS.FUSION.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.FUSION.SHORT_DESC"
 msgid "GAIN PWR ON COOLDOWN"
-msgstr ""
+msgstr "在冷却时获得PWR"
 
 #: STRINGS.PROGRAMS.FUSION.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.FUSION.TIP_DESC"
@@ -8320,77 +8320,77 @@ msgstr ""
 #: STRINGS.PROGRAMS.FUSION.WARNING
 msgctxt "STRINGS.PROGRAMS.FUSION.WARNING"
 msgid "FUSION\n+ 3 PWR"
-msgstr ""
+msgstr "融合"
 
 #: STRINGS.PROGRAMS.HAMMER.DESC
 msgctxt "STRINGS.PROGRAMS.HAMMER.DESC"
 msgid "Breaks 5 firewalls for 5 PWR.\n3 turn cooldown."
-msgstr ""
+msgstr "使用5PWR破坏5层防火墙。\冷却时间3回合"
 
 #: STRINGS.PROGRAMS.HAMMER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.HAMMER.HUD_DESC"
 msgid "BREAKS 5 FIREWALLS"
-msgstr ""
+msgstr "破坏5层防火墙"
 
 #: STRINGS.PROGRAMS.HAMMER.NAME
 msgctxt "STRINGS.PROGRAMS.HAMMER.NAME"
 msgid "HAMMER"
-msgstr ""
+msgstr "铁锤"
 
 #: STRINGS.PROGRAMS.HAMMER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.HAMMER.SHORT_DESC"
 msgid "USE HAMMER"
-msgstr ""
+msgstr "使用铁锤"
 
 #: STRINGS.PROGRAMS.HAMMER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.HAMMER.TIP_DESC"
 msgid "BREAKS <c:FF8411>5 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "破坏5层防火墙。 消耗：%dPWR"
 
 #: STRINGS.PROGRAMS.HUNTER.DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.DESC"
 msgid "Kills Daemons for 5 PWR.\n3 turn cooldown"
-msgstr ""
+msgstr "使用5PWR破坏守护进程。 冷却时间3回合"
 
 #: STRINGS.PROGRAMS.HUNTER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.HUD_DESC"
 msgid "KILL DAEMON"
-msgstr ""
+msgstr "破坏守护进程"
 
 #: STRINGS.PROGRAMS.HUNTER.NAME
 msgctxt "STRINGS.PROGRAMS.HUNTER.NAME"
 msgid "HUNTER"
-msgstr ""
+msgstr "猎手"
 
 #: STRINGS.PROGRAMS.HUNTER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.SHORT_DESC"
 msgid "USE HUNTER"
-msgstr ""
+msgstr "使用猎手"
 
 #: STRINGS.PROGRAMS.HUNTER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.TIP_DESC"
 msgid "KILLS <c:FF8411>DAEMON</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "杀死守护神。消耗：%d PWR。"
 
 #: STRINGS.PROGRAMS.LEASH.DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.DESC"
 msgid "Control drones for an extra turn.\nPASSIVE."
-msgstr ""
+msgstr "额外控制无人机一回合"
 
 #: STRINGS.PROGRAMS.LEASH.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.HUD_DESC"
 msgid "CONTROL DRONES FOR +1 TURN"
-msgstr ""
+msgstr "额外控制无人机一回合"
 
 #: STRINGS.PROGRAMS.LEASH.NAME
 msgctxt "STRINGS.PROGRAMS.LEASH.NAME"
 msgid "LEASH"
-msgstr ""
+msgstr "控制"
 
 #: STRINGS.PROGRAMS.LEASH.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.SHORT_DESC"
 msgid "EXTEND DRONE CONTROL"
-msgstr ""
+msgstr "延长无人机控制"
 
 #: STRINGS.PROGRAMS.LEASH.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.TIP_DESC"
@@ -8400,72 +8400,72 @@ msgstr ""
 #: STRINGS.PROGRAMS.LOCKPICK.DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.DESC"
 msgid "Breaks 1 firewall for 2 PWR."
-msgstr ""
+msgstr "使用2PWR破坏1层防火墙。。"
 
 #: STRINGS.PROGRAMS.LOCKPICK.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.HUD_DESC"
 msgid "BREAKS 1 FIREWALL"
-msgstr ""
+msgstr "破坏1层防火墙"
 
 #: STRINGS.PROGRAMS.LOCKPICK.NAME
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.NAME"
 msgid "LOCKPICK 1.0"
-msgstr ""
+msgstr "开锁器1.0"
 
 #: STRINGS.PROGRAMS.LOCKPICK.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.SHORT_DESC"
 msgid "USE LOCKPICK"
-msgstr ""
+msgstr "使用开锁器"
 
 #: STRINGS.PROGRAMS.LOCKPICK.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.TIP_DESC"
 msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "破坏1层防火墙。消耗：%dPWR"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.DESC"
 msgid "Breaks 2 firewalls for 3 PWR."
-msgstr ""
+msgstr "使用3PWR破坏2层防火墙。"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.HUD_DESC"
 msgid "BREAKS 2 FIREWALLS"
-msgstr ""
+msgstr "破坏2层防火墙"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.NAME
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.NAME"
 msgid "LOCKPICK v2.0"
-msgstr ""
+msgstr "开锁器2.0"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.SHORT_DESC"
 msgid "USE LOCKPICK v2"
-msgstr ""
+msgstr "使用开锁器v2"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.TIP_DESC"
 msgid "BREAKS <c:FF8411>2 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "破坏2层防火墙。消耗：%dPWR"
 
 #: STRINGS.PROGRAMS.LOVE.DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.DESC"
 msgid "Reduces all firewalls by 2 for 5 PWR.\n3 turn cooldown."
-msgstr ""
+msgstr "使用5PWR减少2层防火墙。冷却时间3回合。"
 
 #: STRINGS.PROGRAMS.LOVE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.HUD_DESC"
 msgid "REDUCES ALL FIREWALLS BY 2"
-msgstr ""
+msgstr "减少所有防火墙2层"
 
 #: STRINGS.PROGRAMS.LOVE.NAME
 msgctxt "STRINGS.PROGRAMS.LOVE.NAME"
 msgid "TURING"
-msgstr ""
+msgstr "图灵"
 
 #: STRINGS.PROGRAMS.LOVE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.SHORT_DESC"
 msgid "REDUCES ALL FIREWALLS BY 2"
-msgstr ""
+msgstr "减少所有防火墙2层 "
 
 #: STRINGS.PROGRAMS.LOVE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.TIP_DESC"
@@ -8475,22 +8475,22 @@ msgstr ""
 #: STRINGS.PROGRAMS.ORACLE.DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.DESC"
 msgid "Take over a random camera on the level"
-msgstr ""
+msgstr "获得这层任意一摄像头的视野。"
 
 #: STRINGS.PROGRAMS.ORACLE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.HUD_DESC"
 msgid "CONTROL A RANDOM CAMERA"
-msgstr ""
+msgstr "控制任意一摄像头"
 
 #: STRINGS.PROGRAMS.ORACLE.NAME
 msgctxt "STRINGS.PROGRAMS.ORACLE.NAME"
 msgid "ORACLE"
-msgstr ""
+msgstr "神谕"
 
 #: STRINGS.PROGRAMS.ORACLE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.SHORT_DESC"
 msgid "TAKE RANDOM CAMERA"
-msgstr ""
+msgstr "获得任意摄像头"
 
 #: STRINGS.PROGRAMS.ORACLE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.TIP_DESC"
@@ -8500,82 +8500,82 @@ msgstr ""
 #: STRINGS.PROGRAMS.PARASITE.ALREADY_HOSTED
 msgctxt "STRINGS.PROGRAMS.PARASITE.ALREADY_HOSTED"
 msgid "ALREADY HAS PARASITE"
-msgstr ""
+msgstr "已经寄生"
 
 #: STRINGS.PROGRAMS.PARASITE.DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.DESC"
 msgid "Infect target to break 1 firewall at the start of each turn.\n+1 PWR cost per hosted parasite."
-msgstr ""
+msgstr "感染目标，每回合开始时破坏2层防火墙。\每增加一个感染对象PWR消耗增加1"
 
 #: STRINGS.PROGRAMS.PARASITE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.HUD_DESC"
 msgid "BREAKS 1 FIREWALL PER TURN"
-msgstr ""
+msgstr "每回合破坏1层防火墙"
 
 #: STRINGS.PROGRAMS.PARASITE.NAME
 msgctxt "STRINGS.PROGRAMS.PARASITE.NAME"
 msgid "PARASITE"
-msgstr ""
+msgstr "寄生"
 
 #: STRINGS.PROGRAMS.PARASITE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.SHORT_DESC"
 msgid "HOST PARASITE"
-msgstr ""
+msgstr "寄生生物"
 
 #: STRINGS.PROGRAMS.PARASITE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.TIP_DESC"
 msgid "HOST <c:FF8411>PARASITE</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "寄生生物。消耗：%d PWR"
 
 #: STRINGS.PROGRAMS.PARASITE_2.ALREADY_HOSTED
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.ALREADY_HOSTED"
 msgid "ALREADY HAS PARASITE"
-msgstr ""
+msgstr "已经被寄生"
 
 #: STRINGS.PROGRAMS.PARASITE_2.DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.DESC"
 msgid "Infect target to break 2 firewalls at the start of each turn.\n+1 PWR cost per hosted parasite."
-msgstr ""
+msgstr "感染目标，每回合开始时破坏2层防火墙。\每增加一个感染对象PWR消耗增加1"
 
 #: STRINGS.PROGRAMS.PARASITE_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.HUD_DESC"
 msgid "BREAKS 2 FIREWALL PER TURN"
-msgstr ""
+msgstr "每回合破坏2层防火墙"
 
 #: STRINGS.PROGRAMS.PARASITE_2.NAME
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.NAME"
 msgid "PARASITE v2.0"
-msgstr ""
+msgstr "寄生2.0"
 
 #: STRINGS.PROGRAMS.PARASITE_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.SHORT_DESC"
 msgid "HOST PARASITE v2"
-msgstr ""
+msgstr "寄生生物v2"
 
 #: STRINGS.PROGRAMS.PARASITE_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.TIP_DESC"
 msgid "HOST <c:FF8411>PARASITE 2.0</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "寄生生物2.0.消耗：%dPWR"
 
 #: STRINGS.PROGRAMS.PING.DESC
 msgctxt "STRINGS.PROGRAMS.PING.DESC"
 msgid "Create a distraction noise"
-msgstr ""
+msgstr "制造噪音以分散注意力"
 
 #: STRINGS.PROGRAMS.PING.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PING.HUD_DESC"
 msgid "CREATES NOISE DISTRACTION"
-msgstr ""
+msgstr "制造噪音以分散注意力"
 
 #: STRINGS.PROGRAMS.PING.NAME
 msgctxt "STRINGS.PROGRAMS.PING.NAME"
 msgid "PING"
-msgstr ""
+msgstr "Ping"
 
 #: STRINGS.PROGRAMS.PING.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PING.SHORT_DESC"
 msgid "MAKE NOISE"
-msgstr ""
+msgstr "制造噪音"
 
 #: STRINGS.PROGRAMS.PING.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PING.TIP_DESC"
@@ -8585,87 +8585,87 @@ msgstr ""
 #: STRINGS.PROGRAMS.POWER
 msgctxt "STRINGS.PROGRAMS.POWER"
 msgid "%d PWR"
-msgstr ""
+msgstr "%d PWR"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.DESC
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.DESC"
 msgid "Generate 1 PWR point per turn.\nPASSIVE"
-msgstr ""
+msgstr "每回合增加1PWR。\被动"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.HUD_DESC"
 msgid "+1 PWR PER TURN"
-msgstr ""
+msgstr "每回合增加1PWR。\被动"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.MODAL_1
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.MODAL_1"
 msgid "I N C O G N I T A  I S  R U N N I N G  A  P R O G R A M"
-msgstr ""
+msgstr "I N C O G N I T A正在运行一个程序"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.MODAL_2
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.MODAL_2"
 msgid "POWER DRIP"
-msgstr ""
+msgstr "PWR水滴"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.MODAL_3
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.MODAL_3"
 msgid "Your agency has provided the Power Drip program for you. This program automatically generates 1 PWR at the start of each turn."
-msgstr ""
+msgstr "你的特工提供给你PWR水滴程序。该程序每回合开始自动产生1点PWR"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.NAME
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.NAME"
 msgid "POWER DRIP"
-msgstr ""
+msgstr "能量水滴"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.SHORT_DESC"
 msgid "AUTO GENERATE PWR"
-msgstr ""
+msgstr "自动缠身PWR"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.WARNING
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.WARNING"
 msgid "POWER DRIP\n+ 1 PWR"
-msgstr ""
+msgstr "能量水滴\n+ 1PWR"
 
 #: STRINGS.PROGRAMS.POWER_PER_TURN
 msgctxt "STRINGS.PROGRAMS.POWER_PER_TURN"
 msgid "%d PWR / TURN"
-msgstr ""
+msgstr "每回合%d PWR"
 
 #: STRINGS.PROGRAMS.PURCHASED
 msgctxt "STRINGS.PROGRAMS.PURCHASED"
 msgid "P R O G R A M  P U R C H A S E D"
-msgstr ""
+msgstr "计划：采购"
 
 #: STRINGS.PROGRAMS.PURCHASED_DESC
 msgctxt "STRINGS.PROGRAMS.PURCHASED_DESC"
 msgid "You've purchased a program to be used by Incognita:\n%s"
-msgstr ""
+msgstr "你购置了一个程序供Incognita使用"
 
 #: STRINGS.PROGRAMS.PWR
 msgctxt "STRINGS.PROGRAMS.PWR"
 msgid "PWR"
-msgstr ""
+msgstr "PWR"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER.DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER.DESC"
 msgid "Increases the agency's starting PWR by 4 points."
-msgstr ""
+msgstr "增加4点特工的起始PWR"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER.HUD_DESC"
 msgid "+4 STARTING PWR"
-msgstr ""
+msgstr "增加4点特工的起始PWR"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER.NAME
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER.NAME"
 msgid "ABACUS"
-msgstr ""
+msgstr "计算"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER.SHORT_DESC"
 msgid "Increases starting PWR by 4"
-msgstr ""
+msgstr "起始PWR增加4点"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER.TIP_DESC"
@@ -8675,22 +8675,22 @@ msgstr ""
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.DESC"
 msgid "Increases the agency's starting PWR by 6 points."
-msgstr ""
+msgstr "增加6点特工的起始PWR"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.HUD_DESC"
 msgid "+6 STARTING PWR"
-msgstr ""
+msgstr "增加6点特工的起始PWR"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.NAME
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.NAME"
 msgid "ABACUS 2.0"
-msgstr ""
+msgstr "计算2.0"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.SHORT_DESC"
 msgid "Increases starting PWR by 6"
-msgstr ""
+msgstr "增加6点起始PWR"
 
 #: STRINGS.PROGRAMS.PWR_MANAGER_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PWR_MANAGER_2.TIP_DESC"
@@ -8700,47 +8700,47 @@ msgstr ""
 #: STRINGS.PROGRAMS.RAPIER.DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.DESC"
 msgid "Breaks 1 firewall.\nPWR cost increases by 1 each Alarm Level."
-msgstr ""
+msgstr "破坏1层防火墙。\n每一级警报等级增加n PWR消耗"
 
 #: STRINGS.PROGRAMS.RAPIER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.HUD_DESC"
 msgid "BREAKS 1 FIREWALL"
-msgstr ""
+msgstr "破坏1层防火墙"
 
 #: STRINGS.PROGRAMS.RAPIER.NAME
 msgctxt "STRINGS.PROGRAMS.RAPIER.NAME"
 msgid "RAPIER"
-msgstr ""
+msgstr "长剑"
 
 #: STRINGS.PROGRAMS.RAPIER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.SHORT_DESC"
 msgid "USE RAPIER"
-msgstr ""
+msgstr "使用长剑"
 
 #: STRINGS.PROGRAMS.RAPIER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.TIP_DESC"
 msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "破坏1层防火墙。消耗：%d PWR"
 
 #: STRINGS.PROGRAMS.SEED.DESC
 msgctxt "STRINGS.PROGRAMS.SEED.DESC"
 msgid "Your first program each turn costs 4 PWR less to run."
-msgstr ""
+msgstr "每轮你运行的第一个程序减少4PWR消耗"
 
 #: STRINGS.PROGRAMS.SEED.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.SEED.HUD_DESC"
 msgid "FIRST PROGRAM EACH TURN COSTS 4 PWR LESS"
-msgstr ""
+msgstr "每轮你运行的第一个程序减少4PWR消耗"
 
 #: STRINGS.PROGRAMS.SEED.NAME
 msgctxt "STRINGS.PROGRAMS.SEED.NAME"
 msgid "SEED"
-msgstr ""
+msgstr "种子"
 
 #: STRINGS.PROGRAMS.SEED.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.SEED.SHORT_DESC"
 msgid "FIRST PROGRAM EACH TURN COSTS 4 PWR LESS"
-msgstr ""
+msgstr "每轮你运行的第一个程序减少4PWR消耗"
 
 #: STRINGS.PROGRAMS.SEED.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.SEED.TIP_DESC"
@@ -8750,27 +8750,27 @@ msgstr ""
 #: STRINGS.PROGRAMS.SEED.WARNING
 msgctxt "STRINGS.PROGRAMS.SEED.WARNING"
 msgid "SEED\n-4 PWR COST"
-msgstr ""
+msgstr "种子\每轮你运行的第一个程序减少4PWR消耗"
 
 #: STRINGS.PROGRAMS.SHADE.DESC
 msgctxt "STRINGS.PROGRAMS.SHADE.DESC"
 msgid "Reduces sight range of guards.\n2 turn cooldown."
-msgstr ""
+msgstr "减少警卫的视野范围。冷却时间：2回合"
 
 #: STRINGS.PROGRAMS.SHADE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.SHADE.HUD_DESC"
 msgid "REDUCE GUARD SIGHT"
-msgstr ""
+msgstr "减少警卫视野"
 
 #: STRINGS.PROGRAMS.SHADE.NAME
 msgctxt "STRINGS.PROGRAMS.SHADE.NAME"
 msgid "SHADE"
-msgstr ""
+msgstr "阴影"
 
 #: STRINGS.PROGRAMS.SHADE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.SHADE.SHORT_DESC"
 msgid "TOGGLE: REDUCE SIGHT"
-msgstr ""
+msgstr "切换：减少视野"
 
 #: STRINGS.PROGRAMS.SHADE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.SHADE.TIP_DESC"
@@ -8780,77 +8780,77 @@ msgstr ""
 #: STRINGS.PROGRAMS.SNIFFER.DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.DESC"
 msgid "Reveals hidden Daemons and identifies Daemon types."
-msgstr ""
+msgstr "显示隐藏守护进程并鉴别其类别"
 
 #: STRINGS.PROGRAMS.SNIFFER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.HUD_DESC"
 msgid "REVEALS DAEMON"
-msgstr ""
+msgstr "显示守护进程"
 
 #: STRINGS.PROGRAMS.SNIFFER.NAME
 msgctxt "STRINGS.PROGRAMS.SNIFFER.NAME"
 msgid "DAEMON SNIFFER"
-msgstr ""
+msgstr "守护进程雷达"
 
 #: STRINGS.PROGRAMS.SNIFFER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.SHORT_DESC"
 msgid "REVEAL DAEMON"
-msgstr ""
+msgstr "显示守护进程"
 
 #: STRINGS.PROGRAMS.SNIFFER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.TIP_DESC"
 msgid "REVEALS <c:FF8411>DAEMON</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "显示守护进程。消耗%d PWR"
 
 #: STRINGS.PROGRAMS.TAURUS.DESC
 msgctxt "STRINGS.PROGRAMS.TAURUS.DESC"
 msgid "Moves a DAEMON to a random device."
-msgstr ""
+msgstr "将守护进程移至任意设备"
 
 #: STRINGS.PROGRAMS.TAURUS.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.TAURUS.HUD_DESC"
 msgid "MOVES A DAEMON"
-msgstr ""
+msgstr "守护进程转移"
 
 #: STRINGS.PROGRAMS.TAURUS.NAME
 msgctxt "STRINGS.PROGRAMS.TAURUS.NAME"
 msgid "TAURUS"
-msgstr ""
+msgstr "金牛座"
 
 #: STRINGS.PROGRAMS.TAURUS.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.TAURUS.SHORT_DESC"
 msgid "Moves a DAEMON"
-msgstr ""
+msgstr "守护进程转移"
 
 #: STRINGS.PROGRAMS.TAURUS.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.TAURUS.TIP_DESC"
 msgid "MOVES <c:FF8411>DAEMON</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "移动守护进程。消耗：%d PWR"
 
 #: STRINGS.PROGRAMS.TURNS
 msgctxt "STRINGS.PROGRAMS.TURNS"
 msgid "TURNS"
-msgstr ""
+msgstr "反转"
 
 #: STRINGS.PROGRAMS.WILDFIRE.DESC
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.DESC"
 msgid "Gain 5 PWR. +1 to all FIREWALLS."
-msgstr ""
+msgstr "增加5点PWR。所有防火墙增加1点"
 
 #: STRINGS.PROGRAMS.WILDFIRE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.HUD_DESC"
 msgid "GAIN 5 PWR, +1 TO ALL FIREWALLS"
-msgstr ""
+msgstr "增加5点PWR。所有防火墙增加1点"
 
 #: STRINGS.PROGRAMS.WILDFIRE.NAME
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.NAME"
 msgid "WILDFIRE"
-msgstr ""
+msgstr "野火"
 
 #: STRINGS.PROGRAMS.WILDFIRE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.SHORT_DESC"
 msgid "GAIN PWR, INCREASE FIREWALLS"
-msgstr ""
+msgstr "增加PWR，增加防火墙"
 
 #: STRINGS.PROGRAMS.WILDFIRE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.TIP_DESC"
@@ -8860,27 +8860,27 @@ msgstr ""
 #: STRINGS.PROGRAMS.WILDFIRE.WARNING
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.WARNING"
 msgid "WILDFIRE\n+ 5 PWR  + 1 FIREWALLS"
-msgstr ""
+msgstr "野火\n+ 5PWR  +1防火墙"
 
 #: STRINGS.PROGRAMS.WINGS.DESC
 msgctxt "STRINGS.PROGRAMS.WINGS.DESC"
 msgid "Increases AP of all agents by 2.\n2 turn cooldown."
-msgstr ""
+msgstr "增加所有特工2点AP。冷却时间：2回合"
 
 #: STRINGS.PROGRAMS.WINGS.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WINGS.HUD_DESC"
 msgid "+2 AP ON ALL AGENTS"
-msgstr ""
+msgstr "增加所有特工2点AP。冷却时间：2回合"
 
 #: STRINGS.PROGRAMS.WINGS.NAME
 msgctxt "STRINGS.PROGRAMS.WINGS.NAME"
 msgid "WINGS"
-msgstr ""
+msgstr "翅膀"
 
 #: STRINGS.PROGRAMS.WINGS.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WINGS.SHORT_DESC"
 msgid "TOGGLE: INCREASE AP"
-msgstr ""
+msgstr "切换：增加AP"
 
 #: STRINGS.PROGRAMS.WINGS.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WINGS.TIP_DESC"
@@ -8890,112 +8890,112 @@ msgstr ""
 #: STRINGS.PROGRAMS.WRENCH_2.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.DESC"
 msgid "Only breaks firewalls exactly equal to 2 strength"
-msgstr ""
+msgstr "只破解强度为2的防火墙"
 
 #: STRINGS.PROGRAMS.WRENCH_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.HUD_DESC"
 msgid "BREAKS EXACTLY 2 FIREWALLS"
-msgstr ""
+msgstr "只破解强度为2的防火墙"
 
 #: STRINGS.PROGRAMS.WRENCH_2.NAME
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.NAME"
 msgid "WRENCH 2"
-msgstr ""
+msgstr "扳手2"
 
 #: STRINGS.PROGRAMS.WRENCH_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.SHORT_DESC"
 msgid "USE WRENCH"
-msgstr ""
+msgstr "使用扳手"
 
 #: STRINGS.PROGRAMS.WRENCH_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>2 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "正好破坏2层防火墙。消耗：%d PWR"
 
 #: STRINGS.PROGRAMS.WRENCH_3.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.DESC"
 msgid "Only breaks firewalls exactly equal to 3 strength"
-msgstr ""
+msgstr "只破坏强度为3的防火墙"
 
 #: STRINGS.PROGRAMS.WRENCH_3.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.HUD_DESC"
 msgid "BREAKS EXACTLY 3 FIREWALLS"
-msgstr ""
+msgstr "只破坏强度为3的防火墙"
 
 #: STRINGS.PROGRAMS.WRENCH_3.NAME
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.NAME"
 msgid "WRENCH 3"
-msgstr ""
+msgstr "扳手3"
 
 #: STRINGS.PROGRAMS.WRENCH_3.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.SHORT_DESC"
 msgid "USE WRENCH"
-msgstr ""
+msgstr "使用扳手"
 
 #: STRINGS.PROGRAMS.WRENCH_3.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>3 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "只破坏强度为3的防火墙。消耗：%d PWR"
 
 #: STRINGS.PROGRAMS.WRENCH_4.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.DESC"
 msgid "Only breaks firewalls exactly equal to 4 strength"
-msgstr ""
+msgstr "只破坏强度为4的防火墙"
 
 #: STRINGS.PROGRAMS.WRENCH_4.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.HUD_DESC"
 msgid "BREAKS EXACTLY 4 FIREWALLS"
-msgstr ""
+msgstr "只破坏强度为4的防火墙"
 
 #: STRINGS.PROGRAMS.WRENCH_4.NAME
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.NAME"
 msgid "WRENCH 4"
-msgstr ""
+msgstr "扳手4"
 
 #: STRINGS.PROGRAMS.WRENCH_4.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.SHORT_DESC"
 msgid "USE WRENCH"
-msgstr ""
+msgstr "使用扳手"
 
 #: STRINGS.PROGRAMS.WRENCH_4.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>4 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "只破坏强度为4的防火墙。消耗： %d PWR"
 
 #: STRINGS.PROGRAMS.WRENCH_5.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.DESC"
 msgid "Only breaks firewalls exactly equal to 5 strength"
-msgstr ""
+msgstr "只破坏强度为5的防火墙"
 
 #: STRINGS.PROGRAMS.WRENCH_5.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.HUD_DESC"
 msgid "BREAKS EXACTLY 5 FIREWALLS"
-msgstr ""
+msgstr "只破坏强度为5的防火墙"
 
 #: STRINGS.PROGRAMS.WRENCH_5.NAME
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.NAME"
 msgid "WRENCH 5"
-msgstr ""
+msgstr "扳手5"
 
 #: STRINGS.PROGRAMS.WRENCH_5.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.SHORT_DESC"
 msgid "USE WRENCH"
-msgstr ""
+msgstr "使用扳手"
 
 #: STRINGS.PROGRAMS.WRENCH_5.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>5 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr ""
+msgstr "只破坏强度为5的防火墙。消耗：%d PWR"
 
 #: STRINGS.PROPS.ADVANCED_CORP_EQUIP
 msgctxt "STRINGS.PROPS.ADVANCED_CORP_EQUIP"
 msgid "Advanced Corporate Equipment"
-msgstr ""
+msgstr "尖端合作设备"
 
 #: STRINGS.PROPS.ALARM
 msgctxt "STRINGS.PROPS.ALARM"
 msgid "Alarm"
-msgstr ""
+msgstr "警报"
 
 #: STRINGS.PROPS.ARTIFACT
 msgctxt "STRINGS.PROPS.ARTIFACT"
