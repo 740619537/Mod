@@ -14,7 +14,7 @@ msgstr "破门"
 #: STRINGS.ABILITIES.BREAK_DOOR_DESC
 msgctxt "STRINGS.ABILITIES.BREAK_DOOR_DESC"
 msgid "Bash the door permanently open."
-msgstr ""
+msgstr "冲撞毁坏这扇门"
 
 #: STRINGS.ABILITIES.CARRYABLE
 msgctxt "STRINGS.ABILITIES.CARRYABLE"
@@ -234,12 +234,12 @@ msgstr "审问"
 #: STRINGS.ABILITIES.JACKIN
 msgctxt "STRINGS.ABILITIES.JACKIN"
 msgid "Jack in"
-msgstr ""
+msgstr "骇入"
 
 #: STRINGS.ABILITIES.JACKIN_DESC
 msgctxt "STRINGS.ABILITIES.JACKIN_DESC"
 msgid "Jack in with Monst3r to unlock the mainframe door."
-msgstr ""
+msgstr "让Monst3r骇入来解锁主系统大门"
 
 #: STRINGS.ABILITIES.LAST_WORDS
 msgctxt "STRINGS.ABILITIES.LAST_WORDS"
@@ -259,7 +259,7 @@ msgstr "手动关闭"
 #: STRINGS.ABILITIES.MANUAL_SHUTDOWN_DESC
 msgctxt "STRINGS.ABILITIES.MANUAL_SHUTDOWN_DESC"
 msgid "DISABLE %s FOR %d TURN"
-msgstr ""
+msgstr "关闭 %s %d轮"
 
 #: STRINGS.ABILITIES.MELEE
 msgctxt "STRINGS.ABILITIES.MELEE"
@@ -269,7 +269,7 @@ msgstr "拿下"
 #: STRINGS.ABILITIES.MELEE_DESC
 msgctxt "STRINGS.ABILITIES.MELEE_DESC"
 msgid "<tthotkey>ATTACK</>\nKO the target for: %d turn(s)"
-msgstr ""
+msgstr "<tthotkey>攻击</>\n击晕目标: %d 轮"
 
 #: STRINGS.ABILITIES.MELEE_OVERWATCH
 msgctxt "STRINGS.ABILITIES.MELEE_OVERWATCH"
@@ -279,7 +279,7 @@ msgstr "近身反应"
 #: STRINGS.ABILITIES.MELEE_OVERWATCH_DESC
 msgctxt "STRINGS.ABILITIES.MELEE_OVERWATCH_DESC"
 msgid "This agent will auto attack an enemy at close range"
-msgstr "这个特工会自动攻击近范围敌人"
+msgstr "这个特工会自动攻击靠近的敌人"
 
 #: STRINGS.ABILITIES.MOVE_BODY
 msgctxt "STRINGS.ABILITIES.MOVE_BODY"
@@ -339,7 +339,7 @@ msgstr "打开安全盒子"
 #: STRINGS.ABILITIES.OPEN_SECURE_BOXES_DESC
 msgctxt "STRINGS.ABILITIES.OPEN_SECURE_BOXES_DESC"
 msgid "Unlocks the security boxes."
-msgstr "解锁安全盒子"
+msgstr "解锁安全盒子。"
 
 #: STRINGS.ABILITIES.OVERWATCH
 msgctxt "STRINGS.ABILITIES.OVERWATCH"
@@ -349,7 +349,7 @@ msgstr "处于看守中"
 #: STRINGS.ABILITIES.OVERWATCH_DESC
 msgctxt "STRINGS.ABILITIES.OVERWATCH_DESC"
 msgid "<tthotkey>ATTACK</>\nThis unit will shoot at movement during the enemy's turn."
-msgstr "<ttotkey>攻击</>\n这个单位会自动射击移动的物体"
+msgstr "<ttotkey>攻击</>\n这个单位会自动射击移动的物体。"
 
 #: STRINGS.ABILITIES.OVERWATCH_MELEE
 msgctxt "STRINGS.ABILITIES.OVERWATCH_MELEE"
@@ -359,7 +359,7 @@ msgstr "埋伏"
 #: STRINGS.ABILITIES.OVERWATCH_MELEE_DESC
 msgctxt "STRINGS.ABILITIES.OVERWATCH_MELEE_DESC"
 msgid "<tthotkey>ATTACK</>\nThis agent will melee nearby moving enemies during the enemy turn."
-msgstr "<ttotkey>攻击</>\n这个单位会自动使用近战攻击移动的物体"
+msgstr "<ttotkey>攻击</>\n这个单位会自动使用近战攻击移动的物体。"
 
 #: STRINGS.ABILITIES.OVERWATCH_ON
 msgctxt "STRINGS.ABILITIES.OVERWATCH_ON"
@@ -384,7 +384,7 @@ msgstr "瘫痪剂"
 #: STRINGS.ABILITIES.PARALYZE_DESC
 msgctxt "STRINGS.ABILITIES.PARALYZE_DESC"
 msgid "Inject pinned victims with paralytic toxin. Target will be KO'd for {1} more turns."
-msgstr ""
+msgstr "给目标注射麻醉剂，目标会延长 {1} 轮击晕状态。"
 
 #: STRINGS.ABILITIES.PEEK
 msgctxt "STRINGS.ABILITIES.PEEK"
@@ -394,7 +394,7 @@ msgstr "窥视"
 #: STRINGS.ABILITIES.PEEK_DESC
 msgctxt "STRINGS.ABILITIES.PEEK_DESC"
 msgid "Carefully look around corners.\nPeek through closed doors."
-msgstr "在墙角边窥视一眼\n通过门窥视情况"
+msgstr "在墙角边窥视一眼\n通过门窥视情况。"
 
 #: STRINGS.ABILITIES.PICKUP
 msgctxt "STRINGS.ABILITIES.PICKUP"
@@ -419,7 +419,7 @@ msgstr "可读"
 #: STRINGS.ABILITIES.READABLE_DESC
 msgctxt "STRINGS.ABILITIES.READABLE_DESC"
 msgid "Somebody has left a note behind."
-msgstr "有人留下了一些记录"
+msgstr "有人留下了一些记录。"
 
 #: STRINGS.ABILITIES.RECHARGE
 msgctxt "STRINGS.ABILITIES.RECHARGE"
@@ -429,7 +429,7 @@ msgstr "重新给装置充能"
 #: STRINGS.ABILITIES.RECHARGE_DESC
 msgctxt "STRINGS.ABILITIES.RECHARGE_DESC"
 msgid "Use Charge Pack to lower the current cooldown time by 2."
-msgstr "使用充能包减少两轮冷却"
+msgstr "使用充能包减少两轮冷却。"
 
 #: STRINGS.ABILITIES.RELOAD
 msgctxt "STRINGS.ABILITIES.RELOAD"
@@ -439,7 +439,7 @@ msgstr "手动上弹"
 #: STRINGS.ABILITIES.RELOAD_DESC
 msgctxt "STRINGS.ABILITIES.RELOAD_DESC"
 msgid "Reload the equipped gun."
-msgstr "给装备的枪重新上弹"
+msgstr "给装备的枪重新上弹。"
 
 #: STRINGS.ABILITIES.RESCUE
 msgctxt "STRINGS.ABILITIES.RESCUE"
@@ -459,7 +459,7 @@ msgstr "复苏"
 #: STRINGS.ABILITIES.REVIVE_DESC
 msgctxt "STRINGS.ABILITIES.REVIVE_DESC"
 msgid "Use %s to revive an agent."
-msgstr "使用 %s 复苏特工"
+msgstr "使用 %s 复苏特工。"
 
 #: STRINGS.ABILITIES.REVIVE_NAME
 msgctxt "STRINGS.ABILITIES.REVIVE_NAME"
@@ -504,7 +504,7 @@ msgstr "冲刺"
 #: STRINGS.ABILITIES.SPRINT_DESC
 msgctxt "STRINGS.ABILITIES.SPRINT_DESC"
 msgid "+{1} AP this turn\nMovement makes noise\nMust have full AP to activate."
-msgstr "这一轮 +{1} AP\n移动会发出声响\n必须要有满AP量才能激活"
+msgstr "这一轮 +{1} AP\n移动会发出声响\n必须要有满AP量才能激活。"
 
 #: STRINGS.ABILITIES.SPRINT_TOGGLE
 msgctxt "STRINGS.ABILITIES.SPRINT_TOGGLE"
@@ -514,23 +514,22 @@ msgstr "切换冲刺模式"
 #: STRINGS.ABILITIES.STIM
 msgctxt "STRINGS.ABILITIES.STIM"
 msgid "Stim Dose"
-msgstr ""
+msgstr "兴奋剂"
 
 #: STRINGS.ABILITIES.STIM_DESC
 msgctxt "STRINGS.ABILITIES.STIM_DESC"
 msgid "A shot that restores an agent's AP."
-msgstr "一个存储特工AP点数的注射装置"
+msgstr "一个为存储特工AP点数的注射装置"
 
 #: STRINGS.ABILITIES.STORE
 msgctxt "STRINGS.ABILITIES.STORE"
 msgid "Open Store"
 msgstr "进入购买设备"
-msgstr ""
 
 #: STRINGS.ABILITIES.TEMPORARY_LOSS
 msgctxt "STRINGS.ABILITIES.TEMPORARY_LOSS"
 msgid "ERROR>>> TEMPORARY...LOSS."
-msgstr ""
+msgstr "错误>>> 临时...丢失。"
 
 #: STRINGS.ABILITIES.THROW
 msgctxt "STRINGS.ABILITIES.THROW"
@@ -550,12 +549,12 @@ msgstr "这个插入物已经被安装"
 #: STRINGS.ABILITIES.TOOLTIPS.BREAKS_FIREWALLS
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.BREAKS_FIREWALLS"
 msgid "Breaks %d firewalls."
-msgstr ""
+msgstr "破开 %d 层防火墙"
 
 #: STRINGS.ABILITIES.TOOLTIPS.CANT_ACT
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.CANT_ACT"
 msgid "Can't Act"
-msgstr ""
+msgstr "无法行动"
 
 #: STRINGS.ABILITIES.TOOLTIPS.HACK
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.HACK"
@@ -565,17 +564,17 @@ msgstr "骇入 %s"
 #: STRINGS.ABILITIES.TOOLTIPS.NOT_AUGMENT
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.NOT_AUGMENT"
 msgid "Not an Augment"
-msgstr ""
+msgstr "不是植入物"
 
 #: STRINGS.ABILITIES.TOOLTIPS.NO_AUGMENT_SLOTS_AVAILABLE
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.NO_AUGMENT_SLOTS_AVAILABLE"
 msgid "No available augment slots."
-msgstr ""
+msgstr "没有可用的植入物插槽"
 
 #: STRINGS.ABILITIES.TOOLTIPS.SCAN
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.SCAN"
 msgid "Reveals DAEMON program on %s"
-msgstr "揭露 %s 上的DAEMON程序"
+msgstr "揭露 %s 上的守护程序"
 
 #: STRINGS.ABILITIES.TOOLTIPS.UNLOCK_WITH_INCOGNITA
 msgctxt "STRINGS.ABILITIES.TOOLTIPS.UNLOCK_WITH_INCOGNITA"
@@ -600,7 +599,7 @@ msgstr "可以使用"
 #: STRINGS.ABILITIES.USABLE_DESC
 msgctxt "STRINGS.ABILITIES.USABLE_DESC"
 msgid "Upload virus to %s"
-msgstr "已经上传%s的病毒"
+msgstr "已经上传病毒到%s"
 
 #: STRINGS.ABILITIES.USE_AGGRESSION
 msgctxt "STRINGS.ABILITIES.USE_AGGRESSION"
@@ -620,7 +619,7 @@ msgstr "无线扫描仪"
 #: STRINGS.AGENTS.BANKS.AGE
 msgctxt "STRINGS.AGENTS.BANKS.AGE"
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #: STRINGS.AGENTS.BANKS.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.BANKS.ALT_1.BIO"
