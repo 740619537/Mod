@@ -609,7 +609,7 @@ msgstr ""
 #: STRINGS.ABILITIES.USE_AGGRESSION_DESC
 msgctxt "STRINGS.ABILITIES.USE_AGGRESSION_DESC"
 msgid "+1 Melee and Ranged PIERCING for 1 turn."
-msgstr ""
+msgstr "持续一轮的 +1 近战和范围穿甲"
 
 #: STRINGS.ABILITIES.WIRELESS_SCAN
 msgctxt "STRINGS.ABILITIES.WIRELESS_SCAN"
@@ -624,12 +624,12 @@ msgstr "29"
 #: STRINGS.AGENTS.BANKS.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.BANKS.ALT_1.BIO"
 msgid "Banks earned her hacker nickname siphoning funds from heavily guarded financial accounts. She funneled the proceeds into the rebuilding of her hometown, becoming a local folk hero in the process.\n\nAfter a botched cranial implant, she joined Invisible to get access to the most advanced neuro-rehabilitative care outside of Corporate law."
-msgstr ""
+msgstr "Banks最初从一个被重重防护的金融账号中黑出了一大笔钱而获得他的黑客昵称。她将这笔钱用在了家乡的重建工作上，并因此成了当地的一个平民英雄。\n\n"在经历了一场拙劣心脏植入之后，她便加入了Invisible Inc.，并且成为了游离在集团法外的最优秀的神经系统复原师。"
 
 #: STRINGS.AGENTS.BANKS.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.BANKS.ALT_1.FULLNAME"
 msgid "Jolie \"Banks\" Murphy"
-msgstr ""
+msgstr "Jolie \"Banks\" Murphy"
 
 #: STRINGS.AGENTS.BANKS.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.BANKS.ALT_1.TOOLTIP"
@@ -639,112 +639,112 @@ msgstr ""
 #: STRINGS.AGENTS.BANKS.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.AGE"
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #: STRINGS.AGENTS.BANKS.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.BIO"
 msgid "Banks has always had a way with finances, but she wasn't always so altruistic. In old Dublin she amassed a small fortune from embezzlement and graft, and lived a life of reckless abandon.\n\nShe found her principles during the Fall Siege, and by the time Dublin Nua was finally liberated she had drained her private accounts several times over."
-msgstr ""
+msgstr "Banks总是能弄到钱，但是她并不是一个无私的人。在旧都柏林她搞砸了一批来自公款的钱，随后她就过着不计风险的放荡生活。\n\n她在堕落边缘，但她最终还是找回了原则。在都柏林被解放时，她已经用光了好几次她的存款。"
 
 #: STRINGS.AGENTS.BANKS.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.FULLNAME"
 msgid "ARCHIVED -- ROBIN HOOD"
-msgstr ""
+msgstr ""文档 -- ROBIN HOOD"
 
 #: STRINGS.AGENTS.BANKS.ALT_2.TOOLTIP
-msgctxt "STRINGS.AGENTS.BANKS.ALT_2.TOOLTIP"
-msgid "Robin Hood"
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1"
-msgid "Tick tock, tick tock. My time's run out."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2"
-msgid "The reaper's finally come for his due."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3"
-msgid "I've had a good run, but not a long one."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4"
-msgid "Dust to dust."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.START.1
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.1"
-msgid "Did you hear that? No? Neither did I, then."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.START.2
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.2"
-msgid "Live high while you can, ye mighty. Your reckoning will come."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.START.3
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.3"
-msgid "Stick to the shadows. Be fleet of foot. We'll get out of here alive."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.START.4
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.4"
-msgid "This room smells like burnt toast. But most things do!"
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.START.5
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.5"
-msgid "Some day soon this will all be shaken to the ground."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.START.6
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.6"
-msgid "The farmer in the dell... The farmer in the dell..."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BANTER.START.7
-msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.7"
-msgid "The wind will shake the barley."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.BIO_SPOKEN
-msgctxt "STRINGS.AGENTS.BANKS.BIO_SPOKEN"
-msgid "Even with the brain damage, Banks is one of the most effective hackers I've ever encountered. With stims and neuro-conditioning she's able to stay lucid, but I wonder what kind of long term effects that might have on her stability."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.FILE
-msgctxt "STRINGS.AGENTS.BANKS.FILE"
-msgid "FILE #00-725114A-12852148"
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.HOMETOWN
-msgctxt "STRINGS.AGENTS.BANKS.HOMETOWN"
-msgid "Dublin Nua"
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.NAME
-msgctxt "STRINGS.AGENTS.BANKS.NAME"
-msgid "Banks"
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.RESCUED
-msgctxt "STRINGS.AGENTS.BANKS.RESCUED"
-msgid "Let's get the hell out of here."
-msgstr ""
-
-#: STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE
-msgctxt "STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE"
-msgid "1"
-msgstr ""
-
-#: STRINGS.AGENTS.CENTRAL.AGE
-msgctxt "STRINGS.AGENTS.CENTRAL.AGE"
-msgid "68"
-msgstr ""
+ msgctxt "STRINGS.AGENTS.BANKS.ALT_2.TOOLTIP"
+ msgid "Robin Hood"
+-msgstr "Robin Hood"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1"
+ msgid "Tick tock, tick tock. My time's run out."
+-msgstr "滴滴，滴滴。我的时间结束了"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2"
+ msgid "The reaper's finally come for his due."
+-msgstr "死神终于为他的日子而来了。"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3"
+ msgid "I've had a good run, but not a long one."
+-msgstr "我算是有了一场精彩的表演，但是不算长啊。"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4"
+ msgid "Dust to dust."
+-msgstr "尘归尘，土归土"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.START.1
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.1"
+ msgid "Did you hear that? No? Neither did I, then."
+-msgstr "你听到动静了吗？没有？其实也没听到。"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.START.2
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.2"
+ msgid "Live high while you can, ye mighty. Your reckoning will come."
+-msgstr "尽可能的享受你的日子吧，在你现在还能得时候。也许有一天。你什么都做不到了。"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.START.3
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.3"
+ msgid "Stick to the shadows. Be fleet of foot. We'll get out of here alive."
+-msgstr "贴着影子走，放轻脚步。我们要活着出去。"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.START.4
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.4"
+ msgid "This room smells like burnt toast. But most things do!"	
+-msgstr "这间屋子有烤土司的味道。但很多东西都有这个味道。"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.START.5
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.5"
+ msgid "Some day soon this will all be shaken to the ground."
+-msgstr "总有一天，这些事情都会水落石出的。"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.START.6
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.6"
+ msgid "The farmer in the dell... The farmer in the dell..."
+-msgstr "山谷中的农民......山谷中的农民......"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BANTER.START.7
+ msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.7"
+ msgid "The wind will shake the barley."
+-msgstr "风会摇晃小麦。"
+ 		 
+ #: STRINGS.AGENTS.BANKS.BIO_SPOKEN	
+ msgctxt "STRINGS.AGENTS.BANKS.BIO_SPOKEN"
+ msgid "Even with the brain damage, Banks is one of the most effective hackers I've ever encountered. With stims and neuro-conditioning she's able to stay lucid, but I wonder what kind of long term effects that might have on her stability."
+-msgstr "即使有严重的脑损伤，Banks依旧是我所遇到过的最好的特工。她可以使用兴奋剂和神经调节剂来保持冷静和清醒，但是我仍然怀疑这对她的稳定性会有长期影响。"
+ 		 
+ #: STRINGS.AGENTS.BANKS.FILE
+ msgctxt "STRINGS.AGENTS.BANKS.FILE"
+ msgid "FILE #00-725114A-12852148"
+-msgstr "文件 #00-725114A-12852148"	
+ 		 
+ #: STRINGS.AGENTS.BANKS.HOMETOWN
+ msgctxt "STRINGS.AGENTS.BANKS.HOMETOWN"
+ msgid "Dublin Nua"		 msgid "Dublin Nua"
+-msgstr "都柏林"		+msgstr ""
+ 		 
+ #: STRINGS.AGENTS.BANKS.NAME
+ msgctxt "STRINGS.AGENTS.BANKS.NAME"
+ msgid "Banks"		 msgid "Banks"
+-msgstr "Banks"		+msgstr ""
+ 		 
+ #: STRINGS.AGENTS.BANKS.RESCUED
+ msgctxt "STRINGS.AGENTS.BANKS.RESCUED"	
+ msgid "Let's get the hell out of here."
+-msgstr "让我们快点离开这里"
+ 		 
+ #: STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE
+ msgctxt "STRINGS.AGENTS.BANKS.YEARS_OF_SERVICE"
+ msgid "1"
+-msgstr "1"	
+ 		 
+ #: STRINGS.AGENTS.CENTRAL.AGE
+ msgctxt "STRINGS.AGENTS.CENTRAL.AGE"
+ msgid "68"
+-msgstr "68"
 
 #: STRINGS.AGENTS.CENTRAL.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.BIO"
