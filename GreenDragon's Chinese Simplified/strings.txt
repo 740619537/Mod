@@ -15780,7 +15780,7 @@ msgstr "需要%s 的技能等级%d"
 #: STRINGS.UI.TOOLTIP_SCANNER
 msgctxt "STRINGS.UI.TOOLTIP_SCANNER"
 msgid "SCANS YOUR LOCATION"
-msgstr ""
+msgstr "扫描你所在的位置"
 
 #: STRINGS.UI.TOOLTIP_SCANNER_DESC
 msgctxt "STRINGS.UI.TOOLTIP_SCANNER_DESC"
@@ -15800,7 +15800,7 @@ msgstr ""
 #: STRINGS.UI.TOTAL_CREDITS
 msgctxt "STRINGS.UI.TOTAL_CREDITS"
 msgid "NEW CREDIT TOTAL"
-msgstr ""
+msgstr "新的CR总数"
 
 #: STRINGS.UI.TOTAL_XP
 msgctxt "STRINGS.UI.TOTAL_XP"
@@ -15815,7 +15815,7 @@ msgstr ""
 #: STRINGS.UI.TRACKED_TT
 msgctxt "STRINGS.UI.TRACKED_TT"
 msgid "The enemy will turn as you move."
-msgstr ""
+msgstr "敌人将会转身当你移动的时候"
 
 #: STRINGS.UI.TURN
 msgctxt "STRINGS.UI.TURN"
@@ -15865,7 +15865,7 @@ msgstr "你确定以{2}CR来出售一个{1}"
 #: STRINGS.UI.UPGRADE_SCREEN_MAX
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_MAX"
 msgid "MAX"
-msgstr ""
+msgstr "最大值"
 
 #: STRINGS.UI.UPGRADE_SCREEN_SELECT_UPGRADE
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_SELECT_UPGRADE"
@@ -15875,7 +15875,7 @@ msgstr "选择一个技能去提升"
 #: STRINGS.UI.UPGRADE_SCREEN_UPGRADE_TITLE
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_UPGRADE_TITLE"
 msgid "UPGRADE {1}"
-msgstr ""
+msgstr "升级{1}"
 
 #: STRINGS.UI.VERY_HARD_DESC
 msgctxt "STRINGS.UI.VERY_HARD_DESC"
@@ -15925,7 +15925,7 @@ msgstr ""
 #: STRINGS.UI.WARNING_NEW_DAEMON
 msgctxt "STRINGS.UI.WARNING_NEW_DAEMON"
 msgid "New Daemons Incoming."
-msgstr ""
+msgstr "新的守护进程正在连入"
 
 #: STRINGS.UI.WARNING_NO_AP
 msgctxt "STRINGS.UI.WARNING_NO_AP"
@@ -15970,7 +15970,7 @@ msgstr ""
 #: STRINGS.UI.WARNING_OBSERVE_GUARD_2
 msgctxt "STRINGS.UI.WARNING_OBSERVE_GUARD_2"
 msgid "OBSERVE him before you continue."
-msgstr ""
+msgstr "在你继续之前观察他"
 
 #: STRINGS.UI.WARNING_PEEK_GUARD
 msgctxt "STRINGS.UI.WARNING_PEEK_GUARD"
@@ -16000,7 +16000,7 @@ msgstr "敌人正在看守这个地方"
 #: STRINGS.WIN_TIPS.BEGINNER
 msgctxt "STRINGS.WIN_TIPS.BEGINNER"
 msgid "Congratulations on completing Beginner Mode!\nThe real test of Invisible, Inc. begins in Experienced Mode. Can you survive the increased resistance and a reduced safety net?"
-msgstr ""
+msgstr "祝贺您通关新手手模式！\n 隐形公司的正真体验是在老手模式。 你能在一个增大阻力并且减少安全网的情况下生存下来吗？"
 
 #: STRINGS.WIN_TIPS.CUSTOM
 msgctxt "STRINGS.WIN_TIPS.CUSTOM"
@@ -16010,12 +16010,12 @@ msgstr "感谢您通关游戏！"
 #: STRINGS.WIN_TIPS.EXPERIENCED
 msgctxt "STRINGS.WIN_TIPS.EXPERIENCED"
 msgid "Congratulations on completing Experienced Mode!\nFor a greater challenge, try Expert Mode. As the base difficulty of the game, we pull no punches here."
-msgstr "祝贺您完成老手模式！\n如果您想尝试更高的挑战，请尝试专家模式。我们坦诚的说，老手模式是这个游戏的基础难度"
+msgstr "祝贺您通关老手模式！\n如果您想尝试更高的挑战，请尝试专家模式。我们坦诚的说，老手模式是这个游戏的基础难度"
 
 #: STRINGS.WIN_TIPS.EXPERT
 msgctxt "STRINGS.WIN_TIPS.EXPERT"
 msgid "Congratulations  on completing Expert Mode!\nFor the ultimate challenge, you can try Expert Plus Mode."
-msgstr "祝贺您完成专家模式！\n 如果您想体验终极挑战，可以尝试专家加强难度."
+msgstr "祝贺您通关专家模式！\n 如果您想体验终极挑战，可以尝试专家加强难度."
 
 #: STRINGS.WIN_TIPS.EXPERT_PLUS
 msgctxt "STRINGS.WIN_TIPS.EXPERT_PLUS"
