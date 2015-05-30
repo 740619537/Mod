@@ -2000,367 +2000,367 @@ msgstr ""
 #: STRINGS.CORP.OMNI.SHORTDESC
 msgctxt "STRINGS.CORP.OMNI.SHORTDESC"
 msgid "We know very little about OMNI, but they appear to have more advanced technology than any other corporation."
-msgstr ""
+msgstr "我们对万象还不是很了解，但是他们似乎有比其他公司更先进的科技。"
 
 #: STRINGS.CORP.OMNI.SHORTNAME
 msgctxt "STRINGS.CORP.OMNI.SHORTNAME"
 msgid "OMNI"
-msgstr ""
+msgstr "万象"
 
 #: STRINGS.CORP.OMNI.THREATS.1
 msgctxt "STRINGS.CORP.OMNI.THREATS.1"
 msgid "??"
-msgstr ""
+msgstr "??"
 
 #: STRINGS.CORP.OMNI.THREATS.2
 msgctxt "STRINGS.CORP.OMNI.THREATS.2"
 msgid "??"
-msgstr ""
+msgstr "??"
 
 #: STRINGS.CORP.PLASTECH.DESCRIPTION
 msgctxt "STRINGS.CORP.PLASTECH.DESCRIPTION"
 msgid "Plastech Medical made record profits in the early 21st century selling life-extension technologies to aging baby boomers. When that well dried up, they funneled their vast cash reserves into R&D and cornered the market for cybernetic augmentation."
-msgstr ""
+msgstr "离子医疗在21世纪初通过售卖延长寿命的科技产品实现了创纪录的营收，并且使出生在生育高峰期的人群变老。当这个市场萎缩之后，他们把庞大的现金储备投入研究与发展中，并借此垄断了数控植入设备"
 
 #: STRINGS.CORP.PLASTECH.NAME
 msgctxt "STRINGS.CORP.PLASTECH.NAME"
 msgid "Plastech Cybermedical"
-msgstr ""
+msgstr "离子数字医疗"
 
 #: STRINGS.CORP.PLASTECH.SHORTDESC
 msgctxt "STRINGS.CORP.PLASTECH.SHORTDESC"
 msgid "Using cybernetic augmentation, they have modified their troops to meld with the mainframe."
-msgstr ""
+msgstr "通过使用数控植入设备，他们将他们的部队改造成更加适合主框架。"
 
 #: STRINGS.CORP.PLASTECH.SHORTNAME
 msgctxt "STRINGS.CORP.PLASTECH.SHORTNAME"
 msgid "Plastech"
-msgstr ""
+msgstr "离子"
 
 #: STRINGS.CORP.PLASTECH.THREATS.1
 msgctxt "STRINGS.CORP.PLASTECH.THREATS.1"
 msgid "Highly augmented security personnel"
-msgstr ""
+msgstr "大量增加了安保人员"
 
 #: STRINGS.CORP.PLASTECH.THREATS.2
 msgctxt "STRINGS.CORP.PLASTECH.THREATS.2"
 msgid "Network stem-linked sysadmins"
-msgstr ""
+msgstr "网络细胞链接系统管理员"
 
 #: STRINGS.CORP.SANKAKU.DESCRIPTION
 msgctxt "STRINGS.CORP.SANKAKU.DESCRIPTION"
 msgid "Sankaku started as an industrial automation provider in the early 21st century. In recent decades it has capitalized on the corporate class' growing dissatisfaction with human labour to expand into everything from education to law enforcement."
-msgstr ""
+msgstr "Sankaku 在21世纪初是作为一个工业自动化供应商而起家的。最近几十年在对人力不满的企业阶级中，他变卖资产来扩张自己在诸多领域的影响力，譬如教育和法律的实施"
 
 #: STRINGS.CORP.SANKAKU.NAME
 msgctxt "STRINGS.CORP.SANKAKU.NAME"
 msgid "Sankaku Heavy Industries"
-msgstr ""
+msgstr "Sankaku 重工"
 
 #: STRINGS.CORP.SANKAKU.SHORTDESC
 msgctxt "STRINGS.CORP.SANKAKU.SHORTDESC"
 msgid "Specializing in robotics, you can expect weaponized drones."
-msgstr ""
+msgstr "通过研究机器人科学，你可以指望配备武器的机器人。"
 
 #: STRINGS.CORP.SANKAKU.SHORTNAME
 msgctxt "STRINGS.CORP.SANKAKU.SHORTNAME"
 msgid "Sankaku"
-msgstr ""
+msgstr "Sankaku"
 
 #: STRINGS.CORP.SANKAKU.THREATS.1
 msgctxt "STRINGS.CORP.SANKAKU.THREATS.1"
 msgid "Akuma combat drone"
-msgstr ""
+msgstr "Akuma 格斗机器人"
 
 #: STRINGS.CORP.SANKAKU.THREATS.2
 msgctxt "STRINGS.CORP.SANKAKU.THREATS.2"
 msgid "Null info-security drone"
-msgstr ""
+msgstr "无用的信息安全机器人"
 
 #: STRINGS.CREDIT_ROLL.DEVELOPED_BY
 msgctxt "STRINGS.CREDIT_ROLL.DEVELOPED_BY"
 msgid "Developed by Klei Entertainment"
-msgstr ""
+msgstr "由 Klei 娱乐研发"
 
 #: STRINGS.CREDIT_ROLL.NAMES.1
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.1"
 msgid "Jeff Agala"
-msgstr ""
+msgstr "Jeff Agala"
 
 #: STRINGS.CREDIT_ROLL.NAMES.10
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.10"
 msgid "Vince De Vera"
-msgstr ""
+msgstr "Vince De Vera"
 
 #: STRINGS.CREDIT_ROLL.NAMES.11
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.11"
 msgid "Jason Dreger"
-msgstr ""
+msgstr "Jason Dreger"
 
 #: STRINGS.CREDIT_ROLL.NAMES.12
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.12"
 msgid "Stephanie Faye"
-msgstr ""
+msgstr "Stephanie Faye"
 
 #: STRINGS.CREDIT_ROLL.NAMES.13
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.13"
 msgid "Kevin Forbes"
-msgstr ""
+msgstr "Kevin Forbes"
 
 #: STRINGS.CREDIT_ROLL.NAMES.14
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.14"
 msgid "Nana Fujino"
-msgstr ""
+msgstr "Nana Fujino"
 
 #: STRINGS.CREDIT_ROLL.NAMES.15
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.15"
 msgid "Kelly Graham"
-msgstr ""
+msgstr "Kelly Graham"
 
 #: STRINGS.CREDIT_ROLL.NAMES.16
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.16"
 msgid "Tatham Johnson"
-msgstr ""
+msgstr "Tatham Johnson"
 
 #: STRINGS.CREDIT_ROLL.NAMES.17
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.17"
 msgid "Paul Ku"
-msgstr ""
+msgstr "Paul Ku"
 
 #: STRINGS.CREDIT_ROLL.NAMES.18
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.18"
 msgid "James Lantz"
-msgstr ""
+msgstr "James Lantz"
 
 #: STRINGS.CREDIT_ROLL.NAMES.19
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.19"
 msgid "Cheoljoo Lee"
-msgstr ""
+msgstr "Cheoljoo Lee"
 
 #: STRINGS.CREDIT_ROLL.NAMES.2
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.2"
 msgid "Mike Bell"
-msgstr ""
+msgstr "Mike Bell"
 
 #: STRINGS.CREDIT_ROLL.NAMES.20
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.20"
 msgid "Wade Lindley"
-msgstr ""
+msgstr "Wade Lindley"
 
 #: STRINGS.CREDIT_ROLL.NAMES.21
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.21"
 msgid "Matthew Marteinsson"
-msgstr ""
+msgstr "Matthew Marteinsson"
 
 #: STRINGS.CREDIT_ROLL.NAMES.22
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.22"
 msgid "Charlie McKenna"
-msgstr ""
+msgstr "Charlie McKenna"
 
 #: STRINGS.CREDIT_ROLL.NAMES.23
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.23"
 msgid "Brook Miles"
-msgstr ""
+msgstr "Brook Miles"
 
 #: STRINGS.CREDIT_ROLL.NAMES.24
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.24"
 msgid "Michael Rodriguez"
-msgstr ""
+msgstr "Michael Rodriguez"
 
 #: STRINGS.CREDIT_ROLL.NAMES.25
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.25"
 msgid "Corey Rollins"
-msgstr ""
+msgstr "Corey Rollins"
 
 #: STRINGS.CREDIT_ROLL.NAMES.26
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.26"
 msgid "Alex Savin"
-msgstr ""
+msgstr "Alex Savin"
 
 #: STRINGS.CREDIT_ROLL.NAMES.27
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.27"
 msgid "Meghan Shaw"
-msgstr ""
+msgstr "Meghan Shaw"
 
 #: STRINGS.CREDIT_ROLL.NAMES.28
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.28"
 msgid "Eugene Trakhtenberg"
-msgstr ""
+msgstr "Eugene Trakhtenberg"
 
 #: STRINGS.CREDIT_ROLL.NAMES.29
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.29"
 msgid "Will Turnbull"
-msgstr ""
+msgstr "Will Turnbull"
 
 #: STRINGS.CREDIT_ROLL.NAMES.3
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.3"
 msgid "Aaron Bouthillier"
-msgstr ""
+msgstr "Aaron Bouthillier"
 
 #: STRINGS.CREDIT_ROLL.NAMES.30
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.30"
 msgid "Joe Wreggelsworth"
-msgstr ""
+msgstr "Joe Wreggelsworth"
 
 #: STRINGS.CREDIT_ROLL.NAMES.31
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.31"
 msgid "Nabie-ah Yousuf"
-msgstr ""
+msgstr "Nabie-ah Yousuf"
 
 #: STRINGS.CREDIT_ROLL.NAMES.4
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.4"
 msgid "Bruce Chang"
-msgstr ""
+msgstr "Bruce Chang"
 
 #: STRINGS.CREDIT_ROLL.NAMES.5
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.5"
 msgid "Jamie Cheng"
-msgstr ""
+msgstr "Jamie Cheng"
 
 #: STRINGS.CREDIT_ROLL.NAMES.6
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.6"
 msgid "Vangelis Christou"
-msgstr ""
+msgstr "Vangelis Christou"
 
 #: STRINGS.CREDIT_ROLL.NAMES.7
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.7"
 msgid "Alex Colbert"
-msgstr ""
+msgstr "Alex Colbert"
 
 #: STRINGS.CREDIT_ROLL.NAMES.8
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.8"
 msgid "Allan Cortez"
-msgstr ""
+msgstr "Allan Cortez"
 
 #: STRINGS.CREDIT_ROLL.NAMES.9
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.9"
 msgid "Chris Costa"
-msgstr ""
+msgstr "Chris Costa"
 
 #: STRINGS.DAEMONS.ALERTBLOWFISH.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.ACTIVE_DESC"
 msgid "ALARM RAISED %d BY DAEMON"
-msgstr ""
+msgstr "守护进程生效，警报增加 %d 格"
 
 #: STRINGS.DAEMONS.ALERTBLOWFISH.DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.DESC"
 msgid "Advances tracker"
-msgstr ""
+msgstr "触发追踪器"
 
 #: STRINGS.DAEMONS.ALERTBLOWFISH.NAME
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.NAME"
 msgid "BLOWFISH 2.0"
-msgstr ""
+msgstr "河豚 2.0"
 
 #: STRINGS.DAEMONS.ALERTBLOWFISH.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.SHORT_DESC"
 msgid "Advances tracker"
-msgstr ""
+msgstr "触发追踪器"
 
 #: STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC"
 msgid "SPAWNS DAEMONS ON ALL FIREWALLS."
-msgstr ""
+msgstr "守护进程生效，所有防火墙生成守护进程"
 
 #: STRINGS.DAEMONS.ALERTFRACTAL.DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.DESC"
 msgid "Spawns Daemons on all FIREWALLS."
-msgstr ""
+msgstr "在所有防火墙上生成守护进程"
 
 #: STRINGS.DAEMONS.ALERTFRACTAL.NAME
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.NAME"
 msgid "FRACTAL 2.0"
-msgstr ""
+msgstr "分型 2.0"
 
 #: STRINGS.DAEMONS.ALERTFRACTAL.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.SHORT_DESC"
 msgid "Spawns Daemons"
-msgstr ""
+msgstr "生成守护进程"
 
 #: STRINGS.DAEMONS.ALERTMODULATE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.ACTIVE_DESC"
 msgid "+2 PWR COST TO PROGRAMS FOR %d turns"
-msgstr ""
+msgstr "守护进程生效，使用程序消耗 PWR +2，持续 %d 轮"
 
 #: STRINGS.DAEMONS.ALERTMODULATE.DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.DESC"
 msgid "Programs cost +2 PWR to use."
-msgstr ""
+msgstr "使用程序消耗 PWR +2"
 
 #: STRINGS.DAEMONS.ALERTMODULATE.NAME
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.NAME"
 msgid "MODULATE 2.0"
-msgstr ""
+msgstr "调制"
 
 #: STRINGS.DAEMONS.ALERTMODULATE.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.SHORT_DESC"
 msgid "PWR COST"
-msgstr ""
+msgstr "消耗 PWR"
 
 #: STRINGS.DAEMONS.ALERTPULSE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTPULSE.ACTIVE_DESC"
 msgid "ITEM COOLDOWNS SHORT-CIRCUITED"
-msgstr ""
+msgstr "守护进程生效，装备冷却发生短路"
 
 #: STRINGS.DAEMONS.ALERTPULSE.DESC
 msgctxt "STRINGS.DAEMONS.ALERTPULSE.DESC"
 msgid "Short-circuits items, adding 3 to all item cooldowns."
-msgstr ""
+msgstr "使装备短路，所有装备冷却回合加 3"
 
 #: STRINGS.DAEMONS.ALERTPULSE.NAME
 msgctxt "STRINGS.DAEMONS.ALERTPULSE.NAME"
 msgid "PULSE 2.0"
-msgstr ""
+msgstr "脉冲 2.0"
 
 #: STRINGS.DAEMONS.ALERTPULSE.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.ALERTPULSE.SHORT_DESC"
 msgid "+3 to all item cooldowns"
-msgstr ""
+msgstr "所有装备冷却回合 +3"
 
 #: STRINGS.DAEMONS.AUTHORITY.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.AUTHORITY.ACTIVE_DESC"
 msgid "SAFES ARE ALARMED."
-msgstr ""
+msgstr "守护进程生效，保险柜警报启动"
 
 #: STRINGS.DAEMONS.AUTHORITY.DESC
 msgctxt "STRINGS.DAEMONS.AUTHORITY.DESC"
 msgid "Safes are alarmed and will trigger a nearby guard to investigate when opened."
-msgstr ""
+msgstr "当保险柜被打开时会启动警报并使附近守卫来查看情况。"
 
 #: STRINGS.DAEMONS.AUTHORITY.NAME
 msgctxt "STRINGS.DAEMONS.AUTHORITY.NAME"
 msgid "AUTHORITY"
-msgstr ""
+msgstr "权限"
 
 #: STRINGS.DAEMONS.AUTHORITY.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.AUTHORITY.SHORT_DESC"
 msgid "SAFES ARE ALARMED"
-msgstr ""
+msgstr "保险柜启动警报"
 
 #: STRINGS.DAEMONS.AUTHORITY.WARNING
 msgctxt "STRINGS.DAEMONS.AUTHORITY.WARNING"
 msgid "AUTHORITY DAEMON\nGUARD ALERTED"
-msgstr ""
+msgstr "守护进程 权限\n守卫被惊动"
 
 #: STRINGS.DAEMONS.BLOWFISH.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.BLOWFISH.ACTIVE_DESC"
 msgid "ALARM RAISED %d BY DAEMON"
-msgstr ""
+msgstr "守护进程生效，警报增加了 %d 格"
 
 #: STRINGS.DAEMONS.BLOWFISH.DESC
 msgctxt "STRINGS.DAEMONS.BLOWFISH.DESC"
 msgid "Advances tracker"
-msgstr ""
+msgstr "触发追踪器"
 
 #: STRINGS.DAEMONS.BLOWFISH.NAME
 msgctxt "STRINGS.DAEMONS.BLOWFISH.NAME"
 msgid "BLOWFISH"
-msgstr ""
+msgstr "河豚"
 
 #: STRINGS.DAEMONS.BLOWFISH.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.BLOWFISH.SHORT_DESC"
 msgid "Advances tracker"
-msgstr ""
+msgstr "触发追踪器"
 
 #: STRINGS.DAEMONS.DAEMON_PNL_TITLE
 msgctxt "STRINGS.DAEMONS.DAEMON_PNL_TITLE"
@@ -2370,392 +2370,392 @@ msgstr ""
 #: STRINGS.DAEMONS.FAILSAFE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.FAILSAFE.ACTIVE_DESC"
 msgid "DAEMON REBOOTS 2 OBJECTS EACH TURN"
-msgstr ""
+msgstr "守护进程每回合重启 2 个装置"
 
 #: STRINGS.DAEMONS.FAILSAFE.DESC
 msgctxt "STRINGS.DAEMONS.FAILSAFE.DESC"
 msgid "Reboots 2 objects each turn."
-msgstr ""
+msgstr "每回合重启 2 个装置"
 
 #: STRINGS.DAEMONS.FAILSAFE.NAME
 msgctxt "STRINGS.DAEMONS.FAILSAFE.NAME"
 msgid "FAILSAFE"
-msgstr ""
+msgstr "故障保险"
 
 #: STRINGS.DAEMONS.FAILSAFE.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.FAILSAFE.SHORT_DESC"
 msgid "Reboots 2 objects each turn"
-msgstr ""
+msgstr "每回合重启 2 个装置"
 
 #: STRINGS.DAEMONS.FELIX.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.FELIX.ACTIVE_DESC"
 msgid "Siphons %d credits from the agency."
-msgstr ""
+msgstr "守护进程生效，特工被抽取 %d CR"
 
 #: STRINGS.DAEMONS.FELIX.DESC
 msgctxt "STRINGS.DAEMONS.FELIX.DESC"
 msgid "Siphons credit from the agency."
-msgstr ""
+msgstr "抽取特工 CR"
 
 #: STRINGS.DAEMONS.FELIX.NAME
 msgctxt "STRINGS.DAEMONS.FELIX.NAME"
 msgid "FELIX"
-msgstr ""
+msgstr "FELIX"
 
 #: STRINGS.DAEMONS.FELIX.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.FELIX.SHORT_DESC"
 msgid "Siphons credits"
-msgstr ""
+msgstr "抽取 CR"
 
 #: STRINGS.DAEMONS.FRACTAL.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.FRACTAL.ACTIVE_DESC"
 msgid "NEW DAEMONS INSTALLED BY DAEMON"
-msgstr ""
+msgstr "守护进程生效，新守护进程被安装"
 
 #: STRINGS.DAEMONS.FRACTAL.DESC
 msgctxt "STRINGS.DAEMONS.FRACTAL.DESC"
 msgid "Creates two new DAEMON programs on random objects"
-msgstr ""
+msgstr "在随机两个设备上生成新守护进程程序"
 
 #: STRINGS.DAEMONS.FRACTAL.NAME
 msgctxt "STRINGS.DAEMONS.FRACTAL.NAME"
 msgid "FRACTAL"
-msgstr ""
+msgstr "分形"
 
 #: STRINGS.DAEMONS.FRACTAL.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.FRACTAL.SHORT_DESC"
 msgid "Spawns additional Daemons"
-msgstr ""
+msgstr "生成额外的守护进程"
 
 #: STRINGS.DAEMONS.GENERIC_TITLE
 msgctxt "STRINGS.DAEMONS.GENERIC_TITLE"
 msgid "Installing Daemon"
-msgstr ""
+msgstr "安装守护进程"
 
 #: STRINGS.DAEMONS.LABYRINTH.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.LABYRINTH.ACTIVE_DESC"
 msgid "DAEMON REDUCES AGENTS AP BY 2"
-msgstr ""
+msgstr "守护进程生效，特工 AP 值减少 2"
 
 #: STRINGS.DAEMONS.LABYRINTH.DESC
 msgctxt "STRINGS.DAEMONS.LABYRINTH.DESC"
 msgid "Reduces all agent AP by 2"
-msgstr ""
+msgstr "使所有特工 AP 值减少 2"
 
 #: STRINGS.DAEMONS.LABYRINTH.NAME
 msgctxt "STRINGS.DAEMONS.LABYRINTH.NAME"
 msgid "LABYRINTH"
-msgstr ""
+msgstr "迷宫"
 
 #: STRINGS.DAEMONS.LABYRINTH.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.LABYRINTH.SHORT_DESC"
 msgid "Reduces agents' AP by 2"
-msgstr ""
+msgstr "使所有特工 AP 值减少 2"
 
 #: STRINGS.DAEMONS.MASK.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.MASK.ACTIVE_DESC"
 msgid "Daemons are hidden."
-msgstr ""
+msgstr "守护进程生效，所有守护进程进入隐藏状态"
 
 #: STRINGS.DAEMONS.MASK.DESC
 msgctxt "STRINGS.DAEMONS.MASK.DESC"
 msgid "Daemons are hidden while Mask is active."
-msgstr ""
+msgstr "当伪装守护进程启动时，所有守护进程会进入隐藏状态"
 
 #: STRINGS.DAEMONS.MASK.NAME
 msgctxt "STRINGS.DAEMONS.MASK.NAME"
 msgid "MASK"
-msgstr ""
+msgstr "伪装"
 
 #: STRINGS.DAEMONS.MASK.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.MASK.SHORT_DESC"
 msgid "Daemons are hidden"
-msgstr ""
+msgstr "守护进程进入隐藏状态"
 
 #: STRINGS.DAEMONS.MODULATE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.MODULATE.ACTIVE_DESC"
 msgid "+2 PWR COST TO PROGRAMS FOR %d turns"
-msgstr ""
+msgstr "守护进程生效，使用程序消耗 PWR +2，持续 %d 轮"
 
 #: STRINGS.DAEMONS.MODULATE.DESC
 msgctxt "STRINGS.DAEMONS.MODULATE.DESC"
 msgid "Programs cost +2 PWR to use."
-msgstr ""
+msgstr "使用程序消耗 PWR +2"
 
 #: STRINGS.DAEMONS.MODULATE.NAME
 msgctxt "STRINGS.DAEMONS.MODULATE.NAME"
 msgid "MODULATE"
-msgstr ""
+msgstr "调制"
 
 #: STRINGS.DAEMONS.MODULATE.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.MODULATE.SHORT_DESC"
 msgid "PWR COST"
-msgstr ""
+msgstr "PWR 消耗"
 
 #: STRINGS.DAEMONS.PANIC.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.PANIC.ACTIVE_DESC"
 msgid "ONE GUARD SENT TO INVESTIGATE THE LOCATION OF AN AGENT EACH TURN"
-msgstr ""
+msgstr "守护进程生效，每回合派遣一个守卫到特工所在位置进行调查"
 
 #: STRINGS.DAEMONS.PANIC.DESC
 msgctxt "STRINGS.DAEMONS.PANIC.DESC"
 msgid "One guard is sent to investigate the location of an agent each turn."
-msgstr ""
+msgstr "每回合派遣一个守卫到特工所在位置进行调查。"
 
 #: STRINGS.DAEMONS.PANIC.NAME
 msgctxt "STRINGS.DAEMONS.PANIC.NAME"
 msgid "COUNTERMEASURES"
-msgstr ""
+msgstr "对策"
 
 #: STRINGS.DAEMONS.PANIC.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.PANIC.SHORT_DESC"
 msgid "Agent locations discovered"
-msgstr ""
+msgstr "特工所在位置被发现"
 
 #: STRINGS.DAEMONS.PARADOX.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.PARADOX.ACTIVE_DESC"
 msgid "Incognita hacking ability stopped for %d turns"
-msgstr ""
+msgstr "守护进程生效，Incognita 黑客功能被禁用 持续 %d 回合"
 
 #: STRINGS.DAEMONS.PARADOX.DESC
 msgctxt "STRINGS.DAEMONS.PARADOX.DESC"
 msgid "Stops INCOGNITA from hacking temporarily"
-msgstr ""
+msgstr "暂时禁用 INCOGNITA 的黑客功能"
 
 #: STRINGS.DAEMONS.PARADOX.NAME
 msgctxt "STRINGS.DAEMONS.PARADOX.NAME"
 msgid "PARADOX"
-msgstr ""
+msgstr "悖论"
 
 #: STRINGS.DAEMONS.PARADOX.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.PARADOX.SHORT_DESC"
 msgid "Disables hacking ability"
-msgstr ""
+msgstr "禁用黑客功能"
 
 #: STRINGS.DAEMONS.RUBIKS.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.RUBIKS.ACTIVE_DESC"
 msgid "ALL FIREWALLS RAISED BY DAEMON"
-msgstr ""
+msgstr "守护进程生效，所有防火墙等级被提升"
 
 #: STRINGS.DAEMONS.RUBIKS.DESC
 msgctxt "STRINGS.DAEMONS.RUBIKS.DESC"
 msgid "Raises FIREWALLS"
-msgstr ""
+msgstr "提升防火墙等级"
 
 #: STRINGS.DAEMONS.RUBIKS.NAME
 msgctxt "STRINGS.DAEMONS.RUBIKS.NAME"
 msgid "RUBIKS"
-msgstr ""
+msgstr "魔方"
 
 #: STRINGS.DAEMONS.RUBIKS.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.RUBIKS.SHORT_DESC"
 msgid "Raises FIREWALLS by one"
-msgstr ""
+msgstr "提升一级防火墙"
 
 #: STRINGS.DAEMONS.SIPHON.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.SIPHON.ACTIVE_DESC"
 msgid "%d PWR DRAINED BY DAEMON"
-msgstr ""
+msgstr "守护进程生效，流失 %d PWR"
 
 #: STRINGS.DAEMONS.SIPHON.DESC
 msgctxt "STRINGS.DAEMONS.SIPHON.DESC"
 msgid "Drains PWR"
-msgstr ""
+msgstr "PWR 流失"
 
 #: STRINGS.DAEMONS.SIPHON.NAME
 msgctxt "STRINGS.DAEMONS.SIPHON.NAME"
 msgid "SIPHON"
-msgstr ""
+msgstr "虹吸"
 
 #: STRINGS.DAEMONS.SIPHON.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.SIPHON.SHORT_DESC"
 msgid "Drains PWR"
-msgstr ""
+msgstr "抽取 PWR"
 
 #: STRINGS.DAEMONS.VALIDATE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.VALIDATE.ACTIVE_DESC"
 msgid "GUARD SPAWNED BY DAEMON"
-msgstr ""
+msgstr "守护进程生效，出现新守卫"
 
 #: STRINGS.DAEMONS.VALIDATE.DESC
 msgctxt "STRINGS.DAEMONS.VALIDATE.DESC"
 msgid "Brings an additional guard onto the level"
-msgstr ""
+msgstr "在目前安保等级上增加一个额外的守卫"
 
 #: STRINGS.DAEMONS.VALIDATE.NAME
 msgctxt "STRINGS.DAEMONS.VALIDATE.NAME"
 msgid "VALIDATE"
-msgstr ""
+msgstr "验证"
 
 #: STRINGS.DAEMONS.VALIDATE.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.VALIDATE.SHORT_DESC"
 msgid "Spawns guard"
-msgstr ""
+msgstr "增加守卫"
 
 #: STRINGS.DAEMONS.WARNING_TITLE
 msgctxt "STRINGS.DAEMONS.WARNING_TITLE"
 msgid "%s Daemon"
-msgstr ""
+msgstr "%s 守护进程"
 
 #: STRINGS.DEATH_TIPS.1
 msgctxt "STRINGS.DEATH_TIPS.1"
 msgid "The corporations may have won this time, but the future is always in motion.\nTry again - apply what you have learned from this setback and rebuild the firm!"
-msgstr ""
+msgstr "公司这次或许胜利了，但是未来是不确定的。\n再试试 - 应用你从这次失败中得到的并且重建你的公司！"
 
 #: STRINGS.DEATH_TIPS.2
 msgctxt "STRINGS.DEATH_TIPS.2"
 msgid "While risky, searching each level for all the credit safes will better prepare you for future missions."
-msgstr ""
+msgstr "尽管有风险，但是搜索在每个关卡的CR保险柜会使有利于你未来的任务。"
 
 #: STRINGS.DEATH_TIPS.3
 msgctxt "STRINGS.DEATH_TIPS.3"
 msgid "Alerted guards will hunt the level for your agents. Don't interfere with them if you don't have to."
-msgstr ""
+msgstr "警惕的警卫会在当前关卡中搜寻你的特工。如果不是必要，千万不要干扰他们。"
 
 #: STRINGS.DEATH_TIPS.4
 msgctxt "STRINGS.DEATH_TIPS.4"
 msgid "Some guards have armor. Make sure you look for items that can deal with it."
-msgstr ""
+msgstr "有一些警卫穿有盔甲。确保你寻找可以与之抗衡的物品。"
 
 #: STRINGS.DEATH_TIPS.5
 msgctxt "STRINGS.DEATH_TIPS.5"
 msgid "Each day will increase the security of all the corporations. Plan your flight time carefully."
-msgstr ""
+msgstr "每一天，每个企业的安保等级都会增加。小心计划你的航班时间。"
 
 #: STRINGS.DEATH_TIPS.6
 msgctxt "STRINGS.DEATH_TIPS.6"
 msgid "Every mission provides key benefits to your agents. Choose wisely to build a strong team."
-msgstr ""
+msgstr "每个任务都提供了关键的好处给你的特工。请明智的组建一支强大的队伍。"
 
 #: STRINGS.DEATH_TIPS.7
 msgctxt "STRINGS.DEATH_TIPS.7"
 msgid "You can set many custom gameplay options when starting a new campaign"
-msgstr ""
+msgstr "当你开始一个新的战役时，你可以设置自定义游戏设置。"
 
 #: STRINGS.FORMATS.ADDRESS
 msgctxt "STRINGS.FORMATS.ADDRESS"
 msgid "{1} {2}, {3}"
-msgstr ""
+msgstr "{1} {2}, {3}"
 
 #: STRINGS.FORMATS.AMT_KO
 msgctxt "STRINGS.FORMATS.AMT_KO"
 msgid "{1} KO"
-msgstr ""
+msgstr "{1} KO"
 
 #: STRINGS.FORMATS.CREDITS
 msgctxt "STRINGS.FORMATS.CREDITS"
 msgid "{1} CR"
-msgstr ""
+msgstr "{1} CR"
 
 #: STRINGS.FORMATS.CREDS
 msgctxt "STRINGS.FORMATS.CREDS"
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: STRINGS.FORMATS.CREDS2
 msgctxt "STRINGS.FORMATS.CREDS2"
 msgid "{1} credits"
-msgstr ""
+msgstr "{1} credits"
 
 #: STRINGS.FORMATS.KO_AMT
 msgctxt "STRINGS.FORMATS.KO_AMT"
 msgid "KO {1}"
-msgstr ""
+msgstr "KO {1}"
 
 #: STRINGS.FORMATS.LEVEL
 msgctxt "STRINGS.FORMATS.LEVEL"
 msgid "Level {1}"
-msgstr ""
+msgstr "Level {1}"
 
 #: STRINGS.FORMATS.MAX_AP
 msgctxt "STRINGS.FORMATS.MAX_AP"
 msgid "MAX AP: {1}"
-msgstr ""
+msgstr "最大AP值: {1}"
 
 #: STRINGS.FORMATS.PLUS_AP
 msgctxt "STRINGS.FORMATS.PLUS_AP"
 msgid "+{1} AP"
-msgstr ""
+msgstr "+{1} AP"
 
 #: STRINGS.FORMATS.PLUS_CREDS
 msgctxt "STRINGS.FORMATS.PLUS_CREDS"
 msgid "+{1} CR"
-msgstr ""
+msgstr "+{1} CR"
 
 #: STRINGS.FORMATS.PLUS_PWR
 msgctxt "STRINGS.FORMATS.PLUS_PWR"
 msgid "+{1} PWR"
-msgstr ""
+msgstr "+{1} PWR"
 
 #: STRINGS.FORMATS.PWR
 msgctxt "STRINGS.FORMATS.PWR"
 msgid "{1} PWR"
-msgstr ""
+msgstr "{1} PWR"
 
 #: STRINGS.FORMATS.REP
 msgctxt "STRINGS.FORMATS.REP"
 msgid "{1} REP"
-msgstr ""
+msgstr "{1} REP"
 
 #: STRINGS.GENDER_CONTEXT.female.He
 msgctxt "STRINGS.GENDER_CONTEXT.female.He"
 msgid "She"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.Him
 msgctxt "STRINGS.GENDER_CONTEXT.female.Him"
 msgid "Her"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.His
 msgctxt "STRINGS.GENDER_CONTEXT.female.His"
 msgid "Her"
-msgstr ""
+msgstr "她的"
 
 #: STRINGS.GENDER_CONTEXT.female.Own
 msgctxt "STRINGS.GENDER_CONTEXT.female.Own"
 msgid "Hers"
-msgstr ""
+msgstr "她的东西"
 
 #: STRINGS.GENDER_CONTEXT.female.he
 msgctxt "STRINGS.GENDER_CONTEXT.female.he"
 msgid "she"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.him
 msgctxt "STRINGS.GENDER_CONTEXT.female.him"
 msgid "her"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.his
 msgctxt "STRINGS.GENDER_CONTEXT.female.his"
 msgid "her"
-msgstr ""
+msgstr "她的"
 
 #: STRINGS.GENDER_CONTEXT.female.own
 msgctxt "STRINGS.GENDER_CONTEXT.female.own"
 msgid "hers"
-msgstr ""
+msgstr "她的东西"
 
 #: STRINGS.GENDER_CONTEXT.it.He
 msgctxt "STRINGS.GENDER_CONTEXT.it.He"
 msgid "It"
-msgstr ""
+msgstr "它"
 
 #: STRINGS.GENDER_CONTEXT.it.Him
 msgctxt "STRINGS.GENDER_CONTEXT.it.Him"
 msgid "It"
-msgstr ""
+msgstr "它"
 
 #: STRINGS.GENDER_CONTEXT.it.His
 msgctxt "STRINGS.GENDER_CONTEXT.it.His"
 msgid "Its"
-msgstr ""
+msgstr "它的"
 
 #: STRINGS.GENDER_CONTEXT.it.Own
 msgctxt "STRINGS.GENDER_CONTEXT.it.Own"
 msgid "Its"
-msgstr ""
+msgstr "它的东西"
 
 #: STRINGS.GENDER_CONTEXT.it.he
 msgctxt "STRINGS.GENDER_CONTEXT.it.he"
@@ -2765,227 +2765,227 @@ msgstr ""
 #: STRINGS.GENDER_CONTEXT.it.him
 msgctxt "STRINGS.GENDER_CONTEXT.it.him"
 msgid "it"
-msgstr ""
+msgstr "它"
 
 #: STRINGS.GENDER_CONTEXT.it.his
 msgctxt "STRINGS.GENDER_CONTEXT.it.his"
 msgid "its"
-msgstr ""
+msgstr "它的"
 
 #: STRINGS.GENDER_CONTEXT.it.own
 msgctxt "STRINGS.GENDER_CONTEXT.it.own"
 msgid "its"
-msgstr ""
+msgstr "它的东西"
 
 #: STRINGS.GENDER_CONTEXT.male.He
 msgctxt "STRINGS.GENDER_CONTEXT.male.He"
 msgid "He"
-msgstr ""
+msgstr "他"
 
 #: STRINGS.GENDER_CONTEXT.male.Him
 msgctxt "STRINGS.GENDER_CONTEXT.male.Him"
 msgid "Him"
-msgstr ""
+msgstr "他"
 
 #: STRINGS.GENDER_CONTEXT.male.His
 msgctxt "STRINGS.GENDER_CONTEXT.male.His"
 msgid "His"
-msgstr ""
+msgstr "他的"
 
 #: STRINGS.GENDER_CONTEXT.male.Own
 msgctxt "STRINGS.GENDER_CONTEXT.male.Own"
 msgid "His"
-msgstr ""
+msgstr "他的东西"
 
 #: STRINGS.GENDER_CONTEXT.male.he
 msgctxt "STRINGS.GENDER_CONTEXT.male.he"
 msgid "he"
-msgstr ""
+msgstr "他"
 
 #: STRINGS.GENDER_CONTEXT.male.him
 msgctxt "STRINGS.GENDER_CONTEXT.male.him"
 msgid "him"
-msgstr ""
+msgstr "他"
 
 #: STRINGS.GENDER_CONTEXT.male.his
 msgctxt "STRINGS.GENDER_CONTEXT.male.his"
 msgid "his"
-msgstr ""
+msgstr "他的"
 
 #: STRINGS.GENDER_CONTEXT.male.own
 msgctxt "STRINGS.GENDER_CONTEXT.male.own"
 msgid "his"
-msgstr ""
+msgstr "他的东西"
 
 #: STRINGS.GUARDS.AKUMA_DRONE
 msgctxt "STRINGS.GUARDS.AKUMA_DRONE"
 msgid "AKUMA DRONE"
-msgstr ""
+msgstr "AKUMA 无人机"
 
 #: STRINGS.GUARDS.CAMERA_DRONE
 msgctxt "STRINGS.GUARDS.CAMERA_DRONE"
 msgid "CAMERA DRONE"
-msgstr ""
+msgstr "监控无人机"
 
 #: STRINGS.GUARDS.CAPTAIN
 msgctxt "STRINGS.GUARDS.CAPTAIN"
 msgid "CAPTAIN"
-msgstr ""
+msgstr "CAPTAIN"
 
 #: STRINGS.GUARDS.CEO
 msgctxt "STRINGS.GUARDS.CEO"
 msgid "FINANCIAL EXECUTIVE"
-msgstr ""
+msgstr "财务经理"
 
 #: STRINGS.GUARDS.ELITE_ENFORCER
 msgctxt "STRINGS.GUARDS.ELITE_ENFORCER"
 msgid "ELITE ENFORCER"
-msgstr ""
+msgstr "精英ENFORCER"
 
 #: STRINGS.GUARDS.ELITE_GUARD
 msgctxt "STRINGS.GUARDS.ELITE_GUARD"
 msgid "ELITE SECURITY"
-msgstr ""
+msgstr "精英守卫"
 
 #: STRINGS.GUARDS.ENFORCER
 msgctxt "STRINGS.GUARDS.ENFORCER"
 msgid "ENFORCER"
-msgstr ""
+msgstr "ENFORCER"
 
 #: STRINGS.GUARDS.GUARD
 msgctxt "STRINGS.GUARDS.GUARD"
 msgid "SECURITY GUARD"
-msgstr ""
+msgstr "守卫"
 
 #: STRINGS.GUARDS.HEAVY_GUARD
 msgctxt "STRINGS.GUARDS.HEAVY_GUARD"
 msgid "HEAVY SECURITY"
-msgstr ""
+msgstr "重型守卫"
 
 #: STRINGS.GUARDS.MKI
 msgctxt "STRINGS.GUARDS.MKI"
 msgid "MODDED MKI"
-msgstr ""
+msgstr "改装的MKI"
 
 #: STRINGS.GUARDS.MKII
 msgctxt "STRINGS.GUARDS.MKII"
 msgid "MODDED MKII"
-msgstr ""
+msgstr "改装的 MKII"
 
 #: STRINGS.GUARDS.NULL_DRONE
 msgctxt "STRINGS.GUARDS.NULL_DRONE"
 msgid "NULL DRONE"
-msgstr ""
+msgstr "无用的无人机"
 
 #: STRINGS.GUARDS.OBAKE_DRONE
 msgctxt "STRINGS.GUARDS.OBAKE_DRONE"
-msgid "OBAKE DRONE v1.0"
-msgstr ""
+msgid "OBAKE  DRONE v1.0"
+msgstr "OBAKE无人机一代"
 
 #: STRINGS.GUARDS.OBAKE_DRONE2
 msgctxt "STRINGS.GUARDS.OBAKE_DRONE2"
 msgid "OBAKE DRONE v2.0"
-msgstr ""
+msgstr "OBAKE 无人机二代"
 
 #: STRINGS.GUARDS.OMNI_CRIER
 msgctxt "STRINGS.GUARDS.OMNI_CRIER"
 msgid "OMNI HARBINGER"
-msgstr ""
+msgstr "万象HARBINGER"
 
 #: STRINGS.GUARDS.OMNI_HUNTER
 msgctxt "STRINGS.GUARDS.OMNI_HUNTER"
 msgid "OMNI HUNTER"
-msgstr ""
+msgstr "万象猎手"
 
 #: STRINGS.GUARDS.OMNI_KILLER
 msgctxt "STRINGS.GUARDS.OMNI_KILLER"
 msgid "OMNI KILLER"
-msgstr ""
+msgstr "万象杀手"
 
 #: STRINGS.GUARDS.OMNI_OBSERVER
 msgctxt "STRINGS.GUARDS.OMNI_OBSERVER"
 msgid "OMNI OBSERVER"
-msgstr ""
+msgstr "万象观察者"
 
 #: STRINGS.GUARDS.OMNI_PROTECTOR
 msgctxt "STRINGS.GUARDS.OMNI_PROTECTOR"
 msgid "OMNI PROTECTOR"
-msgstr ""
+msgstr "万象保护者"
 
 #: STRINGS.GUARDS.OMNI_SOLDIER
 msgctxt "STRINGS.GUARDS.OMNI_SOLDIER"
 msgid "OMNI SOLDIER"
-msgstr ""
+msgstr "万象士兵"
 
 #: STRINGS.GUARDS.SPEC_OPS
 msgctxt "STRINGS.GUARDS.SPEC_OPS"
 msgid "SPEC OPS"
-msgstr ""
+msgstr "SPEC OPS"
 
 #: STRINGS.GUARDS.SUPPORT_GUARD
 msgctxt "STRINGS.GUARDS.SUPPORT_GUARD"
 msgid "SUPPORT GUARD"
-msgstr ""
+msgstr "协助行守卫"
 
 #: STRINGS.GUARD_STATUS.COMBAT
 msgctxt "STRINGS.GUARD_STATUS.COMBAT"
 msgid "ALERT"
-msgstr ""
+msgstr "警惕"
 
 #: STRINGS.GUARD_STATUS.FLEEING
 msgctxt "STRINGS.GUARD_STATUS.FLEEING"
 msgid "FLEEING"
-msgstr ""
+msgstr "逃亡中"
 
 #: STRINGS.GUARD_STATUS.HUNTING
 msgctxt "STRINGS.GUARD_STATUS.HUNTING"
 msgid "HUNTING"
-msgstr ""
+msgstr "寻找敌人"
 
 #: STRINGS.GUARD_STATUS.IDLE
 msgctxt "STRINGS.GUARD_STATUS.IDLE"
 msgid "STATIONARY"
-msgstr ""
+msgstr "静止的"
 
 #: STRINGS.GUARD_STATUS.INVESTIGATING
 msgctxt "STRINGS.GUARD_STATUS.INVESTIGATING"
 msgid "INVESTIGATING"
-msgstr ""
+msgstr "调查中"
 
 #: STRINGS.GUARD_STATUS.PATROLLING
 msgctxt "STRINGS.GUARD_STATUS.PATROLLING"
 msgid "PATROLLING"
-msgstr ""
+msgstr "巡逻中"
 
 #: STRINGS.GUARD_STATUS.START_HUNTING
 msgctxt "STRINGS.GUARD_STATUS.START_HUNTING"
 msgid "PREPARING TO HUNT"
-msgstr ""
+msgstr "准备寻找敌人"
 
 #: STRINGS.GUARD_STATUS.START_INVESTIGATING
 msgctxt "STRINGS.GUARD_STATUS.START_INVESTIGATING"
 msgid "LOOKING AROUND"
-msgstr ""
+msgstr "环顾四周"
 
 #: STRINGS.GUARD_STATUS.STATUS
 msgctxt "STRINGS.GUARD_STATUS.STATUS"
 msgid "STATUS:"
-msgstr ""
+msgstr "状态："
 
 #: STRINGS.INCOGNITA_TEAM_DOWN.1
 msgctxt "STRINGS.INCOGNITA_TEAM_DOWN.1"
 msgid "Team eliminated. Disengaging security lock."
-msgstr ""
+msgstr "全军覆没。解开安全锁。"
 
 #: STRINGS.INCOGNITA_TEAM_DOWN.2
 msgctxt "STRINGS.INCOGNITA_TEAM_DOWN.2"
 msgid "Team eliminated. All assets compromised."
-msgstr ""
+msgstr "全军覆没。放弃所有物品"
 
 #: STRINGS.INCOGNITA_TEAM_DOWN.3
 msgctxt "STRINGS.INCOGNITA_TEAM_DOWN.3"
 msgid "Team eliminated. Shutting down neural sync."
-msgstr ""
+msgstr "全军覆没。切断神经连接。"
 
 #: STRINGS.ITEMS.ACCELERATOR_1
 msgctxt "STRINGS.ITEMS.ACCELERATOR_1"
@@ -2995,7 +2995,7 @@ msgstr "优化芯片 I"
 #: STRINGS.ITEMS.ACCELERATOR_1_FLAVOR
 msgctxt "STRINGS.ITEMS.ACCELERATOR_1_FLAVOR"
 msgid "It is possible to increase a console's uplink potential by optimizing its process tree and emptying its recycling bin."
-msgstr "它通过优化进程树和清空回收站来提升控制台的上行线路势能。"
+msgstr "你可以通过优化进程树或者清空垃圾箱来增加控制台上传上限。"
 
 #: STRINGS.ITEMS.ACCELERATOR_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.ACCELERATOR_1_TOOLTIP"
