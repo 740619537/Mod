@@ -11390,7 +11390,7 @@ msgstr "回溯"
 #: STRINGS.TUTORIAL_DIALOGS.TACTICAL_VIEW
 msgctxt "STRINGS.TUTORIAL_DIALOGS.TACTICAL_VIEW"
 msgid "TACTICAL VIEW"
-msgstr "TACTICAL VIEW"
+msgstr "战术视角"
 
 #: STRINGS.TUTORIAL_DIALOGS.TURN_BASED
 msgctxt "STRINGS.TUTORIAL_DIALOGS.TURN_BASED"
@@ -11420,7 +11420,7 @@ msgstr "电荷抑制剂"
 #: STRINGS.UI.ACTIONS.CHARGE_INHIBITOR.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.CHARGE_INHIBITOR.TOOLTIP"
 msgid "Charge the Archdaemon Inhibitor"
-msgstr ""
+msgstr "补充高等守护进程阻凝剂"
 
 #: STRINGS.UI.ACTIONS.CLOSE_DOOR
 msgctxt "STRINGS.UI.ACTIONS.CLOSE_DOOR"
@@ -11525,7 +11525,7 @@ msgstr "打开门\n动作"
 #: STRINGS.UI.ACTIVE
 msgctxt "STRINGS.UI.ACTIVE"
 msgid "ACTIVE"
-msgstr ""
+msgstr "处于活跃状态"
 
 #: STRINGS.UI.AGENTS_ESCAPED
 msgctxt "STRINGS.UI.AGENTS_ESCAPED"
@@ -11685,17 +11685,17 @@ msgstr "<c:F4FF78>安全等级</>\n当Incognita将你传送进来时公司检测
 #: STRINGS.UI.ALERT_DAMAGED_HEART
 msgctxt "STRINGS.UI.ALERT_DAMAGED_HEART"
 msgid "ALERT\nDAMAGED HEART MONITOR"
-msgstr "警告\n心脏监控器受损"
+msgstr "警告\n心跳探测仪受损"
 
 #: STRINGS.UI.ALERT_HEART
 msgctxt "STRINGS.UI.ALERT_HEART"
 msgid "ALERT\nHEART MONITOR"
-msgstr "警告\n心脏监控器"
+msgstr "警告：敌人配备了心跳探测仪"
 
 #: STRINGS.UI.ALERT_IMPROVED_HEART
 msgctxt "STRINGS.UI.ALERT_IMPROVED_HEART"
 msgid "ALERT\nIMPROVED HEART MONITOR"
-msgstr "警告\n改进心脏监控器"
+msgstr "警告\n心跳探测仪升级"
 
 #: STRINGS.UI.BACK
 msgctxt "STRINGS.UI.BACK"
@@ -11835,7 +11835,7 @@ msgstr "欢迎光临Shopcat的破解软件商场！"
 #: STRINGS.UI.CATSHOP_OPEN.6
 msgctxt "STRINGS.UI.CATSHOP_OPEN.6"
 msgid "Round zeros! Straight ones! A fair price, and thumping beats!"
-msgstr ""
+msgstr "明码标价，童叟无欺！"
 
 #: STRINGS.UI.CATSHOP_SELL.1
 msgctxt "STRINGS.UI.CATSHOP_SELL.1"
@@ -11975,7 +11975,8 @@ msgstr "尾随"
 #: STRINGS.UI.CONFIRMLASTWORDS
 msgctxt "STRINGS.UI.CONFIRMLASTWORDS"
 msgid "If you are out of options, your agent can go down quipping.\n\nThis will terminate the mission if you are out of rewinds, but at least you will lose with style."
-msgstr ""
+msgstr "如果你没有选择的余地，那么你的特工可以一边嘲讽着一边退场了。若你的已经用尽回溯机会，那么当前的任务将被终止，不过至少你输得漂亮。
+"
 
 #: STRINGS.UI.CONFIRM_TARGET
 msgctxt "STRINGS.UI.CONFIRM_TARGET"
