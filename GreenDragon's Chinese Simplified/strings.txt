@@ -9016,312 +9016,312 @@ msgstr "警报"
 #: STRINGS.PROPS.ARTIFACT
 msgctxt "STRINGS.PROPS.ARTIFACT"
 msgid "Research Experiment"
-msgstr ""
+msgstr "研究成果"
 
 #: STRINGS.PROPS.ARTIFACT_DESC
 msgctxt "STRINGS.PROPS.ARTIFACT_DESC"
 msgid "An ongoing science project. The black market will pay well for its secrets.\n\nBring it with you when you exit the level."
-msgstr ""
+msgstr "一项正在进行的科学实验。价格在黑市被炒得相当高。\n\n离开关卡时别忘了带上。"
 
 #: STRINGS.PROPS.AUGMENT_GRAFTER
 msgctxt "STRINGS.PROPS.AUGMENT_GRAFTER"
 msgid "Augment Grafter"
-msgstr ""
+msgstr "植入体移植"
 
 #: STRINGS.PROPS.BEAM_EMITTER
 msgctxt "STRINGS.PROPS.BEAM_EMITTER"
 msgid "Beam Emitter"
-msgstr ""
+msgstr "光束发射器"
 
 #: STRINGS.PROPS.CAMERA_CORE
 msgctxt "STRINGS.PROPS.CAMERA_CORE"
 msgid "Camera Database"
-msgstr ""
+msgstr "监控数据中心"
 
 #: STRINGS.PROPS.CAPTURED_AGENT
 msgctxt "STRINGS.PROPS.CAPTURED_AGENT"
 msgid "Captured Agent"
-msgstr ""
+msgstr "被抓捕的特工"
 
 #: STRINGS.PROPS.CELL_DOOR
 msgctxt "STRINGS.PROPS.CELL_DOOR"
 msgid "Cell Door"
-msgstr ""
+msgstr "房门"
 
 #: STRINGS.PROPS.CONSOLE
 msgctxt "STRINGS.PROPS.CONSOLE"
 msgid "Console"
-msgstr ""
+msgstr "控制台"
 
 #: STRINGS.PROPS.CONSOLE_CORE
 msgctxt "STRINGS.PROPS.CONSOLE_CORE"
 msgid "Console Database"
-msgstr ""
+msgstr "控制台数据中心"
 
 #: STRINGS.PROPS.CORP_INTEL
 msgctxt "STRINGS.PROPS.CORP_INTEL"
 msgid "Corporate Intelligence"
-msgstr ""
+msgstr "企业情报"
 
 #: STRINGS.PROPS.CORP_INTEL_DESC
 msgctxt "STRINGS.PROPS.CORP_INTEL_DESC"
 msgid "This is rare technology that can be sold. Bring this back to Central to get a credit payout."
-msgstr ""
+msgstr "这是一种罕见的技术情报，可以用来贩卖。把它带给Central能得到经济奖励"
 
 #: STRINGS.PROPS.DAEMON_CORE
 msgctxt "STRINGS.PROPS.DAEMON_CORE"
 msgid "Daemon Database"
-msgstr ""
+msgstr "守护进程数据中心"
 
 #: STRINGS.PROPS.DATA_CORE
 msgctxt "STRINGS.PROPS.DATA_CORE"
 msgid "Mainframe Shard"
-msgstr ""
+msgstr "主机碎片"
 
 #: STRINGS.PROPS.DEPOSIT_BOXES
 msgctxt "STRINGS.PROPS.DEPOSIT_BOXES"
 msgid "Deposit Boxes"
-msgstr ""
+msgstr "保管箱"
 
 #: STRINGS.PROPS.DETENTION_PROCESSOR
 msgctxt "STRINGS.PROPS.DETENTION_PROCESSOR"
 msgid "Cell Door Console"
-msgstr ""
+msgstr "房门控制台"
 
 #: STRINGS.PROPS.DOOR_DECODER
 msgctxt "STRINGS.PROPS.DOOR_DECODER"
 msgid "Door Decoder"
-msgstr ""
+msgstr "房门解码器"
 
 #: STRINGS.PROPS.ENDING_JACKIN
 msgctxt "STRINGS.PROPS.ENDING_JACKIN"
 msgid "Security Hub"
-msgstr ""
+msgstr "安保中心"
 
 #: STRINGS.PROPS.EYEBALL
 msgctxt "STRINGS.PROPS.EYEBALL"
 msgid "Eyeball"
-msgstr ""
+msgstr "眼球"
 
 #: STRINGS.PROPS.FINAL_CONSOLE
 msgctxt "STRINGS.PROPS.FINAL_CONSOLE"
 msgid "FULL ACCESS HUB"
-msgstr ""
+msgstr "可以完全访问中心"
 
 #: STRINGS.PROPS.FINAL_TERMINAL
 msgctxt "STRINGS.PROPS.FINAL_TERMINAL"
 msgid "Quantum Data Terminal"
-msgstr ""
+msgstr "量子数据终端"
 
 #: STRINGS.PROPS.FTM_SCANNER
 msgctxt "STRINGS.PROPS.FTM_SCANNER"
 msgid "FTM Scanning Amp"
-msgstr ""
+msgstr "FTM扫描AMP"
 
 #: STRINGS.PROPS.FTM_SCANNER_TAB
 msgctxt "STRINGS.PROPS.FTM_SCANNER_TAB"
 msgid "Scanning AMP"
-msgstr ""
+msgstr "扫描AMP"
 
 #: STRINGS.PROPS.GENERIC_USABLE
 msgctxt "STRINGS.PROPS.GENERIC_USABLE"
 msgid "Generic Usable"
-msgstr ""
+msgstr "一般情况下可用"
 
 #: STRINGS.PROPS.GUARD_LOCKER
 msgctxt "STRINGS.PROPS.GUARD_LOCKER"
 msgid "Secure Locker"
-msgstr ""
+msgstr "安全柜"
 
 #: STRINGS.PROPS.HOSTAGE
 msgctxt "STRINGS.PROPS.HOSTAGE"
 msgid "Hostage"
-msgstr ""
+msgstr "人质"
 
 #: STRINGS.PROPS.INFRARED_BEAM
 msgctxt "STRINGS.PROPS.INFRARED_BEAM"
 msgid "Infrared Beam"
-msgstr ""
+msgstr "红外光束"
 
 #: STRINGS.PROPS.INFRARED_BEAM_TOOLTIP
 msgctxt "STRINGS.PROPS.INFRARED_BEAM_TOOLTIP"
 msgid "The beams will advance the alarm tracker."
-msgstr ""
+msgstr "光束将会触发警报追踪器。"
 
 #: STRINGS.PROPS.INFRARED_WALL
 msgctxt "STRINGS.PROPS.INFRARED_WALL"
 msgid "Infrared Wall"
-msgstr ""
+msgstr "红外线光墙"
 
 #: STRINGS.PROPS.INFRARED_WALL_TOOLTIP
 msgctxt "STRINGS.PROPS.INFRARED_WALL_TOOLTIP"
 msgid "The beam will activate a security daemon."
-msgstr ""
+msgstr "光束将会激活安保守护进程。"
 
 #: STRINGS.PROPS.INHIBITOR
 msgctxt "STRINGS.PROPS.INHIBITOR"
 msgid "Inhibitor Charger"
-msgstr ""
+msgstr "抑制剂充电器"
 
 #: STRINGS.PROPS.KEY
 msgctxt "STRINGS.PROPS.KEY"
 msgid "Key"
-msgstr ""
+msgstr "钥匙"
 
 #: STRINGS.PROPS.LASER_BEAM
 msgctxt "STRINGS.PROPS.LASER_BEAM"
 msgid "Laser"
-msgstr ""
+msgstr "激光"
 
 #: STRINGS.PROPS.LASER_BEAM_TOOLTIP
 msgctxt "STRINGS.PROPS.LASER_BEAM_TOOLTIP"
 msgid "The laser beams are lethal."
-msgstr ""
+msgstr "激光束是致命的。"
 
 #: STRINGS.PROPS.LASER_EMITTER
 msgctxt "STRINGS.PROPS.LASER_EMITTER"
 msgid "Laser Panel"
-msgstr ""
+msgstr "激光嵌板"
 
 #: STRINGS.PROPS.LASER_GENERATOR
 msgctxt "STRINGS.PROPS.LASER_GENERATOR"
 msgid "Power Supply"
-msgstr ""
+msgstr "电源设备"
 
 #: STRINGS.PROPS.LASER_GENERATOR_TOGGLE
 msgctxt "STRINGS.PROPS.LASER_GENERATOR_TOGGLE"
 msgid "Toggle Generator"
-msgstr ""
+msgstr "切换发电机"
 
 #: STRINGS.PROPS.LASER_GENERATOR_TOGGLE_TIP
 msgctxt "STRINGS.PROPS.LASER_GENERATOR_TOGGLE_TIP"
 msgid "Toggles power to laser emitters on the grid."
-msgstr ""
+msgstr "在电网中把电力输送给激光发射器。"
 
 #: STRINGS.PROPS.MAP_CORE
 msgctxt "STRINGS.PROPS.MAP_CORE"
 msgid "Facility Database"
-msgstr ""
+msgstr "设施数据中心"
 
 #: STRINGS.PROPS.MINI_SERVER_TERMINAL
 msgctxt "STRINGS.PROPS.MINI_SERVER_TERMINAL"
 msgid "Secondary Server Terminal"
-msgstr ""
+msgstr "次要服务器终端"
 
 #: STRINGS.PROPS.NOTE
 msgctxt "STRINGS.PROPS.NOTE"
 msgid "Note"
-msgstr ""
+msgstr "笔记"
 
 #: STRINGS.PROPS.POSTER
 msgctxt "STRINGS.PROPS.POSTER"
 msgid "Poster"
-msgstr ""
+msgstr "海报"
 
 #: STRINGS.PROPS.PRISONER
 msgctxt "STRINGS.PROPS.PRISONER"
 msgid "Prisoner"
-msgstr ""
+msgstr "囚犯"
 
 #: STRINGS.PROPS.PUBLIC_TERMINAL
 msgctxt "STRINGS.PROPS.PUBLIC_TERMINAL"
 msgid "Executive Access Terminal"
-msgstr ""
+msgstr "运行的访问终端"
 
 #: STRINGS.PROPS.PWR_REVERSAL_NODE
 msgctxt "STRINGS.PROPS.PWR_REVERSAL_NODE"
 msgid "Power Reversal Node"
-msgstr ""
+msgstr "电力逆转节点"
 
 #: STRINGS.PROPS.SAFE
 msgctxt "STRINGS.PROPS.SAFE"
 msgid "Corporate Safe"
-msgstr ""
+msgstr "企业保险箱"
 
 #: STRINGS.PROPS.SECURE_CASE
 msgctxt "STRINGS.PROPS.SECURE_CASE"
 msgid "Secure Case"
-msgstr ""
+msgstr "一切正常"
 
 #: STRINGS.PROPS.SECURITY_CAMERA
 msgctxt "STRINGS.PROPS.SECURITY_CAMERA"
 msgid "Security Camera"
-msgstr ""
+msgstr "安保监控"
 
 #: STRINGS.PROPS.SERVER_TERMINAL
 msgctxt "STRINGS.PROPS.SERVER_TERMINAL"
 msgid "Primary Server Terminal"
-msgstr ""
+msgstr "主服务器终端"
 
 #: STRINGS.PROPS.SHOCK_TRAP
 msgctxt "STRINGS.PROPS.SHOCK_TRAP"
 msgid "Shock Trap"
-msgstr ""
+msgstr "电击陷阱"
 
 #: STRINGS.PROPS.SITE_PLANS
 msgctxt "STRINGS.PROPS.SITE_PLANS"
 msgid "Site list"
-msgstr ""
+msgstr "站点列表"
 
 #: STRINGS.PROPS.SITE_PLANS_DESC
 msgctxt "STRINGS.PROPS.SITE_PLANS_DESC"
 msgid "Bring this back to Central to reveal new targets for infiltration."
-msgstr ""
+msgstr "把这个带给Central可以找出需要潜入的新目标。"
 
 #: STRINGS.PROPS.SMOKE
 msgctxt "STRINGS.PROPS.SMOKE"
 msgid "Smoke"
-msgstr ""
+msgstr "烟雾"
 
 #: STRINGS.PROPS.SMOKE_EDGE
 msgctxt "STRINGS.PROPS.SMOKE_EDGE"
 msgid "Smoke Edge"
-msgstr ""
+msgstr "烟雾边缘"
 
 #: STRINGS.PROPS.SOUND_BUG
 msgctxt "STRINGS.PROPS.SOUND_BUG"
 msgid "Sound Bug"
-msgstr ""
+msgstr "声音探测器"
 
 #: STRINGS.PROPS.SOUND_BUG_TOOLTIP
 msgctxt "STRINGS.PROPS.SOUND_BUG_TOOLTIP"
 msgid "Alerts guards and raises the alarm when it hears a loud sound."
-msgstr ""
+msgstr "当它听到声响就会提示警卫并且提升警报。"
 
 #: STRINGS.PROPS.STORE
 msgctxt "STRINGS.PROPS.STORE"
 msgid "Nano Fabricator"
-msgstr ""
+msgstr "纳米制造者"
 
 #: STRINGS.PROPS.STORE_LARGE
 msgctxt "STRINGS.PROPS.STORE_LARGE"
 msgid "Nano Fabricator"
-msgstr ""
+msgstr "纳米制造者"
 
 #: STRINGS.PROPS.STORE_PROGRAM_TOOLTIP
 msgctxt "STRINGS.PROPS.STORE_PROGRAM_TOOLTIP"
 msgid "{1} PWR"
-msgstr ""
+msgstr "{1} PWR"
 
 #: STRINGS.PROPS.TURRET
 msgctxt "STRINGS.PROPS.TURRET"
 msgid "Turret"
-msgstr ""
+msgstr "炮塔"
 
 #: STRINGS.PROPS.TURRET_GENERATOR
 msgctxt "STRINGS.PROPS.TURRET_GENERATOR"
 msgid "Power Supply"
-msgstr ""
+msgstr "电源设备"
 
 #: STRINGS.PROPS.TURRET_GENERATOR_TOGGLE
 msgctxt "STRINGS.PROPS.TURRET_GENERATOR_TOGGLE"
 msgid "Toggle Generator"
-msgstr ""
+msgstr "切换发电机"
 
 #: STRINGS.PROPS.TURRET_GENERATOR_TOGGLE_TIP
 msgctxt "STRINGS.PROPS.TURRET_GENERATOR_TOGGLE_TIP"
 msgid "Toggles nearby turret power ON or OFF."
-msgstr ""
+msgstr "启动或关闭附近的炮台。"
 
 #: STRINGS.PROPS.VALUABLE_TECH
 msgctxt "STRINGS.PROPS.VALUABLE_TECH"
@@ -9331,27 +9331,27 @@ msgstr ""
 #: STRINGS.PROPS.VALUABLE_TECH_DESC
 msgctxt "STRINGS.PROPS.VALUABLE_TECH_DESC"
 msgid "Monst3r will be able to fence this tech."
-msgstr ""
+msgstr "Monst3r能够把这个技术销赃。"
 
 #: STRINGS.PROPS.VAULT_PROCESSOR
 msgctxt "STRINGS.PROPS.VAULT_PROCESSOR"
 msgid "Vault Terminal"
-msgstr ""
+msgstr "库终端"
 
 #: STRINGS.PROPS.WALL_EMITTER
 msgctxt "STRINGS.PROPS.WALL_EMITTER"
 msgid "Infrared Emitter"
-msgstr ""
+msgstr "红外发射器"
 
 #: STRINGS.PROPS.YELLOW_LEVEL_CONSOLE
 msgctxt "STRINGS.PROPS.YELLOW_LEVEL_CONSOLE"
 msgid "OMNI Mainframe Lock"
-msgstr ""
+msgstr "OMNI主机锁"
 
 #: STRINGS.RESEARCH.CONSCIOUSNESS_MONITOR.NAME
 msgctxt "STRINGS.RESEARCH.CONSCIOUSNESS_MONITOR.NAME"
 msgid "CONSCIOUSNESS MONITOR"
-msgstr ""
+msgstr "意识监控器"
 
 #: STRINGS.RESEARCH.CONSCIOUSNESS_MONITOR.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.CONSCIOUSNESS_MONITOR.SHORT_DESC"
@@ -9361,77 +9361,77 @@ msgstr ""
 #: STRINGS.RESEARCH.CONSCIOUSNESS_MONITOR.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.CONSCIOUSNESS_MONITOR.UNIT_DESC"
 msgid "+2 to Alarm when KO'd"
-msgstr ""
+msgstr "KO时警报+2"
 
 #: STRINGS.RESEARCH.ELECTRICAL_INTERFERENCE.NAME
 msgctxt "STRINGS.RESEARCH.ELECTRICAL_INTERFERENCE.NAME"
 msgid "ELECTRICAL INTERFERENCE"
-msgstr ""
+msgstr "电子干扰"
 
 #: STRINGS.RESEARCH.ELECTRICAL_INTERFERENCE.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.ELECTRICAL_INTERFERENCE.SHORT_DESC"
 msgid "SOME ENEMIES SLOW NEARBY ITEM COOLDOWNS"
-msgstr ""
+msgstr "有些敌人会减慢附近工具的冷却时间"
 
 #: STRINGS.RESEARCH.ELECTRICAL_INTERFERENCE.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.ELECTRICAL_INTERFERENCE.UNIT_DESC"
 msgid "Adds 3 turns to the item cooldowns of any agent in 7 tiles."
-msgstr ""
+msgstr "7步内所有特工工具的冷却时间增加3个回合。"
 
 #: STRINGS.RESEARCH.ENHANCED_ARMOR.NAME
 msgctxt "STRINGS.RESEARCH.ENHANCED_ARMOR.NAME"
 msgid "ENHANCED ARMOR"
-msgstr ""
+msgstr "强化护甲"
 
 #: STRINGS.RESEARCH.ENHANCED_ARMOR.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.ENHANCED_ARMOR.SHORT_DESC"
 msgid "SOME ENEMIES HAVE ADDITIONAL ARMOR"
-msgstr ""
+msgstr "有些敌人拥有额外护甲"
 
 #: STRINGS.RESEARCH.ENHANCED_ARMOR.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.ENHANCED_ARMOR.UNIT_DESC"
 msgid "Has 1 extra armor."
-msgstr ""
+msgstr "拥有1个额外护甲。"
 
 #: STRINGS.RESEARCH.GENERIC_TITLE
 msgctxt "STRINGS.RESEARCH.GENERIC_TITLE"
 msgid "Research Finished"
-msgstr ""
+msgstr "研究结束"
 
 #: STRINGS.RESEARCH.IMPROVED_HEART_MONITOR.NAME
 msgctxt "STRINGS.RESEARCH.IMPROVED_HEART_MONITOR.NAME"
 msgid "IMPROVED HEART MONITOR"
-msgstr ""
+msgstr "强化型心脏监控器"
 
 #: STRINGS.RESEARCH.IMPROVED_HEART_MONITOR.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.IMPROVED_HEART_MONITOR.SHORT_DESC"
 msgid "SOME ENEMIES HAVE UPGRADED HEART MONITORS"
-msgstr ""
+msgstr "有些敌人拥有高级别的心脏监控器"
 
 #: STRINGS.RESEARCH.IMPROVED_HEART_MONITOR.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.IMPROVED_HEART_MONITOR.UNIT_DESC"
 msgid "+4 to Alarm level on death, cannot be disabled."
-msgstr ""
+msgstr "死亡时警报级别+4，不能被禁用。"
 
 #: STRINGS.RESEARCH.LONG_RANGE_SENSORS.NAME
 msgctxt "STRINGS.RESEARCH.LONG_RANGE_SENSORS.NAME"
 msgid "LONG RANGE SENSORS"
-msgstr ""
+msgstr "远程传感器"
 
 #: STRINGS.RESEARCH.LONG_RANGE_SENSORS.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.LONG_RANGE_SENSORS.SHORT_DESC"
 msgid "SOME ENEMIES SPORADICALLY DETECT AGENTS"
-msgstr ""
+msgstr "有些敌人偶尔会侦查特工"
 
 #: STRINGS.RESEARCH.LONG_RANGE_SENSORS.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.LONG_RANGE_SENSORS.UNIT_DESC"
 msgid "Periodically gets an interest point on the closest agent."
-msgstr ""
+msgstr "周期性的会在最近的特工身上得到一个兴趣点。"
 
 #: STRINGS.RESEARCH.MAINFRAME_ATTUNEMENT.NAME
 msgctxt "STRINGS.RESEARCH.MAINFRAME_ATTUNEMENT.NAME"
 msgid "MAINFRAME ATTUNEMENT"
-msgstr ""
+msgstr "主机调和"
 
 #: STRINGS.RESEARCH.MAINFRAME_ATTUNEMENT.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.MAINFRAME_ATTUNEMENT.SHORT_DESC"
@@ -9441,27 +9441,27 @@ msgstr ""
 #: STRINGS.RESEARCH.MAINFRAME_ATTUNEMENT.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.MAINFRAME_ATTUNEMENT.UNIT_DESC"
 msgid "Has more AP when firewall strength is higher."
-msgstr ""
+msgstr "防火墙强度更高时拥有更多AP。"
 
 #: STRINGS.RESEARCH.NEURAL_IMPLANTS.NAME
 msgctxt "STRINGS.RESEARCH.NEURAL_IMPLANTS.NAME"
 msgid "NEURAL IMPLANTS"
-msgstr ""
+msgstr "神经植入物"
 
 #: STRINGS.RESEARCH.NEURAL_IMPLANTS.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.NEURAL_IMPLANTS.SHORT_DESC"
 msgid "SOME ENEMIES IMMUNE TO KO"
-msgstr ""
+msgstr "有些敌人免疫KO"
 
 #: STRINGS.RESEARCH.NEURAL_IMPLANTS.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.NEURAL_IMPLANTS.UNIT_DESC"
 msgid "Immune to any KO damage."
-msgstr ""
+msgstr "免疫所有KO伤害。"
 
 #: STRINGS.RESEARCH.OVERTUNED_REFLEXES.NAME
 msgctxt "STRINGS.RESEARCH.OVERTUNED_REFLEXES.NAME"
 msgid "OVERTUNED REFLEXES"
-msgstr ""
+msgstr "击倒反射"
 
 #: STRINGS.RESEARCH.OVERTUNED_REFLEXES.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.OVERTUNED_REFLEXES.SHORT_DESC"
@@ -9471,42 +9471,42 @@ msgstr ""
 #: STRINGS.RESEARCH.OVERTUNED_REFLEXES.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.OVERTUNED_REFLEXES.UNIT_DESC"
 msgid "Shoots agents immediately when seeing movement, skipping overwatch."
-msgstr ""
+msgstr "特工一旦有动作便会直接开枪，跳过overwatch阶段。"
 
 #: STRINGS.RESEARCH.PERIPHERAL_EXPANSION.NAME
 msgctxt "STRINGS.RESEARCH.PERIPHERAL_EXPANSION.NAME"
 msgid "PERIPHERAL EXPANSION"
-msgstr ""
+msgstr "外围扩张"
 
 #: STRINGS.RESEARCH.PERIPHERAL_EXPANSION.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.PERIPHERAL_EXPANSION.SHORT_DESC"
 msgid "SOME ENEMIES HAVE 360 DEGREE VISION"
-msgstr ""
+msgstr "有些敌人拥有360度的视野"
 
 #: STRINGS.RESEARCH.PERIPHERAL_EXPANSION.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.PERIPHERAL_EXPANSION.UNIT_DESC"
 msgid "Has a 360 degree vision radius."
-msgstr ""
+msgstr "拥有360度的视野范围。"
 
 #: STRINGS.RESEARCH.PERIPHERAL_IMPROVEMENT.NAME
 msgctxt "STRINGS.RESEARCH.PERIPHERAL_IMPROVEMENT.NAME"
 msgid "PERIPHERAL IMPROVEMENT"
-msgstr ""
+msgstr "改进外围"
 
 #: STRINGS.RESEARCH.PERIPHERAL_IMPROVEMENT.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.PERIPHERAL_IMPROVEMENT.SHORT_DESC"
 msgid "SOME ENEMIES HAVE 180 DEGREE VISION"
-msgstr ""
+msgstr "有些敌人拥有180度的视野"
 
 #: STRINGS.RESEARCH.PERIPHERAL_IMPROVEMENT.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.PERIPHERAL_IMPROVEMENT.UNIT_DESC"
 msgid "Has 180 degree peripheral vision."
-msgstr ""
+msgstr "拥有180度的视野范围。"
 
 #: STRINGS.RESEARCH.RECON_PROTOCOL.NAME
 msgctxt "STRINGS.RESEARCH.RECON_PROTOCOL.NAME"
 msgid "RECONNAISSANCE PROTOCOL"
-msgstr ""
+msgstr "侦察协议"
 
 #: STRINGS.RESEARCH.RECON_PROTOCOL.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.RECON_PROTOCOL.SHORT_DESC"
@@ -9516,537 +9516,537 @@ msgstr ""
 #: STRINGS.RESEARCH.RECON_PROTOCOL.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.RECON_PROTOCOL.UNIT_DESC"
 msgid "Has a long patrol route"
-msgstr ""
+msgstr "巡逻路线很长"
 
 #: STRINGS.RESEARCH.REGENERATIVE_NANOCELLS.NAME
 msgctxt "STRINGS.RESEARCH.REGENERATIVE_NANOCELLS.NAME"
 msgid "REGENERATIVE NANOCELLS"
-msgstr ""
+msgstr "再生纳米细胞"
 
 #: STRINGS.RESEARCH.REGENERATIVE_NANOCELLS.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.REGENERATIVE_NANOCELLS.SHORT_DESC"
 msgid "SOME ENEMIES CANNOT BE KILLED"
-msgstr ""
+msgstr "有些敌人不能被杀死"
 
 #: STRINGS.RESEARCH.REGENERATIVE_NANOCELLS.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.REGENERATIVE_NANOCELLS.UNIT_DESC"
 msgid "Has a 1 turn KO instead of being killed."
-msgstr ""
+msgstr "花费一回合处于KO状态而不是被杀死。"
 
 #: STRINGS.RESEARCH.RESEARCH_PNL_TITLE
 msgctxt "STRINGS.RESEARCH.RESEARCH_PNL_TITLE"
 msgid "T H E  C O R P O R A T I O N  H A S  R E S E A R C H E D:"
-msgstr ""
+msgstr "企 业 已 研 发："
 
 #: STRINGS.RESEARCH.SPRINT_PADS.NAME
 msgctxt "STRINGS.RESEARCH.SPRINT_PADS.NAME"
 msgid "SPRINT PADS"
-msgstr ""
+msgstr "冲刺板"
 
 #: STRINGS.RESEARCH.SPRINT_PADS.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.SPRINT_PADS.SHORT_DESC"
 msgid "SOME ENEMIES HAVE EXTRA AP"
-msgstr ""
+msgstr "有些敌人拥有额外的AP"
 
 #: STRINGS.RESEARCH.SPRINT_PADS.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.SPRINT_PADS.UNIT_DESC"
 msgid "Has 6 extra AP."
-msgstr ""
+msgstr "拥有6点额外AP"
 
 #: STRINGS.RESEARCH.ULTRASONIC_ECHOLOCATION.NAME
 msgctxt "STRINGS.RESEARCH.ULTRASONIC_ECHOLOCATION.NAME"
 msgid "ULTRASONIC ECHOLOCATION"
-msgstr ""
+msgstr "超声波回声定位能力"
 
 #: STRINGS.RESEARCH.ULTRASONIC_ECHOLOCATION.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.ULTRASONIC_ECHOLOCATION.SHORT_DESC"
 msgid "SOME ENEMIES CAN SEE THROUGH COVER"
-msgstr ""
+msgstr "有些敌人的视线能够透过掩体"
 
 #: STRINGS.RESEARCH.ULTRASONIC_ECHOLOCATION.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.ULTRASONIC_ECHOLOCATION.UNIT_DESC"
 msgid "Can see agents hiding behind cover."
-msgstr ""
+msgstr "能够看到藏在掩体后的特工。"
 
 #: STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.NAME
 msgctxt "STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.NAME"
 msgid "ULTRAVIOLET SPECTROMETER"
-msgstr ""
+msgstr "紫外光谱仪"
 
 #: STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.SHORT_DESC"
 msgid "SOME ENEMIES SEE THROUGH CLOAK"
-msgstr ""
+msgstr "有些敌人可以看到隐形物体"
 
 #: STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.UNIT_DESC"
 msgid "Can see cloaked agents."
-msgstr ""
+msgstr "能够看到隐形的特工。"
 
 #: STRINGS.RESEARCH.WARNING_TITLE
 msgctxt "STRINGS.RESEARCH.WARNING_TITLE"
 msgid "%s Research"
-msgstr ""
+msgstr "%s 研究"
 
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.ACTIVE_DESC"
 msgid "PROGRAM PWR COST DECREASED BY ALGORITHM"
-msgstr ""
+msgstr "通过算法减少程序的PWR花费"
 
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.DESC"
 msgid "Decreases all program PWR cost by 1"
-msgstr ""
+msgstr "减少所有程序的PWR花费1点"
 
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.NAME
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.NAME"
 msgid "ATTUNE"
-msgstr ""
+msgstr "音调"
 
 #: STRINGS.REVERSE_DAEMONS.ATTUNE.SHORT_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ATTUNE.SHORT_DESC"
 msgid "Decreases program cost by 1"
-msgstr ""
+msgstr "减少程序的PWR花费1点"
 
 #: STRINGS.REVERSE_DAEMONS.ENERGIZE.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ENERGIZE.ACTIVE_DESC"
 msgid "200 CREDITS EARNED BY ALGORITHM"
-msgstr ""
+msgstr "通过算法获得200CR"
 
 #: STRINGS.REVERSE_DAEMONS.ENERGIZE.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ENERGIZE.DESC"
 msgid "Gain 200 CREDITS"
-msgstr ""
+msgstr "获得了200CR"
 
 #: STRINGS.REVERSE_DAEMONS.ENERGIZE.NAME
 msgctxt "STRINGS.REVERSE_DAEMONS.ENERGIZE.NAME"
 msgid "FORTUNE"
-msgstr ""
+msgstr "财产"
 
 #: STRINGS.REVERSE_DAEMONS.ENERGIZE.SHORT_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ENERGIZE.SHORT_DESC"
 msgid "Gain 200 CREDITS"
-msgstr ""
+msgstr "获得了200CR"
 
 #: STRINGS.REVERSE_DAEMONS.GENERIC_TITLE
 msgctxt "STRINGS.REVERSE_DAEMONS.GENERIC_TITLE"
 msgid "Daemon Reversed"
-msgstr ""
+msgstr "守护进程逆转"
 
 #: STRINGS.REVERSE_DAEMONS.ORDER.ACTIVE_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ORDER.ACTIVE_DESC"
 msgid "AGENT'S AP INCREASED BY ALGORITHM"
-msgstr ""
+msgstr "通过算法增加特工的AP值"
 
 #: STRINGS.REVERSE_DAEMONS.ORDER.DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ORDER.DESC"
 msgid "Increases all agents' AP by 3"
-msgstr ""
+msgstr "增加所有特工3点AP"
 
 #: STRINGS.REVERSE_DAEMONS.ORDER.NAME
 msgctxt "STRINGS.REVERSE_DAEMONS.ORDER.NAME"
 msgid "ORDER"
-msgstr ""
+msgstr "命令"
 
 #: STRINGS.REVERSE_DAEMONS.ORDER.SHORT_DESC
 msgctxt "STRINGS.REVERSE_DAEMONS.ORDER.SHORT_DESC"
 msgid "Increases agents' AP by 3"
-msgstr ""
+msgstr "增加特工3点AP"
 
 #: STRINGS.REVERSE_DAEMONS.REVERSE_PNL_TITLE
 msgctxt "STRINGS.REVERSE_DAEMONS.REVERSE_PNL_TITLE"
 msgid "I N C O G N I T A  R E V E R S E  E N G I N E E R E D"
-msgstr ""
+msgstr "I N C O G N I T A 反 转 构 建"
 
 #: STRINGS.REVERSE_DAEMONS.WARNING_TITLE
 msgctxt "STRINGS.REVERSE_DAEMONS.WARNING_TITLE"
 msgid "%s Algorithm"
-msgstr ""
+msgstr "%s 算法"
 
 #: STRINGS.SCREENS.STR_10291137
 msgctxt "STRINGS.SCREENS.STR_10291137"
 msgid "1200"
-msgstr ""
+msgstr "1200"
 
 #: STRINGS.SCREENS.STR_1035762089
 msgctxt "STRINGS.SCREENS.STR_1035762089"
 msgid "PLAY STORY"
-msgstr ""
+msgstr "播放剧情"
 
 #: STRINGS.SCREENS.STR_1067982205
 msgctxt "STRINGS.SCREENS.STR_1067982205"
 msgid "STANDARD"
-msgstr ""
+msgstr "标准"
 
 #: STRINGS.SCREENS.STR_1079594648
 msgctxt "STRINGS.SCREENS.STR_1079594648"
 msgid "SHALEM 11"
-msgstr ""
+msgstr "SHALEM 11"
 
 #: STRINGS.SCREENS.STR_1085259480
 msgctxt "STRINGS.SCREENS.STR_1085259480"
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #: STRINGS.SCREENS.STR_1098784393
 msgctxt "STRINGS.SCREENS.STR_1098784393"
 msgid "Select your difficulty and other game options."
-msgstr ""
+msgstr "调整你的游戏难度或是其他的游戏选项"
 
 #: STRINGS.SCREENS.STR_1112033330
 msgctxt "STRINGS.SCREENS.STR_1112033330"
 msgid "And a very special THANK YOU to all of our Early Access fans, especially those of you who followed us from Alpha all the way until launch. All of your help has made a substantial difference, and it's always a pleasure to share our journey with you.\n\n-Klei Entertainment Team"
-msgstr ""
+msgstr "特别感谢所有早期支持我们的粉丝，尤其是那些从最开始的Alpha版一直陪伴到我们游戏正式发售的玩家。是你们的帮助才让这个游戏有了实质性的改进，一路有你们相伴真是太荣幸了。\n\n-Klei Entertainment Team"
 
 #: STRINGS.SCREENS.STR_1113642616
 msgctxt "STRINGS.SCREENS.STR_1113642616"
 msgid "ITEMS AND PROGRAMS"
-msgstr ""
+msgstr "工具和程序"
 
 #: STRINGS.SCREENS.STR_111721250
 msgctxt "STRINGS.SCREENS.STR_111721250"
 msgid "Body"
-msgstr ""
+msgstr "主体"
 
 #: STRINGS.SCREENS.STR_1118044433
 msgctxt "STRINGS.SCREENS.STR_1118044433"
 msgid "AUGMENT SOCKETS"
-msgstr ""
+msgstr "植入体接口"
 
 #: STRINGS.SCREENS.STR_1128887990
 msgctxt "STRINGS.SCREENS.STR_1128887990"
 msgid "TURNS"
-msgstr ""
+msgstr "回合"
 
 #: STRINGS.SCREENS.STR_1163561491
 msgctxt "STRINGS.SCREENS.STR_1163561491"
 msgid "Select a random set of starting agents and programs."
-msgstr ""
+msgstr "随机选择一组特工和程序开始"
 
 #: STRINGS.SCREENS.STR_1167746825
 msgctxt "STRINGS.SCREENS.STR_1167746825"
 msgid "NEW UPDATE"
-msgstr ""
+msgstr "最新更新"
 
 #: STRINGS.SCREENS.STR_1171300678
 msgctxt "STRINGS.SCREENS.STR_1171300678"
 msgid "SECONDARY OBJECTIVES"
-msgstr ""
+msgstr "次要目的"
 
 #: STRINGS.SCREENS.STR_118
 msgctxt "STRINGS.SCREENS.STR_118"
 msgid "v"
-msgstr ""
+msgstr "v"
 
 #: STRINGS.SCREENS.STR_118910256
 msgctxt "STRINGS.SCREENS.STR_118910256"
 msgid "PEEK AROUND CORNERS"
-msgstr ""
+msgstr "沿着转角窥探"
 
 #: STRINGS.SCREENS.STR_120
 msgctxt "STRINGS.SCREENS.STR_120"
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: STRINGS.SCREENS.STR_1207454442
 msgctxt "STRINGS.SCREENS.STR_1207454442"
 msgid "NEXT TURN"
-msgstr ""
+msgstr "下一回合"
 
 #: STRINGS.SCREENS.STR_1235828106
 msgctxt "STRINGS.SCREENS.STR_1235828106"
 msgid "PLAY TUTORIAL"
-msgstr ""
+msgstr "开始教程"
 
 #: STRINGS.SCREENS.STR_1236871902
 msgctxt "STRINGS.SCREENS.STR_1236871902"
 msgid "FOR SALE"
-msgstr ""
+msgstr "待售"
 
 #: STRINGS.SCREENS.STR_1291878040
 msgctxt "STRINGS.SCREENS.STR_1291878040"
 msgid "PRIMARY OBJECTIVES"
-msgstr ""
+msgstr "主要目的"
 
 #: STRINGS.SCREENS.STR_1313006040
 msgctxt "STRINGS.SCREENS.STR_1313006040"
 msgid "I N C O G N I T A  I S  R U N N I N G  A  P R O G R A M"
-msgstr ""
+msgstr "I N C O G N I T A 正 在 运 行 程 序"
 
 #: STRINGS.SCREENS.STR_1328993414
 msgctxt "STRINGS.SCREENS.STR_1328993414"
 msgid "Lighting FX"
-msgstr ""
+msgstr "动态光影"
 
 #: STRINGS.SCREENS.STR_1375187096
 msgctxt "STRINGS.SCREENS.STR_1375187096"
 msgid "AGENT LOCATION DETECTED\n"
-msgstr ""
+msgstr "特工位置已被检测出\n"
 
 #: STRINGS.SCREENS.STR_1377404146
 msgctxt "STRINGS.SCREENS.STR_1377404146"
 msgid "DISTRACTING GUARDS"
-msgstr ""
+msgstr "分散守卫注意力"
 
 #: STRINGS.SCREENS.STR_1394029910
 msgctxt "STRINGS.SCREENS.STR_1394029910"
 msgid "ANARCHY"
-msgstr ""
+msgstr "混沌"
 
 #: STRINGS.SCREENS.STR_1395012065
 msgctxt "STRINGS.SCREENS.STR_1395012065"
 msgid "HACKING"
-msgstr ""
+msgstr "骇入"
 
 #: STRINGS.SCREENS.STR_1398683546
 msgctxt "STRINGS.SCREENS.STR_1398683546"
 msgid "Refresh Subscribed Languages"
-msgstr ""
+msgstr "刷新订阅语言"
 
 #: STRINGS.SCREENS.STR_1407174166
 msgctxt "STRINGS.SCREENS.STR_1407174166"
 msgid "Unit Debug Text"
-msgstr ""
+msgstr "单元调试文本"
 
 #: STRINGS.SCREENS.STR_1407718006
 msgctxt "STRINGS.SCREENS.STR_1407718006"
 msgid "Peeking at open doors reveals more information."
-msgstr ""
+msgstr "打开房门窥探可以发现更多信息。"
 
 #: STRINGS.SCREENS.STR_1408759822
 msgctxt "STRINGS.SCREENS.STR_1408759822"
 msgid "View the Steam Workshop to find additional Language Packs to subscribe to."
-msgstr ""
+msgstr "浏览Steam Workshop来寻找并订阅其他的附加语言包。"
 
 #: STRINGS.SCREENS.STR_141375972
 msgctxt "STRINGS.SCREENS.STR_141375972"
 msgid "Background FX"
-msgstr ""
+msgstr "动态背景"
 
 #: STRINGS.SCREENS.STR_1432001340
 msgctxt "STRINGS.SCREENS.STR_1432001340"
 msgid "NEXT BUILD IN %d DAYS"
-msgstr ""
+msgstr "距离下一个版本还有%d天"
 
 #: STRINGS.SCREENS.STR_1446328094
 msgctxt "STRINGS.SCREENS.STR_1446328094"
 msgid "Voice-over Captions"
-msgstr ""
+msgstr "旁白字幕"
 
 #: STRINGS.SCREENS.STR_1488831452
 msgctxt "STRINGS.SCREENS.STR_1488831452"
 msgid "CONSOLES"
-msgstr ""
+msgstr "控制台"
 
 #: STRINGS.SCREENS.STR_1564925216
 msgctxt "STRINGS.SCREENS.STR_1564925216"
 msgid "CONFIRM"
-msgstr ""
+msgstr "确定"
 
 #: STRINGS.SCREENS.STR_1575702730
 msgctxt "STRINGS.SCREENS.STR_1575702730"
 msgid "TOTAL XP GAINED"
-msgstr ""
+msgstr "总 XP 获得"
 
 #: STRINGS.SCREENS.STR_1617216004
 msgctxt "STRINGS.SCREENS.STR_1617216004"
 msgid "EARLY-ACCESS STATUS"
-msgstr ""
+msgstr "早期访问状态"
 
 #: STRINGS.SCREENS.STR_1646082982
 msgctxt "STRINGS.SCREENS.STR_1646082982"
 msgid "SHOW SETTINGS"
-msgstr ""
+msgstr "显示设置"
 
 #: STRINGS.SCREENS.STR_165152807
 msgctxt "STRINGS.SCREENS.STR_165152807"
 msgid "PLAY IN TURNS"
-msgstr ""
+msgstr "轮流开始游玩"
 
 #: STRINGS.SCREENS.STR_1657010214
 msgctxt "STRINGS.SCREENS.STR_1657010214"
 msgid "REWIND THE GAME"
-msgstr ""
+msgstr "回溯游戏"
 
 #: STRINGS.SCREENS.STR_1657613466
 msgctxt "STRINGS.SCREENS.STR_1657613466"
 msgid "OBJECTIVES"
-msgstr ""
+msgstr "目标"
 
 #: STRINGS.SCREENS.STR_1677005573
 msgctxt "STRINGS.SCREENS.STR_1677005573"
 msgid "Hijack consoles to acquire POWER.  Use POWER to run programs in the MAINFRAME."
-msgstr ""
+msgstr "黑进控制台来获得 PWR 。在主机中运行程序需要花费PWR。"
 
 #: STRINGS.SCREENS.STR_1691431868
 msgctxt "STRINGS.SCREENS.STR_1691431868"
 msgid "C A U T I O N  > >  L I M I T E D  T E M P O R A L  C O N T R O L"
-msgstr ""
+msgstr "警 告 > > 时 间 控 制 不 够"
 
 #: STRINGS.SCREENS.STR_1696567502
 msgctxt "STRINGS.SCREENS.STR_1696567502"
 msgid "DAY 2"
-msgstr ""
+msgstr "第2天"
 
 #: STRINGS.SCREENS.STR_1702208634
 msgctxt "STRINGS.SCREENS.STR_1702208634"
 msgid "NOTIFY ME ON UPDATES"
-msgstr ""
+msgstr "提醒我更新"
 
 #: STRINGS.SCREENS.STR_1704832402
 msgctxt "STRINGS.SCREENS.STR_1704832402"
 msgid "< CAMPAIGN OPTIONS"
-msgstr ""
+msgstr "< 作战选项"
 
 #: STRINGS.SCREENS.STR_1721470052
 msgctxt "STRINGS.SCREENS.STR_1721470052"
 msgid "FPS Text"
-msgstr ""
+msgstr "FPS 文本"
 
 #: STRINGS.SCREENS.STR_1781360857
 msgctxt "STRINGS.SCREENS.STR_1781360857"
 msgid "M A N A G I N G  T H R E A T S"
-msgstr ""
+msgstr "管 理 威 胁"
 
 #: STRINGS.SCREENS.STR_1785322015
 msgctxt "STRINGS.SCREENS.STR_1785322015"
 msgid "MAP EXPLORATION"
-msgstr ""
+msgstr "地图探索"
 
 #: STRINGS.SCREENS.STR_1788677343
 msgctxt "STRINGS.SCREENS.STR_1788677343"
 msgid "RESET BINDINGS"
-msgstr ""
+msgstr "重新绑定"
 
 #: STRINGS.SCREENS.STR_1796864509
 msgctxt "STRINGS.SCREENS.STR_1796864509"
 msgid "AGENT DOWN"
-msgstr ""
+msgstr "特工已倒下"
 
 #: STRINGS.SCREENS.STR_1817974562
 msgctxt "STRINGS.SCREENS.STR_1817974562"
 msgid "Send Metric Data"
-msgstr ""
+msgstr "发送反馈信息"
 
 #: STRINGS.SCREENS.STR_1833920854
 msgctxt "STRINGS.SCREENS.STR_1833920854"
 msgid "REFRESH LANGUAGES"
-msgstr ""
+msgstr "刷新语言"
 
 #: STRINGS.SCREENS.STR_1855685879
 msgctxt "STRINGS.SCREENS.STR_1855685879"
 msgid "WWWWW"
-msgstr ""
+msgstr "WWWWW"
 
 #: STRINGS.SCREENS.STR_186438882
 msgctxt "STRINGS.SCREENS.STR_186438882"
 msgid "<c:F4FF78>It's 2074, and corporations rule the world with brutal efficiency.</> They hit you hard, and now you're on the run.\n\n<c:F4FF78>You need to strike back, but you'll never win by force.</> Keep your agents alive with stealth and cunning. Raid the corps' facilities for tools and support, and prepare your team for the final showdown.\n\n<c:F4FF78>The odds are stacked against you.</> You will fail. Repeatedly. But each time you will learn more about your adversaries, and every restart generates a new world of dangers and opportunities.\n\nYou have a tough job ahead of you, Operator. Don't let us down."
-msgstr ""
+msgstr "<c:F4FF78>如今已是2074年，企业集团残酷又高效的规划着这个世界。</> 他们想致你于死地，你只能亡命天涯躲着他们。\n\n<c:F4FF78>你也要让他们付出代价，但正面冲突是不可能干过他们的。</> 让你的特工们学会怎么才能来无影，去无踪。让他们打入敌人设施内部来获得工具和设备，并且让你的队伍为最终的决战做好准备。\n\n<c:F4FF78>现在的局势对你不利。</> 换句话说，你失败的几率相当大。但每次失败都会让你更加了解你的对手，每次重新开始也会为你带来一个充满挑战和机会的新世界。\n\n你任重而道远，专员。别让我们失望。"
 
 #: STRINGS.SCREENS.STR_1871560216
 msgctxt "STRINGS.SCREENS.STR_1871560216"
 msgid "Sound Effect Volume"
-msgstr ""
+msgstr "音效音量"
 
 #: STRINGS.SCREENS.STR_1886524285
 msgctxt "STRINGS.SCREENS.STR_1886524285"
 msgid "The game moves in turns. Once you have finished making your moves, end your turn and the enemy makes theirs."
-msgstr ""
+msgstr "游戏以回合方式进行。一旦你完成了你的动作，结束了你的回合，敌人就会开始他们的回合。"
 
 #: STRINGS.SCREENS.STR_1890824930
 msgctxt "STRINGS.SCREENS.STR_1890824930"
 msgid "Colour Blind Settings"
-msgstr ""
+msgstr "色盲设定"
 
 #: STRINGS.SCREENS.STR_1904672689
 msgctxt "STRINGS.SCREENS.STR_1904672689"
 msgid "Vsync"
-msgstr ""
+msgstr "垂直同步"
 
 #: STRINGS.SCREENS.STR_1922841172
 msgctxt "STRINGS.SCREENS.STR_1922841172"
 msgid "A G E N C Y   A S S I S T A N T  A I  C O N S T R U C T "
-msgstr ""
+msgstr "代 理 助 理 A I 构 造 "
 
 #: STRINGS.SCREENS.STR_1933049801
 msgctxt "STRINGS.SCREENS.STR_1933049801"
 msgid "Acquire and install new programs in the field"
-msgstr ""
+msgstr "获取并安装新程序"
 
 #: STRINGS.SCREENS.STR_194569200
 msgctxt "STRINGS.SCREENS.STR_194569200"
 msgid "nextTurn"
-msgstr ""
+msgstr "下一回合"
 
 #: STRINGS.SCREENS.STR_1990665820
 msgctxt "STRINGS.SCREENS.STR_1990665820"
 msgid "ITEMS & AUGMENTS"
-msgstr ""
+msgstr "工具&植入体"
 
 #: STRINGS.SCREENS.STR_1994237377
 msgctxt "STRINGS.SCREENS.STR_1994237377"
 msgid "I N C O G N I T A  I N S T A L L S  A  N E W  P R O G R A M"
-msgstr ""
+msgstr "I N C O G N I T A 安 装 新 程 序"
 
 #: STRINGS.SCREENS.STR_1998190014
 msgctxt "STRINGS.SCREENS.STR_1998190014"
 msgid "Distracting a guard will cause them to investigate on the enemy's turn."
-msgstr ""
+msgstr "分散一个警卫的注意力会使他们在敌人的回合去调查发生了什么。"
 
 #: STRINGS.SCREENS.STR_1999569527
 msgctxt "STRINGS.SCREENS.STR_1999569527"
 msgid "L I M I T E D  T E M P O R A L  C O N T R O L  T E C H N O L O G Y"
-msgstr ""
+msgstr "有限时间控制技术"
 
 #: STRINGS.SCREENS.STR_2014426639
 msgctxt "STRINGS.SCREENS.STR_2014426639"
 msgid "Save the game and exit to the Main Menu"
-msgstr ""
+msgstr "保存游戏并退回到主菜单"
 
 #: STRINGS.SCREENS.STR_2074798919
 msgctxt "STRINGS.SCREENS.STR_2074798919"
 msgid "GET HELP FROM ANOTHER AGENT"
-msgstr ""
+msgstr "从另一个特工那里得到帮助"
 
 #: STRINGS.SCREENS.STR_2089085238
 msgctxt "STRINGS.SCREENS.STR_2089085238"
 msgid "E M P L O Y  R E C O N N A I S S A N C E"
-msgstr ""
+msgstr "雇佣侦察兵"
 
 #: STRINGS.SCREENS.STR_2120112437
 msgctxt "STRINGS.SCREENS.STR_2120112437"
 msgid "ALARM LEVEL"
-msgstr ""
+msgstr "警报等级"
 
 #: STRINGS.SCREENS.STR_2127324410
 msgctxt "STRINGS.SCREENS.STR_2127324410"
 msgid "CANCEL"
-msgstr ""
+msgstr "取消"
 
 #: STRINGS.SCREENS.STR_2134958199
 msgctxt "STRINGS.SCREENS.STR_2134958199"
 msgid "OPEN DOOR PEEK"
-msgstr ""
+msgstr "开门窥探"
 
 #: STRINGS.SCREENS.STR_214583595
 msgctxt "STRINGS.SCREENS.STR_214583595"
 msgid "MAX AP"
-msgstr ""
+msgstr "最大 AP 值"
 
 #: STRINGS.SCREENS.STR_2155597623
 msgctxt "STRINGS.SCREENS.STR_2155597623"
 msgid "INTERNATIONALE"
-msgstr ""
+msgstr "INTERNATIONALE"
 
 #: STRINGS.SCREENS.STR_2161265051
 msgctxt "STRINGS.SCREENS.STR_2161265051"
 msgid "REWIND"
-msgstr ""
+msgstr "回溯"
 
 #: STRINGS.SCREENS.STR_2257412423
 msgctxt "STRINGS.SCREENS.STR_2257412423"
 msgid "CONTINUE"
-msgstr ""
+msgstr "继续"
 
 #: STRINGS.SCREENS.STR_225809901
 msgctxt "STRINGS.SCREENS.STR_225809901"
