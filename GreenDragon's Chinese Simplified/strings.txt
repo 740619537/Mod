@@ -13997,37 +13997,37 @@ msgstr ""
 #: STRINGS.UI.MODS_DEFAULT_LOCALE
 msgctxt "STRINGS.UI.MODS_DEFAULT_LOCALE"
 msgid "ENGLISH"
-msgstr ""
+msgstr "英语"
 
 #: STRINGS.UI.MODS_FIND_MORE
 msgctxt "STRINGS.UI.MODS_FIND_MORE"
 msgid "Find More in Workshop..."
-msgstr ""
+msgstr "在创意工坊寻找更多..."
 
 #: STRINGS.UI.MODS_OFFLINE
 msgctxt "STRINGS.UI.MODS_OFFLINE"
 msgid "REFRESH LANGUAGES\n(OFFLINE)"
-msgstr ""
+msgstr "更新语言 \n(离线)"
 
 #: STRINGS.UI.MODS_REFRESH_COMPLETE
 msgctxt "STRINGS.UI.MODS_REFRESH_COMPLETE"
 msgid "Finished refreshing language packs from Steam Workshop."
-msgstr ""
+msgstr "完成更新语言包"
 
 #: STRINGS.UI.MODS_UPDATE
 msgctxt "STRINGS.UI.MODS_UPDATE"
 msgid "REFRESH LANGUAGES"
-msgstr ""
+msgstr "更新语言"
 
 #: STRINGS.UI.MODS_UPDATING
 msgctxt "STRINGS.UI.MODS_UPDATING"
 msgid "UPDATING: %{1}"
-msgstr ""
+msgstr "更新: %{1}"
 
 #: STRINGS.UI.MONST3R.BUY_ITEM.1
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.1"
 msgid "Now be careful with that, I don't want to lose a loyal customer."
-msgstr ""
+msgstr "现在请小心它，我不想失去一个忠诚的客户"
 
 #: STRINGS.UI.MONST3R.BUY_ITEM.2
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.2"
@@ -14047,7 +14047,7 @@ msgstr ""
 #: STRINGS.UI.MONST3R.BUY_ITEM.5
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.5"
 msgid "It's dangerous to go alone. Here, take this."
-msgstr ""
+msgstr "自己一个人前往是危险的，带上这个"
 
 #: STRINGS.UI.MONST3R.BUY_ITEM.6
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.6"
