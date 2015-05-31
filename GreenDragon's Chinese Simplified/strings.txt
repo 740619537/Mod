@@ -3106,62 +3106,62 @@ msgstr "特工可以多携带一个工具"
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS
 msgctxt "STRINGS.ITEMS.AUGMENTS.CENTRALS"
 msgid "Antiviral Proxy"
-msgstr ""
+msgstr "防毒代理"
 
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CENTRALS_FLAVOR"
 msgid "The highly confidental work of a Daemon engineer, this subdermal chip re-routes PWR from other networked subroutines. Rumor has it that Central has the only prototype."
-msgstr ""
+msgstr "这个植入皮下的芯片是一位守护进程工程师的得意之作，它可以从其他网络子例程重新定向 PWR 传输路线。据说只有 Central 持有它的原型产品。"
 
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.CENTRALS_TIP"
 msgid "Gain 5 PWR on any DAEMON install."
-msgstr ""
+msgstr "每安装一个守护进程就可以从中获得 5 PWR"
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT"
 msgid "Chameleon Movement"
-msgstr ""
+msgstr "变色龙位移"
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_FLAVOR"
 msgid "Contrary to it's name, the Chameleon Movement implant does not allow the host to change their appearance. Rather - it analyzes their surroundings to show them the most inconspicuous path for the way they look."
-msgstr ""
+msgstr "与其名字不同，这个植入体的功能并不是改变宿主的外貌，而是通过分析周围环境寻找出最隐蔽的行动路径。"
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_TIP"
 msgid "Gain 6 AP."
-msgstr ""
+msgstr "获得 6 AP"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKARDS
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKARDS"
 msgid "Neural Networking"
-msgstr ""
+msgstr "神经网络"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKARDS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKARDS_FLAVOR"
 msgid "Over the years, most of Decker's vertebrae have been replaced with synthetics of varying quality. When jacked in, the jolts of pain allow him to differentiate subroutines."
-msgstr ""
+msgstr "多年以来， Decker 的大部分椎骨慢慢被良莠不齐的合成材料所替换。当他执行任务时，黑入设备所造成的阵痛可以使他区别出这台设备所安装的守护进程类别。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKARDS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKARDS_TIP"
 msgid "Allows agent to uncover DAEMONS in adjacent objects."
-msgstr ""
+msgstr "允许特工识别临近设备所安装的守护进程类别。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKER_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKER_2"
 msgid "Sensory Injector"
-msgstr ""
+msgstr "知觉感应"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKER_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKER_2_FLAVOR"
 msgid "Many a guard have caught a glimpse of Decker. None have caught him."
-msgstr ""
+msgstr "很多警卫在执勤时都曾发现过 Decker 。但没有一个人能抓到他。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKER_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKER_2_TIP"
 msgid "Gives the agent +2 AP when seen by the enemy (including peripheral vision)"
-msgstr ""
+msgstr "当特工被敌人发现时获得 2 AP(包括周边视野)"
 
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING"
