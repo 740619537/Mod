@@ -13997,37 +13997,37 @@ msgstr ""
 #: STRINGS.UI.MODS_DEFAULT_LOCALE
 msgctxt "STRINGS.UI.MODS_DEFAULT_LOCALE"
 msgid "ENGLISH"
-msgstr ""
+msgstr "英语"
 
 #: STRINGS.UI.MODS_FIND_MORE
 msgctxt "STRINGS.UI.MODS_FIND_MORE"
 msgid "Find More in Workshop..."
-msgstr ""
+msgstr "在创意工坊寻找更多..."
 
 #: STRINGS.UI.MODS_OFFLINE
 msgctxt "STRINGS.UI.MODS_OFFLINE"
 msgid "REFRESH LANGUAGES\n(OFFLINE)"
-msgstr ""
+msgstr "更新语言 \n(离线)"
 
 #: STRINGS.UI.MODS_REFRESH_COMPLETE
 msgctxt "STRINGS.UI.MODS_REFRESH_COMPLETE"
 msgid "Finished refreshing language packs from Steam Workshop."
-msgstr ""
+msgstr "完成更新语言包"
 
 #: STRINGS.UI.MODS_UPDATE
 msgctxt "STRINGS.UI.MODS_UPDATE"
 msgid "REFRESH LANGUAGES"
-msgstr ""
+msgstr "更新语言"
 
 #: STRINGS.UI.MODS_UPDATING
 msgctxt "STRINGS.UI.MODS_UPDATING"
 msgid "UPDATING: %{1}"
-msgstr ""
+msgstr "更新: %{1}"
 
 #: STRINGS.UI.MONST3R.BUY_ITEM.1
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.1"
 msgid "Now be careful with that, I don't want to lose a loyal customer."
-msgstr ""
+msgstr "现在请小心它，我不想失去一个忠诚的客户"
 
 #: STRINGS.UI.MONST3R.BUY_ITEM.2
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.2"
@@ -14047,7 +14047,7 @@ msgstr ""
 #: STRINGS.UI.MONST3R.BUY_ITEM.5
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.5"
 msgid "It's dangerous to go alone. Here, take this."
-msgstr ""
+msgstr "自己一个人前往是危险的，带上这个"
 
 #: STRINGS.UI.MONST3R.BUY_ITEM.6
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.6"
@@ -15027,17 +15027,17 @@ msgstr ""
 #: STRINGS.UI.SCREEN_NAME_TEAM_SELECT
 msgctxt "STRINGS.UI.SCREEN_NAME_TEAM_SELECT"
 msgid "SELECT YOUR TEAM"
-msgstr ""
+msgstr "请选择你的队伍"
 
 #: STRINGS.UI.SECURITY_HACKED
 msgctxt "STRINGS.UI.SECURITY_HACKED"
 msgid "SECURITY HACKED"
-msgstr ""
+msgstr "安全的骇入"
 
 #: STRINGS.UI.SELL_TO_MONST3R
 msgctxt "STRINGS.UI.SELL_TO_MONST3R"
 msgid "SELL TO MONST3R"
-msgstr ""
+msgstr "卖给MONST3R"
 
 #: STRINGS.UI.SHOP_BUYBACK
 msgctxt "STRINGS.UI.SHOP_BUYBACK"
@@ -15047,17 +15047,17 @@ msgstr ""
 #: STRINGS.UI.SHOP_CANNOT_SELL
 msgctxt "STRINGS.UI.SHOP_CANNOT_SELL"
 msgid "CAN'T SELL"
-msgstr ""
+msgstr "不能出售"
 
 #: STRINGS.UI.SHOP_INVENTORY
 msgctxt "STRINGS.UI.SHOP_INVENTORY"
 msgid "INVENTORY"
-msgstr ""
+msgstr "库存"
 
 #: STRINGS.UI.SHOP_LOOT
 msgctxt "STRINGS.UI.SHOP_LOOT"
 msgid "LOOT %s_"
-msgstr ""
+msgstr "战利品 %s_"
 
 #: STRINGS.UI.SHOP_MINISERVER
 msgctxt "STRINGS.UI.SHOP_MINISERVER"
@@ -15067,42 +15067,42 @@ msgstr ""
 #: STRINGS.UI.SHOP_MONST3R
 msgctxt "STRINGS.UI.SHOP_MONST3R"
 msgid "DIALOG WITH MONST3R"
-msgstr ""
+msgstr "和MONST3R对话"
 
 #: STRINGS.UI.SHOP_NANOFAB
 msgctxt "STRINGS.UI.SHOP_NANOFAB"
 msgid "NANOFAB"
-msgstr ""
+msgstr "纳米打印机"
 
 #: STRINGS.UI.SHOP_PRINTER
 msgctxt "STRINGS.UI.SHOP_PRINTER"
 msgid "NANO FABRICATOR"
-msgstr ""
+msgstr "纳米打印机"
 
 #: STRINGS.UI.SHOP_SELL
 msgctxt "STRINGS.UI.SHOP_SELL"
 msgid "INVENTORY / SELL"
-msgstr ""
+msgstr "库存/出售"
 
 #: STRINGS.UI.SHOP_SELL_AREYOUSURE
 msgctxt "STRINGS.UI.SHOP_SELL_AREYOUSURE"
 msgid "Are you sure you want to sell %s for %d credits?"
-msgstr ""
+msgstr "你确定以 %d CR的价格出售%s ?"
 
 #: STRINGS.UI.SHOP_SELL_AREYOUSURE_TITLE
 msgctxt "STRINGS.UI.SHOP_SELL_AREYOUSURE_TITLE"
 msgid "Confirm Sale"
-msgstr ""
+msgstr "确认出售"
 
 #: STRINGS.UI.SHOP_SELL_CONFIRM
 msgctxt "STRINGS.UI.SHOP_SELL_CONFIRM"
 msgid "Sell Item"
-msgstr ""
+msgstr "出售工具"
 
 #: STRINGS.UI.SHOP_SELL_CONFIRM_ABILITY
 msgctxt "STRINGS.UI.SHOP_SELL_CONFIRM_ABILITY"
 msgid "Sell Program"
-msgstr ""
+msgstr "出售程序"
 
 #: STRINGS.UI.SHOP_SERVER
 msgctxt "STRINGS.UI.SHOP_SERVER"
@@ -15117,17 +15117,17 @@ msgstr ""
 #: STRINGS.UI.SHOT_PRESENTATION_ELIMINATING_TARGET
 msgctxt "STRINGS.UI.SHOT_PRESENTATION_ELIMINATING_TARGET"
 msgid "ELIMINATING TARGET"
-msgstr ""
+msgstr "消除目标"
 
 #: STRINGS.UI.SHOT_PRESENTATION_IMMINENT_DANGER
 msgctxt "STRINGS.UI.SHOT_PRESENTATION_IMMINENT_DANGER"
 msgid "IMMINENT DANGER"
-msgstr ""
+msgstr "迫近的危险"
 
 #: STRINGS.UI.SMALLCATSHOP_BUY.1
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUY.1"
 msgid "THANK YOU FOR YOUR BUSINESS."
-msgstr ""
+msgstr "感谢您的交易"
 
 #: STRINGS.UI.SMALLCATSHOP_BUY.2
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUY.2"
@@ -15172,7 +15172,7 @@ msgstr ""
 #: STRINGS.UI.SMALLCATSHOP_SELL.1
 msgctxt "STRINGS.UI.SMALLCATSHOP_SELL.1"
 msgid "TRANSACTION COMPLETE."
-msgstr ""
+msgstr "交易完成"
 
 #: STRINGS.UI.SMALLCATSHOP_SELL.2
 msgctxt "STRINGS.UI.SMALLCATSHOP_SELL.2"
@@ -15182,12 +15182,12 @@ msgstr ""
 #: STRINGS.UI.SMALLCATSHOP_SELL.3
 msgctxt "STRINGS.UI.SMALLCATSHOP_SELL.3"
 msgid "JOIN OUR LOYALTY PROGRAM TODAY!"
-msgstr ""
+msgstr "现在加入我们的忠诚计划"
 
 #: STRINGS.UI.START_MISSION
 msgctxt "STRINGS.UI.START_MISSION"
 msgid "> START MISSION"
-msgstr ""
+msgstr "> 开始任务"
 
 #: STRINGS.UI.TASWELL_INFO
 msgctxt "STRINGS.UI.TASWELL_INFO"
@@ -15197,12 +15197,12 @@ msgstr ""
 #: STRINGS.UI.TASWELL_INFO_BTN
 msgctxt "STRINGS.UI.TASWELL_INFO_BTN"
 msgid "MORE INFO"
-msgstr ""
+msgstr "更多信息"
 
 #: STRINGS.UI.TASWELL_QUOTE
 msgctxt "STRINGS.UI.TASWELL_QUOTE"
 msgid "\"Hey it's Tuesday, but I really love Mondays.\""
-msgstr ""
+msgstr "\ "嘿 今天是星期二，但是我更喜欢星期一.\""
 
 #: STRINGS.UI.TASWELL_TITLE
 msgctxt "STRINGS.UI.TASWELL_TITLE"
@@ -15212,17 +15212,17 @@ msgstr ""
 #: STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_DESC
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_DESC"
 msgid "THIS AGENT IS CLASSIFIED."
-msgstr ""
+msgstr "这个特工是机密的"
 
 #: STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_NAME
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_NAME"
 msgid "CLASSIFIED"
-msgstr ""
+msgstr "机密的"
 
 #: STRINGS.UI.TEAM_SELECT.LOCKED_ALT
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_ALT"
 msgid "CLASSIFIED"
-msgstr ""
+msgstr "机密的"
 
 #: STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT"
@@ -15237,12 +15237,12 @@ msgstr ""
 #: STRINGS.UI.TEAM_SELECT.UNLOCK_TO_USE
 msgctxt "STRINGS.UI.TEAM_SELECT.UNLOCK_TO_USE"
 msgid "REQUIRES MORE XP TO UNLOCK"
-msgstr ""
+msgstr "需要更多XP来解锁"
 
 #: STRINGS.UI.TEAM_STATUS
 msgctxt "STRINGS.UI.TEAM_STATUS"
 msgid "TEAM STATUS"
-msgstr ""
+msgstr "队伍状态"
 
 #: STRINGS.UI.THOUGHTVIS_TOOLTIPS.combat
 msgctxt "STRINGS.UI.THOUGHTVIS_TOOLTIPS.combat"
@@ -15262,7 +15262,7 @@ msgstr ""
 #: STRINGS.UI.THOUGHTVIS_TOOLTIPS.hunting
 msgctxt "STRINGS.UI.THOUGHTVIS_TOOLTIPS.hunting"
 msgid "Hunting for intruders"
-msgstr ""
+msgstr "追捕入侵者"
 
 #: STRINGS.UI.THOUGHTVIS_TOOLTIPS.investigating
 msgctxt "STRINGS.UI.THOUGHTVIS_TOOLTIPS.investigating"
@@ -15287,7 +15287,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.ADDS_REPUTAION
 msgctxt "STRINGS.UI.TOOLTIPS.ADDS_REPUTAION"
 msgid "ADDS %d REPUTATION"
-msgstr ""
+msgstr "增加 %d 声望"
 
 #: STRINGS.UI.TOOLTIPS.ANARCHY_BONUS
 msgctxt "STRINGS.UI.TOOLTIPS.ANARCHY_BONUS"
@@ -15332,12 +15332,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.CURRENTLY_EQUIPPED
 msgctxt "STRINGS.UI.TOOLTIPS.CURRENTLY_EQUIPPED"
 msgid "EQUIPPED: %s"
-msgstr ""
+msgstr "装备: %s "
 
 #: STRINGS.UI.TOOLTIPS.DRONE_SCAN
 msgctxt "STRINGS.UI.TOOLTIPS.DRONE_SCAN"
 msgid "LOCAL SCANNER"
-msgstr ""
+msgstr "本地扫描"
 
 #: STRINGS.UI.TOOLTIPS.DRONE_SCAN_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.DRONE_SCAN_DESC"
@@ -15352,12 +15352,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.EMPTY_SLOT
 msgctxt "STRINGS.UI.TOOLTIPS.EMPTY_SLOT"
 msgid "EMPTY SLOT"
-msgstr ""
+msgstr "空槽"
 
 #: STRINGS.UI.TOOLTIPS.EMP_VULNERABLE
 msgctxt "STRINGS.UI.TOOLTIPS.EMP_VULNERABLE"
 msgid "EMP VULNERABLE"
-msgstr ""
+msgstr "EMP 弱点"
 
 #: STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC"
@@ -15372,17 +15372,17 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.EQUIPPED
 msgctxt "STRINGS.UI.TOOLTIPS.EQUIPPED"
 msgid "EQUIPPED"
-msgstr ""
+msgstr "装备"
 
 #: STRINGS.UI.TOOLTIPS.FIREWALLS
 msgctxt "STRINGS.UI.TOOLTIPS.FIREWALLS"
 msgid "FIREWALLS: %d"
-msgstr ""
+msgstr "防火墙: %d"
 
 #: STRINGS.UI.TOOLTIPS.FIREWALLS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FIREWALLS_DESC"
 msgid "Use INCOGNITA PROGRAMS to break."
-msgstr ""
+msgstr "使用INCOGNITA去破坏"
 
 #: STRINGS.UI.TOOLTIPS.GRENADE_GUARD
 msgctxt "STRINGS.UI.TOOLTIPS.GRENADE_GUARD"
@@ -15397,7 +15397,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.HACK
 msgctxt "STRINGS.UI.TOOLTIPS.HACK"
 msgid "HACK"
-msgstr ""
+msgstr "骇人"
 
 #: STRINGS.UI.TOOLTIPS.HACK_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HACK_DESC"
@@ -15642,17 +15642,17 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOFIREWALL
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOFIREWALL"
 msgid "\n\nThis program does not break FIREWALLS."
-msgstr ""
+msgstr "\n\n该程序不会破坏防火墙"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR"
 msgid "\n\nThis program does not require PWR"
-msgstr ""
+msgstr "\n\n 该程序不再需要PWR"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR"
 msgid "\n\nThis program uses {1} PWR for each use."
-msgstr ""
+msgstr "\n\n 该程序每次使用消耗 {1} PWR."
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC"
@@ -15672,7 +15672,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY
 msgctxt "STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY"
 msgid "UPGRADE INVENTORY"
-msgstr ""
+msgstr "升级库存"
 
 #: STRINGS.UI.TOOLTIPS.WILL_ENCUMBER
 msgctxt "STRINGS.UI.TOOLTIPS.WILL_ENCUMBER"
@@ -15742,7 +15742,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE_CAPTURED
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE_CAPTURED"
 msgid "This device is under agency control"
-msgstr ""
+msgstr "该设备在特工的控制下"
 
 #: STRINGS.UI.TOOLTIP_HACK_MAP_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAP_DB"
@@ -15752,12 +15752,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_HACK_WITH_INCOGNITA
 msgctxt "STRINGS.UI.TOOLTIP_HACK_WITH_INCOGNITA"
 msgid "HACK WITH INCOGNITA"
-msgstr ""
+msgstr "使用INCOGINTA骇入"
 
 #: STRINGS.UI.TOOLTIP_INACTIVE
 msgctxt "STRINGS.UI.TOOLTIP_INACTIVE"
 msgid "INACTIVE"
-msgstr ""
+msgstr "INACTIVE"
 
 #: STRINGS.UI.TOOLTIP_INACTIVE_DESC
 msgctxt "STRINGS.UI.TOOLTIP_INACTIVE_DESC"
@@ -15987,7 +15987,7 @@ msgstr ""
 #: STRINGS.UI.WARNING_OBSERVE_GUARD_2
 msgctxt "STRINGS.UI.WARNING_OBSERVE_GUARD_2"
 msgid "OBSERVE him before you continue."
-msgstr "在你继续之前观察他"
+msgstr "在你继续行动之前观察他"
 
 #: STRINGS.UI.WARNING_PEEK_GUARD
 msgctxt "STRINGS.UI.WARNING_PEEK_GUARD"
@@ -16002,12 +16002,12 @@ msgstr "从门的一侧偷看更加安全"
 #: STRINGS.UI.WARNING_RECAPTURE
 msgctxt "STRINGS.UI.WARNING_RECAPTURE"
 msgid "Mainframe Devices Rebooting."
-msgstr ""
+msgstr "主机设备重启中"
 
 #: STRINGS.UI.WATCHED
 msgctxt "STRINGS.UI.WATCHED"
 msgid "WATCHED"
-msgstr ""
+msgstr "暴露在敌人视野中"
 
 #: STRINGS.UI.WATCHED_TT
 msgctxt "STRINGS.UI.WATCHED_TT"
@@ -16037,5 +16037,5 @@ msgstr "祝贺您通关专家模式！\n 如果您想体验终极挑战，可以
 #: STRINGS.WIN_TIPS.EXPERT_PLUS
 msgctxt "STRINGS.WIN_TIPS.EXPERT_PLUS"
 msgid "Thank you for playing!\nFor even more variety, you can try our Time Attack and Endless options."
-msgstr ""
+msgstr "感谢您通关！\n 如果您想要体验更多的类型，您可以尝试无尽模式,"
 
