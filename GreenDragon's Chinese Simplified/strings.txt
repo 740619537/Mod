@@ -1,4 +1,4 @@
-"Application: Invisible Inc."
+﻿"Application: Invisible Inc."
 "POT Version: 2.0"
 
 #: STRINGS.ABILITIES.ACCESS_BANK
@@ -749,7 +749,7 @@ msgstr "68"
 #: STRINGS.AGENTS.CENTRAL.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.BIO"
 msgid "Olivia Gladstone was the highest-ranking officer in the Pan-Euro Infosec Agency before it collapsed at the end of the Resource Wars.\n\nForced into hiding, she re-emerged as the founder and leader of Invisible Inc. She currently holds the record for highest total corporate bounty ever offered for a single target."
-msgstr ""
+msgstr "Olivia Gladstone在大西洋-欧洲共同体信息安全局在资源战争结束时崩溃之前，是其一名高级官员。\n\n她被迫躲藏起来，随后当她重新现身时，她便成为了Invisible Inc.的创始人和领导者。她现在手上掌握着很多集团的最高级的——见不得光的一面"
 
 #: STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME"
@@ -826,7 +826,7 @@ msgstr "让我们把该做的做完吧。"
 #: STRINGS.AGENTS.CENTRAL.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.CENTRAL.BIO_SPOKEN"
 msgid "My name is Olivia Gladstone. I ran the Pan-Euro Infosec Agency, back when sovereign governments were still in fashion. After the war I founded Invisible Inc, a freelance intelligence agency. We may work for the corps, but only to serve our own ends. We've been gathering intelligence for years, waiting for the opportunity to bring the whole machine crashing down. Unfortunately, they found us first."
-msgstr ""
+msgstr "我的名字是Olivia Gladstone。当政府统治还风行的时候，我运作着大西洋-欧洲共同体的信息安全局。在战争之后，我建立了Invisible Inc.，一个自由职业者般的情报机构。我们有时候会为集团工作，但是是为了我们自己的目的。我们这几年一直在搜寻人才，等待机会将这整个体系彻底击垮。很不辛，他们先找到了我们。"
 
 #: STRINGS.AGENTS.CENTRAL.FILE
 msgctxt "STRINGS.AGENTS.CENTRAL.FILE"
@@ -866,7 +866,7 @@ msgstr "38"
 #: STRINGS.AGENTS.DECKARD.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_1.BIO"
 msgid "Decker affects a persona from a bygone era as an act of protest against a world gone mad for technology. Quick on his feet and with his fists, rumour has it that he's packing more augmentations than he's willing to admit.\n\nHe was chief of security for K&O's California branch until an escalating love affair with the bottle chased him out of the Corporate world."
-msgstr ""
+msgstr "Decker从表面上看上去像是一个来自旧时代的对于这个被科技掌控的世界的抗议者。他行动敏捷，有谣言说他实际上装上的植入物比他承认的要多。\n\n他本来是K&O's California集团的安全主管，直到他的嗜酒成性将他赶出了他的集团世界，"
 
 #: STRINGS.AGENTS.DECKARD.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_1.FULLNAME"
@@ -891,12 +891,12 @@ msgstr ""
 #: STRINGS.AGENTS.DECKARD.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.FULLNAME"
 msgid "ARCHIVED -- COLLECTOR"
-msgstr ""
+msgstr "档案 -- 收集者"
 
 #: STRINGS.AGENTS.DECKARD.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.TOOLTIP"
 msgid "Antiques Collector"
-msgstr ""
+msgstr "古董收集者"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1"
@@ -961,32 +961,32 @@ msgstr ""
 #: STRINGS.AGENTS.DECKARD.FILE
 msgctxt "STRINGS.AGENTS.DECKARD.FILE"
 msgid "FILE #00-000490A-04932325"
-msgstr ""
+msgstr "文件 #00-000490A-04932325"
 
 #: STRINGS.AGENTS.DECKARD.HOMETOWN
 msgctxt "STRINGS.AGENTS.DECKARD.HOMETOWN"
 msgid "Los Angeles"
-msgstr ""
+msgstr "洛杉矶"
 
 #: STRINGS.AGENTS.DECKARD.NAME
 msgctxt "STRINGS.AGENTS.DECKARD.NAME"
 msgid "Decker"
-msgstr ""
+msgstr "Decker"
 
 #: STRINGS.AGENTS.DECKARD.RESCUED
 msgctxt "STRINGS.AGENTS.DECKARD.RESCUED"
 msgid "Back on the job."
-msgstr ""
+msgstr "回到正事"
 
 #: STRINGS.AGENTS.DECKARD.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.DECKARD.YEARS_OF_SERVICE"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: STRINGS.AGENTS.HOSTAGE.AGE
 msgctxt "STRINGS.AGENTS.HOSTAGE.AGE"
 msgid "26"
-msgstr ""
+msgstr "26"
 
 #: STRINGS.AGENTS.HOSTAGE.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.HOSTAGE.ALT_1.BIO"
@@ -996,12 +996,12 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.HOSTAGE.ALT_1.FULLNAME"
 msgid "Francis Hostage"
-msgstr ""
+msgstr "Francis Hostage"
 
 #: STRINGS.AGENTS.HOSTAGE.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.HOSTAGE.ALT_1.TOOLTIP"
 msgid "STATUS: Awake for 54 hours. Vital signs dropping."
-msgstr ""
+msgstr "状态：已经醒来54小时，脱离生命危险。"
 
 #: STRINGS.AGENTS.HOSTAGE.FILE
 msgctxt "STRINGS.AGENTS.HOSTAGE.FILE"
@@ -1011,7 +1011,7 @@ msgstr ""
 #: STRINGS.AGENTS.HOSTAGE.HOMETOWN
 msgctxt "STRINGS.AGENTS.HOSTAGE.HOMETOWN"
 msgid "unknown"
-msgstr ""
+msgstr "未知"
 
 #: STRINGS.AGENTS.HOSTAGE.NAME
 msgctxt "STRINGS.AGENTS.HOSTAGE.NAME"
@@ -1031,7 +1031,7 @@ msgstr "21"
 #: STRINGS.AGENTS.HOSTAGE_2.AGE
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.AGE"
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #: STRINGS.AGENTS.HOSTAGE_2.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.HOSTAGE_2.ALT_1.BIO"
