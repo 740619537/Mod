@@ -14312,27 +14312,27 @@ msgstr "> 下一个"
 #: STRINGS.UI.NORMAL_DESC
 msgctxt "STRINGS.UI.NORMAL_DESC"
 msgid "If you are new to Invisible, Inc. we suggest selecting this mode. This mode is designed to teach you the unique mechanics of the game, and will still provide a formidable challenge."
-msgstr ""
+msgstr "如果你是第一次玩隐形公司，我们建议选择这个模式。"
 
 #: STRINGS.UI.NORMAL_DIFFICULTY
 msgctxt "STRINGS.UI.NORMAL_DIFFICULTY"
 msgid "Beginner"
-msgstr ""
+msgstr "新手"
 
 #: STRINGS.UI.NORMAL_SHORT_DESC
 msgctxt "STRINGS.UI.NORMAL_SHORT_DESC"
 msgid "For players just starting out."
-msgstr ""
+msgstr "对玩家来说这只是个开始"
 
 #: STRINGS.UI.NOTICED
 msgctxt "STRINGS.UI.NOTICED"
 msgid "NOTICED"
-msgstr ""
+msgstr "被注意到"
 
 #: STRINGS.UI.NOTICED_TT
 msgctxt "STRINGS.UI.NOTICED_TT"
 msgid "This location is noticed by the enemy."
-msgstr ""
+msgstr "这个位置被敌人注意到了"
 
 #: STRINGS.UI.NOT_PAID
 msgctxt "STRINGS.UI.NOT_PAID"
@@ -14342,27 +14342,27 @@ msgstr ""
 #: STRINGS.UI.NO_BONUS
 msgctxt "STRINGS.UI.NO_BONUS"
 msgid "NO BONUS"
-msgstr ""
+msgstr "没有加成"
 
 #: STRINGS.UI.OK
 msgctxt "STRINGS.UI.OK"
 msgid "> OK"
-msgstr ""
+msgstr "> OK"
 
 #: STRINGS.UI.ON_ARCHIVE
 msgctxt "STRINGS.UI.ON_ARCHIVE"
 msgid "ARCHIVE"
-msgstr ""
+msgstr "存档"
 
 #: STRINGS.UI.ON_FILE
 msgctxt "STRINGS.UI.ON_FILE"
 msgid "ON FILE"
-msgstr ""
+msgstr "存档"
 
 #: STRINGS.UI.PAUSE_TOTAL_TIME
 msgctxt "STRINGS.UI.PAUSE_TOTAL_TIME"
 msgid "%02d:%02d:%02d"
-msgstr ""
+msgstr "%02d:%02d:%02d"
 
 #: STRINGS.UI.PRERELEASE_COMPAT_BODY
 msgctxt "STRINGS.UI.PRERELEASE_COMPAT_BODY"
@@ -14407,7 +14407,7 @@ msgstr ""
 #: STRINGS.UI.PWR_DRAIN_ALERT_HEAD
 msgctxt "STRINGS.UI.PWR_DRAIN_ALERT_HEAD"
 msgid "A D V A N C E D  C O R P O R A T E  E Q U I P M E N T"
-msgstr ""
+msgstr "A D V A N C E D  C O R P O R A T E  E Q U I P M E N T"
 
 #: STRINGS.UI.PWR_DRAIN_ALERT_TITLE
 msgctxt "STRINGS.UI.PWR_DRAIN_ALERT_TITLE"
@@ -14457,12 +14457,12 @@ msgstr ""
 #: STRINGS.UI.REASON.ALREADY_USED
 msgctxt "STRINGS.UI.REASON.ALREADY_USED"
 msgid "Already Used"
-msgstr ""
+msgstr "已经使用了"
 
 #: STRINGS.UI.REASON.AMMO_FULL
 msgctxt "STRINGS.UI.REASON.AMMO_FULL"
 msgid "Ammo full"
-msgstr ""
+msgstr "弹药达到上限"
 
 #: STRINGS.UI.REASON.ARCHDAEMON_CHARGED
 msgctxt "STRINGS.UI.REASON.ARCHDAEMON_CHARGED"
@@ -14487,7 +14487,7 @@ msgstr ""
 #: STRINGS.UI.REASON.BLOCKED
 msgctxt "STRINGS.UI.REASON.BLOCKED"
 msgid "Blocked"
-msgstr ""
+msgstr "被封锁"
 
 #: STRINGS.UI.REASON.CANNOT_AUGMENT_THIS_UNIT
 msgctxt "STRINGS.UI.REASON.CANNOT_AUGMENT_THIS_UNIT"
@@ -14497,12 +14497,12 @@ msgstr ""
 #: STRINGS.UI.REASON.CANT_ABANDON
 msgctxt "STRINGS.UI.REASON.CANT_ABANDON"
 msgid "Can't abandon the team!"
-msgstr ""
+msgstr "不能遗弃队伍"
 
 #: STRINGS.UI.REASON.CANT_CARRY
 msgctxt "STRINGS.UI.REASON.CANT_CARRY"
 msgid "No inventory"
-msgstr ""
+msgstr "没有库存了"
 
 #: STRINGS.UI.REASON.CANT_CLOAK_IN_VISION
 msgctxt "STRINGS.UI.REASON.CANT_CLOAK_IN_VISION"
@@ -14547,7 +14547,7 @@ msgstr ""
 #: STRINGS.UI.REASON.CHARGE_FULL
 msgctxt "STRINGS.UI.REASON.CHARGE_FULL"
 msgid "Charge full"
-msgstr ""
+msgstr "充电完成"
 
 #: STRINGS.UI.REASON.CONSOLE_LOCKED
 msgctxt "STRINGS.UI.REASON.CONSOLE_LOCKED"
@@ -14557,7 +14557,7 @@ msgstr ""
 #: STRINGS.UI.REASON.COOLDOWN
 msgctxt "STRINGS.UI.REASON.COOLDOWN"
 msgid "%d MORE TURNS TO COOLDOWN."
-msgstr ""
+msgstr "%d 需要更多的回合来冷却"
 
 #: STRINGS.UI.REASON.DAEMON_REVEALED
 msgctxt "STRINGS.UI.REASON.DAEMON_REVEALED"
@@ -14572,7 +14572,7 @@ msgstr ""
 #: STRINGS.UI.REASON.ENEMY_PINNED
 msgctxt "STRINGS.UI.REASON.ENEMY_PINNED"
 msgid "Enemy being pinned"
-msgstr ""
+msgstr "敌人正在被牵制"
 
 #: STRINGS.UI.REASON.EQUIPPED_ON_COOLDOWN
 msgctxt "STRINGS.UI.REASON.EQUIPPED_ON_COOLDOWN"
@@ -14582,7 +14582,7 @@ msgstr ""
 #: STRINGS.UI.REASON.FULL_STASH
 msgctxt "STRINGS.UI.REASON.FULL_STASH"
 msgid "Not enough room in storage."
-msgstr ""
+msgstr "仓库没有足够的空间"
 
 #: STRINGS.UI.REASON.HACKED_DRONES_CANT_OVERWATCH
 msgctxt "STRINGS.UI.REASON.HACKED_DRONES_CANT_OVERWATCH"
@@ -14642,7 +14642,7 @@ msgstr ""
 #: STRINGS.UI.REASON.NOT_ENOUGH_PWR
 msgctxt "STRINGS.UI.REASON.NOT_ENOUGH_PWR"
 msgid "Not enough PWR"
-msgstr ""
+msgstr "没有足够的PWR"
 
 #: STRINGS.UI.REASON.NOT_EXIT
 msgctxt "STRINGS.UI.REASON.NOT_EXIT"
@@ -14682,7 +14682,7 @@ msgstr ""
 #: STRINGS.UI.REASON.NO_ICE
 msgctxt "STRINGS.UI.REASON.NO_ICE"
 msgid "No Firewalls"
-msgstr ""
+msgstr "没有防火墙"
 
 #: STRINGS.UI.REASON.NO_INJURED_TARGETS
 msgctxt "STRINGS.UI.REASON.NO_INJURED_TARGETS"
@@ -14697,7 +14697,7 @@ msgstr ""
 #: STRINGS.UI.REASON.NO_MAGAZINE
 msgctxt "STRINGS.UI.REASON.NO_MAGAZINE"
 msgid "No magazine"
-msgstr ""
+msgstr "没有弹药"
 
 #: STRINGS.UI.REASON.NO_MELEE_WEAPON
 msgctxt "STRINGS.UI.REASON.NO_MELEE_WEAPON"
@@ -14742,7 +14742,7 @@ msgstr ""
 #: STRINGS.UI.REASON.NO_WEAPON
 msgctxt "STRINGS.UI.REASON.NO_WEAPON"
 msgid "No weapon"
-msgstr ""
+msgstr "没有武器"
 
 #: STRINGS.UI.REASON.NULLZONE_BY
 msgctxt "STRINGS.UI.REASON.NULLZONE_BY"
@@ -14757,22 +14757,22 @@ msgstr ""
 #: STRINGS.UI.REASON.OUT_OF_ORDER
 msgctxt "STRINGS.UI.REASON.OUT_OF_ORDER"
 msgid "OUT OF ORDER"
-msgstr ""
+msgstr "发生故障"
 
 #: STRINGS.UI.REASON.OUT_OF_STOCK
 msgctxt "STRINGS.UI.REASON.OUT_OF_STOCK"
 msgid "OUT OF STOCK"
-msgstr ""
+msgstr "缺货"
 
 #: STRINGS.UI.REASON.REQUIREMENTS
 msgctxt "STRINGS.UI.REASON.REQUIREMENTS"
 msgid "{1}: Must be level {2}"
-msgstr ""
+msgstr "{1}: 需要达到等级 {2}"
 
 #: STRINGS.UI.REASON.REQUIRES_AP
 msgctxt "STRINGS.UI.REASON.REQUIRES_AP"
 msgid "Requires %d AP"
-msgstr ""
+msgstr "需要 %d AP"
 
 #: STRINGS.UI.REASON.SECURED
 msgctxt "STRINGS.UI.REASON.SECURED"
@@ -14787,7 +14787,7 @@ msgstr ""
 #: STRINGS.UI.REASON.UNIT_IS_KO
 msgctxt "STRINGS.UI.REASON.UNIT_IS_KO"
 msgid "Unit is KO"
-msgstr ""
+msgstr "该单元已经被击倒"
 
 #: STRINGS.UI.REASON.UNLOCK_WITH_VAULT_TERMINAL
 msgctxt "STRINGS.UI.REASON.UNLOCK_WITH_VAULT_TERMINAL"
@@ -14842,12 +14842,12 @@ msgstr ""
 #: STRINGS.UI.RECAP.SAFES
 msgctxt "STRINGS.UI.RECAP.SAFES"
 msgid "SAFES"
-msgstr ""
+msgstr "保险柜"
 
 #: STRINGS.UI.RECAP.SELLING
 msgctxt "STRINGS.UI.RECAP.SELLING"
 msgid "ITEMS SOLD"
-msgstr ""
+msgstr "出售工具"
 
 #: STRINGS.UI.RECAP.VALUABLES
 msgctxt "STRINGS.UI.RECAP.VALUABLES"
@@ -14857,7 +14857,7 @@ msgstr ""
 #: STRINGS.UI.REEQUIPPED
 msgctxt "STRINGS.UI.REEQUIPPED"
 msgid "RE-EQUIPPED"
-msgstr ""
+msgstr "重新装备"
 
 #: STRINGS.UI.REGEN_LEVEL
 msgctxt "STRINGS.UI.REGEN_LEVEL"
@@ -14882,7 +14882,7 @@ msgstr ""
 #: STRINGS.UI.RETIRE_AGENCY
 msgctxt "STRINGS.UI.RETIRE_AGENCY"
 msgid "RETIRE AGENCY"
-msgstr ""
+msgstr "放弃本局"
 
 #: STRINGS.UI.RETIRE_AGENCY_CONFIRM
 msgctxt "STRINGS.UI.RETIRE_AGENCY_CONFIRM"
@@ -14892,7 +14892,7 @@ msgstr ""
 #: STRINGS.UI.REWIND
 msgctxt "STRINGS.UI.REWIND"
 msgid "REWIND"
-msgstr ""
+msgstr "倒回"
 
 #: STRINGS.UI.REWINDS_REMAINING
 msgctxt "STRINGS.UI.REWINDS_REMAINING"
@@ -14902,12 +14902,12 @@ msgstr ""
 #: STRINGS.UI.REWIND_CONFIRM
 msgctxt "STRINGS.UI.REWIND_CONFIRM"
 msgid "REWIND"
-msgstr ""
+msgstr "倒回"
 
 #: STRINGS.UI.REWIND_GAME_OVER
 msgctxt "STRINGS.UI.REWIND_GAME_OVER"
 msgid "END CAMPAIGN"
-msgstr ""
+msgstr "结束作战"
 
 #: STRINGS.UI.REWIND_SUGGEST
 msgctxt "STRINGS.UI.REWIND_SUGGEST"
@@ -14922,17 +14922,17 @@ msgstr ""
 #: STRINGS.UI.SAFES_LOOTED
 msgctxt "STRINGS.UI.SAFES_LOOTED"
 msgid "SAFES LOOTED"
-msgstr ""
+msgstr "保险柜的战利品"
 
 #: STRINGS.UI.SAVESLOTS.CONTINUE
 msgctxt "STRINGS.UI.SAVESLOTS.CONTINUE"
 msgid "CONTINUE GAME"
-msgstr ""
+msgstr "继续游戏"
 
 #: STRINGS.UI.SAVESLOTS.DAYS_SPENT
 msgctxt "STRINGS.UI.SAVESLOTS.DAYS_SPENT"
 msgid "%02d DAYS / %02d HOURS"
-msgstr ""
+msgstr "%02d 天 / %02d 小时"
 
 #: STRINGS.UI.SAVESLOTS.DELETE_AREYOUSURE
 msgctxt "STRINGS.UI.SAVESLOTS.DELETE_AREYOUSURE"
@@ -14942,17 +14942,17 @@ msgstr ""
 #: STRINGS.UI.SAVESLOTS.DELETE_SAVE
 msgctxt "STRINGS.UI.SAVESLOTS.DELETE_SAVE"
 msgid "Delete Save"
-msgstr ""
+msgstr "删除存档"
 
 #: STRINGS.UI.SAVESLOTS.EMPTY_SLOT
 msgctxt "STRINGS.UI.SAVESLOTS.EMPTY_SLOT"
 msgid "> START NEW GAME"
-msgstr ""
+msgstr "> 开始新的游戏"
 
 #: STRINGS.UI.SAVESLOTS.ENDLESS_MODE
 msgctxt "STRINGS.UI.SAVESLOTS.ENDLESS_MODE"
 msgid "Endless Mode"
-msgstr ""
+msgstr "无尽模式"
 
 #: STRINGS.UI.SAVESLOTS.PLAYED_TUTORIAL
 msgctxt "STRINGS.UI.SAVESLOTS.PLAYED_TUTORIAL"
@@ -14962,42 +14962,42 @@ msgstr ""
 #: STRINGS.UI.SAVESLOTS.PLAY_STORY
 msgctxt "STRINGS.UI.SAVESLOTS.PLAY_STORY"
 msgid "SKIP TUTORIAL"
-msgstr ""
+msgstr "跳过教程"
 
 #: STRINGS.UI.SAVESLOTS.PLAY_TUTORIAL
 msgctxt "STRINGS.UI.SAVESLOTS.PLAY_TUTORIAL"
 msgid "PLAY TUTORIAL"
-msgstr ""
+msgstr "进入教程"
 
 #: STRINGS.UI.SAVESLOTS.SEE_PATCHNOTES
 msgctxt "STRINGS.UI.SAVESLOTS.SEE_PATCHNOTES"
 msgid "READ MORE"
-msgstr ""
+msgstr "了解更多"
 
 #: STRINGS.UI.SAVESLOTS.STORY_MODE
 msgctxt "STRINGS.UI.SAVESLOTS.STORY_MODE"
 msgid "Story Mode"
-msgstr ""
+msgstr "剧情模式"
 
 #: STRINGS.UI.SAVESLOTS.TUTORIAL
 msgctxt "STRINGS.UI.SAVESLOTS.TUTORIAL"
 msgid "Tutorial"
-msgstr ""
+msgstr "教程"
 
 #: STRINGS.UI.SAVE_AND_EXIT
 msgctxt "STRINGS.UI.SAVE_AND_EXIT"
 msgid "SAVE AND EXIT"
-msgstr ""
+msgstr "保存并且退出游戏"
 
 #: STRINGS.UI.SAVE_AND_EXIT_CONFIRM
 msgctxt "STRINGS.UI.SAVE_AND_EXIT_CONFIRM"
 msgid "Do you wish to save and exit the current game?"
-msgstr ""
+msgstr "你希望保存并退出现在的游戏吗？"
 
 #: STRINGS.UI.SAVE_GAME_VERSION
 msgctxt "STRINGS.UI.SAVE_GAME_VERSION"
 msgid "Save game version:"
-msgstr ""
+msgstr "保存游戏版本:"
 
 #: STRINGS.UI.SAVE_NOT_COMPATIBLE
 msgctxt "STRINGS.UI.SAVE_NOT_COMPATIBLE"
@@ -15042,7 +15042,7 @@ msgstr "卖给MONST3R"
 #: STRINGS.UI.SHOP_BUYBACK
 msgctxt "STRINGS.UI.SHOP_BUYBACK"
 msgid "BUYBACK"
-msgstr ""
+msgstr "回购"
 
 #: STRINGS.UI.SHOP_CANNOT_SELL
 msgctxt "STRINGS.UI.SHOP_CANNOT_SELL"
@@ -15152,7 +15152,7 @@ msgstr ""
 #: STRINGS.UI.SMALLCATSHOP_OPEN.1
 msgctxt "STRINGS.UI.SMALLCATSHOP_OPEN.1"
 msgid "WELCOME TO THE AUTO_TERM M1N1-B@Z@@R."
-msgstr ""
+msgstr "欢迎来到THE AUTO_TERM M1N1-B@Z@@R. "
 
 #: STRINGS.UI.SMALLCATSHOP_OPEN.2
 msgctxt "STRINGS.UI.SMALLCATSHOP_OPEN.2"
@@ -15297,12 +15297,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.ANARCHY_STEAL
 msgctxt "STRINGS.UI.TOOLTIPS.ANARCHY_STEAL"
 msgid "<ttbody><ttheader2>STEAL {1} CR</>\nSteal credits</>"
-msgstr ""
+msgstr "<ttbody><ttheader2>偷窃 {1} CR</>\n偷窃 CR</>"
 
 #: STRINGS.UI.TOOLTIPS.BARRIER
 msgctxt "STRINGS.UI.TOOLTIPS.BARRIER"
 msgid "BARRIER"
-msgstr ""
+msgstr "障碍"
 
 #: STRINGS.UI.TOOLTIPS.BARRIER_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.BARRIER_DESC"
@@ -15312,17 +15312,17 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.CONTROLLABLE
 msgctxt "STRINGS.UI.TOOLTIPS.CONTROLLABLE"
 msgid "CONTROLLABLE"
-msgstr ""
+msgstr "可操纵的"
 
 #: STRINGS.UI.TOOLTIPS.CONTROLLABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.CONTROLLABLE_DESC"
 msgid "Hack this unit in the MAINFRAME to gain temporary control."
-msgstr ""
+msgstr "骇入主机程序的这个单元来获得暂时的控制权"
 
 #: STRINGS.UI.TOOLTIPS.COUNTER_HACK
 msgctxt "STRINGS.UI.TOOLTIPS.COUNTER_HACK"
 msgid "HACKER"
-msgstr ""
+msgstr "骇客"
 
 #: STRINGS.UI.TOOLTIPS.COUNTER_HACK_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.COUNTER_HACK_DESC"
@@ -15367,7 +15367,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.ENCUMBERED
 msgctxt "STRINGS.UI.TOOLTIPS.ENCUMBERED"
 msgid "<c:A30000>ENCUMBERED\n-{1} AP</>"
-msgstr ""
+msgstr "<c:A30000>ENCUMBERED\n-{1} AP</>"
 
 #: STRINGS.UI.TOOLTIPS.EQUIPPED
 msgctxt "STRINGS.UI.TOOLTIPS.EQUIPPED"
@@ -15407,17 +15407,17 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.HEART_MONITOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEART_MONITOR"
 msgid "HEART MONITOR"
-msgstr ""
+msgstr "心脏监护器"
 
 #: STRINGS.UI.TOOLTIPS.HEART_MONITOR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HEART_MONITOR_DESC"
 msgid "The alarm is increased if this unit dies."
-msgstr ""
+msgstr "如果该单位死亡 警戒等级将会提升"
 
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR"
 msgid "HEAVY ARMOR %d"
-msgstr ""
+msgstr "重甲 %d"
 
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC"
@@ -15447,12 +15447,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.KO_RESISTANT
 msgctxt "STRINGS.UI.TOOLTIPS.KO_RESISTANT"
 msgid "KO RESISTANT %d"
-msgstr ""
+msgstr "击倒抵抗者 %d"
 
 #: STRINGS.UI.TOOLTIPS.KO_RESISTANT_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_RESISTANT_DESC"
 msgid "Reduces KO time"
-msgstr ""
+msgstr "减少击倒时间"
 
 #: STRINGS.UI.TOOLTIPS.LOOT_TOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.LOOT_TOOLTIP"
@@ -15472,7 +15472,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE"
 msgid "ACTIVE"
-msgstr ""
+msgstr "活跃"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_DAEMON
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_DAEMON"
@@ -15487,7 +15487,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT"
 msgid "HACK {1}"
-msgstr ""
+msgstr "骇入{1}"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_HIDDEN_DAEMON
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_HIDDEN_DAEMON"
@@ -15497,7 +15497,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_INACTIVE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_INACTIVE"
 msgid "INACTIVE"
-msgstr ""
+msgstr "不活跃"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID"
@@ -15512,7 +15512,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_OFF
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_OFF"
 msgid "OFF"
-msgstr ""
+msgstr "关闭"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_PARASITE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_PARASITE"
@@ -15527,12 +15527,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOT"
 msgid "REBOOT: %d"
-msgstr ""
+msgstr "重启"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOTING
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOTING"
 msgid "REBOOTING..."
-msgstr ""
+msgstr "重启..."
 
 #: STRINGS.UI.TOOLTIPS.NOT_INSTALLED
 msgctxt "STRINGS.UI.TOOLTIPS.NOT_INSTALLED"
@@ -15552,12 +15552,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.NO_HEARING_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.NO_HEARING_DESC"
 msgid "Does not detect sound."
-msgstr ""
+msgstr "没有探测到声音"
 
 #: STRINGS.UI.TOOLTIPS.NULL_ZONE
 msgctxt "STRINGS.UI.TOOLTIPS.NULL_ZONE"
 msgid "NULL ZONE"
-msgstr ""
+msgstr "无效区"
 
 #: STRINGS.UI.TOOLTIPS.NULL_ZONE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.NULL_ZONE_DESC"
@@ -15592,17 +15592,17 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.RETURN_FOR_CREDIT
 msgctxt "STRINGS.UI.TOOLTIPS.RETURN_FOR_CREDIT"
 msgid "WORTH %d CREDITS"
-msgstr ""
+msgstr "价值 %d CR"
 
 #: STRINGS.UI.TOOLTIPS.SHOP
 msgctxt "STRINGS.UI.TOOLTIPS.SHOP"
 msgid "SHOP"
-msgstr ""
+msgstr "商店"
 
 #: STRINGS.UI.TOOLTIPS.SHOP_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.SHOP_DESC"
 msgid "Spend credits for items."
-msgstr ""
+msgstr "为工具花费CR"
 
 #: STRINGS.UI.TOOLTIPS.STACKABLE
 msgctxt "STRINGS.UI.TOOLTIPS.STACKABLE"
@@ -15612,7 +15612,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.STEAL
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL"
 msgid "STEAL"
-msgstr ""
+msgstr "偷窃"
 
 #: STRINGS.UI.TOOLTIPS.STEAL_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL_DESC"
@@ -15697,7 +15697,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_CANT_PURCHASE
 msgctxt "STRINGS.UI.TOOLTIP_CANT_PURCHASE"
 msgid "You can't purchase right now."
-msgstr ""
+msgstr "现在你不能购买东西"
 
 #: STRINGS.UI.TOOLTIP_DESTROYED
 msgctxt "STRINGS.UI.TOOLTIP_DESTROYED"
@@ -15782,7 +15782,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_NOT_ENOUGH_CREDIT
 msgctxt "STRINGS.UI.TOOLTIP_NOT_ENOUGH_CREDIT"
 msgid "Insufficient funds!"
-msgstr ""
+msgstr "资金不足"
 
 #: STRINGS.UI.TOOLTIP_PROGRAMS_FULL
 msgctxt "STRINGS.UI.TOOLTIP_PROGRAMS_FULL"
@@ -15837,7 +15837,7 @@ msgstr "敌人将会转身当你移动的时候"
 #: STRINGS.UI.TURN
 msgctxt "STRINGS.UI.TURN"
 msgid "TURN %d"
-msgstr ""
+msgstr "回合 %d"
 
 #: STRINGS.UI.TUTORIAL_DIFFICULTY
 msgctxt "STRINGS.UI.TUTORIAL_DIFFICULTY"
