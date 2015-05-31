@@ -15035,12 +15035,12 @@ msgstr ""
 #: STRINGS.UI.SHOP_INVENTORY
 msgctxt "STRINGS.UI.SHOP_INVENTORY"
 msgid "INVENTORY"
-msgstr ""
+msgstr "库存"
 
 #: STRINGS.UI.SHOP_LOOT
 msgctxt "STRINGS.UI.SHOP_LOOT"
 msgid "LOOT %s_"
-msgstr ""
+msgstr "战利品 %s_"
 
 #: STRINGS.UI.SHOP_MINISERVER
 msgctxt "STRINGS.UI.SHOP_MINISERVER"
@@ -15625,17 +15625,17 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOFIREWALL
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOFIREWALL"
 msgid "\n\nThis program does not break FIREWALLS."
-msgstr ""
+msgstr "\n\n该程序不会破坏防火墙"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR"
 msgid "\n\nThis program does not require PWR"
-msgstr ""
+msgstr "\n\n 该程序不再需要PWR"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR"
 msgid "\n\nThis program uses {1} PWR for each use."
-msgstr ""
+msgstr "\n\n 该程序每次使用消耗 {1} PWR."
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC"
@@ -15655,7 +15655,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY
 msgctxt "STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY"
 msgid "UPGRADE INVENTORY"
-msgstr ""
+msgstr "升级库存"
 
 #: STRINGS.UI.TOOLTIPS.WILL_ENCUMBER
 msgctxt "STRINGS.UI.TOOLTIPS.WILL_ENCUMBER"
@@ -15725,7 +15725,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE_CAPTURED
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE_CAPTURED"
 msgid "This device is under agency control"
-msgstr ""
+msgstr "该设备在特工的控制下"
 
 #: STRINGS.UI.TOOLTIP_HACK_MAP_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAP_DB"
@@ -15735,12 +15735,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIP_HACK_WITH_INCOGNITA
 msgctxt "STRINGS.UI.TOOLTIP_HACK_WITH_INCOGNITA"
 msgid "HACK WITH INCOGNITA"
-msgstr ""
+msgstr "使用INCOGINTA骇入"
 
 #: STRINGS.UI.TOOLTIP_INACTIVE
 msgctxt "STRINGS.UI.TOOLTIP_INACTIVE"
 msgid "INACTIVE"
-msgstr ""
+msgstr "INACTIVE"
 
 #: STRINGS.UI.TOOLTIP_INACTIVE_DESC
 msgctxt "STRINGS.UI.TOOLTIP_INACTIVE_DESC"
@@ -15970,7 +15970,7 @@ msgstr ""
 #: STRINGS.UI.WARNING_OBSERVE_GUARD_2
 msgctxt "STRINGS.UI.WARNING_OBSERVE_GUARD_2"
 msgid "OBSERVE him before you continue."
-msgstr "在你继续之前观察他"
+msgstr "在你继续行动之前观察他"
 
 #: STRINGS.UI.WARNING_PEEK_GUARD
 msgctxt "STRINGS.UI.WARNING_PEEK_GUARD"
@@ -15985,12 +15985,12 @@ msgstr "从门的一侧偷看更加安全"
 #: STRINGS.UI.WARNING_RECAPTURE
 msgctxt "STRINGS.UI.WARNING_RECAPTURE"
 msgid "Mainframe Devices Rebooting."
-msgstr ""
+msgstr "主机设备重启中"
 
 #: STRINGS.UI.WATCHED
 msgctxt "STRINGS.UI.WATCHED"
 msgid "WATCHED"
-msgstr ""
+msgstr "暴露在敌人视野中"
 
 #: STRINGS.UI.WATCHED_TT
 msgctxt "STRINGS.UI.WATCHED_TT"
@@ -16020,5 +16020,5 @@ msgstr "祝贺您通关专家模式！\n 如果您想体验终极挑战，可以
 #: STRINGS.WIN_TIPS.EXPERT_PLUS
 msgctxt "STRINGS.WIN_TIPS.EXPERT_PLUS"
 msgid "Thank you for playing!\nFor even more variety, you can try our Time Attack and Endless options."
-msgstr ""
+msgstr "感谢您通关！\n 如果您想要体验更多的类型，您可以尝试无尽模式,"
 
