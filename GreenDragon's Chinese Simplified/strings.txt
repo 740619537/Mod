@@ -14597,17 +14597,17 @@ msgstr ""
 #: STRINGS.UI.REASON.INVALID_TARGET
 msgctxt "STRINGS.UI.REASON.INVALID_TARGET"
 msgid "Invalid target"
-msgstr ""
+msgstr "无效目标"
 
 #: STRINGS.UI.REASON.INVENTORY_FULL
 msgctxt "STRINGS.UI.REASON.INVENTORY_FULL"
 msgid "Inventory full"
-msgstr ""
+msgstr "库存已满"
 
 #: STRINGS.UI.REASON.MACHINE_INACTIVE
 msgctxt "STRINGS.UI.REASON.MACHINE_INACTIVE"
 msgid "This machine is inactive"
-msgstr ""
+msgstr "这台机器是闲置的"
 
 #: STRINGS.UI.REASON.MACHINE_USED
 msgctxt "STRINGS.UI.REASON.MACHINE_USED"
