@@ -15010,17 +15010,17 @@ msgstr ""
 #: STRINGS.UI.SCREEN_NAME_TEAM_SELECT
 msgctxt "STRINGS.UI.SCREEN_NAME_TEAM_SELECT"
 msgid "SELECT YOUR TEAM"
-msgstr ""
+msgstr "请选择你的队伍"
 
 #: STRINGS.UI.SECURITY_HACKED
 msgctxt "STRINGS.UI.SECURITY_HACKED"
 msgid "SECURITY HACKED"
-msgstr ""
+msgstr "安全的骇入"
 
 #: STRINGS.UI.SELL_TO_MONST3R
 msgctxt "STRINGS.UI.SELL_TO_MONST3R"
 msgid "SELL TO MONST3R"
-msgstr ""
+msgstr "卖给MONST3R"
 
 #: STRINGS.UI.SHOP_BUYBACK
 msgctxt "STRINGS.UI.SHOP_BUYBACK"
@@ -15030,7 +15030,7 @@ msgstr ""
 #: STRINGS.UI.SHOP_CANNOT_SELL
 msgctxt "STRINGS.UI.SHOP_CANNOT_SELL"
 msgid "CAN'T SELL"
-msgstr ""
+msgstr "不能出售"
 
 #: STRINGS.UI.SHOP_INVENTORY
 msgctxt "STRINGS.UI.SHOP_INVENTORY"
@@ -15050,42 +15050,42 @@ msgstr ""
 #: STRINGS.UI.SHOP_MONST3R
 msgctxt "STRINGS.UI.SHOP_MONST3R"
 msgid "DIALOG WITH MONST3R"
-msgstr ""
+msgstr "和MONST3R对话"
 
 #: STRINGS.UI.SHOP_NANOFAB
 msgctxt "STRINGS.UI.SHOP_NANOFAB"
 msgid "NANOFAB"
-msgstr ""
+msgstr "纳米打印机"
 
 #: STRINGS.UI.SHOP_PRINTER
 msgctxt "STRINGS.UI.SHOP_PRINTER"
 msgid "NANO FABRICATOR"
-msgstr ""
+msgstr "纳米打印机"
 
 #: STRINGS.UI.SHOP_SELL
 msgctxt "STRINGS.UI.SHOP_SELL"
 msgid "INVENTORY / SELL"
-msgstr ""
+msgstr "库存/出售"
 
 #: STRINGS.UI.SHOP_SELL_AREYOUSURE
 msgctxt "STRINGS.UI.SHOP_SELL_AREYOUSURE"
 msgid "Are you sure you want to sell %s for %d credits?"
-msgstr ""
+msgstr "你确定以 %d CR的价格出售%s ?"
 
 #: STRINGS.UI.SHOP_SELL_AREYOUSURE_TITLE
 msgctxt "STRINGS.UI.SHOP_SELL_AREYOUSURE_TITLE"
 msgid "Confirm Sale"
-msgstr ""
+msgstr "确认出售"
 
 #: STRINGS.UI.SHOP_SELL_CONFIRM
 msgctxt "STRINGS.UI.SHOP_SELL_CONFIRM"
 msgid "Sell Item"
-msgstr ""
+msgstr "出售工具"
 
 #: STRINGS.UI.SHOP_SELL_CONFIRM_ABILITY
 msgctxt "STRINGS.UI.SHOP_SELL_CONFIRM_ABILITY"
 msgid "Sell Program"
-msgstr ""
+msgstr "出售程序"
 
 #: STRINGS.UI.SHOP_SERVER
 msgctxt "STRINGS.UI.SHOP_SERVER"
@@ -15100,17 +15100,17 @@ msgstr ""
 #: STRINGS.UI.SHOT_PRESENTATION_ELIMINATING_TARGET
 msgctxt "STRINGS.UI.SHOT_PRESENTATION_ELIMINATING_TARGET"
 msgid "ELIMINATING TARGET"
-msgstr ""
+msgstr "消除目标"
 
 #: STRINGS.UI.SHOT_PRESENTATION_IMMINENT_DANGER
 msgctxt "STRINGS.UI.SHOT_PRESENTATION_IMMINENT_DANGER"
 msgid "IMMINENT DANGER"
-msgstr ""
+msgstr "迫近的危险"
 
 #: STRINGS.UI.SMALLCATSHOP_BUY.1
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUY.1"
 msgid "THANK YOU FOR YOUR BUSINESS."
-msgstr ""
+msgstr "感谢您的交易"
 
 #: STRINGS.UI.SMALLCATSHOP_BUY.2
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUY.2"
@@ -15155,7 +15155,7 @@ msgstr ""
 #: STRINGS.UI.SMALLCATSHOP_SELL.1
 msgctxt "STRINGS.UI.SMALLCATSHOP_SELL.1"
 msgid "TRANSACTION COMPLETE."
-msgstr ""
+msgstr "交易完成"
 
 #: STRINGS.UI.SMALLCATSHOP_SELL.2
 msgctxt "STRINGS.UI.SMALLCATSHOP_SELL.2"
@@ -15165,12 +15165,12 @@ msgstr ""
 #: STRINGS.UI.SMALLCATSHOP_SELL.3
 msgctxt "STRINGS.UI.SMALLCATSHOP_SELL.3"
 msgid "JOIN OUR LOYALTY PROGRAM TODAY!"
-msgstr ""
+msgstr "现在加入我们的忠诚计划"
 
 #: STRINGS.UI.START_MISSION
 msgctxt "STRINGS.UI.START_MISSION"
 msgid "> START MISSION"
-msgstr ""
+msgstr "> 开始任务"
 
 #: STRINGS.UI.TASWELL_INFO
 msgctxt "STRINGS.UI.TASWELL_INFO"
@@ -15180,12 +15180,12 @@ msgstr ""
 #: STRINGS.UI.TASWELL_INFO_BTN
 msgctxt "STRINGS.UI.TASWELL_INFO_BTN"
 msgid "MORE INFO"
-msgstr ""
+msgstr "更多信息"
 
 #: STRINGS.UI.TASWELL_QUOTE
 msgctxt "STRINGS.UI.TASWELL_QUOTE"
 msgid "\"Hey it's Tuesday, but I really love Mondays.\""
-msgstr ""
+msgstr "\ "嘿 今天是星期二，但是我更喜欢星期一.\""
 
 #: STRINGS.UI.TASWELL_TITLE
 msgctxt "STRINGS.UI.TASWELL_TITLE"
@@ -15195,17 +15195,17 @@ msgstr ""
 #: STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_DESC
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_DESC"
 msgid "THIS AGENT IS CLASSIFIED."
-msgstr ""
+msgstr "这个特工是机密的"
 
 #: STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_NAME
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_AGENT_NAME"
 msgid "CLASSIFIED"
-msgstr ""
+msgstr "机密的"
 
 #: STRINGS.UI.TEAM_SELECT.LOCKED_ALT
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_ALT"
 msgid "CLASSIFIED"
-msgstr ""
+msgstr "机密的"
 
 #: STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT"
@@ -15220,12 +15220,12 @@ msgstr ""
 #: STRINGS.UI.TEAM_SELECT.UNLOCK_TO_USE
 msgctxt "STRINGS.UI.TEAM_SELECT.UNLOCK_TO_USE"
 msgid "REQUIRES MORE XP TO UNLOCK"
-msgstr ""
+msgstr "需要更多XP来解锁"
 
 #: STRINGS.UI.TEAM_STATUS
 msgctxt "STRINGS.UI.TEAM_STATUS"
 msgid "TEAM STATUS"
-msgstr ""
+msgstr "队伍状态"
 
 #: STRINGS.UI.THOUGHTVIS_TOOLTIPS.combat
 msgctxt "STRINGS.UI.THOUGHTVIS_TOOLTIPS.combat"
@@ -15245,7 +15245,7 @@ msgstr ""
 #: STRINGS.UI.THOUGHTVIS_TOOLTIPS.hunting
 msgctxt "STRINGS.UI.THOUGHTVIS_TOOLTIPS.hunting"
 msgid "Hunting for intruders"
-msgstr ""
+msgstr "追捕入侵者"
 
 #: STRINGS.UI.THOUGHTVIS_TOOLTIPS.investigating
 msgctxt "STRINGS.UI.THOUGHTVIS_TOOLTIPS.investigating"
