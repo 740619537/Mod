@@ -14077,12 +14077,12 @@ msgstr ""
 #: STRINGS.UI.MONST3R.NOBUY.1
 msgctxt "STRINGS.UI.MONST3R.NOBUY.1"
 msgid "Having second thoughts? You're lucky I have such a generous return policy."
-msgstr ""
+msgstr "已经重新考虑好了？你是幸运的我如此慷慨的退换政策"
 
 #: STRINGS.UI.MONST3R.NOBUY.2
 msgctxt "STRINGS.UI.MONST3R.NOBUY.2"
 msgid "You're right. You'd probably just hurt yourself with it, anyway."
-msgstr ""
+msgstr "你是对的。无论如何，你可能伤害了你自己"
 
 #: STRINGS.UI.MONST3R.NOBUY.3
 msgctxt "STRINGS.UI.MONST3R.NOBUY.3"
@@ -14092,22 +14092,22 @@ msgstr ""
 #: STRINGS.UI.MONST3R.NOBUY.4
 msgctxt "STRINGS.UI.MONST3R.NOBUY.4"
 msgid "Are you sure you don't want it? It's a collector's edition."
-msgstr ""
+msgstr "你确定你不要它？它一款是收藏版"
 
 #: STRINGS.UI.MONST3R.NOBUY.5
 msgctxt "STRINGS.UI.MONST3R.NOBUY.5"
 msgid "This isn't a lending library, you know."
-msgstr ""
+msgstr "你知道，这不是一个收费图书馆"
 
 #: STRINGS.UI.MONST3R.NOBUY.6
 msgctxt "STRINGS.UI.MONST3R.NOBUY.6"
 msgid "Suit yourself."
-msgstr ""
+msgstr "随你便"
 
 #: STRINGS.UI.MONST3R.NOBUY.7
 msgctxt "STRINGS.UI.MONST3R.NOBUY.7"
 msgid "Hey I'm just trying to help."
-msgstr ""
+msgstr "我只是想要尽力帮忙"
 
 #: STRINGS.UI.MONST3R.NOSELL.1
 msgctxt "STRINGS.UI.MONST3R.NOSELL.1"
@@ -14122,7 +14122,7 @@ msgstr ""
 #: STRINGS.UI.MONST3R.NOSELL.3
 msgctxt "STRINGS.UI.MONST3R.NOSELL.3"
 msgid "Do you *ever* commit to your decisions?"
-msgstr ""
+msgstr "你曾经坚持过你的决定吗？"
 
 #: STRINGS.UI.MONST3R.NOSELL.4
 msgctxt "STRINGS.UI.MONST3R.NOSELL.4"
@@ -14137,12 +14137,12 @@ msgstr ""
 #: STRINGS.UI.MONST3R.NOSELL.6
 msgctxt "STRINGS.UI.MONST3R.NOSELL.6"
 msgid "You won't be seeing that again."
-msgstr ""
+msgstr "你将永远不会看到它了"
 
 #: STRINGS.UI.MONST3R.NOSELL.7
 msgctxt "STRINGS.UI.MONST3R.NOSELL.7"
 msgid "Whatever you think is best."
-msgstr ""
+msgstr "不论你想的是什么都是最好的"
 
 #: STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.1
 msgctxt "STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.1"
@@ -14197,7 +14197,7 @@ msgstr ""
 #: STRINGS.UI.MONST3R.SELL_ITEM.1
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.1"
 msgid "Thank you for your business."
-msgstr ""
+msgstr "感谢您的交易"
 
 #: STRINGS.UI.MONST3R.SELL_ITEM.10
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.10"
@@ -14232,7 +14232,7 @@ msgstr ""
 #: STRINGS.UI.MONST3R.SELL_ITEM.7
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.7"
 msgid "We should do business more often."
-msgstr ""
+msgstr "我们将来生意来往应该更加频繁"
 
 #: STRINGS.UI.MONST3R.SELL_ITEM.8
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.8"
@@ -14247,12 +14247,12 @@ msgstr ""
 #: STRINGS.UI.MONST3R_TITLE
 msgctxt "STRINGS.UI.MONST3R_TITLE"
 msgid "MONST3R"
-msgstr ""
+msgstr "MONST3R"
 
 #: STRINGS.UI.MONSTER_CATSHOP_POST.1
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_POST.1"
 msgid "Damn it, ShopCat. That's no way to treat your customers."
-msgstr ""
+msgstr "该死，没有办法治疗你的客户了"
 
 #: STRINGS.UI.MONSTER_CATSHOP_POST.2
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_POST.2"
@@ -14297,17 +14297,17 @@ msgstr ""
 #: STRINGS.UI.NEW_GAME
 msgctxt "STRINGS.UI.NEW_GAME"
 msgid "NEW GAME"
-msgstr ""
+msgstr "新的游戏"
 
 #: STRINGS.UI.NEW_GAME_CONFIRM
 msgctxt "STRINGS.UI.NEW_GAME_CONFIRM"
 msgid "I'M READY"
-msgstr ""
+msgstr "我准备好了"
 
 #: STRINGS.UI.NEXT
 msgctxt "STRINGS.UI.NEXT"
 msgid "> NEXT"
-msgstr ""
+msgstr "> 下一个"
 
 #: STRINGS.UI.NORMAL_DESC
 msgctxt "STRINGS.UI.NORMAL_DESC"
@@ -14422,12 +14422,12 @@ msgstr ""
 #: STRINGS.UI.QUIT
 msgctxt "STRINGS.UI.QUIT"
 msgid "Exit Game"
-msgstr ""
+msgstr "离开游戏"
 
 #: STRINGS.UI.QUIT_CONFIRM
 msgctxt "STRINGS.UI.QUIT_CONFIRM"
 msgid "Are you sure you want to exit the game?"
-msgstr ""
+msgstr "你确定要离开游戏？"
 
 #: STRINGS.UI.REASON.ALREADY_DEPLOYED
 msgctxt "STRINGS.UI.REASON.ALREADY_DEPLOYED"
@@ -14512,12 +14512,12 @@ msgstr ""
 #: STRINGS.UI.REASON.CANT_DROP
 msgctxt "STRINGS.UI.REASON.CANT_DROP"
 msgid "Can't drop"
-msgstr ""
+msgstr "不能丢弃"
 
 #: STRINGS.UI.REASON.CANT_ESCAPE
 msgctxt "STRINGS.UI.REASON.CANT_ESCAPE"
 msgid "Can't escape!"
-msgstr ""
+msgstr "不能逃跑！"
 
 #: STRINGS.UI.REASON.CANT_MELEE_REACH
 msgctxt "STRINGS.UI.REASON.CANT_MELEE_REACH"
@@ -14527,7 +14527,7 @@ msgstr ""
 #: STRINGS.UI.REASON.CANT_REACH
 msgctxt "STRINGS.UI.REASON.CANT_REACH"
 msgid "Out of reach"
-msgstr ""
+msgstr "超出范围"
 
 #: STRINGS.UI.REASON.CANT_REACH_BY
 msgctxt "STRINGS.UI.REASON.CANT_REACH_BY"
@@ -14537,7 +14537,7 @@ msgstr ""
 #: STRINGS.UI.REASON.CANT_RELOAD
 msgctxt "STRINGS.UI.REASON.CANT_RELOAD"
 msgid "Can't reload this weapon"
-msgstr ""
+msgstr "不能为这个武器添装弹药"
 
 #: STRINGS.UI.REASON.CANT_STACK_BODIES
 msgctxt "STRINGS.UI.REASON.CANT_STACK_BODIES"
