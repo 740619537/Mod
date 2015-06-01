@@ -1696,267 +1696,267 @@ msgstr "Shalem 11"
 #: STRINGS.AGENTS.SHALEM.RESCUED
 msgctxt "STRINGS.AGENTS.SHALEM.RESCUED"
 msgid "Guess that means break time is over."
-msgstr "看来休息时间结束了。"
+msgstr "休息结束了。"
 
 #: STRINGS.AGENTS.SHALEM.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.SHALEM.YEARS_OF_SERVICE"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: STRINGS.AGENTS.SHARP.AGE
 msgctxt "STRINGS.AGENTS.SHARP.AGE"
 msgid "49"
-msgstr ""
+msgstr "49"
 
 #: STRINGS.AGENTS.SHARP.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.SHARP.ALT_1.BIO"
 msgid "It is arguable whether or not the human being born as Alex McTeague still exists. Driven by an obsession with perfecting his form, he has replaced most of his parts with a mechanical or vat-grown replacement.\n\nOriginally funding his transhumanism through corporate bounty hunting, he joined Invisible when his augmentation ambitions grew beyond what is available on the open market."
-msgstr ""
+msgstr " 现在是否还有像Alex Mcteague这样的人存在还是个谜。受他对完美躯体的追求，他把身体的大部分都换成机械或是加速生长的部件。最开始他通过集团赏金来资助自己的超人类主义，然而在他发现自由市场上有的东西已经满足不了他增长的欲望洪流后，他还是加入了隐形公司。"
 
 #: STRINGS.AGENTS.SHARP.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.SHARP.ALT_1.FULLNAME"
 msgid "Alex \"Sharp\" McTeague"
-msgstr ""
+msgstr "Alex Mcteague"
 
 #: STRINGS.AGENTS.SHARP.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.SHARP.ALT_1.TOOLTIP"
 msgid "More Machine Than Man"
-msgstr ""
+msgstr "比起人类，更像机器。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.1"
 msgid "Pathetic scum. I'll come back for you."
-msgstr ""
+msgstr "可怜的人渣，我会回来带走你的。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.2"
 msgid "How dare you touch perfection!"
-msgstr ""
+msgstr "你怎敢碰我这完美的躯体！"
 
 #: STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.3"
 msgid "You are nothing. This changes nothing."
-msgstr ""
+msgstr "你什么都不是，这什么都没有改变。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.4"
 msgid "This is not the end. I've got backups."
-msgstr ""
+msgstr "这不是结束，我的支援马上就到。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.1
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.1"
 msgid "C'mon meatsacks. Let's get this over with."
-msgstr ""
+msgstr "来吧这帮人肉袋子。我们赶快处理掉这个。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.2
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.2"
 msgid "I'm faster, smarter, and better looking than any of you."
-msgstr ""
+msgstr "我比你们谁都要更快更聪明，而且要更帅。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.3
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.3"
 msgid "If we find any augmentations I want to get the first look."
-msgstr ""
+msgstr "要是发现了任何植入体，先给我看看。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.4
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.4"
 msgid "Invigorating!"
-msgstr ""
+msgstr "爽快！"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.5
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.5"
 msgid "Your money doesn't buy you perfection of form."
-msgstr ""
+msgstr "你的钱买不到完美的躯体。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.6
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.6"
 msgid "Straight lines. Sharp edges. Hard corners."
-msgstr ""
+msgstr "硬朗的曲线，俊俏的沿边，结实的关节。"
 
 #: STRINGS.AGENTS.SHARP.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.SHARP.BIO_SPOKEN"
 msgid "Most people find Sharp off-putting because of his cybernetic enhancements. *I* find him off-putting because he's a sociopath with almost no regard for human life. I shudder to think of what he's capable of, and I say this as a person who spends most of her time interfacing with a disembodied artificial intelligence."
-msgstr ""
+msgstr "很多家伙因为Sharp的强化机械而讨厌他。我讨厌他是因为他是无视人命的反社会者。纵是作为一个大多数时间都与无形的人工智能连接的人，想到他的才能我也会恐惧。"
 
 #: STRINGS.AGENTS.SHARP.FILE
 msgctxt "STRINGS.AGENTS.SHARP.FILE"
 msgid "FILE #XX-9485867-84905693"
-msgstr ""
+msgstr "文件#xx-9485867-84905693"
 
 #: STRINGS.AGENTS.SHARP.HOMETOWN
 msgctxt "STRINGS.AGENTS.SHARP.HOMETOWN"
 msgid "Perth"
-msgstr ""
+msgstr "Perth"
 
 #: STRINGS.AGENTS.SHARP.NAME
 msgctxt "STRINGS.AGENTS.SHARP.NAME"
 msgid "Sharp"
-msgstr ""
+msgstr "Sharp"
 
 #: STRINGS.AGENTS.SHARP.RESCUED
 msgctxt "STRINGS.AGENTS.SHARP.RESCUED"
 msgid "I was just about to escape on my own."
-msgstr ""
+msgstr "我分明马上就能逃出去了呢。"
 
 #: STRINGS.AGENTS.SHARP.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.SHARP.YEARS_OF_SERVICE"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: STRINGS.AGENTS.XU.AGE
 msgctxt "STRINGS.AGENTS.XU.AGE"
 msgid "42"
-msgstr ""
+msgstr "42"
 
 #: STRINGS.AGENTS.XU.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.XU.ALT_1.BIO"
 msgid "Dr. Tony Xu was a brilliant researcher who rose to prominence at the University of Hong Kong. He was caught after one too many 'exploratory' trips into a K&O servers, and spent time in a detention center as a result.\n\nToo much a liability for any self-respecting University, Xu was unemployable upon release. He joined Invisible to gain personal protection while continuing his research."
-msgstr ""
+msgstr "Tony Xu博士曾是一位声名鹊起的天才研究者，任职于香港大学。他因多次“探访”K&O服务器而被捕，最后被送到拘留所。由于对任何自尊自重的高校来都是负担，释放后他一直找不到工作。他为了人身保护加入了隐形公司，另一方面也在继续着他的研究。"
 
 #: STRINGS.AGENTS.XU.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.XU.ALT_1.FULLNAME"
 msgid "Dr. Tony Xu"
-msgstr ""
+msgstr "Tony Xu博士"
 
 #: STRINGS.AGENTS.XU.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.XU.ALT_1.TOOLTIP"
 msgid "Black Market Academic"
-msgstr ""
+msgstr "隐于黑市的学者"
 
 #: STRINGS.AGENTS.XU.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.XU.ALT_2.AGE"
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #: STRINGS.AGENTS.XU.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.XU.ALT_2.BIO"
 msgid "As a graduate student, Tony Xu's reputation for success was matched only by his reputation for taking 'academic shortcuts'. His family connections saved him from outright expulsion, but word spreads quickly in the ivory tower.\nUndeterred by scandal, he earned his Doctorate in record time and moved on to lucrative freelance security contracts."
-msgstr ""
+msgstr "作为一个大学毕业生，唯有抄“学术捷径”才能配得上Tony Xu的声誉。他的家庭关系使他免于被公开开除，可流言很快传遍学术界。然而他并没有受绯闻影响，他在极短的时间内取得了博士学位，并投身于能赚大钱的特殊安全协议中去。"
 
 #: STRINGS.AGENTS.XU.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.XU.ALT_2.FULLNAME"
 msgid "ARCHIVED -- PROFESSOR"
-msgstr ""
+msgstr "达成成就：教授"
 
 #: STRINGS.AGENTS.XU.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.XU.ALT_2.TOOLTIP"
 msgid "The Professor"
-msgstr ""
+msgstr "教授"
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.1"
 msgid "I don't see a plausible way out of this."
-msgstr ""
+msgstr "我从中看不到合理。"
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.2"
 msgid "The probabilities are not in my favour this time."
-msgstr ""
+msgstr "看来这次概率并没有站在我这边。"
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.3"
 msgid "I should have stayed at the university."
-msgstr ""
+msgstr "我本该留在港大。"
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.4"
 msgid "I'm smarter than this. What the hell."
-msgstr ""
+msgstr "我分明比你聪明！草！"
 
 #: STRINGS.AGENTS.XU.BANTER.START.1
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.1"
 msgid "We have infiltrated the target."
-msgstr ""
+msgstr "我们已经渗入目标。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.2
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.2"
 msgid "Their network topology is fascinating."
-msgstr ""
+msgstr "他们网路上拓扑学的应用真是屌！"
 
 #: STRINGS.AGENTS.XU.BANTER.START.3
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.3"
 msgid "Keep your eyes peeled for anything useful."
-msgstr ""
+msgstr "睁大眼睛，别漏了有用的家伙。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.4
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.4"
 msgid "Can you feel that? There's a lot of data flowing through the air."
-msgstr ""
+msgstr "你能感受到吗？空气里弥漫着流动的数据。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.5
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.5"
 msgid "I hope we find a usable terminal on this floor."
-msgstr ""
+msgstr "我希望在这层能找到个合用的终端。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.6
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.6"
 msgid "The best science is done in the Corp labs these days."
-msgstr ""
+msgstr "这几天最强科技已经被集团做出来了！"
 
 #: STRINGS.AGENTS.XU.BANTER.START.7
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.7"
 msgid "The electromagnetic noise is almost overwhelming here."
-msgstr ""
+msgstr "这的电磁噪声已经不能忍了。"
 
 #: STRINGS.AGENTS.XU.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.XU.BIO_SPOKEN"
 msgid "Tony Xu's academic papers may as well be in binary to me. I've been told by very clever people that they're very impressive, but I'm more impressed in practical results. He plays the absent-minded professor character well, but when push comes to shove he knows exactly what the score is."
-msgstr ""
+msgstr "Tony Xu的论文对我来说简直就是二进制一般的重要。有非常聪明的人告诉我，这些论文十分深刻，然而对我来说，更让我深刻的是实际结果。他一边扮演者吊儿郎当的教授角色，然而事态严重时他总能知道重点是什么。"
 
 #: STRINGS.AGENTS.XU.FILE
 msgctxt "STRINGS.AGENTS.XU.FILE"
 msgid "FILE #00-121318A-92178746"
-msgstr ""
+msgstr "文件#00-121318A-92178746"
 
 #: STRINGS.AGENTS.XU.HOMETOWN
 msgctxt "STRINGS.AGENTS.XU.HOMETOWN"
 msgid "Hong Kong"
-msgstr ""
+msgstr "香港"
 
 #: STRINGS.AGENTS.XU.NAME
 msgctxt "STRINGS.AGENTS.XU.NAME"
 msgid "Dr. Xu"
-msgstr ""
+msgstr "徐博士"
 
 #: STRINGS.AGENTS.XU.RESCUED
 msgctxt "STRINGS.AGENTS.XU.RESCUED"
 msgid "Excellent. Captivity does not agree with me."
-msgstr ""
+msgstr "棒棒的。我才不想再被关了呢。"
 
 #: STRINGS.AGENTS.XU.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.XU.YEARS_OF_SERVICE"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: STRINGS.APPNAME
 msgctxt "STRINGS.APPNAME"
 msgid "Invisible, Inc."
-msgstr ""
+msgstr "隐形公司。"
 
 #: STRINGS.CENTRAL_BARKS.AGENT_DOWN
 msgctxt "STRINGS.CENTRAL_BARKS.AGENT_DOWN"
 msgid "Agent down. This is going sideways."
-msgstr ""
+msgstr "特工离线，得走岔路了。"
 
 #: STRINGS.CENTRAL_BARKS.TEAM_DOWN
 msgctxt "STRINGS.CENTRAL_BARKS.TEAM_DOWN"
 msgid "Damn it, Operator!"
-msgstr ""
+msgstr "草，专员？！"
 
 #: STRINGS.CORP.FTM.DESCRIPTION
 msgctxt "STRINGS.CORP.FTM.DESCRIPTION"
 msgid "FTM is the world's largest producer of consumer electronics. Traditionally a downmarket producer trading on volume, they have recently introduced a line of professional grade security and surveillance products."
-msgstr ""
+msgstr "FTM是世界上最大的消费级电子产品生产商，传统上本是靠价格低廉质量低劣的产品维持贸易，近期他们开发了专业级安全监视产品。"
 
 #: STRINGS.CORP.FTM.NAME
 msgctxt "STRINGS.CORP.FTM.NAME"
 msgid "Factory to Market Wholesalers"
-msgstr ""
+msgstr "从工厂到批发商"
 
 #: STRINGS.CORP.FTM.SHORTDESC
 msgctxt "STRINGS.CORP.FTM.SHORTDESC"
 msgid "FTM has advanced surveillance and scanning technology. You'll need to move fast in order to avoid detection."
-msgstr ""
+msgstr "FTM拥有尖端的监控及扫描科技。你得跑得足够快才能不被侦测到。"
 
 #: STRINGS.CORP.FTM.SHORTNAME
 msgctxt "STRINGS.CORP.FTM.SHORTNAME"
@@ -1966,7 +1966,7 @@ msgstr ""
 #: STRINGS.CORP.FTM.THREATS.1
 msgctxt "STRINGS.CORP.FTM.THREATS.1"
 msgid "Backscatter proximity scanners"
-msgstr ""
+msgstr "近距离反向散射扫描仪"
 
 #: STRINGS.CORP.FTM.THREATS.2
 msgctxt "STRINGS.CORP.FTM.THREATS.2"
@@ -1976,42 +1976,42 @@ msgstr ""
 #: STRINGS.CORP.KO.DESCRIPTION
 msgctxt "STRINGS.CORP.KO.DESCRIPTION"
 msgid "An ancient family-held concern, K&O have been producing weapons since 'technology' meant a particularly sharpened stick. Finally free from government regulation, they've proven as adept at wielding weapons as they are at building them."
-msgstr ""
+msgstr "一家古老的家族企业，K&O在科技成为一种特殊的武装以来就一直在生产武器。最终在摆脱了政府的控制后，他们展示了自己对控制武器同时也制造武器是多么内行。"
 
 #: STRINGS.CORP.KO.NAME
 msgctxt "STRINGS.CORP.KO.NAME"
 msgid "Kelfried & Odin Weapons Foundry"
-msgstr ""
+msgstr "Kelfried & Odin武器工厂"
 
 #: STRINGS.CORP.KO.SHORTDESC
 msgctxt "STRINGS.CORP.KO.SHORTDESC"
 msgid "Free from government regulation, K&O has the most advanced weaponry and automated defenses of all the corporations."
-msgstr ""
+msgstr "由于不受政府规章所约束，K&O拥有着所有集团都没有的最尖端的武器和自动化防卫系统。"
 
 #: STRINGS.CORP.KO.SHORTNAME
 msgctxt "STRINGS.CORP.KO.SHORTNAME"
 msgid "K&O"
-msgstr ""
+msgstr "K&O"
 
 #: STRINGS.CORP.KO.THREATS.1
 msgctxt "STRINGS.CORP.KO.THREATS.1"
 msgid "Highly-trained security personnel"
-msgstr ""
+msgstr "受过高等培训的安保人员"
 
 #: STRINGS.CORP.KO.THREATS.2
 msgctxt "STRINGS.CORP.KO.THREATS.2"
 msgid "Automated point defense turrets"
-msgstr ""
+msgstr "全自动定点方位机枪台"
 
 #: STRINGS.CORP.OMNI.DESCRIPTION
 msgctxt "STRINGS.CORP.OMNI.DESCRIPTION"
 msgid "We don't know much about OMNI, but they appear to combine the most dangerous aspects of all of the world's leading corporate powers."
-msgstr ""
+msgstr "我们对OMNI了解的并不多，然而现在可以知道的是，他们正把世界上最顶尖的集团各方面最危险的力量结合起来。"
 
 #: STRINGS.CORP.OMNI.NAME
 msgctxt "STRINGS.CORP.OMNI.NAME"
 msgid "OMNI"
-msgstr ""
+msgstr "OMNI"
 
 #: STRINGS.CORP.OMNI.SHORTDESC
 msgctxt "STRINGS.CORP.OMNI.SHORTDESC"
