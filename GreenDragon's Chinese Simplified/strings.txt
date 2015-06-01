@@ -14112,12 +14112,12 @@ msgstr "我只是想要尽力帮忙"
 #: STRINGS.UI.MONST3R.NOSELL.1
 msgctxt "STRINGS.UI.MONST3R.NOSELL.1"
 msgid "You're lucky I didn't call 'no take-backs'."
-msgstr ""
+msgstr "你是幸运的。我不叫做'无法挽回'"
 
 #: STRINGS.UI.MONST3R.NOSELL.2
 msgctxt "STRINGS.UI.MONST3R.NOSELL.2"
 msgid "Pity. I already had another buyer in mind."
-msgstr ""
+msgstr "在我头脑中已经有了另一位买家了。"
 
 #: STRINGS.UI.MONST3R.NOSELL.3
 msgctxt "STRINGS.UI.MONST3R.NOSELL.3"
@@ -14147,7 +14147,7 @@ msgstr "不论你想的是什么都是最好的"
 #: STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.1
 msgctxt "STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.1"
 msgid "Keep this short - I can't afford pulling down any more heat at the moment."
-msgstr ""
+msgstr "长话短说-目前我不能减少更多的热量了。"
 
 #: STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.2
 msgctxt "STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.2"
@@ -14157,17 +14157,17 @@ msgstr ""
 #: STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.3
 msgctxt "STRINGS.UI.MONST3R.OPEN_NO_SPECIALS.3"
 msgid "The cupboard is bare, friend. Lucky for you, it's a seller's market."
-msgstr ""
+msgstr "朋友,橱柜是空的。你真是幸运，这是一个卖方市场"
 
 #: STRINGS.UI.MONST3R.OPEN_SPECIAL.1
 msgctxt "STRINGS.UI.MONST3R.OPEN_SPECIAL.1"
 msgid "I've got something you might be interested in. I need a quick decision - this thing's hot."
-msgstr ""
+msgstr "我已经得到你感兴趣的"
 
 #: STRINGS.UI.MONST3R.OPEN_SPECIAL.2
 msgctxt "STRINGS.UI.MONST3R.OPEN_SPECIAL.2"
 msgid "I'm taking a big risk selling to you right now. Don't make me regret it."
-msgstr ""
+msgstr "我现在冒着巨大的风险卖东西给你。希望你的价格不要让我感到后悔"
 
 #: STRINGS.UI.MONST3R.OPEN_SPECIAL.3
 msgctxt "STRINGS.UI.MONST3R.OPEN_SPECIAL.3"
@@ -14202,7 +14202,7 @@ msgstr "感谢您的交易"
 #: STRINGS.UI.MONST3R.SELL_ITEM.10
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.10"
 msgid "I should charge you a cleaning fee. This still has some blood on it."
-msgstr ""
+msgstr "我应该向你索要一笔清洁费。现在还有一些血在上面"
 
 #: STRINGS.UI.MONST3R.SELL_ITEM.2
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.2"
@@ -14212,12 +14212,12 @@ msgstr ""
 #: STRINGS.UI.MONST3R.SELL_ITEM.3
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.3"
 msgid "I'll find a good home for this."
-msgstr ""
+msgstr "我将为此找到一个好的家"
 
 #: STRINGS.UI.MONST3R.SELL_ITEM.4
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.4"
 msgid "I should be able to move this and make a tidy profit."
-msgstr ""
+msgstr "我应该移动它然后获得一笔可观的利润"
 
 #: STRINGS.UI.MONST3R.SELL_ITEM.5
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.5"
@@ -14242,7 +14242,7 @@ msgstr ""
 #: STRINGS.UI.MONST3R.SELL_ITEM.9
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.9"
 msgid "The more you buy and sell, the closer I get to retirement. Funny how the house always wins."
-msgstr ""
+msgstr "你买卖的越多，我退休越快。"
 
 #: STRINGS.UI.MONST3R_TITLE
 msgctxt "STRINGS.UI.MONST3R_TITLE"
@@ -14267,7 +14267,7 @@ msgstr ""
 #: STRINGS.UI.MONSTER_CATSHOP_POST.4
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_POST.4"
 msgid "Don't say I didn't warn you. Pity you can't get that gear anywhere else."
-msgstr ""
+msgstr "不要说我没有警告你。你再不能在任何地方得到那个装置了"
 
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.1
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.1"
@@ -14277,12 +14277,12 @@ msgstr ""
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.2
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.2"
 msgid "Here, kitty kitty."
-msgstr ""
+msgstr "这里 kitty kitty"
 
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.3
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.3"
 msgid "Be careful, she likes to play with her food before she eats it."
-msgstr ""
+msgstr "小心，她喜欢在吃掉她的食物之前玩弄它们"
 
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.4
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.4"
@@ -14292,7 +14292,7 @@ msgstr ""
 #: STRINGS.UI.NET_WORTH
 msgctxt "STRINGS.UI.NET_WORTH"
 msgid "NET WORTH: %d"
-msgstr ""
+msgstr "资本净值: %d"
 
 #: STRINGS.UI.NEW_GAME
 msgctxt "STRINGS.UI.NEW_GAME"
@@ -14337,7 +14337,7 @@ msgstr "这个位置被敌人注意到了"
 #: STRINGS.UI.NOT_PAID
 msgctxt "STRINGS.UI.NOT_PAID"
 msgid "NOT_PAID"
-msgstr ""
+msgstr "没有付清"
 
 #: STRINGS.UI.NO_BONUS
 msgctxt "STRINGS.UI.NO_BONUS"
@@ -14377,27 +14377,27 @@ msgstr ""
 #: STRINGS.UI.PRERELEASE_COMPAT_TITLE
 msgctxt "STRINGS.UI.PRERELEASE_COMPAT_TITLE"
 msgid "SAVE GAME COMPATIBILITY"
-msgstr ""
+msgstr "保存游戏兼容性"
 
 #: STRINGS.UI.PRERELEASE_COMPAT_YES
 msgctxt "STRINGS.UI.PRERELEASE_COMPAT_YES"
 msgid "Keep XP"
-msgstr ""
+msgstr "保持 XP"
 
 #: STRINGS.UI.PREV
 msgctxt "STRINGS.UI.PREV"
 msgid "< PREV"
-msgstr ""
+msgstr "< 上一个"
 
 #: STRINGS.UI.PROGRAMS_ACQUIRED
 msgctxt "STRINGS.UI.PROGRAMS_ACQUIRED"
 msgid "PROGRAMS ACQUIRED"
-msgstr ""
+msgstr "已获得的程序"
 
 #: STRINGS.UI.PROGRAMS_EARNED
 msgctxt "STRINGS.UI.PROGRAMS_EARNED"
 msgid "PROGRAMS EARNED"
-msgstr ""
+msgstr "挣得的程序"
 
 #: STRINGS.UI.PUTTING_AUGMENT_IN_INVENTORY
 msgctxt "STRINGS.UI.PUTTING_AUGMENT_IN_INVENTORY"
@@ -14412,7 +14412,7 @@ msgstr "A D V A N C E D  C O R P O R A T E  E Q U I P M E N T"
 #: STRINGS.UI.PWR_DRAIN_ALERT_TITLE
 msgctxt "STRINGS.UI.PWR_DRAIN_ALERT_TITLE"
 msgid "POWER REVERSAL NODE"
-msgstr ""
+msgstr "PWR逆转节点"
 
 #: STRINGS.UI.PWR_DRAIN_ALERT_TXT
 msgctxt "STRINGS.UI.PWR_DRAIN_ALERT_TXT"
@@ -14432,12 +14432,12 @@ msgstr "你确定要离开游戏？"
 #: STRINGS.UI.REASON.ALREADY_DEPLOYED
 msgctxt "STRINGS.UI.REASON.ALREADY_DEPLOYED"
 msgid "Already something deployed"
-msgstr ""
+msgstr "已经部署其他部件了"
 
 #: STRINGS.UI.REASON.ALREADY_EQUIPPED
 msgctxt "STRINGS.UI.REASON.ALREADY_EQUIPPED"
 msgid "Already Equipped"
-msgstr ""
+msgstr "已经装备了"
 
 #: STRINGS.UI.REASON.ALREADY_HACKING
 msgctxt "STRINGS.UI.REASON.ALREADY_HACKING"
@@ -14447,7 +14447,7 @@ msgstr ""
 #: STRINGS.UI.REASON.ALREADY_PRIMED
 msgctxt "STRINGS.UI.REASON.ALREADY_PRIMED"
 msgid "ALREADY PRIMED"
-msgstr ""
+msgstr "添装完毕"
 
 #: STRINGS.UI.REASON.ALREADY_TRAPPED
 msgctxt "STRINGS.UI.REASON.ALREADY_TRAPPED"
@@ -14477,12 +14477,12 @@ msgstr ""
 #: STRINGS.UI.REASON.BAD_TARGET_RANGE
 msgctxt "STRINGS.UI.REASON.BAD_TARGET_RANGE"
 msgid "INVALID TARGET: Out of range"
-msgstr ""
+msgstr "无效目标:超出范围 "
 
 #: STRINGS.UI.REASON.BAD_TARGET_VIZ
 msgctxt "STRINGS.UI.REASON.BAD_TARGET_VIZ"
 msgid "INVALID TARGET: Area not revealed"
-msgstr ""
+msgstr "无效目标: 区域未显示"
 
 #: STRINGS.UI.REASON.BLOCKED
 msgctxt "STRINGS.UI.REASON.BLOCKED"
@@ -14502,7 +14502,7 @@ msgstr "不能遗弃队伍"
 #: STRINGS.UI.REASON.CANT_CARRY
 msgctxt "STRINGS.UI.REASON.CANT_CARRY"
 msgid "No inventory"
-msgstr "没有库存了"
+msgstr "没有库存"
 
 #: STRINGS.UI.REASON.CANT_CLOAK_IN_VISION
 msgctxt "STRINGS.UI.REASON.CANT_CLOAK_IN_VISION"
@@ -14522,7 +14522,7 @@ msgstr "不能逃跑！"
 #: STRINGS.UI.REASON.CANT_MELEE_REACH
 msgctxt "STRINGS.UI.REASON.CANT_MELEE_REACH"
 msgid "TOO FAR: Target must be adjacent"
-msgstr ""
+msgstr "距离太远: 目标必须是可达的"
 
 #: STRINGS.UI.REASON.CANT_REACH
 msgctxt "STRINGS.UI.REASON.CANT_REACH"
@@ -14622,12 +14622,12 @@ msgstr ""
 #: STRINGS.UI.REASON.MUST_TOGGLE_BEFORE_MP
 msgctxt "STRINGS.UI.REASON.MUST_TOGGLE_BEFORE_MP"
 msgid "Must have full AP to use"
-msgstr ""
+msgstr "必须拥有满的AP才能使用"
 
 #: STRINGS.UI.REASON.NOT_CARRIED
 msgctxt "STRINGS.UI.REASON.NOT_CARRIED"
 msgid "Not carried"
-msgstr ""
+msgstr "不可被搬运的"
 
 #: STRINGS.UI.REASON.NOT_CARRYABLE
 msgctxt "STRINGS.UI.REASON.NOT_CARRYABLE"
