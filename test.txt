@@ -1,3 +1,7 @@
 test usage only
+<<<<<<< HEAD
 aaa
 How to use it?
+=======
+Az19 pushrequest test
+>>>>>>> origin/master
