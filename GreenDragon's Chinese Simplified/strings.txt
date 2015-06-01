@@ -9006,7 +9006,7 @@ msgstr "只破坏强度为5的防火墙。消耗：%d PWR"
 #: STRINGS.PROPS.ADVANCED_CORP_EQUIP
 msgctxt "STRINGS.PROPS.ADVANCED_CORP_EQUIP"
 msgid "Advanced Corporate Equipment"
-msgstr "尖端合作设备"
+msgstr "企业尖端设备"
 
 #: STRINGS.PROPS.ALARM
 msgctxt "STRINGS.PROPS.ALARM"
