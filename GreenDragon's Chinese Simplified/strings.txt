@@ -16037,5 +16037,5 @@ msgstr "祝贺您通关专家模式！\n 如果您想体验终极挑战，可以
 #: STRINGS.WIN_TIPS.EXPERT_PLUS
 msgctxt "STRINGS.WIN_TIPS.EXPERT_PLUS"
 msgid "Thank you for playing!\nFor even more variety, you can try our Time Attack and Endless options."
-msgstr "感谢您通关！\n 如果您想要体验更多的类型，您可以尝试无尽模式"
+msgstr "感谢您通关！\n 如果您想要体验更多的类型，您可以尝试无尽模式."
 
