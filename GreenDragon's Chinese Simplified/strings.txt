@@ -3161,197 +3161,197 @@ msgstr "当特工被敌人发现时获得 2 AP(包括周边视野)"
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING"
 msgid "Distributed Processing"
-msgstr ""
+msgstr "分布式处理"
 
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_FLAVOR"
 msgid "There is plenty of room in the human body to pack in additional processing power. Artificial neural bundles may be implanted into any major muscle mass with minimal loss of strength."
-msgstr ""
+msgstr "在人的体内有许多的空间可以用来增强处理能力。人工神经束可以植入任何主肌肉块中并只会对体能造成极小的损耗"
 
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_TIP"
 msgid "50% chance to gain a PWR point at the beginning of each turn."
-msgstr ""
+msgstr "每回合开始时有 50% 几率获得 1 点 PWR"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS"
 msgid "Dead Man's Switch"
-msgstr ""
+msgstr "死人的开关"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS_FLAVOR"
 msgid "Killing the host triggers the switch, but for what purpose?"
-msgstr ""
+msgstr "杀掉宿主触发开关，但是为什么这样做呢？"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS_TIP"
 msgid "Activates when host dies."
-msgstr ""
+msgstr "宿主时激活"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL"
 msgid "OMNI Security Chip"
-msgstr ""
+msgstr "OMNI 安全芯片"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_FLAVOR"
 msgid "Filled with OMNI security algorithms. Easily the most valuable megabyte and a half of data in the world."
-msgstr ""
+msgstr "装满了 OMNI 的 安保算法。无疑是最有价值的一段字节码和这世界一半的数据"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_TIP"
 msgid "Bring to the final security door to unlock"
-msgstr ""
+msgstr "使最终的安全门解锁"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT"
 msgid "HoloCircuit Overloaders"
-msgstr ""
+msgstr "全息回路超载"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_FLAVOR"
 msgid "Modern tactical displays stream terabytes of situational data directly into the corneas of security forces. They also provide an avenue of attack."
-msgstr ""
+msgstr "现代战术显示设备流出的态势信息流直接进入安保部队眼角膜。产生范围攻击。"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP"
 msgid "Knock out all enemies in a small area around this agent"
-msgstr ""
+msgstr "击晕特工周边小范围内的所有敌人。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS"
 msgid "Wireless Emitter"
-msgstr ""
+msgstr "无线发射器"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2"
 msgid "Network Siphon"
-msgstr ""
+msgstr "网络虹吸"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_FLAVOR"
 msgid "The mark of a great agent is the ability to take your enemy's greatest strength and turn it into their weakness."
-msgstr ""
+msgstr "拥有把敌人最大的优势转变为其弱点的能力是一名优秀特工的标志"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_TIP"
 msgid "Generates PWR when ALARM LEVEL increases.\nPWR gained: 2x Alarm Level."
-msgstr ""
+msgstr "当警报等级提高时产生 PWR\nPWR 获取：2x警报等级。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR"
 msgid "Using her skin as an antenna, Internationale is able to manipulate electronics at a distance."
-msgstr ""
+msgstr "用她的皮肤作为天线，Internationale 可以远距离操作电子设备。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP"
 msgid "Allows agent to hack items from a distance, through walls. Automatically reveals nearby mainframe objects."
-msgstr ""
+msgstr "允许特工远距离，隔墙黑入设备。自动侦测并显示周围主机设备。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS"
 msgid "MicroSLAM Apparatus"
-msgstr ""
+msgstr "微型定绘装置"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_FLAVOR"
 msgid "This embedded apparatus implements SLAM (Simultaneous Localization and Mapping) to create an environment map of explored regions and automatically updates the data to the central servers."
-msgstr ""
+msgstr "这个嵌入式的装置拥有同步定位与绘图的功能，执行任务时它可以根据探索的区域创建新的环境地图并自动上传到中央服务器。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP"
 msgid "Converts the percentage of the map explored into some extra credit."
-msgstr ""
+msgstr "根据地图探索的百分比来转换额外的 CR。"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS"
 msgid "Fabricator Multithreading"
-msgstr ""
+msgstr "多线程打印"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS_FLAVOR"
 msgid "As an expert hacker and savvy tech opportunist, Monst3r has built a unique network of hyper efficient Nanofabricator coroutines."
-msgstr ""
+msgstr "作为一个专家级的黑客与懂行的科技投机者，Monst3r 建立了一个独特的超效纳米打印机协同程序网络"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS_TIP"
 msgid "Nanofabricator purchases cost 15% less."
-msgstr ""
+msgstr "纳米打印机费用减少 15%"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK"
 msgid "Net Downlink"
-msgstr ""
+msgstr "网络下行线"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_FLAVOR"
 msgid "Offloads some basic brain functions to a remote server, allowing the host to focus on more pressing matters."
-msgstr ""
+msgstr "把一些基础的脑功能卸载到远程服务器上，使宿主专注于更紧迫的事情。"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_TIP"
 msgid "Agent gains 2 AP (MAX: 6 AP)"
-msgstr ""
+msgstr "特工获得 2 AP (MAX: 6 AP)"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS"
 msgid "Adrenal Regulator"
-msgstr ""
+msgstr "肾上腺素调节器"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2"
 msgid "Discharge Re-router"
-msgstr ""
+msgstr "放电重路由"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2_FLAVOR"
 msgid "Nika loves scrambling neurons so much, she had a tech write a custom routine that makes her disrupter recharge itself and everything around it."
-msgstr ""
+msgstr "Nika 非常热爱电晕她的敌人，她有一个通过写入自定义程序使她的破坏者以及其他装备重新充电的技术。"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2_TIP"
 msgid "Once per turn, agent's DISRUPTER ATTACK reduces all ITEM COOLDOWNS by 1"
-msgstr ""
+msgstr "每回合一次，特工使用破坏者攻击敌人可以使装备冷却减少 1 回合"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_FLAVOR"
 msgid "In an emergency, Nika can flood her nervous system with hot liquid aggression. Sometimes she does it just for fun."
-msgstr ""
+msgstr "在紧急情况下，Nika会使攻击性热流充满她的神经元。有时她这么做也只是为了找些乐子。"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_TIP"
 msgid "Gives the agent an extra ATTACK a turn. Gains 3 AP after any ATTACK."
-msgstr ""
+msgstr "使特工在回合内获得一次额外的攻击机会。攻击后获得 3 AP。"
 
 #: STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER
 msgctxt "STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER"
 msgid "Penetration Scanner"
-msgstr ""
+msgstr "防刺性能扫描器"
 
 #: STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER_FLAVOR"
 msgid "A suite of sensors and AI routines that analyze weaknesses in blunt trauma armor."
-msgstr ""
+msgstr "一系列的 AI 程序与传感器在攻击敌人时可以分析出他护甲防刺能力方面的弱点。"
 
 #: STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER_TIP"
 msgid "Gives +1 armor piercing to melee weapons."
-msgstr ""
+msgstr "近战武器护甲穿透 +1。"
 
 #: STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER
 msgctxt "STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER"
 msgid "Piercing Scanner"
-msgstr ""
+msgstr "防弹性能扫描器"
 
 #: STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_FLAVOR"
 msgid "A suite of sensors and AI routines that analyze weaknesses in ballistic armor."
-msgstr ""
+msgstr "一系列的 AI 程序与传感器在攻击敌人时可以分析出他护甲防弹能力方面的弱点。""
 
 #: STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_TIP"
 msgid "Gives +1 armor piercing to ranged weapons."
-msgstr ""
+msgstr "远距离武器护甲穿透 +1"
 
 #: STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING
 msgctxt "STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING"
@@ -3366,22 +3366,22 @@ msgstr ""
 #: STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING_TIP"
 msgid "Gain 6 AP"
-msgstr ""
+msgstr "获得 6 AP"
 
 #: STRINGS.ITEMS.AUGMENTS.PRISM_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.PRISM_2"
 msgid "Refraction Chamber"
-msgstr ""
+msgstr "折射腔"
 
 #: STRINGS.ITEMS.AUGMENTS.PRISM_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.PRISM_2_FLAVOR"
 msgid "Collects ambient energy from data signals, most efficient during large flurries of network activity such as when firewalls come down."
-msgstr ""
+msgstr "从周围数据信号中采集能量，通常在大的网络活动波动时生效，比如防火墙被关闭。"
 
 #: STRINGS.ITEMS.AUGMENTS.PRISM_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.PRISM_2_TOOLTIP"
 msgid "Gain +1 PWR when a mainframe device is hacked. Max +2 PWR per turn."
-msgstr ""
+msgstr "当一个主机设备被黑掉时获得 1 PWR。每回合最多获得 2 PWR。"
 
 #: STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS
 msgctxt "STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS"
@@ -3396,112 +3396,112 @@ msgstr ""
 #: STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS_TIP"
 msgid "Killing adds 6 AP"
-msgstr ""
+msgstr "杀死敌人后增加 6 AP"
 
 #: STRINGS.ITEMS.AUGMENTS.SHALEMS
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHALEMS"
 msgid "Enhanced Optics"
-msgstr ""
+msgstr "强化准镜"
 
 #: STRINGS.ITEMS.AUGMENTS.SHALEMS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHALEMS_FLAVOR"
 msgid "Extensive training and a ballistics co-processor let Shalem direct bullets along optimal trajectories."
-msgstr ""
+msgstr "大量的训练与弹道学处理器使得 Shalem 射出的子弹总能保证最佳的轨迹。"
 
 #: STRINGS.ITEMS.AUGMENTS.SHALEMS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHALEMS_TIP"
 msgid "Gives +1 armor piercing to ranged weapons"
-msgstr ""
+msgstr "远程武器护甲穿透 +1"
 
 #: STRINGS.ITEMS.AUGMENTS.SHARP_1
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_1"
 msgid "Modular Cybernetic Frame"
-msgstr ""
+msgstr "模块化神经机械结构"
 
 #: STRINGS.ITEMS.AUGMENTS.SHARP_1_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_1_FLAVOR"
 msgid "In his reach to perfect the connection between mind and machine, Alex has converted nearly 90% of his body into a highly modular robotic frame."
-msgstr ""
+msgstr "他做到了人类意识与机械躯体的完美结合，Alex 把他几乎 90% 的身体改造成了高模块化机械结构。"
 
 #: STRINGS.ITEMS.AUGMENTS.SHARP_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_1_TOOLTIP"
 msgid "Start with 6 augment slots.\nEach 3 augments installed gives melee weapons +1 KO damage."
-msgstr ""
+msgstr "初始拥有 6 个植入物槽。\n每安装 3 个植入物获得近战 KO 伤害 +1。"
 
 #: STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION
 msgctxt "STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION"
 msgid "Skeletal Suspension"
-msgstr ""
+msgstr "骨骼悬吊系统"
 
 #: STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION_FLAVOR"
 msgid "Nano constucted fiber webbing surrounds the bones, vastly reducing the risk of arthritis."
-msgstr ""
+msgstr "纳米织物围绕的骨骼，极大的减少了关节炎的风险。"
 
 #: STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION_TIP"
 msgid "Improves the speed of dragging"
-msgstr ""
+msgstr "提高拖拽速度"
 
 #: STRINGS.ITEMS.AUGMENTS.SUBDERMAL_CLOAK
 msgctxt "STRINGS.ITEMS.AUGMENTS.SUBDERMAL_CLOAK"
 msgid "Subdermal Cloak"
-msgstr ""
+msgstr "隐形皮肤"
 
 #: STRINGS.ITEMS.AUGMENTS.SUBDERMAL_CLOAK_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SUBDERMAL_CLOAK_FLAVOR"
 msgid "Replacing the top layer of skin, this circuitry converts the brain and muscle enhancers used in stim to create a holographic projection."
-msgstr ""
+msgstr "替换表层皮肤，这个回路会在宿主使用兴奋剂增强肌肉与脑能力时创建一个全息投射层。"
 
 #: STRINGS.ITEMS.AUGMENTS.SUBDERMAL_CLOAK_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.SUBDERMAL_CLOAK_TIP"
 msgid "Renders the user invisible until their next turn."
-msgstr ""
+msgstr "直到下一回合，使用者获得隐形效果。"
 
 #: STRINGS.ITEMS.AUGMENTS.TITANIUM_RODS
 msgctxt "STRINGS.ITEMS.AUGMENTS.TITANIUM_RODS"
 msgid "Titanium Rods"
-msgstr ""
+msgstr "钛合金臂骨"
 
 #: STRINGS.ITEMS.AUGMENTS.TITANIUM_RODS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.TITANIUM_RODS_FLAVOR"
 msgid "Sometimes the simplest things are the most effective. Metal bones let you hit things really hard."
-msgstr ""
+msgstr "有时简单的东西最有效。金属骨骼让你打人真的很疼。"
 
 #: STRINGS.ITEMS.AUGMENTS.TITANIUM_RODS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.TITANIUM_RODS_TIP"
 msgid "Melee weapons deal +1 KO damage"
-msgstr ""
+msgstr "近战武器 +1 KO 伤害"
 
 #: STRINGS.ITEMS.AUGMENTS.TONYS
 msgctxt "STRINGS.ITEMS.AUGMENTS.TONYS"
 msgid "Subdermal Tools"
-msgstr ""
+msgstr "皮下工具"
 
 #: STRINGS.ITEMS.AUGMENTS.TONYS_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.TONYS_2"
 msgid "Thermal Generator"
-msgstr ""
+msgstr "热能发电机"
 
 #: STRINGS.ITEMS.AUGMENTS.TONYS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.TONYS_FLAVOR"
 msgid "Dr. Xu carries the tools of his trade in a purpose-built cavity in his prosthetic arm. Unfortunately, the large power capacitor needed to charge the EMP impairs Xu's stamina."
-msgstr ""
+msgstr "因为一些生意上的特殊原因 Dr. Xu 把他的工具装入了他的手臂义肢中。不幸的是，这个 EMP 充能所需的大量能量会消耗 Xu 的体力。"
 
 #: STRINGS.ITEMS.AUGMENTS.TONYS_FLAVOR_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.TONYS_FLAVOR_2"
 msgid "Thermal Generator was a joint project between Dr Xu and his colleague Alex McTeague. A very early design, it is still comparable to the cutting edge of current augment technology."
-msgstr ""
+msgstr "热能发电机是 Dr Xu 和他的同事 Alex McTeague 的一个合作项目。这是一个非常早期的设计，但仍然是堪比现今最尖端科技的植入体技术。"
 
 #: STRINGS.ITEMS.AUGMENTS.TONYS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.TONYS_TIP"
 msgid "A local EMP blast that disables mainframe devices for 1 turn. Agent's AP is reduced by 1"
-msgstr ""
+msgstr "一个可以使主机设备失效 1 回合的局部 EMP 冲击波。特工减少 1 AP"
 
 #: STRINGS.ITEMS.AUGMENTS.TONYS_TIP_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.TONYS_TIP_2"
 msgid "Once a turn, generates 2 PWR when the agent uses an item with cooldown of 3 or more."
-msgstr ""
+msgstr "每回合一次，当特工使用一个需要3回合冷却的装备时产生 2 PWR。"
 
 #: STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS
 msgctxt "STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS"
