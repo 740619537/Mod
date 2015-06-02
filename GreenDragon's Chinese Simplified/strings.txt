@@ -833,25 +833,20 @@ msgctxt "STRINGS.AGENTS.CENTRAL.FILE"
 msgid "FILE #00-0000000-0000001"
 msgstr "文件 #00-0000000-0000001"
 
- 
 #: STRINGS.AGENTS.CENTRAL.HOMETOWN
 msgctxt "STRINGS.AGENTS.CENTRAL.HOMETOWN"
 msgid "London"
 msgstr "伦敦"
 
- 
 #: STRINGS.AGENTS.CENTRAL.NAME
 msgctxt "STRINGS.AGENTS.CENTRAL.NAME"
 msgid "Central"
 msgstr "Central"
 
- 
 #: STRINGS.AGENTS.CENTRAL.RESCUED
 msgctxt "STRINGS.AGENTS.CENTRAL.RESCUED"
 msgid "It's about time. What am I paying you for, anyway?"
 msgstr "是时候了。总之，记得我为什么招募你。"
-
- 
 
 #: STRINGS.AGENTS.CENTRAL.YEARS_OF_SERVICE
 msgctxt "STRINGS.AGENTS.CENTRAL.YEARS_OF_SERVICE"
@@ -886,7 +881,7 @@ msgstr "30"
 #: STRINGS.AGENTS.DECKARD.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.BIO"
 msgid "Before being shunned out of the executive ranks of the Corporate world, Decker used his significant salary to track down and acquire antiques from decades past.\n\nTo believe the rumors, his nostalgia was so strong that he even made some ludicrously expensive modifications to keep some antiques usable in the modern age."
-msgstr ""
+msgstr "在被清扫出集团世界之前，Decker常常会用他的工资来购买一些过去的老古董。\n\n仿佛就像是为了验证他怀旧的传言，他甚至花了一大笔钱来改进他的古董，让这些玩意儿好在现代运作。"
 
 #: STRINGS.AGENTS.DECKARD.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.FULLNAME"
@@ -956,7 +951,7 @@ msgstr "如果我们启动这个节点，进入这里会有点困难"
 #: STRINGS.AGENTS.DECKARD.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.DECKARD.BIO_SPOKEN"
 msgid "I found Decker living in a bottle after his termination. He's cleaned up since then, but I keep eyes on, just to be sure. The 20th century thing is an unfortunate affectation, but I'm not paying him for his fashion sense."
-msgstr ""
+msgstr "我发现Decker在协议结束后就过着自闭的生活，他在那之后就洗手不干了，不过我继续监视着他，只是以防万一。"
 
 #: STRINGS.AGENTS.DECKARD.FILE
 msgctxt "STRINGS.AGENTS.DECKARD.FILE"
