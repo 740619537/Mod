@@ -6076,7 +6076,7 @@ msgstr "他们会在你们刚站稳脚跟时就感受到入侵，所以不要磨
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_6
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_6"
 msgid "Play it cautiously - there's no sense in risking valuable assets on a fishing expedition."
-msgstr "请谨慎行事——没有必要在一次搜索行动中冒过大的风险。"
+msgstr "请谨慎行事 — 没有必要在一次无特别目标的搜索行动中冒过大的风险。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_7
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_7"
@@ -6111,7 +6111,7 @@ msgstr "记录显示在这个设施中有一个纳米设备。我们会侵入系
 #: STRINGS.MISSIONS.ESCAPE.NANOFAB_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.NANOFAB_3"
 msgid "Keep your eyes peeled for a nanofab. You should be able to override its security clearance."
-msgstr "给我盯紧纳米设备。你们应该有能力摆脱安全检查。"
+msgstr "给我把纳米设备盯紧点。你们应该有能力摆脱安全检查。"
 
 #: STRINGS.MISSIONS.ESCAPE.NANOFAB_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.NANOFAB_4"
@@ -6606,7 +6606,7 @@ msgstr "卫星侦察显示在西南FTM工厂中活动增加。"
 #: STRINGS.MISSIONS.FINALMISSION.REBOOT_RANT.2.2
 msgctxt "STRINGS.MISSIONS.FINALMISSION.REBOOT_RANT.2.2"
 msgid "This correlates with an increase in troop deployment in sector 11."
-msgstr "这关系到在11区的军队部署增加。"
+msgstr "这关系到在11区军队部署的增加。"
 
 #: STRINGS.MISSIONS.FINALMISSION.REBOOT_RANT.2.3
 msgctxt "STRINGS.MISSIONS.FINALMISSION.REBOOT_RANT.2.3"
@@ -7007,6 +7007,7 @@ msgstr "越狱"
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_AFTER_MOVE_AWAY"
 msgid "That guard will reawaken soon. Don't bother tying him up - he's trained and augmented to resist physical restraints."
 msgstr "这名守卫不久就会苏醒。别想着能绑住他——他身上的插件能让他拜托身体上的束缚。"
+
 
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_AFTER_PEEK
