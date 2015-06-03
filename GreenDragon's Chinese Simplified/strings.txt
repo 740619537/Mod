@@ -13012,292 +13012,292 @@ msgstr ""
 #: STRINGS.UI.GENOPTIONS.HOURS.3
 msgctxt "STRINGS.UI.GENOPTIONS.HOURS.3"
 msgid "72 Hours"
-msgstr ""
+msgstr "72小时"
 
 #: STRINGS.UI.GENOPTIONS.HOURS.4
 msgctxt "STRINGS.UI.GENOPTIONS.HOURS.4"
 msgid "120 Hours"
-msgstr ""
+msgstr "120小时"
 
 #: STRINGS.UI.GENOPTIONS.HOURS.5
 msgctxt "STRINGS.UI.GENOPTIONS.HOURS.5"
 msgid "Endless"
-msgstr ""
+msgstr "无限"
 
 #: STRINGS.UI.GENOPTIONS.KOTIME.1
 msgctxt "STRINGS.UI.GENOPTIONS.KOTIME.1"
 msgid "+99"
-msgstr ""
+msgstr "+99"
 
 #: STRINGS.UI.GENOPTIONS.KOTIME.2
 msgctxt "STRINGS.UI.GENOPTIONS.KOTIME.2"
 msgid "+4"
-msgstr ""
+msgstr "+4"
 
 #: STRINGS.UI.GENOPTIONS.KOTIME.3
 msgctxt "STRINGS.UI.GENOPTIONS.KOTIME.3"
 msgid "+2"
-msgstr ""
+msgstr "+2"
 
 #: STRINGS.UI.GENOPTIONS.KOTIME.4
 msgctxt "STRINGS.UI.GENOPTIONS.KOTIME.4"
 msgid "+1"
-msgstr ""
+msgstr "+1"
 
 #: STRINGS.UI.GENOPTIONS.KOTIME.5
 msgctxt "STRINGS.UI.GENOPTIONS.KOTIME.5"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: STRINGS.UI.GENOPTIONS.KOTIME.6
 msgctxt "STRINGS.UI.GENOPTIONS.KOTIME.6"
 msgid "-1"
-msgstr ""
+msgstr "-1"
 
 #: STRINGS.UI.GENOPTIONS.PROPSPAWNS.1
 msgctxt "STRINGS.UI.GENOPTIONS.PROPSPAWNS.1"
 msgid "NONE"
-msgstr ""
+msgstr "无"
 
 #: STRINGS.UI.GENOPTIONS.PROPSPAWNS.2
 msgctxt "STRINGS.UI.GENOPTIONS.PROPSPAWNS.2"
 msgid "LESS"
-msgstr ""
+msgstr "少量"
 
 #: STRINGS.UI.GENOPTIONS.PROPSPAWNS.3
 msgctxt "STRINGS.UI.GENOPTIONS.PROPSPAWNS.3"
 msgid "NORMAL"
-msgstr ""
+msgstr "正常"
 
 #: STRINGS.UI.GENOPTIONS.PROPSPAWNS.4
 msgctxt "STRINGS.UI.GENOPTIONS.PROPSPAWNS.4"
 msgid "MORE"
-msgstr ""
+msgstr "些许"
 
 #: STRINGS.UI.GENOPTIONS.PROPSPAWNS.5
 msgctxt "STRINGS.UI.GENOPTIONS.PROPSPAWNS.5"
 msgid "MANY"
-msgstr ""
+msgstr "大量"
 
 #: STRINGS.UI.GENOPTIONS.REWINDS.1
 msgctxt "STRINGS.UI.GENOPTIONS.REWINDS.1"
 msgid "0 (IRONMAN)"
-msgstr ""
+msgstr "0（菁英）"
 
 #: STRINGS.UI.GENOPTIONS.REWINDS.2
 msgctxt "STRINGS.UI.GENOPTIONS.REWINDS.2"
 msgid "1 REWIND"
-msgstr ""
+msgstr "1次回溯"
 
 #: STRINGS.UI.GENOPTIONS.REWINDS.3
 msgctxt "STRINGS.UI.GENOPTIONS.REWINDS.3"
 msgid "3 REWINDS"
-msgstr ""
+msgstr "3次回溯"
 
 #: STRINGS.UI.GENOPTIONS.REWINDS.4
 msgctxt "STRINGS.UI.GENOPTIONS.REWINDS.4"
 msgid "5 REWINDS"
-msgstr ""
+msgstr "5次回溯"
 
 #: STRINGS.UI.GENOPTIONS.REWINDS.5
 msgctxt "STRINGS.UI.GENOPTIONS.REWINDS.5"
 msgid "10 REWINDS"
-msgstr ""
+msgstr "10次回溯"
 
 #: STRINGS.UI.GENOPTIONS.REWINDS.6
 msgctxt "STRINGS.UI.GENOPTIONS.REWINDS.6"
 msgid "99 REWINDS"
-msgstr ""
+msgstr "99次回溯"
 
 #: STRINGS.UI.GENOPTIONS.TIMEATTACK.1
 msgctxt "STRINGS.UI.GENOPTIONS.TIMEATTACK.1"
 msgid "OFF"
-msgstr ""
+msgstr "关闭"
 
 #: STRINGS.UI.GENOPTIONS.TIMEATTACK.2
 msgctxt "STRINGS.UI.GENOPTIONS.TIMEATTACK.2"
 msgid "30 Seconds"
-msgstr ""
+msgstr "30秒"
 
 #: STRINGS.UI.GENOPTIONS.TIMEATTACK.3
 msgctxt "STRINGS.UI.GENOPTIONS.TIMEATTACK.3"
 msgid "1 Minute"
-msgstr ""
+msgstr "1分钟"
 
 #: STRINGS.UI.GENOPTIONS.TIMEATTACK.4
 msgctxt "STRINGS.UI.GENOPTIONS.TIMEATTACK.4"
 msgid "2 Minutes"
-msgstr ""
+msgstr "2分钟"
 
 #: STRINGS.UI.GENOPTIONS.TIMEATTACK.5
 msgctxt "STRINGS.UI.GENOPTIONS.TIMEATTACK.5"
 msgid "5 Minutes"
-msgstr ""
+msgstr "5分钟"
 
 #: STRINGS.UI.GUARDS_KOD
 msgctxt "STRINGS.UI.GUARDS_KOD"
 msgid "GUARDS KO'D"
-msgstr ""
+msgstr "倒地昏迷"
 
 #: STRINGS.UI.GUARD_ALERTED
 msgctxt "STRINGS.UI.GUARD_ALERTED"
 msgid "Alerted"
-msgstr ""
+msgstr "警戒状态"
 
 #: STRINGS.UI.GUARD_DISTRACTED
 msgctxt "STRINGS.UI.GUARD_DISTRACTED"
 msgid "Distracted"
-msgstr ""
+msgstr "注意力被分散"
 
 #: STRINGS.UI.GUARD_GHOSTED
 msgctxt "STRINGS.UI.GUARD_GHOSTED"
 msgid "Undisturbed"
-msgstr ""
+msgstr "未受影响"
 
 #: STRINGS.UI.GUARD_KILLED
 msgctxt "STRINGS.UI.GUARD_KILLED"
 msgid "Killed"
-msgstr ""
+msgstr "死亡"
 
 #: STRINGS.UI.HARD_DESC
 msgctxt "STRINGS.UI.HARD_DESC"
 msgid "This is the base difficulty and tuning for the game. It assumes you understand the mechanics of the game well, and pulls no punches."
-msgstr ""
+msgstr "这是游戏的基础难度和调制。该模式假定你比较理解游戏机制，不需要太多付出努力。"
 
 #: STRINGS.UI.HARD_DIFFICULTY
 msgctxt "STRINGS.UI.HARD_DIFFICULTY"
 msgid "Expert"
-msgstr ""
+msgstr "专家"
 
 #: STRINGS.UI.HARD_SHORT_DESC
 msgctxt "STRINGS.UI.HARD_SHORT_DESC"
 msgid "Designed for seasoned players of Invisible, Inc."
-msgstr ""
+msgstr "为本游戏的多周目玩家设计"
 
 #: STRINGS.UI.HIDDEN
 msgctxt "STRINGS.UI.HIDDEN"
 msgid "HIDDEN"
-msgstr ""
+msgstr "匿踪"
 
 #: STRINGS.UI.HIDDEN_TT
 msgctxt "STRINGS.UI.HIDDEN_TT"
 msgid "This location is hidden from enemy sight."
-msgstr ""
+msgstr "该位置不在敌人视野内。"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_CONTROLS
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_CONTROLS"
 msgid "CAMERA CONTROLS"
-msgstr ""
+msgstr "控制摄像头。"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_DOWN
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_DOWN"
 msgid "PAN DOWN"
-msgstr ""
+msgstr "摄像头向下"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_LEFT
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_LEFT"
 msgid "PAN LEFT"
-msgstr ""
+msgstr "摄像头向左"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_RIGHT
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_RIGHT"
 msgid "PAN RIGHT"
-msgstr ""
+msgstr "摄像头向右"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_ROTATE_LEFT
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_ROTATE_LEFT"
 msgid "ROTATE LEFT"
-msgstr ""
+msgstr "向左旋转"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_ROTATE_RIGHT
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_ROTATE_RIGHT"
 msgid "ROTATE RIGHT"
-msgstr ""
+msgstr "向右旋转"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_UP
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_UP"
 msgid "PAN UP"
-msgstr ""
+msgstr "摄像头向上"
 
 #: STRINGS.UI.HOTKEYS.CHAR_SHEET
 msgctxt "STRINGS.UI.HOTKEYS.CHAR_SHEET"
 msgid "CHARACTER SHEET"
-msgstr ""
+msgstr "人物选单"
 
 #: STRINGS.UI.HOTKEYS.CYCLE_SELECT
 msgctxt "STRINGS.UI.HOTKEYS.CYCLE_SELECT"
 msgid "CYCLE SELECTION"
-msgstr ""
+msgstr "循环选择"
 
 #: STRINGS.UI.HOTKEYS.GAMEPLAY
 msgctxt "STRINGS.UI.HOTKEYS.GAMEPLAY"
 msgid "GAMEPLAY"
-msgstr ""
+msgstr "设置"
 
 #: STRINGS.UI.HOTKEYS.MAINFRAME
 msgctxt "STRINGS.UI.HOTKEYS.MAINFRAME"
 msgid "TOGGLE MAINFRAME"
-msgstr ""
+msgstr "切换主机"
 
 #: STRINGS.UI.HOTKEYS.NEXT_TURN
 msgctxt "STRINGS.UI.HOTKEYS.NEXT_TURN"
 msgid "NEXT TURN"
-msgstr ""
+msgstr "下一回合"
 
 #: STRINGS.UI.HOTKEYS.PAUSE
 msgctxt "STRINGS.UI.HOTKEYS.PAUSE"
 msgid "CANCEL and OPTIONS"
-msgstr ""
+msgstr "退出和选项"
 
 #: STRINGS.UI.HOTKEYS.TOGGLE_VIEW
 msgctxt "STRINGS.UI.HOTKEYS.TOGGLE_VIEW"
 msgid "TOGGLE VIEW"
-msgstr ""
+msgstr "切换视角"
 
 #: STRINGS.UI.HOTKEYS.TOGGLE_WALLS
 msgctxt "STRINGS.UI.HOTKEYS.TOGGLE_WALLS"
 msgid "TOGGLE WALLS UP/DOWN"
-msgstr ""
+msgstr "切换：墙体显示"
 
 #: STRINGS.UI.HOTKEYS.USE_MELEE
 msgctxt "STRINGS.UI.HOTKEYS.USE_MELEE"
 msgid "TOGGLE AMBUSH"
-msgstr ""
+msgstr "埋伏"
 
 #: STRINGS.UI.HOTKEYS.USE_OVERWATCH
 msgctxt "STRINGS.UI.HOTKEYS.USE_OVERWATCH"
 msgid "TOGGLE OVERWATCH"
-msgstr ""
+msgstr "环顾四周"
 
 #: STRINGS.UI.HOTKEYS.USE_PEEK
 msgctxt "STRINGS.UI.HOTKEYS.USE_PEEK"
 msgid "PEEK"
-msgstr ""
+msgstr "窥视"
 
 #: STRINGS.UI.HOTKEYS.USE_SPRINT
 msgctxt "STRINGS.UI.HOTKEYS.USE_SPRINT"
 msgid "TOGGLE SPRINT"
-msgstr ""
+msgstr "冲刺"
 
 #: STRINGS.UI.HUD_ATTACK_USED
 msgctxt "STRINGS.UI.HUD_ATTACK_USED"
 msgid "ATTACK USED"
-msgstr ""
+msgstr "攻击冷却中"
 
 #: STRINGS.UI.HUD_CANCEL
 msgctxt "STRINGS.UI.HUD_CANCEL"
 msgid "CANCEL"
-msgstr ""
+msgstr "取消"
 
 #: STRINGS.UI.HUD_CANCEL_TT
 msgctxt "STRINGS.UI.HUD_CANCEL_TT"
 msgid "CANCEL: <tthotkey>[ RIGHT CLICK ]</>"
-msgstr ""
+msgstr "右键取消"
 
 #: STRINGS.UI.HUD_CONFIRM_ABILITY
 msgctxt "STRINGS.UI.HUD_CONFIRM_ABILITY"
 msgid "CONFIRM ACTION"
-msgstr ""
+msgstr "确认行动"
 
 #: STRINGS.UI.HUD_CONFIRM_ESCAPE
 msgctxt "STRINGS.UI.HUD_CONFIRM_ESCAPE"
@@ -13307,7 +13307,7 @@ msgstr ""
 #: STRINGS.UI.HUD_CONFIRM_PARTIAL_ESCAPE
 msgctxt "STRINGS.UI.HUD_CONFIRM_PARTIAL_ESCAPE"
 msgid "Escaped agents can not re-enter the mission, and the teleporter will be on cooldown for a couple of turns after transport.\n\nAre you sure you want to leave now?"
-msgstr ""
+msgstr "离开的特工不能重返本任务，并且传送在使用后会有几回合的冷却。你确定让该特工离开吗？"
 
 #: STRINGS.UI.HUD_DAYS_TURN_ALARM
 msgctxt "STRINGS.UI.HUD_DAYS_TURN_ALARM"
@@ -13317,17 +13317,17 @@ msgstr ""
 #: STRINGS.UI.HUD_HOTKEY
 msgctxt "STRINGS.UI.HUD_HOTKEY"
 msgid "HOTKEY"
-msgstr ""
+msgstr "快捷键"
 
 #: STRINGS.UI.HUD_INCOGNITA_MAINFRAME
 msgctxt "STRINGS.UI.HUD_INCOGNITA_MAINFRAME"
 msgid "CLOSE\nINCOGNITA\n<"
-msgstr ""
+msgstr "关闭"
 
 #: STRINGS.UI.HUD_INCOGNITA_NORMAL
 msgctxt "STRINGS.UI.HUD_INCOGNITA_NORMAL"
 msgid "ACCESS\nINCOGNITA\n>"
-msgstr ""
+msgstr "连接"
 
 #: STRINGS.UI.HUD_INTEREST_TT
 msgctxt "STRINGS.UI.HUD_INTEREST_TT"
@@ -13337,107 +13337,107 @@ msgstr ""
 #: STRINGS.UI.HUD_INVENTORY
 msgctxt "STRINGS.UI.HUD_INVENTORY"
 msgid "INVENTORY"
-msgstr ""
+msgstr "持有物品清单"
 
 #: STRINGS.UI.HUD_INVENTORY_ENCUMBERED
 msgctxt "STRINGS.UI.HUD_INVENTORY_ENCUMBERED"
 msgid "INVENTORY <c:A30000>(ENCUMBERED)</>"
-msgstr ""
+msgstr "持有物品清单"
 
 #: STRINGS.UI.HUD_ITEMS_LEFT
 msgctxt "STRINGS.UI.HUD_ITEMS_LEFT"
 msgid "<c:F4FF78>ASSETS STILL IN THE FIELD:</c>"
-msgstr ""
+msgstr "物品停留在区域内"
 
 #: STRINGS.UI.HUD_LEFT_CLICK
 msgctxt "STRINGS.UI.HUD_LEFT_CLICK"
 msgid "LEFT CLICK"
-msgstr ""
+msgstr "左键"
 
 #: STRINGS.UI.HUD_MAINFRAME
 msgctxt "STRINGS.UI.HUD_MAINFRAME"
 msgid "MAINFRAME"
-msgstr ""
+msgstr "主机"
 
 #: STRINGS.UI.HUD_MOVE
 msgctxt "STRINGS.UI.HUD_MOVE"
 msgid "MOVE"
-msgstr ""
+msgstr "移动"
 
 #: STRINGS.UI.HUD_OFF
 msgctxt "STRINGS.UI.HUD_OFF"
 msgid "OFF"
-msgstr ""
+msgstr "关闭"
 
 #: STRINGS.UI.HUD_ON
 msgctxt "STRINGS.UI.HUD_ON"
 msgid "ON"
-msgstr ""
+msgstr "开启"
 
 #: STRINGS.UI.HUD_RIGHT_CLICK
 msgctxt "STRINGS.UI.HUD_RIGHT_CLICK"
 msgid "RIGHT CLICK"
-msgstr ""
+msgstr "右键"
 
 #: STRINGS.UI.HUD_SELECT
 msgctxt "STRINGS.UI.HUD_SELECT"
 msgid "SELECT"
-msgstr ""
+msgstr "选取"
 
 #: STRINGS.UI.HUD_TIME_ATTACK_TIME_LEFT
 msgctxt "STRINGS.UI.HUD_TIME_ATTACK_TIME_LEFT"
 msgid "TIME LEFT\n%02d:%02d"
-msgstr ""
+msgstr "所剩时间"
 
 #: STRINGS.UI.HUD_TOTAL_TIME
 msgctxt "STRINGS.UI.HUD_TOTAL_TIME"
 msgid "TIME ATTACK: %02d:%02d:%02d"
-msgstr ""
+msgstr "计时"
 
 #: STRINGS.UI.HUD_WARN_EXIT_CEO
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_CEO"
 msgid "Are you sure you want to leave? You don't have the Vault Passkey."
-msgstr ""
+msgstr "你确定要离开吗？你没有持有金库钥匙"
 
 #: STRINGS.UI.HUD_WARN_EXIT_CYBERLAB
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_CYBERLAB"
 msgid "Are you sure you want to leave? You haven't used the Augmentation Lab yet."
-msgstr ""
+msgstr "你确定要离开吗？你还没有使用过植入体研究室。"
 
 #: STRINGS.UI.HUD_WARN_EXIT_DETENTION
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_DETENTION"
 msgid "Are you sure you want to leave? You haven't freed the prisoner from the Detention Cells."
-msgstr ""
+msgstr "你确定要离开吗？你还没有释放囚犯。"
 
 #: STRINGS.UI.HUD_WARN_EXIT_EXECTERM
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_EXECTERM"
 msgid "Are you sure you want to leave? You don't have the contact list from the Executive Terminal."
-msgstr ""
+msgstr "你确定要离开吗？你还没有从执行终端中获取通讯录。"
 
 #: STRINGS.UI.HUD_WARN_EXIT_MISSION_DISPATCH
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_MISSION_DISPATCH"
 msgid "Are you sure you want to leave? You don't have the High-Security loot item."
-msgstr ""
+msgstr "你确定要离开吗？你还没有获取物品：高等安全"
 
 #: STRINGS.UI.HUD_WARN_EXIT_MISSION_VAULT
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_MISSION_VAULT"
 msgid "Are you sure you want to leave? You haven't looted the Vault yet."
-msgstr ""
+msgstr "你确定要离开吗？你还没有带走金库里的物品。"
 
 #: STRINGS.UI.HUD_WARN_EXIT_NANOFAB
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_NANOFAB"
 msgid "Are you sure you want to leave? You haven't visited the Nanofab yet."
-msgstr ""
+msgstr "你确定要离开吗？你还没有使用纳米打印机。"
 
 #: STRINGS.UI.HUD_WARN_EXIT_SERVERFARM
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_SERVERFARM"
 msgid "Are you sure you want to leave? You haven't used the Server Terminal yet."
-msgstr ""
+msgstr "你确定要离开吗？你还没有使用服务终端。"
 
 #: STRINGS.UI.HUD_WEAPON_ACTIVE
 msgctxt "STRINGS.UI.HUD_WEAPON_ACTIVE"
 msgid "ACTIVE"
-msgstr ""
+msgstr "状态：使用中"
 
 #: STRINGS.UI.HUD_WEAPON_AMMO
 msgctxt "STRINGS.UI.HUD_WEAPON_AMMO"
@@ -13447,372 +13447,372 @@ msgstr ""
 #: STRINGS.UI.HUD_WEAPON_USED
 msgctxt "STRINGS.UI.HUD_WEAPON_USED"
 msgid "USED"
-msgstr ""
+msgstr "已使用"
 
 #: STRINGS.UI.INCOGNITA_NAME
 msgctxt "STRINGS.UI.INCOGNITA_NAME"
 msgid "INCOGNITA"
-msgstr ""
+msgstr "INCOGNITA"
 
 #: STRINGS.UI.INCOGNITA_TITLE
 msgctxt "STRINGS.UI.INCOGNITA_TITLE"
 msgid "INCOGNITA"
-msgstr ""
+msgstr "INCOGNITA"
 
 #: STRINGS.UI.INCOGNITA_TT
 msgctxt "STRINGS.UI.INCOGNITA_TT"
 msgid "Quantum AI Construct"
-msgstr ""
+msgstr "量子人工智能结构体"
 
 #: STRINGS.UI.INGAME_FINALE_1.1
 msgctxt "STRINGS.UI.INGAME_FINALE_1.1"
 msgid "It was a clean insertion, but they'll figure out we're here soon enough."
-msgstr ""
+msgstr "这是个没用过的植入体，可他们马上就会知道我们在这了。"
 
 #: STRINGS.UI.INGAME_FINALE_1.2
 msgctxt "STRINGS.UI.INGAME_FINALE_1.2"
 msgid "There should be a communications nexus somewhere on this floor. If you get me there, I can keep the corp reinforcements tied up."
-msgstr ""
+msgstr "这层应该有个联络装置，如果你把我弄到那去了，我能让集团的支援过不来。"
 
 #: STRINGS.UI.INGAME_FINALE_1.3
 msgctxt "STRINGS.UI.INGAME_FINALE_1.3"
 msgid "Alright. Let's get moving."
-msgstr ""
+msgstr "好吧，我们行动吧。"
 
 #: STRINGS.UI.INGAME_FINALE_2.1
 msgctxt "STRINGS.UI.INGAME_FINALE_2.1"
 msgid "Just look at this rig! They've got a Sendheiser P-37 feeding into a nitrogen cooled transduction coil. And is that a triple inverse loop flop enhancer? I've never seen-"
-msgstr ""
+msgstr "快看这个钻井！他们弄到了台Sendheiser P-37来注入液氮制冷的能量转换线圈。那是个三层反向环形悬挂加速器吗？我从没见过-"
 
 #: STRINGS.UI.INGAME_FINALE_2.2
 msgctxt "STRINGS.UI.INGAME_FINALE_2.2"
 msgid "Will this work?"
-msgstr ""
+msgstr "这会奏效么？"
 
 #: STRINGS.UI.INGAME_FINALE_2.3
 msgctxt "STRINGS.UI.INGAME_FINALE_2.3"
 msgid "Oh this will do nicely. Very nicely indeed."
-msgstr ""
+msgstr "效果会很好，真的很好。"
 
 #: STRINGS.UI.INGAME_FINALE_3.ELEVATOR_AGENT
 msgctxt "STRINGS.UI.INGAME_FINALE_3.ELEVATOR_AGENT"
 msgid "Where do you think you're going? Only I know the Incognita transfer procedure!"
-msgstr ""
+msgstr "你上哪去？只有我知道Incognita的转换程序在哪！"
 
 #: STRINGS.UI.INGAME_FINALE_3.ELEVATOR_CENTRAL
 msgctxt "STRINGS.UI.INGAME_FINALE_3.ELEVATOR_CENTRAL"
 msgid "I need to do this alone. Secure this hallway and don't let anyone past."
-msgstr ""
+msgstr "我需要一个人完成。你来守住这个过道，别让任何人通过。"
 
 #: STRINGS.UI.INGAME_FINALE_3.ELEVATOR_CENTRAL_DEAD
 msgctxt "STRINGS.UI.INGAME_FINALE_3.ELEVATOR_CENTRAL_DEAD"
 msgid "We've made it. It cost us dearly, but we've made it."
-msgstr ""
+msgstr "我们做到了。代价惨重，但我们做到了。"
 
 #: STRINGS.UI.INGAME_FINALE_3.INTRO
 msgctxt "STRINGS.UI.INGAME_FINALE_3.INTRO"
 msgid "I need to get to the central processing center on the next floor. Lead us straight there, everything else is a distraction."
-msgstr ""
+msgstr "我要到上面那层的中央处理中心。直接带我们去那，别管其他的事。"
 
 #: STRINGS.UI.INSTALL_AUGMENT
 msgctxt "STRINGS.UI.INSTALL_AUGMENT"
 msgid "Install Augment"
-msgstr ""
+msgstr "安装植入体"
 
 #: STRINGS.UI.INTEREST_HUNTING
 msgctxt "STRINGS.UI.INTEREST_HUNTING"
 msgid "Security is closing on this location"
-msgstr ""
+msgstr "该地区安全系统正在关闭。"
 
 #: STRINGS.UI.INTEREST_INVESTIGATING
 msgctxt "STRINGS.UI.INTEREST_INVESTIGATING"
 msgid "Security is curious about this location"
-msgstr ""
+msgstr "该地区安全系统错乱。"
 
 #: STRINGS.UI.ITEMS_EARNED
 msgctxt "STRINGS.UI.ITEMS_EARNED"
 msgid "ITEMS EARNED"
-msgstr ""
+msgstr "取得物品"
 
 #: STRINGS.UI.ITEMS_PURCHASED
 msgctxt "STRINGS.UI.ITEMS_PURCHASED"
 msgid "ITEMS PURCHASED"
-msgstr ""
+msgstr "物品已购买"
 
 #: STRINGS.UI.ITEM_ACQUIRED
 msgctxt "STRINGS.UI.ITEM_ACQUIRED"
 msgid "I T E M  A C Q U I R E D"
-msgstr ""
+msgstr "物品已取得"
 
 #: STRINGS.UI.KILLS
 msgctxt "STRINGS.UI.KILLS"
 msgid "GUARDS NEUTRALIZED"
-msgstr ""
+msgstr "警卫已压制"
 
 #: STRINGS.UI.LAST_MISSION
 msgctxt "STRINGS.UI.LAST_MISSION"
 msgid "Operator, choose your next target carefully - This is our last opportunity to prepare for our final stand."
-msgstr ""
+msgstr "专员，小心选择你的下一个目标-这是我们最后一次机会来准备最终之战！"
 
 #: STRINGS.UI.LOCALE_CHANGED_BODY
 msgctxt "STRINGS.UI.LOCALE_CHANGED_BODY"
 msgid "Changes to the current language will take effect when the game restarts."
-msgstr ""
+msgstr "现有语言的转换将在游戏重新启动后生效"
 
 #: STRINGS.UI.LOCALE_CHANGED_HEADER
 msgctxt "STRINGS.UI.LOCALE_CHANGED_HEADER"
 msgid "Language Changed"
-msgstr ""
+msgstr "语言已变更"
 
 #: STRINGS.UI.LOCKED
 msgctxt "STRINGS.UI.LOCKED"
 msgid "LOCKED"
-msgstr ""
+msgstr "未解锁"
 
 #: STRINGS.UI.LOOT_MODAL1
 msgctxt "STRINGS.UI.LOOT_MODAL1"
 msgid "The {1} augment has been permanently installed on {2}."
-msgstr ""
+msgstr "植入体被永久嵌入。"
 
 #: STRINGS.UI.LOOT_MODAL2
 msgctxt "STRINGS.UI.LOOT_MODAL2"
 msgid "LOOT"
-msgstr ""
+msgstr "战利品"
 
 #: STRINGS.UI.LOOT_MODAL_TITLE
 msgctxt "STRINGS.UI.LOOT_MODAL_TITLE"
 msgid "A U G M E N T A T I O N  G R A F T"
-msgstr ""
+msgstr "植入体移植"
 
 #: STRINGS.UI.MAP
 msgctxt "STRINGS.UI.MAP"
 msgid "> MISSION SELECT"
-msgstr ""
+msgstr "人物选择"
 
 #: STRINGS.UI.MAP_CODE_NAME
 msgctxt "STRINGS.UI.MAP_CODE_NAME"
 msgid "CODE NAME: {1}"
-msgstr ""
+msgstr "代号："
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_1.1
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_1.1"
 msgid "Operator, are you there?\n\nGood - I was afraid you didn't make it out. Headquarters is gone. Most of our agents have been captured or killed, and our accounts are all frozen.\n\nI don't know how the corporations found us, but you can bet they won't give up now that they've had a taste of blood."
-msgstr ""
+msgstr "专员，听到了吗？嗯，好的-我刚以为你挺不住了。总部已经沦陷了。我们的特工大都非死即俘，我们的账户也彻底被冻结了。我不知道集团怎么找到的我们，不过你肯定知道，对于这些已经尝过血的家伙来说，定是不会放手了。"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_1.2
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_1.2"
 msgid "The jet's stealth rig should keep us hidden if we keep moving, but Incognita can't survive long on backup power.\n\nShe's got 72 hours, tops. We need to mount a counterattack before then, or we'll be defenseless against their scans."
-msgstr ""
+msgstr "保持移动的话，这架飞机的隐匿帆装应该不会被发现，但Incognita在备用电源下并不能撑太长时间，封顶72小时。在那之前我们得准备一次反攻，不然我们再不能躲过他们的扫描。"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_1.3
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_1.3"
 msgid "If that happens, we may as well just crash this thing into the ocean. You've never seen the inside of a corporate deprogramming chamber.\n\nI won't see the inside of another."
-msgstr ""
+msgstr "如果这真的发生了，我们不若把这玩意撞进海里。在此之间你从没见过集团的内部，我再不想见到第二个。"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_1.4
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_1.4"
 msgid "Incognita is scanning for targets of opportunity where we can replenish our supplies. Follow her leads and gather what resources you can - I'll run through our contacts and see what favours I can call in.\n\nWe're going to need all of the advantages we can find in the coming days."
-msgstr ""
+msgstr "Incognita正在扫描目标以找到能给我们补给的机会。听从她的知识并搜集你所能得到的资源-我会把能联系上的家伙们都联系一遍看看有没什么我能帮上忙的。接下来的日子我们要把能用上能找到的优势全部都用上。"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_2.1
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_2.1"
 msgid "I've re-established contact with Monst3r - his network picked up the attack just before it hit us, and we're working to trace it back to the source.\n\nIn the meantime, he's offered to sell us some of his more rarefied stock."
-msgstr ""
+msgstr "我已经和Monst3r重新联系上了，他的情报网探测到了这次攻击，我们将想办法追踪它来找到源头。在此之间，他提出卖给我们些他的“高端”家伙。"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_2.2
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_2.2"
 msgid "Greetings.\n\nI don't often perform transactions face to face, but Gladstone is an old friend. I'll contact you when anything becomes available."
-msgstr ""
+msgstr "大家好啊。我办业务从来很少露脸，不过Gladstone是老主顾了。这边有货了我会联系你的。"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_2.3
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_2.3"
 msgid "Thank you, Monst3r.\n\nIf we find their central server, we may be able to bring them down. Or at least distract them long enough that they lose our trail.\n\nContinue scavenging operations, and I'll keep you posted as more intel develops."
-msgstr ""
+msgstr "谢啦，Monst3r。等我们找到了他们的中央服务器，我们会设法让它们罢工，至少会让他们分心到失去我们的踪迹。继续清扫行动，我会不断把你传送到各地"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_2_NEW_LOCATIONS.1
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_2_NEW_LOCATIONS.1"
 msgid "Oh, and one more thing. I see you're having some difficulty finding infiltration targets. I've got a couple of leads that I was working on when all this hit the fan.\n\nConsider this a token of my goodwill."
-msgstr ""
+msgstr "对了，还有件事。我看你正设法排出内奸。我已经搞定了一批在出麻烦时正在商谈的客户。把这当做我忠诚的表示吧。"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_3.1
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_3.1"
 msgid "Pattern analysis inconclusive. Please supply additional information and retry."
-msgstr ""
+msgstr "模式化分析失败，请提供附加信息并重试。"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_3.2
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_3.2"
 msgid "Damn it!\n\nWe're running blind out here. I spent years building up our central network. We'd know exactly where to strike if we had that kind of access."
-msgstr ""
+msgstr "草！我们被盲杀了！（ps：德州扑克术语）我花了那么多年功夫在我们的中央网路上。我们要是有那样的手段早就知道该从哪干开了！"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_3.3
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_3.3"
 msgid "Power reserves critical. Entering standby mode."
-msgstr ""
+msgstr "电量不足，进入待机模式。"
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_3.4
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_3.4"
 msgid "Carry on, Operator. We'll figure something out."
-msgstr ""
+msgstr "专员，继续下去。我们就要弄清楚些什么了。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.1
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.1"
 msgid "I think we're getting somewhere. Monst3r will explain."
-msgstr ""
+msgstr "我想我们就要到哪了。Monst3r会解释清楚的。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.10
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.10"
 msgid "They're still looking for you, but they're not hiding the fact any more.\n\nEach time you do an infiltration, the global SecNet lights up like a Christmas tree.\n\nDo that enough times, and we should be able to cross-reference the traffic and find the location of the root node."
-msgstr ""
+msgstr "他们还在找你，不过他们再没有掩盖真相了。每次你在渗入的时候，全球安网都会像圣诞树一样闪亮。这样的事情重复很多次的话，我们就应该能对比参照交通一样找到原点了。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.11
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.11"
 msgid "And then we can strike back."
-msgstr ""
+msgstr "那时我们就可以反击了。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.12
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.12"
 msgid "Well, then. It's time for us to poke the bear."
-msgstr ""
+msgstr "嗯，那么，是时候让我们去捅马蜂窝了。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.2
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.2"
 msgid "You guys are good at covering your tracks. You've been hitting the corps for years, but they've never been able to follow you home.\n\nI guess they were too distracted fighting each other to bother.\n\nOr maybe you were considered a useful pawn - 'enemy of my enemy' and all that."
-msgstr ""
+msgstr "你们这些家伙很擅长掩盖行踪啊。你们已经对抗集团数年了，但他们从来没摸到你们的家门。我想他们被内部纷争分心太多了。不然就是你们对他们来讲还有利用价值-“非敌即友”这样。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.3
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.3"
 msgid "What we do... we do well."
-msgstr ""
+msgstr "我们...我们做的很好。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.4
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.4"
 msgid "Well, you must have finally done something to get their undivided attention.\n\nThey were able to pinpoint your HQ by linking their surveillance nets. That's unprecedented - not just for the usual bullshit political reasons, but because of the sheer computational power required.\n\nThey must have an ungodly powerful network hidden out there somewhere."
-msgstr ""
+msgstr "好的，你必须再做些什么来把他们最后的注意力转移走。通过他们的监控网络，他们能够精确地找到你们的总部。这从来没有过-不只是因为政治什么的屁话，而是纯粹的计算机的力量到了一定地步罢了。这帮人定是有超神等级的网络藏在哪。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.5
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.5"
 msgid "One that could host Incognita."
-msgstr ""
+msgstr "一个可以容纳Incognita的终端。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.6
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.6"
 msgid "Right. If you put your AI on that network, it would have an incredible degree of access."
-msgstr ""
+msgstr "对的，如果把你的AI放在那个网路上，它将会获得惊人的访问能力。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.7
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.7"
 msgid "Enough to wipe their security records and put Invisible back underground."
-msgstr ""
+msgstr "惊人到可以抹掉他们的安全记录，并让隐形公司重返地下。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.8
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.8"
 msgid "Ha. More like enough to force them underground.\n\nAnd who knows what else - as I said it would be incredible."
-msgstr ""
+msgstr "哈！更像惊人到把他们逼到地下！还有，谁知道其他的-正如我说的，这将十分惊人。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.9
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.9"
 msgid "But that's jumping ahead. We have to find it first."
-msgstr ""
+msgstr "但我们已经抢先一步了，我们最先发现这个。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_3.1
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_3.1"
 msgid "Pattern resolution at 50%. Nearing confidence threshold."
-msgstr ""
+msgstr "模式型解析度50%。即将达到安全临界。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_3.2
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_3.2"
 msgid "Now we're getting somewhere. Where did you find this thing, anyway?"
-msgstr ""
+msgstr "我们就要到了。不管怎样，你在哪找到的这东西？"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_3.3
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_3.3"
 msgid "Incognita was built back in the 40's by the pan-European government to run climate models.\n\nWhen the war broke out she was retrofitted to predict troop movements. When we lost the war I salvaged what I could of her central intelligence unit.\n\nWe built Invisible together."
-msgstr ""
+msgstr "Incognita本是40年代泛欧政府造出来计算天气模型的。战争爆发时被改造用来预测军队走向。在我们即将失去他时我抢救了我所能做的一切，包括她的智能元件。我们一同成立了隐形公司。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_3.4
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_3.4"
 msgid "Funny, you never struck me as the anthropomorphizing type."
-msgstr ""
+msgstr "滑稽，你从没作为拟人格诋毁我。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_3.5
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_3.5"
 msgid "And you've never struck me as particularly charitable, and yet here you are, helping us out."
-msgstr ""
+msgstr "你也从没作为慈善家来侮辱我，而现在你就在我们面前，来帮助我们。"
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_3.6
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_3.6"
 msgid "I guess we all have our weaknesses."
-msgstr ""
+msgstr "我想我们大家都有不足。"
 
 #: STRINGS.UI.MAP_DAY_3_MISSION_2.1
 msgctxt "STRINGS.UI.MAP_DAY_3_MISSION_2.1"
 msgid "Operator. Your performance in the field has been pleasantly efficient thus far.\n\nPlease continue to perform at a high level, so that we may complete our mutual goals."
-msgstr ""
+msgstr "专员，你在战场上的表现到现在都高效得令人安心。请继续保持这样的高水平表现，这样我们才可能完成我们共同的目标。"
 
 #: STRINGS.UI.MAP_DAY_3_MISSION_2.2
 msgctxt "STRINGS.UI.MAP_DAY_3_MISSION_2.2"
 msgid "I think she likes you."
-msgstr ""
+msgstr "我想她喜欢你。"
 
 #: STRINGS.UI.MAP_DAY_3_MISSION_2.3
 msgctxt "STRINGS.UI.MAP_DAY_3_MISSION_2.3"
 msgid "We need to get her off of emergency power. Her peripheral subsystems are starting to degrade."
-msgstr ""
+msgstr "我们不能让她这么一直耗在紧急电源上，她的外部子系统工作效率已经开始降低了。"
 
 #: STRINGS.UI.MAP_DAY_3_MISSION_2.4
 msgctxt "STRINGS.UI.MAP_DAY_3_MISSION_2.4"
 msgid "If you haven't already, you probably want to gear up. You're going to be facing tougher firewalls and heavily armored guards from here on out, and the pea shooters you started with aren't going to cut it.\n\nYou don't want to get caught without the right tools."
-msgstr ""
+msgstr "如果你还没准备好，你得加快了。你在出去的路上将面对更坚固的防火墙和重装守卫，你先才用的玩具枪对他们都没用。你并不会想因为用错家伙被抓住吧。"
 
 #: STRINGS.UI.MAP_DAY_3_MISSION_3.1
 msgctxt "STRINGS.UI.MAP_DAY_3_MISSION_3.1"
 msgid "I'm reading increased chatter across all of SecNet.\n\nThey've issued a worldwide alert, and they're coordinating their responses."
-msgstr ""
+msgstr "我正在解析整个安网的对话。他们刚发出了世界范围内的警告，现在正调整他们的部署。"
 
 #: STRINGS.UI.MAP_DAY_3_MISSION_3.2
 msgctxt "STRINGS.UI.MAP_DAY_3_MISSION_3.2"
 msgid "Just a couple more runs and we should have it."
-msgstr ""
+msgstr "只要再多跑几步我们就拿下了。"
 
 #: STRINGS.UI.MAP_DAY_3_MISSION_3.3
 msgctxt "STRINGS.UI.MAP_DAY_3_MISSION_3.3"
 msgid "Provided we survive."
-msgstr ""
+msgstr "如果我们还活着的话。"
 
 #: STRINGS.UI.MAP_DAY_4_MISSION_1.1
 msgctxt "STRINGS.UI.MAP_DAY_4_MISSION_1.1"
 msgid "Tracing... tracing... There! I've got it!"
-msgstr ""
+msgstr "追踪...追踪...在那！我拿下它了！"
 
 #: STRINGS.UI.MAP_DAY_4_MISSION_1.2
 msgctxt "STRINGS.UI.MAP_DAY_4_MISSION_1.2"
 msgid "Target resolved."
-msgstr ""
+msgstr "目标达成。"
 
 #: STRINGS.UI.MAP_DAY_4_MISSION_1.3
 msgctxt "STRINGS.UI.MAP_DAY_4_MISSION_1.3"
 msgid "That's practically in my backyard. How the hell did they keep that hidden?"
-msgstr ""
+msgstr "这就在我的后院里！他们怎么他妈把那玩意藏起来的？"
 
 #: STRINGS.UI.MAP_DAY_4_MISSION_1.4
 msgctxt "STRINGS.UI.MAP_DAY_4_MISSION_1.4"
 msgid "Plot a direct course. Thank you, Monst3r."
-msgstr ""
+msgstr "布得一手好局。漂亮，Monst3r。"
 
 #: STRINGS.UI.MAP_DAY_4_MISSION_1.5
 msgctxt "STRINGS.UI.MAP_DAY_4_MISSION_1.5"
 msgid "Thank me later. I'll meet you there - I've got to see this rig in person."
-msgstr ""
+msgstr "待会再谢我。我们在那边见面-我要亲眼看看这东西。"
 
 #: STRINGS.UI.MAP_DAY_4_MISSION_1.6
 msgctxt "STRINGS.UI.MAP_DAY_4_MISSION_1.6"
 msgid "Operator, ready the team. This is going to be a wild ride."
-msgstr ""
+msgstr "专员，让队伍整备好。这次会很刺激。"
 
 #: STRINGS.UI.MAP_DIALOG_1
 msgctxt "STRINGS.UI.MAP_DIALOG_1"
 msgid "We need to keep moving - if the corps get a fix on our location, we won't last long in a direct fight.\n\nKeep up the hit-and-run, and we might just get through this."
-msgstr ""
+msgstr "我们该继续行动-如果集团定位了我们，难免我们将碰上直接冲同。继续打游击，我们就有可能搞定这个。"
 
 #: STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.1
 msgctxt "STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.1"
@@ -13822,172 +13822,172 @@ msgstr ""
 #: STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.2
 msgctxt "STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.2"
 msgid "Good work so far, Operator - we're really starting to have an impact.\n\nYou can expect heavier resistance from this point on, so don't get sloppy."
-msgstr ""
+msgstr "到目前为止都很好，专员-我们已经给他们带来不小冲击了。接下来的抵抗会激烈得多了，别松懈。"
 
 #: STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.3
 msgctxt "STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.3"
 msgid "My inside sources tell me that the corporations are starting to get worried. They're implementing stricter security protocols at all sites, worldwide.\n\nBe prepared."
-msgstr ""
+msgstr "我的第六感告诉我集团已经急了。他们在世界范围内的所有站点实行更严格的安全协议，准备好。"
 
 #: STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.4
 msgctxt "STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.4"
 msgid "The corporations are on to us, and are redoubling their security efforts again.\n\nYour hard job just got harder. Don't drop the ball."
-msgstr ""
+msgstr "集团猜到了我们的想法，正再一次加固他们的安全系统。你的工作更艰难了。别玩脱了。"
 
 #: STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.5
 msgctxt "STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.5"
 msgid "Incognita has detected unidentified Daemon signatures lurking throughout SecNet. There's no time for countermeasures, so you'll be facing them immediately upon transport from now on.\n\nI'm going to need you to think outside the box on this one."
-msgstr ""
+msgstr "Incognita侦测到未知守护进程的信号正潜入安网。反制已经来不及了，你从现在开始得面对他们的突然袭击了。这次我需要你跳出框架来找解决办法了。"
 
 #: STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.6
 msgctxt "STRINGS.UI.MAP_DIALOG_INFINITE_DAYS.6"
 msgid "I'm proud of what we've accomplished so far, but we can't afford to back down now. There's plunder out there for the taking, and take it we shall.\n\nI have complete confidence in your abilities, and I am entrusting you to lead the remainder of this operation.\n\nCentral out."
-msgstr ""
+msgstr "我为目前为止所取得的成就感到骄傲，但我们现在不能打退堂鼓。这有很多战利品等着我们去取，去拿本该属于我们的那一份吧！对你我有完全的信心，我将委托你领导剩下的行动。断线。"
 
 #: STRINGS.UI.MAP_DIALOG_INFINITE_INTRO.1
 msgctxt "STRINGS.UI.MAP_DIALOG_INFINITE_INTRO.1"
 msgid "We're in a tight spot. The last few missions drained our accounts almost entirely. We're barely afloat.\n\nIf we don't turn things around soon, we'll have to close up shop."
-msgstr ""
+msgstr "我们已经到了关键地步。前面几个任务几乎花光了我们的继续。我们已经花不起了。如果我们不能翻把，那我们就得关门大吉了。"
 
 #: STRINGS.UI.MAP_DIALOG_INFINITE_INTRO.2
 msgctxt "STRINGS.UI.MAP_DIALOG_INFINITE_INTRO.2"
 msgid "There's plenty of profit to be made out there if we're bold enough. I'm authorizing you to go off-contract.\n\nIncognita is looking for corporate vulnerabilities. Exploit these, take whatever you can, and rebuild the firm."
-msgstr ""
+msgstr "如果够大胆的话，这里有大把的利益来赚取。我授权你短期休个假。Incognita正在寻找集团的弱点。利用这些，带上你所拥有的一切，重建集团吧。"
 
 #: STRINGS.UI.MAP_DIALOG_INFINITE_INTRO.3
 msgctxt "STRINGS.UI.MAP_DIALOG_INFINITE_INTRO.3"
 msgid "This company is my life's work. We've all bled for this.\n\nDon't disappoint me, Operator."
-msgstr ""
+msgstr "这家公司是我毕生的心血。我们都为此呕心沥血。别让我失望，专员。"
 
 #: STRINGS.UI.MAP_DONOTINFILTRATE
 msgctxt "STRINGS.UI.MAP_DONOTINFILTRATE"
 msgid "< CANCEL"
-msgstr ""
+msgstr "取消"
 
 #: STRINGS.UI.MAP_EXPLORATION
 msgctxt "STRINGS.UI.MAP_EXPLORATION"
 msgid "MAP EXPLORATION"
-msgstr ""
+msgstr "探索地图"
 
 #: STRINGS.UI.MAP_INFILTRATE
 msgctxt "STRINGS.UI.MAP_INFILTRATE"
 msgid "> INFILTRATE"
-msgstr ""
+msgstr "渗透"
 
 #: STRINGS.UI.MAP_MOREINFO
 msgctxt "STRINGS.UI.MAP_MOREINFO"
 msgid "MORE INFO"
-msgstr ""
+msgstr "更多信息"
 
 #: STRINGS.UI.MAP_SCREEN_CREDITS_TOOLTIP
 msgctxt "STRINGS.UI.MAP_SCREEN_CREDITS_TOOLTIP"
 msgid "Amount of credits Invisible, Inc. has to spend on purchases and upgrades."
-msgstr ""
+msgstr "隐形公司的cr必须用于购买和升级。"
 
 #: STRINGS.UI.MAP_SCREEN_DAYS
 msgctxt "STRINGS.UI.MAP_SCREEN_DAYS"
 msgid "DAYS"
-msgstr ""
+msgstr "天数"
 
 #: STRINGS.UI.MAP_SCREEN_DAYS_SPENT
 msgctxt "STRINGS.UI.MAP_SCREEN_DAYS_SPENT"
 msgid "DAY %02d / %02d:%02d:%02d"
-msgstr ""
+msgstr "天"
 
 #: STRINGS.UI.MAP_SCREEN_DAYS_SPENT_SMALL
 msgctxt "STRINGS.UI.MAP_SCREEN_DAYS_SPENT_SMALL"
 msgid "DAY %02d /"
-msgstr ""
+msgstr "天"
 
 #: STRINGS.UI.MAP_SCREEN_DAY_COUNT
 msgctxt "STRINGS.UI.MAP_SCREEN_DAY_COUNT"
 msgid "DAY %d"
-msgstr ""
+msgstr "天"
 
 #: STRINGS.UI.MAP_SCREEN_DISTRESS
 msgctxt "STRINGS.UI.MAP_SCREEN_DISTRESS"
 msgid "DISTRESS SIGNAL"
-msgstr ""
+msgstr "求援信号"
 
 #: STRINGS.UI.MAP_SCREEN_EXPIRED
 msgctxt "STRINGS.UI.MAP_SCREEN_EXPIRED"
 msgid "CONTRACT EXPIRED"
-msgstr ""
+msgstr "合约完成"
 
 #: STRINGS.UI.MAP_SCREEN_EXPIRES
 msgctxt "STRINGS.UI.MAP_SCREEN_EXPIRES"
 msgid "EXPIRES:  <c:F4FF78>%s HOURS</>"
-msgstr ""
+msgstr "达成"
 
 #: STRINGS.UI.MAP_SCREEN_LOCATION
 msgctxt "STRINGS.UI.MAP_SCREEN_LOCATION"
 msgid "LOCATION"
-msgstr ""
+msgstr "位置。"
 
 #: STRINGS.UI.MAP_SCREEN_NET_WORTH_TOOLTIP
 msgctxt "STRINGS.UI.MAP_SCREEN_NET_WORTH_TOOLTIP"
 msgid "The value of all of agents' upgrades, items, programs, and credits Invisible, Inc. owns."
-msgstr ""
+msgstr "所有特工的提升、物品、程序、cr等的价值都属于隐形公司。"
 
 #: STRINGS.UI.MAP_SCREEN_REMAINING
 msgctxt "STRINGS.UI.MAP_SCREEN_REMAINING"
 msgid "HOURS REMAINING <c:F4FF78>%s</>"
-msgstr ""
+msgstr "剩余时间"
 
 #: STRINGS.UI.MAP_SCREEN_REMAINING_TOOLTIP
 msgctxt "STRINGS.UI.MAP_SCREEN_REMAINING_TOOLTIP"
 msgid "Amount of time before Incognita runs out of backup power."
-msgstr ""
+msgstr "在Incognita耗尽后备电源之前所剩时间"
 
 #: STRINGS.UI.MAP_SCREEN_TOTAL_PLAY_TIME
 msgctxt "STRINGS.UI.MAP_SCREEN_TOTAL_PLAY_TIME"
 msgid "TIME ATTACK: <c:F4FF78>%02d:%02d:%02d</>"
-msgstr ""
+msgstr "计时挑战："
 
 #: STRINGS.UI.MAP_SCREEN_TRAVEL_TIME
 msgctxt "STRINGS.UI.MAP_SCREEN_TRAVEL_TIME"
 msgid "%s: %d HOURS"
-msgstr ""
+msgstr "时间"
 
 #: STRINGS.UI.MAP_SECURITY
 msgctxt "STRINGS.UI.MAP_SECURITY"
 msgid "Security: {1}"
-msgstr ""
+msgstr "安全等级"
 
 #: STRINGS.UI.MIA
 msgctxt "STRINGS.UI.MIA"
 msgid "MIA"
-msgstr ""
+msgstr "战斗中失踪"
 
 #: STRINGS.UI.MISSIONS_COMPLETED
 msgctxt "STRINGS.UI.MISSIONS_COMPLETED"
 msgid "MISSIONS COMPLETED"
-msgstr ""
+msgstr "任务失败"
 
 #: STRINGS.UI.MISSION_COMPLETE
 msgctxt "STRINGS.UI.MISSION_COMPLETE"
 msgid "MISSION REPORT"
-msgstr ""
+msgstr "任务报告"
 
 #: STRINGS.UI.MISSION_FAILURE
 msgctxt "STRINGS.UI.MISSION_FAILURE"
 msgid "AGENCY ELIMINATED"
-msgstr ""
+msgstr "组织被肃清"
 
 #: STRINGS.UI.MISSION_LOCATION
 msgctxt "STRINGS.UI.MISSION_LOCATION"
 msgid "LOCATION: %s"
-msgstr ""
+msgstr "地点："
 
 #: STRINGS.UI.MISSION_REWARD
 msgctxt "STRINGS.UI.MISSION_REWARD"
 msgid "CLIENT INVOICE"
-msgstr ""
+msgstr "客户发票"
 
 #: STRINGS.UI.MISSION_SUCCESS
 msgctxt "STRINGS.UI.MISSION_SUCCESS"
 msgid "MISSION REPORT"
-msgstr ""
+msgstr "任务报告"
 
 #: STRINGS.UI.MODS_DEFAULT_LOCALE
 msgctxt "STRINGS.UI.MODS_DEFAULT_LOCALE"
@@ -13997,17 +13997,17 @@ msgstr "英语"
 #: STRINGS.UI.MODS_FIND_MORE
 msgctxt "STRINGS.UI.MODS_FIND_MORE"
 msgid "Find More in Workshop..."
-msgstr "在创意工坊寻找更多..."
+msgstr "在创意工坊中寻找更多..."
 
 #: STRINGS.UI.MODS_OFFLINE
 msgctxt "STRINGS.UI.MODS_OFFLINE"
 msgid "REFRESH LANGUAGES\n(OFFLINE)"
-msgstr "更新语言 \n(离线)"
+msgstr "刷新语言"
 
 #: STRINGS.UI.MODS_REFRESH_COMPLETE
 msgctxt "STRINGS.UI.MODS_REFRESH_COMPLETE"
 msgid "Finished refreshing language packs from Steam Workshop."
-msgstr "完成更新语言包"
+msgstr "完成从Steam创意工坊的语言包更新。"
 
 #: STRINGS.UI.MODS_UPDATE
 msgctxt "STRINGS.UI.MODS_UPDATE"
