@@ -4011,307 +4011,307 @@ msgstr ""
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.NAME"
 msgid "CLOAK"
-msgstr ""
+msgstr "匿踪"
 
 #: STRINGS.ITEMS.KEYWORDS.CRITICAL.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.CRITICAL.DESC"
 msgid "This effect triggers after the agent successfully makes a critical hit."
-msgstr ""
+msgstr "该效果在特工成功的对敌人致命一击后触发。"
 
 #: STRINGS.ITEMS.KEYWORDS.CRITICAL.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.CRITICAL.NAME"
 msgid "CRITICAL"
-msgstr ""
+msgstr "致命一击"
 
 #: STRINGS.ITEMS.KEYWORDS.ITEM.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.ITEM.DESC"
 msgid "This effect triggers when the agent uses an inventory item."
-msgstr ""
+msgstr "该效果在特工使用物品栏中的物品时触发"
 
 #: STRINGS.ITEMS.KEYWORDS.ITEM.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.ITEM.NAME"
 msgid "ITEM"
-msgstr ""
+msgstr "物品"
 
 #: STRINGS.ITEMS.KEYWORDS.MELEE.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.MELEE.DESC"
 msgid "This effect triggers after this agent successfully knocks out an enemy with a melee attack."
-msgstr ""
+msgstr "该效果在特工成功的击倒近身敌人时触发"
 
 #: STRINGS.ITEMS.KEYWORDS.MELEE.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.MELEE.NAME"
 msgid "MELEE"
-msgstr ""
+msgstr "近身"
 
 #: STRINGS.ITEMS.KEYWORDS.NETWORK.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.NETWORK.DESC"
 msgid "This effect triggers after Incognita has fully broken any firewall."
-msgstr ""
+msgstr "该效果在Incognita完全破解任意防火墙时触发。"
 
 #: STRINGS.ITEMS.KEYWORDS.NETWORK.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.NETWORK.NAME"
 msgid "NETWORK"
-msgstr ""
+msgstr "网路"
 
 #: STRINGS.ITEMS.KEYWORDS.STIM.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.STIM.DESC"
 msgid "This effect triggers after this agent successfully uses a stim item."
-msgstr ""
+msgstr "该效果在特工成功使用智能传感器接口模块物品时触发。"
 
 #: STRINGS.ITEMS.KEYWORDS.STIM.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.STIM.NAME"
 msgid "STIM"
-msgstr ""
+msgstr "智能传感器接口模块"
 
 #: STRINGS.ITEMS.LAPTOP_INTERNATIONALE
 msgctxt "STRINGS.ITEMS.LAPTOP_INTERNATIONALE"
 msgid "Custom Console"
-msgstr ""
+msgstr "自定义操作台"
 
 #: STRINGS.ITEMS.LAPTOP_INTERNATIONALE_FLAVOR
 msgctxt "STRINGS.ITEMS.LAPTOP_INTERNATIONALE_FLAVOR"
 msgid "The mark of a great agent is the ability to take your enemy's greatest strength and turn it into their weakness."
-msgstr ""
+msgstr "一个特工伟大之处在于他能将敌人最大的优势转化为弱点的能力。"
 
 #: STRINGS.ITEMS.LAPTOP_INTERNATIONALE_TOOLTIP
 msgctxt "STRINGS.ITEMS.LAPTOP_INTERNATIONALE_TOOLTIP"
 msgid "Generates PWR when ALARM level changes if deployed.\nAlarm Level x 2 = PWR. Deploying has a 2 turn cooldown."
-msgstr ""
+msgstr "使用后警报等级为1时产生PWR。"
 
 #: STRINGS.ITEMS.LOCK_DECODER_1
 msgctxt "STRINGS.ITEMS.LOCK_DECODER_1"
 msgid "Lock Decoder"
-msgstr ""
+msgstr "电子开锁器"
 
 #: STRINGS.ITEMS.LOCK_DECODER_1_FLAVOR
 msgctxt "STRINGS.ITEMS.LOCK_DECODER_1_FLAVOR"
 msgid "A compact multi-core device capable of crunching through security door encryption locks."
-msgstr ""
+msgstr "一个小型的多核心处理设备，用于打开安全门上的加密锁。"
 
 #: STRINGS.ITEMS.LOCK_DECODER_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.LOCK_DECODER_1_TOOLTIP"
 msgid "Place on a locked door to decode and disable the lock in 2 turns."
-msgstr ""
+msgstr "放置在一个加密的门上用于解码，并使该锁在两回合内无效。"
 
 #: STRINGS.ITEMS.MED_GEL
 msgctxt "STRINGS.ITEMS.MED_GEL"
 msgid "Med Gel"
-msgstr ""
+msgstr "医疗容器"
 
 #: STRINGS.ITEMS.MED_GEL_FLAVOR
 msgctxt "STRINGS.ITEMS.MED_GEL_FLAVOR"
 msgid "A Medgel capsule contains a swarm of cellular-resotration nanobots suspended in a slurry of nutrients, antibiotics, and synthetic blood vessels. They taste like guava."
-msgstr ""
+msgstr "一个医疗胶囊包含着大量的细胞修复用纳米机器人，它们悬浮在营养素、抗生素和人造血管的混合中，尝起来像番石榴。"
 
 #: STRINGS.ITEMS.MED_GEL_TOOLTIP
 msgctxt "STRINGS.ITEMS.MED_GEL_TOOLTIP"
 msgid "One-time use. Revives a dying agent.\nStand next to a downed agent to use."
-msgstr ""
+msgstr "一次性使用。复苏一个濒死的特工。站在一个倒地的特工旁使用。"
 
 #: STRINGS.ITEMS.PARALYZER_1
 msgctxt "STRINGS.ITEMS.PARALYZER_1"
 msgid "Paralyzer I"
-msgstr ""
+msgstr "麻醉药I"
 
 #: STRINGS.ITEMS.PARALYZER_1_FLAVOR
 msgctxt "STRINGS.ITEMS.PARALYZER_1_FLAVOR"
 msgid "Uses the same toxin as a D.A.R.T, but with a much more hands-on delivery method."
-msgstr ""
+msgstr "和 用的是一种毒素，但要更好上手。"
 
 #: STRINGS.ITEMS.PARALYZER_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.PARALYZER_1_TOOLTIP"
 msgid "Use on pinned targets. KOs targets for an extra 2 turns"
-msgstr ""
+msgstr "对一个被压制的目标使用，延长目标苏醒时间2回合。"
 
 #: STRINGS.ITEMS.PARALYZER_2
 msgctxt "STRINGS.ITEMS.PARALYZER_2"
 msgid "Paralyzer II"
-msgstr ""
+msgstr "麻醉药II"
 
 #: STRINGS.ITEMS.PARALYZER_2_FLAVOR
 msgctxt "STRINGS.ITEMS.PARALYZER_2_FLAVOR"
 msgid "A slightly altered toxin incapacitates a target for a longer period of time."
-msgstr ""
+msgstr "一种略不同的毒素，能够使目标昏迷更长时间。"
 
 #: STRINGS.ITEMS.PARALYZER_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.PARALYZER_2_TOOLTIP"
 msgid "Use on pinned targets. KOs targets for an extra 3 turns"
-msgstr ""
+msgstr "对一个被压制的目标使用，延长目标苏醒时间3回合。"
 
 #: STRINGS.ITEMS.PARALYZER_3
 msgctxt "STRINGS.ITEMS.PARALYZER_3"
 msgid "Paralyzer III"
-msgstr ""
+msgstr "麻醉药III"
 
 #: STRINGS.ITEMS.PARALYZER_3_FLAVOR
 msgctxt "STRINGS.ITEMS.PARALYZER_3_FLAVOR"
 msgid "Delivers a massive dose of incapacitating toxin. Gives you time to catch your breath before running away."
-msgstr ""
+msgstr "使用一种更有效的抑制用毒素，能给你逃跑前调整好呼吸的时间。"
 
 #: STRINGS.ITEMS.PARALYZER_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.PARALYZER_3_TOOLTIP"
 msgid "Use on pinned targets. KOs targets for an extra 4 turns"
-msgstr ""
+msgstr "对一个被压制的目标使用，延长目标苏醒时间4回合。"
 
 #: STRINGS.ITEMS.PARALYZER_BANKS
 msgctxt "STRINGS.ITEMS.PARALYZER_BANKS"
 msgid "Custom Paralyzer"
-msgstr ""
+msgstr "自定义麻醉药"
 
 #: STRINGS.ITEMS.PARALYZER_BANKS_FLAVOR
 msgctxt "STRINGS.ITEMS.PARALYZER_BANKS_FLAVOR"
 msgid "Banks perfected this recipe during her time doing solo corporate heists. After dozens of successful jobs and no fatalities, she was hailed as a modern Robin Hood."
-msgstr ""
+msgstr "Banks在对集团单独盗窃时完善的这种配方。在无数次完成任务并且零伤亡的记录下，她被歌颂为当代罗宾汉。"
 
 #: STRINGS.ITEMS.PARALYZER_BANKS_TOOLTIP
 msgctxt "STRINGS.ITEMS.PARALYZER_BANKS_TOOLTIP"
 msgid "Use on pinned targets. KOs targets for an extra 3 turns."
-msgstr ""
+msgstr "对一个被压制的目标使用，延长目标苏醒时间3回合。"
 
 #: STRINGS.ITEMS.PASS_CARD
 msgctxt "STRINGS.ITEMS.PASS_CARD"
 msgid "Lvl1 Security Passcard"
-msgstr ""
+msgstr "低容低延安全身份卡"
 
 #: STRINGS.ITEMS.PASS_CARD_FLAVOR
 msgctxt "STRINGS.ITEMS.PASS_CARD_FLAVOR"
 msgid "Corporate employees are issued security passcards to track and control their movement throughout all company facilities. They also provide a discount at the cafeteria."
-msgstr ""
+msgstr "集团的雇员都会被给予这样一张身份卡来追踪并限制他们在整个公司中的行动。当然，他们也提供了在咖啡馆的折扣。"
 
 #: STRINGS.ITEMS.PASS_CARD_TOOLTIP
 msgctxt "STRINGS.ITEMS.PASS_CARD_TOOLTIP"
 msgid "Opens lvl1 security doors in this facility. Discarded at end of mission."
-msgstr ""
+msgstr "用来打开该设施中的安全门，在本任务结束时丢弃。"
 
 #: STRINGS.ITEMS.PISTOL
 msgctxt "STRINGS.ITEMS.PISTOL"
 msgid "Plasma Gun"
-msgstr ""
+msgstr "等离子枪"
 
 #: STRINGS.ITEMS.PISTOL_AMMO
 msgctxt "STRINGS.ITEMS.PISTOL_AMMO"
 msgid "Hand Cannon"
-msgstr ""
+msgstr "手铳"
 
 #: STRINGS.ITEMS.PISTOL_AMMO_FLAVOR
 msgctxt "STRINGS.ITEMS.PISTOL_AMMO_FLAVOR"
 msgid "Originally developed as a sidearm for government troops during the Resource Wars, the Hand Cannon has found a second life in the black markets of the post-government age."
-msgstr ""
+msgstr "本来是在能源战争期间作为为政府军开发的副武装，在后政府时代手铳在黑市上重获新生。"
 
 #: STRINGS.ITEMS.PISTOL_AMMO_TOOLTIP
 msgctxt "STRINGS.ITEMS.PISTOL_AMMO_TOOLTIP"
 msgid "Ranged targets. Lethal damage."
-msgstr ""
+msgstr "范围内，一击必杀。"
 
 #: STRINGS.ITEMS.PISTOL_DAM
 msgctxt "STRINGS.ITEMS.PISTOL_DAM"
 msgid "Cooker"
-msgstr ""
+msgstr "电磁棒"
 
 #: STRINGS.ITEMS.PISTOL_DAM_FLAVOR
 msgctxt "STRINGS.ITEMS.PISTOL_DAM_FLAVOR"
 msgid "The cooker bypasses even thicker armor by adding a negative counter-charge to the standard plasma bolt."
-msgstr ""
+msgstr "电磁棒能够通过附加负电荷来穿透比标准等离子电流所能穿透更强的装甲。"
 
 #: STRINGS.ITEMS.PISTOL_DAM_TOOLTIP
 msgctxt "STRINGS.ITEMS.PISTOL_DAM_TOOLTIP"
 msgid "Ranged targets. Lethal damage."
-msgstr ""
+msgstr "范围内，一击必杀。"
 
 #: STRINGS.ITEMS.PISTOL_ENERGY
 msgctxt "STRINGS.ITEMS.PISTOL_ENERGY"
 msgid "Flurry Gun"
-msgstr ""
+msgstr "暴风雪"
 
 #: STRINGS.ITEMS.PISTOL_ENERGY_FLAVOR
 msgctxt "STRINGS.ITEMS.PISTOL_ENERGY_FLAVOR"
 msgid "The Flurry is built around a hand-held nuclear reactor. When activated, the reactor goes critical, producing enough energy in a short time for practically unlimited plasma shots. Cooling rods snap into place after the burst, preventing a meltdown but rendering the gun inert until it can be serviced outside of the field."
-msgstr ""
+msgstr "暴风雪围绕在一个手持核反应炉上。启动时反应炉进入临界状态，在短时间内产生足够射出无线等离子射线的能量。冷凝棒在爆发后迅速卡位，防止核反应堆熔毁，同时也使得暴风雪在再次填充之前都只能在一旁观战。"
 
 #: STRINGS.ITEMS.PISTOL_ENERGY_TOOLTIP
 msgctxt "STRINGS.ITEMS.PISTOL_ENERGY_TOOLTIP"
 msgid "Infinite ammo. Can only be fired for one turn per mission. Still consumes an agent's attack. Lethal damage"
-msgstr ""
+msgstr "无尽火力。单次任务只能使用一次，并消耗一名特工的一次攻击。一击必杀。"
 
 #: STRINGS.ITEMS.PISTOL_FLAVOR
 msgctxt "STRINGS.ITEMS.PISTOL_FLAVOR"
 msgid "Corporate HVAC systems detect the gunpowder in traditional firearms instantly, making them useless during infiltrations. Plasma weapons may have limited ammo and a high credit cost, but at least they don't broadcast your position to the entire facility when you take them out of your pocket."
-msgstr ""
+msgstr "集团的空调系统能够迅速侦测到传统火器的火药，并使它们在行动中无效化。等离子武器拥有的弹药很有限而且很贵，但它至少不会在你把它们拿出口袋时告诉整个设施里的所有人你的位置。"
 
 #: STRINGS.ITEMS.PISTOL_KO
 msgctxt "STRINGS.ITEMS.PISTOL_KO"
 msgid "K&O Pistol"
-msgstr ""
+msgstr "K&O手枪"
 
 #: STRINGS.ITEMS.PISTOL_KO_FLAVOR
 msgctxt "STRINGS.ITEMS.PISTOL_KO_FLAVOR"
 msgid "Even low-level corporate guards are issued advanced weaponry when working at high-value installations."
-msgstr ""
+msgstr "即使是集团的低级员工在保卫高价设备时也会被配备尖端武器。"
 
 #: STRINGS.ITEMS.PISTOL_KO_TOOLTIP
 msgctxt "STRINGS.ITEMS.PISTOL_KO_TOOLTIP"
 msgid "Standard issue K&O plasma"
-msgstr ""
+msgstr "标准配备K&O等离子枪"
 
 #: STRINGS.ITEMS.PISTOL_TOOLTIP
 msgctxt "STRINGS.ITEMS.PISTOL_TOOLTIP"
 msgid "Ranged targets. Lethal damage."
-msgstr ""
+msgstr "范围内，一击必杀。"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_1
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_1"
 msgid "Portable Server I"
-msgstr ""
+msgstr "掌上服务器I"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_1_FLAVOR
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_1_FLAVOR"
 msgid "A portable server slowly increases the agents' connection to Incognita. Security forces will disrupt it if it is found."
-msgstr ""
+msgstr "能够缓慢地链接特工和Incognita的掌上服务器。如果被发现，会被安保警卫切断。"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_1_TOOLTIP"
 msgid "Generates 1 PWR per 2 turns when deployed. Deploying has a 2 turn cooldown."
-msgstr ""
+msgstr "使用时每2回合产生1点PWR。使用需要2回合冷却。"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_2
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_2"
 msgid "Portable Server II"
-msgstr ""
+msgstr "掌上服务器II"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_2_FLAVOR
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_2_FLAVOR"
 msgid "A portable server made of slightly nicer components. Try not to lose it in field - these things are expensive!"
-msgstr ""
+msgstr "用更精良的部件制造的掌上服务器。不要弄丢了-这些家伙很贵的！"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_2_TOOLTIP"
 msgid "Generates 1 PWR per 1 turns when deployed. Deploying has a 2 turn cooldown."
-msgstr ""
+msgstr "使用时每1回合产生1点PWR。使用需要2回合冷却。"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_3
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_3"
 msgid "Portable Server III"
-msgstr ""
+msgstr "掌上服务器III"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_3_FLAVOR
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_3_FLAVOR"
 msgid "An overclocked version of the portable server. Higher numbers are always better, right?"
-msgstr ""
+msgstr "一个超频版本的掌上服务器。高数值总是高回报，不是么？"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_3_TOOLTIP"
 msgid "Generates 2 PWR per 1 turn when deployed. Deploying has a 2 turn cooldown."
-msgstr ""
+msgstr "使用时每1回合产生2点PWR。使用需要2回合冷却。"
 
 #: STRINGS.ITEMS.PROTOCHIP
 msgctxt "STRINGS.ITEMS.PROTOCHIP"
 msgid "Prototype Chip"
-msgstr ""
+msgstr "原型芯片"
 
 #: STRINGS.ITEMS.PROTOCHIP_FLAVOR
 msgctxt "STRINGS.ITEMS.PROTOCHIP_FLAVOR"
 msgid "This bleeding-edge device is a stolen classified prototype."
-msgstr ""
+msgstr "这种尖端设备是窃取来的机密原型。"
 
 #: STRINGS.ITEMS.PROTOCHIP_FORMAT
 msgctxt "STRINGS.ITEMS.PROTOCHIP_FORMAT"
@@ -4321,17 +4321,17 @@ msgstr ""
 #: STRINGS.ITEMS.PROTOCHIP_HEADER
 msgctxt "STRINGS.ITEMS.PROTOCHIP_HEADER"
 msgid "STORED PWR"
-msgstr ""
+msgstr "储蓄PWR"
 
 #: STRINGS.ITEMS.PROTOCHIP_TOOLTIP
 msgctxt "STRINGS.ITEMS.PROTOCHIP_TOOLTIP"
 msgid "Use at a console to drain and store PWR. Stored PWR can be used to hack devices."
-msgstr ""
+msgstr "在操作台使用消耗并储蓄PWR。储蓄的PWR可以用于入寝设备。"
 
 #: STRINGS.ITEMS.QUEST_MATERIAL
 msgctxt "STRINGS.ITEMS.QUEST_MATERIAL"
 msgid "Mysterious Material"
-msgstr ""
+msgstr "神秘材料"
 
 #: STRINGS.ITEMS.QUEST_MATERIAL_FLAVOR
 msgctxt "STRINGS.ITEMS.QUEST_MATERIAL_FLAVOR"
@@ -4341,52 +4341,52 @@ msgstr ""
 #: STRINGS.ITEMS.QUEST_MATERIAL_TIP
 msgctxt "STRINGS.ITEMS.QUEST_MATERIAL_TIP"
 msgid "A block of mysterious material."
-msgstr ""
+msgstr "一块神秘材料"
 
 #: STRINGS.ITEMS.RADIO
 msgctxt "STRINGS.ITEMS.RADIO"
 msgid "SPIFFY RADIO"
-msgstr ""
+msgstr "时髦无线电"
 
 #: STRINGS.ITEMS.RADIO_FLAVOR
 msgctxt "STRINGS.ITEMS.RADIO_FLAVOR"
 msgid "A neat-looking radio. It has a knob labeled 'Intensity'."
-msgstr ""
+msgstr "长得很好看的无线电。凸起上标着“亮度”"
 
 #: STRINGS.ITEMS.REVOLVER_DECKARD
 msgctxt "STRINGS.ITEMS.REVOLVER_DECKARD"
 msgid "Refurbished Revolver"
-msgstr ""
+msgstr "翻新左轮"
 
 #: STRINGS.ITEMS.REVOLVER_DECKARD_FLAVOR
 msgctxt "STRINGS.ITEMS.REVOLVER_DECKARD_FLAVOR"
 msgid "An old revolver that has been extensively refurbished to work nearly as well as modern plasma gun. Each bullet is an irreplaceable hand-made plasma composite."
-msgstr ""
+msgstr "一把被大规模翻新的左轮，用起来就和现代的等离子枪一样，每一发子弹都是无可挑剔的手工等离子复合物。"
 
 #: STRINGS.ITEMS.REVOLVER_DECKARD_TOOLTIP
 msgctxt "STRINGS.ITEMS.REVOLVER_DECKARD_TOOLTIP"
 msgid "Ranged targets. Lethal damage. Cannot reload."
-msgstr ""
+msgstr "范围内，一击必杀。不能重装上弹。"
 
 #: STRINGS.ITEMS.RIFLE_SHALEM
 msgctxt "STRINGS.ITEMS.RIFLE_SHALEM"
 msgid "Desert Wind"
-msgstr ""
+msgstr "荒野暴风"
 
 #: STRINGS.ITEMS.RIFLE_SHALEM_FLAVOR
 msgctxt "STRINGS.ITEMS.RIFLE_SHALEM_FLAVOR"
 msgid "Shalem's personal rifle, which he used to great effect during his career as a licensed assassin."
-msgstr ""
+msgstr "Shalem的专用来福，在他的职业暗杀者生涯中功不可没。"
 
 #: STRINGS.ITEMS.RIFLE_SHALEM_TOOLTIP
 msgctxt "STRINGS.ITEMS.RIFLE_SHALEM_TOOLTIP"
 msgid "Ranged targets. Lethal damage."
-msgstr ""
+msgstr "范围内，一击必杀。"
 
 #: STRINGS.ITEMS.RIFLE_SNIPER
 msgctxt "STRINGS.ITEMS.RIFLE_SNIPER"
 msgid "Spec Ops's Rifle"
-msgstr ""
+msgstr "Spec Ops的来福"
 
 #: STRINGS.ITEMS.RIFLE_SNIPER_FLAVOR
 msgctxt "STRINGS.ITEMS.RIFLE_SNIPER_FLAVOR"
@@ -4401,112 +4401,112 @@ msgstr ""
 #: STRINGS.ITEMS.RIFLE_XRAY
 msgctxt "STRINGS.ITEMS.RIFLE_XRAY"
 msgid "X-Ray Rifle"
-msgstr ""
+msgstr "X光来福"
 
 #: STRINGS.ITEMS.RIFLE_XRAY_FLAVOR
 msgctxt "STRINGS.ITEMS.RIFLE_XRAY_FLAVOR"
 msgid "An experimental plasma weapon capable of tracking targets through walls."
-msgstr ""
+msgstr "一种还在试验中的等离子武器。能够穿墙追踪目标。"
 
 #: STRINGS.ITEMS.RIFLE_XRAY_TOOLTIP
 msgctxt "STRINGS.ITEMS.RIFLE_XRAY_TOOLTIP"
 msgid "Ranged targets. Lethal damage."
-msgstr ""
+msgstr "范围内，一击必杀。"
 
 #: STRINGS.ITEMS.SCAN_CHIP
 msgctxt "STRINGS.ITEMS.SCAN_CHIP"
 msgid "SCAN CHIP"
-msgstr ""
+msgstr "扫描芯片"
 
 #: STRINGS.ITEMS.SCAN_CHIP_FLAVOR
 msgctxt "STRINGS.ITEMS.SCAN_CHIP_FLAVOR"
 msgid "Initially a 'search and destroy' virus protection device, its software development team could not keep up in the virtual space cold war. It still makes for a useful diagnostic tool."
-msgstr ""
+msgstr "最开始只是一个用于搜寻并破坏的病毒保护设备，它的软件开发团队跟不上虚拟空间冷战的进度。它也可以作为有用的诊断程序。"
 
 #: STRINGS.ITEMS.SCAN_CHIP_TOOLTIP
 msgctxt "STRINGS.ITEMS.SCAN_CHIP_TOOLTIP"
 msgid "Reveals hidden Daemons and identifies its type on mainframe device."
-msgstr ""
+msgstr "发现隐藏的守护进程并鉴别它在主机上的类型。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_1
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_1"
 msgid "Shock Trap I"
-msgstr ""
+msgstr "震荡陷阱I"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_1_FLAVOR
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_1_FLAVOR"
 msgid "A neural disrupter can be installed on a door to provide an improvised trap."
-msgstr ""
+msgstr "一种能够安装在门上作为进阶陷阱的神经破坏装置。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_1_TOOLTIP"
 msgid "Place on a door. Triggers when opened. Ignores Armor."
-msgstr ""
+msgstr "放置在门上。开门时触发。无视护甲"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_2
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_2"
 msgid "Shock Trap II"
-msgstr ""
+msgstr "震荡陷阱 II"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_2_FLAVOR
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_2_FLAVOR"
 msgid "A neural disrupter can be installed on a door to provide an improvised trap."
-msgstr ""
+msgstr "一种能够安装在门上作为进阶陷阱的神经破坏装置。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_2_TOOLTIP"
 msgid "Place on a door. Triggers when opened. Ignores Armor."
-msgstr ""
+msgstr "放置在门上。开门时触发。无视护甲"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_3
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_3"
 msgid "Shock Trap III"
-msgstr ""
+msgstr "震荡陷阱 III"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_3_FLAVOR
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_3_FLAVOR"
 msgid "A neural disrupter can be installed on a door to provide an improvised trap."
-msgstr ""
+msgstr "一种能够安装在门上作为进阶陷阱的神经破坏装置。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_3_TOOLTIP"
 msgid "Place on a door. Triggers when opened. Has an area of effect. Ignores Armor."
-msgstr ""
+msgstr "放置在门上。开门时触发。无视护甲"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_MOD
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_MOD"
 msgid "Jury Rigged Shock Trap"
-msgstr ""
+msgstr "临时震荡陷阱"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_MOD_FLAVOR
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_MOD_FLAVOR"
 msgid "Cobbled together from available parts. It will probably work."
-msgstr ""
+msgstr "由已有的零件整合而来，大概能用。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_MOD_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_MOD_TOOLTIP"
 msgid "Place on a door. Triggers when opened. One time use. Ignores Armor."
-msgstr ""
+msgstr "放置在门上。开门时触发。一次性使用。无视护甲"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_TONY
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_TONY"
 msgid "Modded Shock Trap"
-msgstr ""
+msgstr "改装震荡陷阱"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_TONY_FLAVOR
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_TONY_FLAVOR"
 msgid "Dr Xu faced disciplinary action at his university more than once for leaving activated shock traps on his door during office hours."
-msgstr ""
+msgstr "徐博士在大学时代多次面临惩罚，因为他不在办公室的时候把启动的震荡陷阱放在他的门上。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_TONY_TOOLTIP
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_TONY_TOOLTIP"
 msgid "Place on a door. Triggers when opened. Ignores Armor."
-msgstr ""
+msgstr "放置在门上。开门时触发。无视护甲"
 
 #: STRINGS.ITEMS.SMG
 msgctxt "STRINGS.ITEMS.SMG"
 msgid "SMG"
-msgstr ""
+msgstr "半自动步枪"
 
 #: STRINGS.ITEMS.SMG_FLAVOR
 msgctxt "STRINGS.ITEMS.SMG_FLAVOR"
@@ -4521,182 +4521,182 @@ msgstr ""
 #: STRINGS.ITEMS.STIM_1
 msgctxt "STRINGS.ITEMS.STIM_1"
 msgid "Stim I"
-msgstr ""
+msgstr "兴奋剂I"
 
 #: STRINGS.ITEMS.STIM_1_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_1_FLAVOR"
 msgid "A cocktail of brain-and-muscle enhancing chemicals. It's best not to ask about the details."
-msgstr ""
+msgstr "一种对大脑和肌肉作用的刺激性化学物配置的鸡尾酒。最好不要知道太多细节。"
 
 #: STRINGS.ITEMS.STIM_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.STIM_1_TOOLTIP"
 msgid "Restores 4 AP."
-msgstr ""
+msgstr "恢复4AP"
 
 #: STRINGS.ITEMS.STIM_2
 msgctxt "STRINGS.ITEMS.STIM_2"
 msgid "Stim II"
-msgstr ""
+msgstr "兴奋剂II"
 
 #: STRINGS.ITEMS.STIM_2_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_2_FLAVOR"
 msgid "A strong cocktail of enhancement chemicals. May be slightly addictive."
-msgstr ""
+msgstr "一种强力的刺激性化学物鸡尾酒。可能会轻微地上瘾。"
 
 #: STRINGS.ITEMS.STIM_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.STIM_2_TOOLTIP"
 msgid "Restores 6 AP."
-msgstr ""
+msgstr "恢复6AP"
 
 #: STRINGS.ITEMS.STIM_3
 msgctxt "STRINGS.ITEMS.STIM_3"
 msgid "Stim III"
-msgstr ""
+msgstr "兴奋剂III"
 
 #: STRINGS.ITEMS.STIM_3_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_3_FLAVOR"
 msgid "A dangerously strong cocktail of performance enhancing chemicals. Have you ever looked at your hands? I mean, *really* looked?"
-msgstr ""
+msgstr "一种很危险的强力鸡尾酒，由强刺激性化学物配置。你看得到你的手吗？嗯，我是说，真的，看的，到吗？"
 
 #: STRINGS.ITEMS.STIM_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.STIM_3_TOOLTIP"
 msgid "Refreshes an agent's attack and restores 8 AP."
-msgstr ""
+msgstr "重置一个特工的攻击并恢复8点AP"
 
 #: STRINGS.ITEMS.TAGGER_GUN
 msgctxt "STRINGS.ITEMS.TAGGER_GUN"
 msgid "T.A.G. Pistol"
-msgstr ""
+msgstr "T.A.G.手枪"
 
 #: STRINGS.ITEMS.TAGGER_GUN_FLAVOR
 msgctxt "STRINGS.ITEMS.TAGGER_GUN_FLAVOR"
 msgid "Launches an undetectable microdrone that continuously transmits geolocational telemetry to a central server via quantum entanglement."
-msgstr ""
+msgstr "发射一个不可被侦测的微型无人机，通过量子纠缠不断地给中央处理器传输遥测定位。"
 
 #: STRINGS.ITEMS.TAGGER_GUN_TIP
 msgctxt "STRINGS.ITEMS.TAGGER_GUN_TIP"
 msgid "PWR operated pistol that tags a guard to show his patrol paths."
-msgstr ""
+msgstr "用PWR操控的手枪，能够标记一个警卫并显示他的巡逻路线。"
 
 #: STRINGS.ITEMS.TAZER_1
 msgctxt "STRINGS.ITEMS.TAZER_1"
 msgid "Neural Disrupter"
-msgstr ""
+msgstr "神经干扰装置"
 
 #: STRINGS.ITEMS.TAZER_1_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_1_FLAVOR"
 msgid "Neural disrupters replace a person's thoughts with sparkly lights for a limited time."
-msgstr ""
+msgstr "神经干扰装置能够在一定时间内用闪光替换一个人的思想"
 
 #: STRINGS.ITEMS.TAZER_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_1_TOOLTIP"
 msgid "Melee range"
-msgstr ""
+msgstr "小范围"
 
 #: STRINGS.ITEMS.TAZER_2
 msgctxt "STRINGS.ITEMS.TAZER_2"
 msgid "Neural Disrupter II"
-msgstr ""
+msgstr "神经干扰装置II"
 
 #: STRINGS.ITEMS.TAZER_2_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_2_FLAVOR"
 msgid "Neural disrupters replace a person's thoughts with sparkly lights for a limited time."
-msgstr ""
+msgstr "神经干扰装置能够在一定时间内用闪光替换一个人的思想"
 
 #: STRINGS.ITEMS.TAZER_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_2_TOOLTIP"
 msgid "Melee range"
-msgstr ""
+msgstr "小范围"
 
 #: STRINGS.ITEMS.TAZER_3
 msgctxt "STRINGS.ITEMS.TAZER_3"
 msgid "Neural Disrupter III"
-msgstr ""
+msgstr "神经干扰装置III"
 
 #: STRINGS.ITEMS.TAZER_3_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_3_FLAVOR"
 msgid "Neural disrupters replace a person's thoughts with sparkly lights for a limited time."
-msgstr ""
+msgstr "神经干扰装置能够在一定时间内用闪光替换一个人的思想"
 
 #: STRINGS.ITEMS.TAZER_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_3_TOOLTIP"
 msgid "Melee range"
-msgstr ""
+msgstr "小范围"
 
 #: STRINGS.ITEMS.TAZER_DECKARD
 msgctxt "STRINGS.ITEMS.TAZER_DECKARD"
 msgid "Tracking Neural Disrupter"
-msgstr ""
+msgstr "追踪型神经干扰装置"
 
 #: STRINGS.ITEMS.TAZER_DECKARD_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_DECKARD_FLAVOR"
 msgid "Always the paranoid type, Decker modded his disrupter to implant a subdermal tracking chip in its victims."
-msgstr ""
+msgstr "总是那样的偏执，Decker把他的干扰装置改装到能给目标植入皮下追踪芯片。"
 
 #: STRINGS.ITEMS.TAZER_DECKARD_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_DECKARD_TOOLTIP"
 msgid "Melee range. TAGS guards on KO, tracking their movement."
-msgstr ""
+msgstr "小范围。标记到底目标，追踪其踪迹。"
 
 #: STRINGS.ITEMS.TAZER_PWR_1
 msgctxt "STRINGS.ITEMS.TAZER_PWR_1"
 msgid "Volt Disrupter I"
-msgstr ""
+msgstr "电压干扰器"
 
 #: STRINGS.ITEMS.TAZER_PWR_1_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_PWR_1_FLAVOR"
 msgid "Volt disrupters channel PWR to disrupt the Noosphere around a target, incapacitating them for a time."
-msgstr ""
+msgstr "电压干扰器引导PWR干扰目标周围的电流，使其在一定时间内失去行动能力。"
 
 #: STRINGS.ITEMS.TAZER_PWR_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_PWR_1_TOOLTIP"
 msgid "Melee range"
-msgstr ""
+msgstr "小范围"
 
 #: STRINGS.ITEMS.TAZER_PWR_2
 msgctxt "STRINGS.ITEMS.TAZER_PWR_2"
 msgid "Volt Disrupter II"
-msgstr ""
+msgstr "电压干扰器 II"
 
 #: STRINGS.ITEMS.TAZER_PWR_2_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_PWR_2_FLAVOR"
 msgid "Volt disrupters channel PWR to disrupt the Noosphere around a target, incapacitating them for a time."
-msgstr ""
+msgstr "电压干扰器引导PWR干扰目标周围的电流，使其在一定时间内失去行动能力。"
 
 #: STRINGS.ITEMS.TAZER_PWR_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_PWR_2_TOOLTIP"
 msgid "Melee range"
-msgstr ""
+msgstr "小范围"
 
 #: STRINGS.ITEMS.TAZER_PWR_3
 msgctxt "STRINGS.ITEMS.TAZER_PWR_3"
 msgid "Volt Disrupter III"
-msgstr ""
+msgstr "电压干扰器 III"
 
 #: STRINGS.ITEMS.TAZER_PWR_3_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_PWR_3_FLAVOR"
 msgid "Volt disrupters channel PWR to disrupt the Noosphere around a target, incapacitating them for a time."
-msgstr ""
+msgstr "电压干扰器引导PWR干扰目标周围的电流，使其在一定时间内失去行动能力。"
 
 #: STRINGS.ITEMS.TAZER_PWR_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_PWR_3_TOOLTIP"
 msgid "Melee range"
-msgstr ""
+msgstr "小范围"
 
 #: STRINGS.ITEMS.TAZER_PWR_NIKA
 msgctxt "STRINGS.ITEMS.TAZER_PWR_NIKA"
 msgid "Nika's Volt Disrupter"
-msgstr ""
+msgstr "Nika专属电压干扰器"
 
 #: STRINGS.ITEMS.TAZER_PWR_NIKA_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_PWR_NIKA_FLAVOR"
 msgid "Nika carves a notch out of her Disrupter each time she takes down someone with it. It's gotten noticeably lighter over the years."
-msgstr ""
+msgstr "Nika每干掉一个人就会在她的干扰器上刻一个圆形切口。这些年她的干扰器显然轻一些了。"
 
 #: STRINGS.ITEMS.TAZER_PWR_NIKA_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_PWR_NIKA_TOOLTIP"
 msgid "Melee range"
-msgstr ""
+msgstr "小范围"
 
 #: STRINGS.ITEMS.TAZER_SHALEM
 msgctxt "STRINGS.ITEMS.TAZER_SHALEM"
@@ -4706,147 +4706,147 @@ msgstr ""
 #: STRINGS.ITEMS.TAZER_SHALEM_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_SHALEM_FLAVOR"
 msgid "Shalem's personal neural disrupter isn't even particularly nice, but he keeps it around for sentimental reasons."
-msgstr ""
+msgstr "Shalem的个人神经干扰器看上去并不是在万全的状态，但他出于个人的情感需求还是在使用。"
 
 #: STRINGS.ITEMS.TAZER_SHALEM_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_SHALEM_TOOLTIP"
 msgid "Melee range"
-msgstr ""
+msgstr "小范围"
 
 #: STRINGS.ITEMS.TOOLTIPS.AIM
 msgctxt "STRINGS.ITEMS.TOOLTIPS.AIM"
 msgid "AIM"
-msgstr ""
+msgstr "瞄准镜"
 
 #: STRINGS.ITEMS.TOOLTIPS.AIM_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.AIM_DESC"
 msgid "Click this weapon to aim and shoot at an enemy."
-msgstr ""
+msgstr "点击该武器以瞄准射击一个敌人。"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING"
 msgid "Armor Piercing"
-msgstr ""
+msgstr "破甲"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_DESC"
 msgid "Armor Piercing %d"
-msgstr ""
+msgstr "破甲"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_NONE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_NONE"
 msgid "No Armor Piercing"
-msgstr ""
+msgstr "无破甲"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_NONE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_NONE_DESC"
 msgid "This item does not pierce through enemy armor."
-msgstr ""
+msgstr "该物品并不能穿透敌方装甲"
 
 #: STRINGS.ITEMS.TOOLTIPS.CANTAG
 msgctxt "STRINGS.ITEMS.TOOLTIPS.CANTAG"
 msgid "Tags a target"
-msgstr ""
+msgstr "标记一个目标"
 
 #: STRINGS.ITEMS.TOOLTIPS.CANTAG_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.CANTAG_DESC"
 msgid "Tagged targets reveal their patrol paths"
-msgstr ""
+msgstr "被标记的目标将显示出巡逻路径"
 
 #: STRINGS.ITEMS.TOOLTIPS.COSTPOWER
 msgctxt "STRINGS.ITEMS.TOOLTIPS.COSTPOWER"
 msgid "Use PWR"
-msgstr ""
+msgstr "使用PWR"
 
 #: STRINGS.ITEMS.TOOLTIPS.COSTPOWER_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.COSTPOWER_DESC"
 msgid "Consumes %d PWR when used"
-msgstr ""
+msgstr "使用时消耗：PWR"
 
 #: STRINGS.ITEMS.TOOLTIPS.DISPOSABLE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.DISPOSABLE"
 msgid "DISPOSABLE"
-msgstr ""
+msgstr "一次性"
 
 #: STRINGS.ITEMS.TOOLTIPS.DISPOSABLE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.DISPOSABLE_DESC"
 msgid "This item has one use only."
-msgstr ""
+msgstr "该物品只能使用一次"
 
 #: STRINGS.ITEMS.TOOLTIPS.EMP_SAFE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.EMP_SAFE"
 msgid "EMP RESISTANT"
-msgstr ""
+msgstr "免疫EMP"
 
 #: STRINGS.ITEMS.TOOLTIPS.EMP_SAFE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.EMP_SAFE_DESC"
 msgid "These safes require an electronic signal to open. They do not function while deactivated."
-msgstr ""
+msgstr "这些金柜需要一种电磁信号才能打开。它们在非激活状态并不起作用。"
 
 #: STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR
 msgctxt "STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR"
 msgid "Ignores Armor"
-msgstr ""
+msgstr "无视护甲"
 
 #: STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR_DESC"
 msgid "A targets armor level does not matter to this weapon."
-msgstr ""
+msgstr "目标的护甲等级对该武器不在话下。"
 
 #: STRINGS.ITEMS.TOOLTIPS.INSTALL
 msgctxt "STRINGS.ITEMS.TOOLTIPS.INSTALL"
 msgid "INSTALL"
-msgstr ""
+msgstr "安装"
 
 #: STRINGS.ITEMS.TOOLTIPS.INSTALL_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.INSTALL_DESC"
 msgid "This device must be INSTALLED to function."
-msgstr ""
+msgstr "该装备必须被安装后才能使用。"
 
 #: STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE"
 msgid "KO Damage"
-msgstr ""
+msgstr "倒地昏迷"
 
 #: STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE_DESC"
 msgid "Knocks a guard out for %d turns"
-msgstr ""
+msgstr "击倒一个守卫并使其昏迷 %d回合"
 
 #: STRINGS.ITEMS.TOOLTIPS.MASS_PWR_DRAIN
 msgctxt "STRINGS.ITEMS.TOOLTIPS.MASS_PWR_DRAIN"
 msgid "Massive PWR Drain"
-msgstr ""
+msgstr "大量PWR消耗"
 
 #: STRINGS.ITEMS.TOOLTIPS.MASS_PWR_DRAIN_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.MASS_PWR_DRAIN_DESC"
 msgid "Drains all PWR, resetting it to 0."
-msgstr ""
+msgstr "消耗全部PWR，重设其到0."
 
 #: STRINGS.ITEMS.TOOLTIPS.RANGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RANGE"
 msgid "Range"
-msgstr ""
+msgstr "范围"
 
 #: STRINGS.ITEMS.TOOLTIPS.RANGE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RANGE_DESC"
 msgid "The effect will reach %d tiles"
-msgstr ""
+msgstr "该效果影响范围有%d 格"
 
 #: STRINGS.ITEMS.TOOLTIPS.RECHARGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RECHARGE"
 msgid "Cooldown"
-msgstr ""
+msgstr "冷却"
 
 #: STRINGS.ITEMS.TOOLTIPS.RECHARGE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RECHARGE_DESC"
 msgid "%d turn cooldown"
-msgstr ""
+msgstr "%d回合冷却时间"
 
 #: STRINGS.ITEMS.TURRET
 msgctxt "STRINGS.ITEMS.TURRET"
 msgid "turret gun"
-msgstr ""
+msgstr "炮台"
 
 #: STRINGS.ITEMS.TURRET_FLAVOR
 msgctxt "STRINGS.ITEMS.TURRET_FLAVOR"
@@ -4861,27 +4861,27 @@ msgstr ""
 #: STRINGS.ITEMS.VAULT_PASS
 msgctxt "STRINGS.ITEMS.VAULT_PASS"
 msgid "Vault Access Card"
-msgstr ""
+msgstr "金库权限卡"
 
 #: STRINGS.ITEMS.VAULT_PASS_FLAVOR
 msgctxt "STRINGS.ITEMS.VAULT_PASS_FLAVOR"
 msgid "As it turns out, the code was just 'password123'."
-msgstr ""
+msgstr "结果是，这代码真tm简单。"
 
 #: STRINGS.ITEMS.VAULT_PASS_TOOLTIP
 msgctxt "STRINGS.ITEMS.VAULT_PASS_TOOLTIP"
 msgid "Opens the special high-security vault doors in corporate vault and cybernetics lab locations."
-msgstr ""
+msgstr "打开这些集团特殊的高等安全金库门和数控实验室。"
 
 #: STRINGS.ITEMS.WIRELESS_SCANNER
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER"
 msgid "Wireless Scanner"
-msgstr ""
+msgstr "无线扫描仪"
 
 #: STRINGS.ITEMS.WIRELESS_SCANNER_CUSTOM
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER_CUSTOM"
 msgid "Custom Scanner"
-msgstr ""
+msgstr "定制扫描仪"
 
 #: STRINGS.ITEMS.WIRELESS_SCANNER_FLAVOR
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER_FLAVOR"
@@ -4891,122 +4891,122 @@ msgstr ""
 #: STRINGS.ITEMS.WIRELESS_SCANNER_TOOLTIP
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER_TOOLTIP"
 msgid "Passively scans for Mainframe devices within range."
-msgstr ""
+msgstr "用于范围内主机设备的被动扫描"
 
 #: STRINGS.LOADING.ERR_BODY
 msgctxt "STRINGS.LOADING.ERR_BODY"
 msgid "There was an error loading. Pressing CONTINUE will load to the state before the error occured.\n<font1_10_r>\n{1}</>"
-msgstr ""
+msgstr "载入错误。按下 继续 将会载入错误出现前的状态。"
 
 #: STRINGS.LOADING.ERR_TITLE
 msgctxt "STRINGS.LOADING.ERR_TITLE"
 msgid "OOPS!"
-msgstr ""
+msgstr "诶靠！"
 
 #: STRINGS.LOADING.TRY_AGAIN
 msgctxt "STRINGS.LOADING.TRY_AGAIN"
 msgid "REGENERATE LEVEL"
-msgstr ""
+msgstr "重新选择难度"
 
 #: STRINGS.LOADING_TIPS.1
 msgctxt "STRINGS.LOADING_TIPS.1"
 msgid "Standing on a knocked out enemy prevents them from awakening."
-msgstr ""
+msgstr "站在一个倒地的敌人身上将会抑制他们的苏醒。"
 
 #: STRINGS.LOADING_TIPS.10
 msgctxt "STRINGS.LOADING_TIPS.10"
 msgid "Win or lose, each campaign earns you XP that unlocks new agents and programs. "
-msgstr ""
+msgstr "不论输赢，每一次行动都会为你带来经验来解锁新的特工和程序"
 
 #: STRINGS.LOADING_TIPS.11
 msgctxt "STRINGS.LOADING_TIPS.11"
 msgid "Certain firewalls are protected by Daemons. Hacking them will cause an enemy program to install."
-msgstr ""
+msgstr "特定防火墙被守护进程保护着。入寝它们将会导致敌人的程序被安装。"
 
 #: STRINGS.LOADING_TIPS.12
 msgctxt "STRINGS.LOADING_TIPS.12"
 msgid "Consider your targets carefully. Each Corporation has different strengths and weaknesses."
-msgstr ""
+msgstr "认真的思考你的目标。每个集团都有不同的强项和弱点。"
 
 #: STRINGS.LOADING_TIPS.13
 msgctxt "STRINGS.LOADING_TIPS.13"
 msgid "Lethal weapons are rare and costly, but sometimes they're the only way out of a tough situation."
-msgstr ""
+msgstr "致命武器十分稀有珍贵，不过有些时候你还必须得依靠这些东西才能脱离困境。"
 
 #: STRINGS.LOADING_TIPS.14
 msgctxt "STRINGS.LOADING_TIPS.14"
 msgid "You can use one AP to OBSERVE a guard and see his predicted movement path for the next turn."
-msgstr ""
+msgstr "你可以使用1点AP来观察一个警卫并看到他下回合的行动预测线"
 
 #: STRINGS.LOADING_TIPS.15
 msgctxt "STRINGS.LOADING_TIPS.15"
 msgid "Move behind and around cover to avoid investigating guards."
-msgstr ""
+msgstr 移动到掩体背后或是附近来躲避调查的警卫""
 
 #: STRINGS.LOADING_TIPS.16
 msgctxt "STRINGS.LOADING_TIPS.16"
 msgid "Incapacitated agents can be dragged to the exit."
-msgstr ""
+msgstr "失去行动能力的特工可以被拖到出口。"
 
 #: STRINGS.LOADING_TIPS.17
 msgctxt "STRINGS.LOADING_TIPS.17"
 msgid "Each level is procedurally generated, so make sure you scout thoroughly. Information is power."
-msgstr ""
+msgstr "每一层都是程序随机产生的，所以确保你彻底地探索了。情报就是力量啊！"
 
 #: STRINGS.LOADING_TIPS.18
 msgctxt "STRINGS.LOADING_TIPS.18"
 msgid "If you lose an agent during a mission, you may be able to find them in a Detention Center."
-msgstr ""
+msgstr "如果一次行动中你失去了特工，你可以在在拘留中心找到他们。"
 
 #: STRINGS.LOADING_TIPS.19
 msgctxt "STRINGS.LOADING_TIPS.19"
 msgid "Server Farms contain many new programs for Incognita, improving your ability to breach enemy firewalls."
-msgstr ""
+msgstr "服务器区域包含着很多为Incognita准备的程序，这些程序能够提升你破解敌人防火墙的能力。"
 
 #: STRINGS.LOADING_TIPS.2
 msgctxt "STRINGS.LOADING_TIPS.2"
 msgid "End your agents' turns with their backs against cover objects. It'll lengthen their life expectancy."
-msgstr ""
+msgstr "在结束你的回合前让你的特工背靠掩体，这样讲提高他们的生存几率。"
 
 #: STRINGS.LOADING_TIPS.20
 msgctxt "STRINGS.LOADING_TIPS.20"
 msgid "Unlocking new starting agents and programs can drastically change your strategies."
-msgstr ""
+msgstr "解锁新的特工和程序能够极大地改变你的策略。"
 
 #: STRINGS.LOADING_TIPS.21
 msgctxt "STRINGS.LOADING_TIPS.21"
 msgid "Hold [ALT] to turn on Tactical View and get a clearer picture of the current situation."
-msgstr ""
+msgstr "按住【ALT】键切换入战术视角来获得对现在局势更好的把控。"
 
 #: STRINGS.LOADING_TIPS.22
 msgctxt "STRINGS.LOADING_TIPS.22"
 msgid "As the difficulty of the missions increase, each corporation will bring in unique threats to counter you."
-msgstr ""
+msgstr "随着任务难度的加大，各个集团也将使用独特的装备来对付你。"
 
 #: STRINGS.LOADING_TIPS.23
 msgctxt "STRINGS.LOADING_TIPS.23"
 msgid "You can find powerful weapons in nanofabs, but you'll need to make sure you save credits to buy them."
-msgstr ""
+msgstr "你能在纳米打印机中找到强力的武器，不过你得省下足够的CR。"
 
 #: STRINGS.LOADING_TIPS.3
 msgctxt "STRINGS.LOADING_TIPS.3"
 msgid "If you make a mistake, you can use REWIND to go back in time."
-msgstr ""
+msgstr "如果你犯了错误，你可以使用 回溯 及时地返回。"
 
 #: STRINGS.LOADING_TIPS.4
 msgctxt "STRINGS.LOADING_TIPS.4"
 msgid "Augments are passive upgrades for your agents. They can be extremely helpful."
-msgstr ""
+msgstr "植入体是对特工的被动升级。这东西十分有用。"
 
 #: STRINGS.LOADING_TIPS.5
 msgctxt "STRINGS.LOADING_TIPS.5"
 msgid "Scout ahead, and observe guards to see their patrol paths."
-msgstr ""
+msgstr "侦查前方，观察警卫并预测他们的行动路线。"
 
 #: STRINGS.LOADING_TIPS.6
 msgctxt "STRINGS.LOADING_TIPS.6"
 msgid "Peek around open doors to get a clearer view of the room."
-msgstr ""
+msgstr "打开门窥探能够看到房间里更清楚的情况。"
 
 #: STRINGS.LOADING_TIPS.7
 msgctxt "STRINGS.LOADING_TIPS.7"
