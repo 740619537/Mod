@@ -10046,967 +10046,967 @@ msgstr "继续"
 #: STRINGS.SCREENS.STR_225809901
 msgctxt "STRINGS.SCREENS.STR_225809901"
 msgid "Options and Close"
-msgstr ""
+msgstr "选择并关闭"
 
 #: STRINGS.SCREENS.STR_2264924906
 msgctxt "STRINGS.SCREENS.STR_2264924906"
 msgid "ROTATE CAMERA"
-msgstr ""
+msgstr "旋转视角"
 
 #: STRINGS.SCREENS.STR_2286587580
 msgctxt "STRINGS.SCREENS.STR_2286587580"
 msgid "REWIND will revert the simulation back to the start of your previous turn.\n\nWould you like to do so now?"
-msgstr ""
+msgstr "回溯将会让你回到上个回合开始的时候。\n\n你想现在就这样做吗？"
 
 #: STRINGS.SCREENS.STR_2316165232
 msgctxt "STRINGS.SCREENS.STR_2316165232"
 msgid "SPECIAL THANKS"
-msgstr ""
+msgstr "特别感谢"
 
 #: STRINGS.SCREENS.STR_2327109129
 msgctxt "STRINGS.SCREENS.STR_2327109129"
 msgid "KNOCKOUT & PINNING"
-msgstr ""
+msgstr "击晕并压制"
 
 #: STRINGS.SCREENS.STR_2328831579
 msgctxt "STRINGS.SCREENS.STR_2328831579"
 msgid "Subtitles"
-msgstr ""
+msgstr "字幕"
 
 #: STRINGS.SCREENS.STR_2333922724
 msgctxt "STRINGS.SCREENS.STR_2333922724"
 msgid "REWARDS"
-msgstr ""
+msgstr "奖励"
 
 #: STRINGS.SCREENS.STR_2338805762
 msgctxt "STRINGS.SCREENS.STR_2338805762"
 msgid "EASY"
-msgstr ""
+msgstr "简单"
 
 #: STRINGS.SCREENS.STR_2345611879
 msgctxt "STRINGS.SCREENS.STR_2345611879"
 msgid "INSTALL AUGMENT SOCKET"
-msgstr ""
+msgstr "安装植入体插口"
 
 #: STRINGS.SCREENS.STR_2353183188
 msgctxt "STRINGS.SCREENS.STR_2353183188"
 msgid "Press [ ESC ] to skip"
-msgstr ""
+msgstr "按下 [ ESC ] 跳过"
 
 #: STRINGS.SCREENS.STR_2361291957
 msgctxt "STRINGS.SCREENS.STR_2361291957"
 msgid "M A N I P U L A T E  T H E  G U A R D S"
-msgstr ""
+msgstr "操 纵 警 卫"
 
 #: STRINGS.SCREENS.STR_2379899877
 msgctxt "STRINGS.SCREENS.STR_2379899877"
 msgid "$1200"
-msgstr ""
+msgstr "$1200"
 
 #: STRINGS.SCREENS.STR_2393715614
 msgctxt "STRINGS.SCREENS.STR_2393715614"
 msgid "NEW PROGRAM INSTALLED"
-msgstr ""
+msgstr "新程序已安装"
 
 #: STRINGS.SCREENS.STR_2397818657
 msgctxt "STRINGS.SCREENS.STR_2397818657"
 msgid "Many items must cooldown for several turns before they can be used again. "
-msgstr ""
+msgstr "许多工具只有在几个回合的冷却之后才能再次使用。"
 
 #: STRINGS.SCREENS.STR_240466284
 msgctxt "STRINGS.SCREENS.STR_240466284"
 msgid "Resolution"
-msgstr ""
+msgstr "分辨率"
 
 #: STRINGS.SCREENS.STR_2405496117
 msgctxt "STRINGS.SCREENS.STR_2405496117"
 msgid "GETTING SPOTTED"
-msgstr ""
+msgstr "暴露"
 
 #: STRINGS.SCREENS.STR_2417278022
 msgctxt "STRINGS.SCREENS.STR_2417278022"
 msgid "GAMEPLAY"
-msgstr ""
+msgstr "游戏设置"
 
 #: STRINGS.SCREENS.STR_2423147759
 msgctxt "STRINGS.SCREENS.STR_2423147759"
 msgid "PROGRAMS"
-msgstr ""
+msgstr "程序"
 
 #: STRINGS.SCREENS.STR_242337267
 msgctxt "STRINGS.SCREENS.STR_242337267"
 msgid "PWR GAINED"
-msgstr ""
+msgstr "获得 PWR"
 
 #: STRINGS.SCREENS.STR_2430557021
 msgctxt "STRINGS.SCREENS.STR_2430557021"
 msgid "A C T I O N  P L A N N I N G  A L L O W A N C E"
-msgstr ""
+msgstr "行 动 计 划 限 额"
 
 #: STRINGS.SCREENS.STR_2436380107
 msgctxt "STRINGS.SCREENS.STR_2436380107"
 msgid "DRAG TO SELL"
-msgstr ""
+msgstr "拖到这里出售"
 
 #: STRINGS.SCREENS.STR_2437919506
 msgctxt "STRINGS.SCREENS.STR_2437919506"
 msgid "PUT IN INVENTORY"
-msgstr ""
+msgstr "放入背包"
 
 #: STRINGS.SCREENS.STR_245008767
 msgctxt "STRINGS.SCREENS.STR_245008767"
 msgid "Manual Camera"
-msgstr ""
+msgstr "手动镜头"
 
 #: STRINGS.SCREENS.STR_2458835830
 msgctxt "STRINGS.SCREENS.STR_2458835830"
 msgid "pause"
-msgstr ""
+msgstr "暂停"
 
 #: STRINGS.SCREENS.STR_2483091050
 msgctxt "STRINGS.SCREENS.STR_2483091050"
 msgid "This is your currently selected difficulty setting. Choose your difficulty and other gameplay options by going to the Campaign Options."
-msgstr ""
+msgstr "这是你当前选择的难度设定。你可以在行动选项里更改游戏难度和其它游戏设定。"
 
 #: STRINGS.SCREENS.STR_2490878707
 msgctxt "STRINGS.SCREENS.STR_2490878707"
 msgid "subtext: SPACE"
-msgstr ""
+msgstr "潜台词：空间"
 
 #: STRINGS.SCREENS.STR_2503263947
 msgctxt "STRINGS.SCREENS.STR_2503263947"
 msgid "COOLDOWN"
-msgstr ""
+msgstr "冷却时间"
 
 #: STRINGS.SCREENS.STR_2514653307
 msgctxt "STRINGS.SCREENS.STR_2514653307"
 msgid "VIDEO"
-msgstr ""
+msgstr "画面"
 
 #: STRINGS.SCREENS.STR_2515634607
 msgctxt "STRINGS.SCREENS.STR_2515634607"
 msgid "Review the items learned from the tutorial"
-msgstr ""
+msgstr "在教程里检阅道具"
 
 #: STRINGS.SCREENS.STR_2526093410
 msgctxt "STRINGS.SCREENS.STR_2526093410"
 msgid "ADVANCED"
-msgstr ""
+msgstr "高级
 
 #: STRINGS.SCREENS.STR_2558803512
 msgctxt "STRINGS.SCREENS.STR_2558803512"
 msgid "Subscribed Language Packs"
-msgstr ""
+msgstr "订阅语言包"
 
 #: STRINGS.SCREENS.STR_2567721856
 msgctxt "STRINGS.SCREENS.STR_2567721856"
 msgid "Restart the campaign with a fresh agency"
-msgstr ""
+msgstr "用新的机构来重新作战"
 
 #: STRINGS.SCREENS.STR_2587178626
 msgctxt "STRINGS.SCREENS.STR_2587178626"
 msgid "The agency has provided you with <c:faff0a>LOCKPICK 1.0</>, allowing you to <c:faff0a>hack 1 Firewall for 2 Power (PWR)</>.\n"
-msgstr ""
+msgstr "机构会为你提供 <c:faff0a>LOCKPICK 1.0</>，能让你 <c:faff0a>使用2PWR破坏1层防火墙 (PWR)</>."
 
 #: STRINGS.SCREENS.STR_2587351612
 msgctxt "STRINGS.SCREENS.STR_2587351612"
 msgid "INVENTORY"
-msgstr ""
+msgstr "持有物"
 
 #: STRINGS.SCREENS.STR_2592647263
 msgctxt "STRINGS.SCREENS.STR_2592647263"
 msgid "SURVIVING AGENTS"
-msgstr ""
+msgstr "存活特工"
 
 #: STRINGS.SCREENS.STR_2605667627
 msgctxt "STRINGS.SCREENS.STR_2605667627"
 msgid "Since you last played this mission, Invisible, Inc. has been updated to include some balance changes and hotfixes. We try hard not to do this often, and to maintain compatibility and preserve your campaign, we have rewound the simulation to the beginning of the level with a new generation seed.\n\nIf you would like to know more about what has changed, please visit our forums."
-msgstr ""
+msgstr "自从你上次玩过这一关，Invisible, Inc.已经更新了一些补丁并调整了游戏平衡。 我们尽量不会更新的太过频繁，并且为了保持兼容性和游戏体验，我们更新了地图的数据。\n\n如果你想了解更多游戏里的具体改动，请访问我们的论坛。"
 
 #: STRINGS.SCREENS.STR_2618909495
 msgctxt "STRINGS.SCREENS.STR_2618909495"
 msgid "WEAPONS"
-msgstr ""
+msgstr "武器"
 
 #: STRINGS.SCREENS.STR_2624420368
 msgctxt "STRINGS.SCREENS.STR_2624420368"
 msgid "NOTIFY ME ON UPDATES\n"
-msgstr ""
+msgstr "有新更新时提醒我\n"
 
 #: STRINGS.SCREENS.STR_26286783
 msgctxt "STRINGS.SCREENS.STR_26286783"
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 #: STRINGS.SCREENS.STR_2629797408
 msgctxt "STRINGS.SCREENS.STR_2629797408"
 msgid "FUNCTION 1 / Install Socket"
-msgstr ""
+msgstr "功能 1 / 安装插槽"
 
 #: STRINGS.SCREENS.STR_2637306110
 msgctxt "STRINGS.SCREENS.STR_2637306110"
 msgid "INCOGNITA"
-msgstr ""
+msgstr "INCOGNITA"
 
 #: STRINGS.SCREENS.STR_2667755213
 msgctxt "STRINGS.SCREENS.STR_2667755213"
 msgid "ITEMS (CLICK TO STORE)"
-msgstr ""
+msgstr "工具 (单击出售)"
 
 #: STRINGS.SCREENS.STR_2674367246
 msgctxt "STRINGS.SCREENS.STR_2674367246"
 msgid "MISSION OBJECTIVES"
-msgstr ""
+msgstr "任务目标"
 
 #: STRINGS.SCREENS.STR_2678465749
 msgctxt "STRINGS.SCREENS.STR_2678465749"
 msgid "BINDING:"
-msgstr ""
+msgstr "绑定："
 
 #: STRINGS.SCREENS.STR_272116755
 msgctxt "STRINGS.SCREENS.STR_272116755"
 msgid "Replaying..."
-msgstr ""
+msgstr "重播..."
 
 #: STRINGS.SCREENS.STR_273365031
 msgctxt "STRINGS.SCREENS.STR_273365031"
 msgid "SPEED"
-msgstr ""
+msgstr "速度"
 
 #: STRINGS.SCREENS.STR_2743432382
 msgctxt "STRINGS.SCREENS.STR_2743432382"
 msgid "OPTIONS"
-msgstr ""
+msgstr "选项"
 
 #: STRINGS.SCREENS.STR_2762057858
 msgctxt "STRINGS.SCREENS.STR_2762057858"
 msgid "SKILLS"
-msgstr ""
+msgstr "技能"
 
 #: STRINGS.SCREENS.STR_2762179521
 msgctxt "STRINGS.SCREENS.STR_2762179521"
 msgid "Stack Trace..."
-msgstr ""
+msgstr "堆栈跟踪..."
 
 #: STRINGS.SCREENS.STR_2778001153
 msgctxt "STRINGS.SCREENS.STR_2778001153"
 msgid "Prepare a patient with a <c:F4FF78>new blank Augment socket</>. A particularly invasive operation which requires applying a sedative. <c:FF3300>(KO FOR 2 TURNS)</>"
-msgstr ""
+msgstr "准备一个病人，确保他拥有一个<c:F4FF78>新的植入体空槽</>。一个特殊的可能需要镇静剂的侵入操作。<c:FF3300>(击晕2回合)</>"
 
 #: STRINGS.SCREENS.STR_279415059
 msgctxt "STRINGS.SCREENS.STR_279415059"
 msgid "HELP BOOKLET"
-msgstr ""
+msgstr "帮助手册"
 
 #: STRINGS.SCREENS.STR_2794591912
 msgctxt "STRINGS.SCREENS.STR_2794591912"
 msgid "Activate or deactivate exposed systems"
-msgstr ""
+msgstr "激活或禁用已暴露的系统"
 
 #: STRINGS.SCREENS.STR_2805285023
 msgctxt "STRINGS.SCREENS.STR_2805285023"
 msgid "Drag to the exit or find a MedGel to revive"
-msgstr ""
+msgstr "拖到逃脱地点或是找到复苏剂来苏醒特工
 
 #: STRINGS.SCREENS.STR_2819297958
 msgctxt "STRINGS.SCREENS.STR_2819297958"
 msgid " MOVE INTO COVER"
-msgstr ""
+msgstr "移动到掩体后面"
 
 #: STRINGS.SCREENS.STR_2821343115
 msgctxt "STRINGS.SCREENS.STR_2821343115"
 msgid "When we loaded your game, it created an error and we loaded up to the state before the error occurred. \n\nHowever, if you do not like this current state, for the rest of this turn you can opt to regenerate the level instead. If you do, your agents will restart the mission with a new level layout."
-msgstr ""
+msgstr "我们在加载游戏时遇到了一个错误，所以我们加载了错误出现前的的游戏状态。\n\n但如果你不喜欢当前的这个局面，你可以在这个回合重新开始游戏。如果你这样做了的话，你的特工将会在一个新的地图里开始任务。"
 
 #: STRINGS.SCREENS.STR_2833324097
 msgctxt "STRINGS.SCREENS.STR_2833324097"
 msgid "RESTART CAMPAIGN"
-msgstr ""
+msgstr "重新开始作战"
 
 #: STRINGS.SCREENS.STR_2840126714
 msgctxt "STRINGS.SCREENS.STR_2840126714"
 msgid "Open the Options menu and Close panels"
-msgstr ""
+msgstr "打开选项菜单并关闭面板"
 
 #: STRINGS.SCREENS.STR_287218154
 msgctxt "STRINGS.SCREENS.STR_287218154"
 msgid "KO UNITS WAKE UP"
-msgstr ""
+msgstr "被击晕的单位已经醒来"
 
 #: STRINGS.SCREENS.STR_2874856871
 msgctxt "STRINGS.SCREENS.STR_2874856871"
 msgid "Fast Mode"
-msgstr ""
+msgstr "快速模式"
 
 #: STRINGS.SCREENS.STR_2916447197
 msgctxt "STRINGS.SCREENS.STR_2916447197"
 msgid "REBOOTING"
-msgstr ""
+msgstr "重启中"
 
 #: STRINGS.SCREENS.STR_2928263650
 msgctxt "STRINGS.SCREENS.STR_2928263650"
 msgid "[ CLICK ] or press [ ENTER ] to continue"
-msgstr ""
+msgstr "[ 单击 ] 或按下 [ 回车 ] 继续"
 
 #: STRINGS.SCREENS.STR_2932151109
 msgctxt "STRINGS.SCREENS.STR_2932151109"
 msgid "Made with Moai\nCopyright (c) 2010-2012 ZipLine Games, Inc. All Rights Reserved.\n\n\nFMOD Studio, copyright Firelight Technologies Pty, Ltd., 1994-2013\n"
-msgstr ""
+msgstr "Made with Moai\nCopyright (c) 2010-2012 ZipLine Games, Inc. All Rights Reserved.\n\n\nFMOD Studio, copyright Firelight Technologies Pty, Ltd., 1994-2013"
 
 #: STRINGS.SCREENS.STR_2956448622
 msgctxt "STRINGS.SCREENS.STR_2956448622"
 msgid "The current credits available to your agency."
-msgstr ""
+msgstr "机构当前可用资金。"
 
 #: STRINGS.SCREENS.STR_2981072473
 msgctxt "STRINGS.SCREENS.STR_2981072473"
 msgid "Rotate the map counter-clockwise 90 degrees."
-msgstr ""
+msgstr "地图逆时针旋转90度。"
 
 #: STRINGS.SCREENS.STR_2981901885
 msgctxt "STRINGS.SCREENS.STR_2981901885"
 msgid "Full Screen"
-msgstr ""
+msgstr "全屏"
 
 #: STRINGS.SCREENS.STR_2992547510
 msgctxt "STRINGS.SCREENS.STR_2992547510"
 msgid "Country"
-msgstr ""
+msgstr "国家"
 
 #: STRINGS.SCREENS.STR_3001980105
 msgctxt "STRINGS.SCREENS.STR_3001980105"
 msgid "Fast mode increases the speed at which agents and guards walk during gameplay."
-msgstr ""
+msgstr "快速模式会增加游戏中特工和守卫的移动速度。"
 
 #: STRINGS.SCREENS.STR_301926882
 msgctxt "STRINGS.SCREENS.STR_301926882"
 msgid "AUGMENT GRAFTER"
-msgstr ""
+msgstr "植入体移植"
 
 #: STRINGS.SCREENS.STR_3148742419
 msgctxt "STRINGS.SCREENS.STR_3148742419"
 msgid "Would you like to be notified when the next build comes out? Sign up below!"
-msgstr ""
+msgstr "当下一个版本出现的时候你想第一时间收到通知吗？那就在下面注册吧！"
 
 #: STRINGS.SCREENS.STR_3150045031
 msgctxt "STRINGS.SCREENS.STR_3150045031"
 msgid "A guard is about to shoot your agent. Your agent has a chance to escape by quickly hiding behind any cover one square away or by having another agent give support."
-msgstr ""
+msgstr "一个守卫正准备向你的特工开枪。你的特工可以通过快速躲在任何距离为一格远的掩体后面来逃脱，也可以让另一个特工伸出援手来帮助他。"
 
 #: STRINGS.SCREENS.STR_3186341886
 msgctxt "STRINGS.SCREENS.STR_3186341886"
 msgid "\nChris Dahlen\nJason Garner\nGordon McGladdery\nTim Magill\nBrandon Gamblen\nMarc Hale\nSebastien Tremblay-Guerin\nAlexandre Pare\nAurélien Folie\nMarc-Andre Legault\n\n\nLisa Ann Beley\nMike Dobson\nVeena Sodd\nKelly Graham\nMatthew Marteinsson\nVincent Tong\nJoe Wreggelsworth\n"
-msgstr ""
+msgstr "\nChris Dahlen\nJason Garner\nGordon McGladdery\nTim Magill\nBrandon Gamblen\nMarc Hale\nSebastien Tremblay-Guerin\nAlexandre Pare\nAurélien Folie\nMarc-Andre Legault\n\n\nLisa Ann Beley\nMike Dobson\nVeena Sodd\nKelly Graham\nMatthew Marteinsson\nVincent Tong\nJoe Wreggelsworth\n"
 
 #: STRINGS.SCREENS.STR_3215279922
 msgctxt "STRINGS.SCREENS.STR_3215279922"
 msgid "PWR USED"
-msgstr ""
+msgstr "PWR使用"
 
 #: STRINGS.SCREENS.STR_324160630
 msgctxt "STRINGS.SCREENS.STR_324160630"
 msgid "Determines whether automated camera pans are used during gameplay."
-msgstr ""
+msgstr "决定在游戏中是否使用自动视角。"
 
 #: STRINGS.SCREENS.STR_3253417815
 msgctxt "STRINGS.SCREENS.STR_3253417815"
 msgid "Determines whether captions for voice dialogue are shown in game."
-msgstr ""
+msgstr "决定在游戏中是否显示语音对话的标题。"
 
 #: STRINGS.SCREENS.STR_3267747389
 msgctxt "STRINGS.SCREENS.STR_3267747389"
 msgid "Start the campaign"
-msgstr ""
+msgstr "作战开始"
 
 #: STRINGS.SCREENS.STR_3274518212
 msgctxt "STRINGS.SCREENS.STR_3274518212"
 msgid "RESTART CURRENT DAY"
-msgstr ""
+msgstr "重新开始当前一天"
 
 #: STRINGS.SCREENS.STR_3279998
 msgctxt "STRINGS.SCREENS.STR_3279998"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #: STRINGS.SCREENS.STR_3314108334
 msgctxt "STRINGS.SCREENS.STR_3314108334"
 msgid "STASH / SELL ITEMS"
-msgstr ""
+msgstr "存放 / 卖出工具"
 
 #: STRINGS.SCREENS.STR_3325590756
 msgctxt "STRINGS.SCREENS.STR_3325590756"
 msgid "SECURITY LEVEL"
-msgstr ""
+msgstr "安保等级"
 
 #: STRINGS.SCREENS.STR_3363651807
 msgctxt "STRINGS.SCREENS.STR_3363651807"
 msgid "STATS"
-msgstr ""
+msgstr "数据统计"
 
 #: STRINGS.SCREENS.STR_338520885
 msgctxt "STRINGS.SCREENS.STR_338520885"
 msgid "Music Volume"
-msgstr ""
+msgstr "音乐音量"
 
 #: STRINGS.SCREENS.STR_3406183664
 msgctxt "STRINGS.SCREENS.STR_3406183664"
 msgid "INCOGNITA V 1.3.6B"
-msgstr ""
+msgstr "INCOGNITA V 1.3.6B"
 
 #: STRINGS.SCREENS.STR_3416994251
 msgctxt "STRINGS.SCREENS.STR_3416994251"
 msgid "After subscribing to a Language Pack on Steam Workshop, refresh the list of available languages."
-msgstr ""
+msgstr "在Steam Workshop上订阅过语言包后，刷新可用语言列表。"
 
 #: STRINGS.SCREENS.STR_3419756252
 msgctxt "STRINGS.SCREENS.STR_3419756252"
 msgid "Email"
-msgstr ""
+msgstr "电子邮箱"
 
 #: STRINGS.SCREENS.STR_3431073160
 msgctxt "STRINGS.SCREENS.STR_3431073160"
 msgid "AGENCY LOADOUT UPDATED"
-msgstr ""
+msgstr "特工武装升级"
 
 #: STRINGS.SCREENS.STR_3432956013
 msgctxt "STRINGS.SCREENS.STR_3432956013"
 msgid "RESUME"
-msgstr ""
+msgstr "返回"
 
 #: STRINGS.SCREENS.STR_3437984125
 msgctxt "STRINGS.SCREENS.STR_3437984125"
 msgid "ACTIONS"
-msgstr ""
+msgstr "行动"
 
 #: STRINGS.SCREENS.STR_3459570063
 msgctxt "STRINGS.SCREENS.STR_3459570063"
 msgid "I N V E N T O R Y  M A N A G E M E N T"
-msgstr ""
+msgstr "管 理 物 品"
 
 #: STRINGS.SCREENS.STR_3459600002
 msgctxt "STRINGS.SCREENS.STR_3459600002"
 msgid "TRANSMISSION RECEIVED_"
-msgstr ""
+msgstr "传输设备已接收"
 
 #: STRINGS.SCREENS.STR_346165218
 msgctxt "STRINGS.SCREENS.STR_346165218"
 msgid "AUGMENTS"
-msgstr ""
+msgstr "植入体"
 
 #: STRINGS.SCREENS.STR_3464655410
 msgctxt "STRINGS.SCREENS.STR_3464655410"
 msgid "T H E  C O R P O R A T I O N  I S  I N S T A L L I N G:"
-msgstr ""
+msgstr "企 业 正 在 安 装："
 
 #: STRINGS.SCREENS.STR_3473819026
 msgctxt "STRINGS.SCREENS.STR_3473819026"
 msgid "DELETE SAVE"
-msgstr ""
+msgstr "删除存档"
 
 #: STRINGS.SCREENS.STR_3497960622
 msgctxt "STRINGS.SCREENS.STR_3497960622"
 msgid "GUARDS"
-msgstr ""
+msgstr "守卫"
 
 #: STRINGS.SCREENS.STR_3511262436
 msgctxt "STRINGS.SCREENS.STR_3511262436"
 msgid "CLEANUP"
-msgstr ""
+msgstr "清除"
 
 #: STRINGS.SCREENS.STR_352270892
 msgctxt "STRINGS.SCREENS.STR_352270892"
 msgid "HIDING IN BLIND SPOTS"
-msgstr ""
+msgstr "躲藏在盲区"
 
 #: STRINGS.SCREENS.STR_3523195496
 msgctxt "STRINGS.SCREENS.STR_3523195496"
 msgid "Date of Birth"
-msgstr ""
+msgstr "出生日期"
 
 #: STRINGS.SCREENS.STR_3530899842
 msgctxt "STRINGS.SCREENS.STR_3530899842"
 msgid "END TURN"
-msgstr ""
+msgstr "结束回合"
 
 #: STRINGS.SCREENS.STR_3539514577
 msgctxt "STRINGS.SCREENS.STR_3539514577"
 msgid "C A U G H T  B Y  A  G U A R D"
-msgstr ""
+msgstr "被 守 卫 抓 住"
 
 #: STRINGS.SCREENS.STR_3556159435
 msgctxt "STRINGS.SCREENS.STR_3556159435"
 msgid "NET WORTH"
-msgstr ""
+msgstr "网络价值"
 
 #: STRINGS.SCREENS.STR_3558572529
 msgctxt "STRINGS.SCREENS.STR_3558572529"
 msgid "NEXT UNLOCK"
-msgstr ""
+msgstr "下级解锁"
 
 #: STRINGS.SCREENS.STR_3560518070
 msgctxt "STRINGS.SCREENS.STR_3560518070"
 msgid "W A R N I N G"
-msgstr ""
+msgstr "警 告"
 
 #: STRINGS.SCREENS.STR_3562682461
 msgctxt "STRINGS.SCREENS.STR_3562682461"
 msgid "Enforce Widescreen"
-msgstr ""
+msgstr "强制宽屏"
 
 #: STRINGS.SCREENS.STR_3568480514
 msgctxt "STRINGS.SCREENS.STR_3568480514"
 msgid "Display"
-msgstr ""
+msgstr "显示"
 
 #: STRINGS.SCREENS.STR_3581190463
 msgctxt "STRINGS.SCREENS.STR_3581190463"
 msgid "View Achievements"
-msgstr ""
+msgstr "浏览成就"
 
 #: STRINGS.SCREENS.STR_3590571042
 msgctxt "STRINGS.SCREENS.STR_3590571042"
 msgid "AUTO-INCREMENT ALARM"
-msgstr ""
+msgstr "警报自动递增"
 
 #: STRINGS.SCREENS.STR_3594604882
 msgctxt "STRINGS.SCREENS.STR_3594604882"
 msgid "Upgrade Agents"
-msgstr ""
+msgstr "升级特工"
 
 #: STRINGS.SCREENS.STR_3601423954
 msgctxt "STRINGS.SCREENS.STR_3601423954"
 msgid "Button"
-msgstr ""
+msgstr "按钮"
 
 #: STRINGS.SCREENS.STR_3610168718
 msgctxt "STRINGS.SCREENS.STR_3610168718"
 msgid "AMMO"
-msgstr ""
+msgstr "弹药"
 
 #: STRINGS.SCREENS.STR_3625772178
 msgctxt "STRINGS.SCREENS.STR_3625772178"
 msgid "SAVE / EXIT"
-msgstr ""
+msgstr "保存 / 退出"
 
 #: STRINGS.SCREENS.STR_3631498147
 msgctxt "STRINGS.SCREENS.STR_3631498147"
 msgid "Bloom"
-msgstr ""
+msgstr "泛光"
 
 #: STRINGS.SCREENS.STR_363840384
 msgctxt "STRINGS.SCREENS.STR_363840384"
 msgid "Daemons are defensive AI programs that protect mainframe devices. They will trigger when you hack the device.\n\nDifferent daemons have different effects, but all of them will hurt. Be careful, Operator!\n"
-msgstr ""
+msgstr "守护进程是主机设备的防御AI程序。当你骇入设备时他们就会启动。\n\n不同的守护进程拥有不同的效果，唯一相同的是都会对你造成损害。小心点，专员！"
 
 #: STRINGS.SCREENS.STR_3639446616
 msgctxt "STRINGS.SCREENS.STR_3639446616"
 msgid "Click and hold to activate"
-msgstr ""
+msgstr "点击并按住以激活"
 
 #: STRINGS.SCREENS.STR_3656310952
 msgctxt "STRINGS.SCREENS.STR_3656310952"
 msgid "Please provide a valid email and birthdate"
-msgstr ""
+msgstr "请提供一个有效的电子邮箱和生日"
 
 #: STRINGS.SCREENS.STR_3659171148
 msgctxt "STRINGS.SCREENS.STR_3659171148"
 msgid "Irene, Tessa, & Hailey\nMonika, Avery & Frankie\nMara, Frank & Hilary\nAndrew Halabourda & Jameson Quander\nMatt Nickerson\nTom Giardino\nPieter Wycoff\nRobin Walker\nOphir Lupu\nMark Turpin & Yogscast\nTanya, Brisa and Odin\nSome1\nToo many dev friends to name\nSaturday morning hockey crew\n& Brian's magic factor"
-msgstr ""
+msgstr "Irene, Tessa, & Hailey\nMonika, Avery & Frankie\nMara, Frank & Hilary\nAndrew Halabourda & Jameson Quander\nMatt Nickerson\nTom Giardino\nPieter Wycoff\nRobin Walker\nOphir Lupu\nMark Turpin & Yogscast\nTanya, Brisa and Odin\nSome1\nToo many dev friends to name\nSaturday morning hockey crew\n& Brian's magic factor"
 
 #: STRINGS.SCREENS.STR_3707365810
 msgctxt "STRINGS.SCREENS.STR_3707365810"
 msgid "M A N I P U L A T E  T H E  E N V I R O N M E N T  F O R  S T E A L T H"
-msgstr ""
+msgstr "利 用 场 景 隐 藏 自 己"
 
 #: STRINGS.SCREENS.STR_3709439018
 msgctxt "STRINGS.SCREENS.STR_3709439018"
 msgid "FMOD Studio, copyright Firelight Technologies Pty, Ltd., 1994-2013"
-msgstr ""
+msgstr "FMOD 工作室, 版权为 Firelight Technologies Pty, Ltd.所有, 1994-2013"
 
 #: STRINGS.SCREENS.STR_3741318937
 msgctxt "STRINGS.SCREENS.STR_3741318937"
 msgid "<c:8CFFFF>RETIRE THE AGENCY</c>\nExecute dissolution protocols.\nThe corporations win this time."
-msgstr ""
+msgstr "<c:8CFFFF>放弃特工</c>\n执行解散协议。\n这次是敌人赢了。"
 
 #: STRINGS.SCREENS.STR_3748727002
 msgctxt "STRINGS.SCREENS.STR_3748727002"
 msgid "CREDITS"
-msgstr ""
+msgstr "CR"
 
 #: STRINGS.SCREENS.STR_3757759165
 msgctxt "STRINGS.SCREENS.STR_3757759165"
 msgid "PINNING KEEPS THEM DOWN"
-msgstr ""
+msgstr "压制时击晕回合数不会减少"
 
 #: STRINGS.SCREENS.STR_3797234799
 msgctxt "STRINGS.SCREENS.STR_3797234799"
 msgid "DAEMONS"
-msgstr ""
+msgstr "守护进程"
 
 #: STRINGS.SCREENS.STR_3814946167
 msgctxt "STRINGS.SCREENS.STR_3814946167"
 msgid "toggleTactical"
-msgstr ""
+msgstr "调整战术"
 
 #: STRINGS.SCREENS.STR_3821623018
 msgctxt "STRINGS.SCREENS.STR_3821623018"
 msgid "RETIRE AGENCY"
-msgstr ""
+msgstr "放弃特工"
 
 #: STRINGS.SCREENS.STR_3825538568
 msgctxt "STRINGS.SCREENS.STR_3825538568"
 msgid "NEW THREAT DETECTED"
-msgstr ""
+msgstr "检测到威胁"
 
 #: STRINGS.SCREENS.STR_382696636
 msgctxt "STRINGS.SCREENS.STR_382696636"
 msgid "Toggle Wall Visibility"
-msgstr ""
+msgstr "切换墙壁的可视化"
 
 #: STRINGS.SCREENS.STR_3854504565
 msgctxt "STRINGS.SCREENS.STR_3854504565"
 msgid "Retry the level with a new randomly generated layout"
-msgstr ""
+msgstr "重试关卡(随机地图布局)"
 
 #: STRINGS.SCREENS.STR_3865231756
 msgctxt "STRINGS.SCREENS.STR_3865231756"
 msgid "INSTALL AUGMENT"
-msgstr ""
+msgstr "安装植入体"
 
 #: STRINGS.SCREENS.STR_3913445500
 msgctxt "STRINGS.SCREENS.STR_3913445500"
 msgid "ABORT MISSION"
-msgstr ""
+msgstr "放弃任务"
 
 #: STRINGS.SCREENS.STR_3920519599
 msgctxt "STRINGS.SCREENS.STR_3920519599"
 msgid "SOUND"
-msgstr ""
+msgstr "声音"
 
 #: STRINGS.SCREENS.STR_3936064
 msgctxt "STRINGS.SCREENS.STR_3936064"
 msgid "<|"
-msgstr ""
+msgstr "<|"
 
 #: STRINGS.SCREENS.STR_394046568
 msgctxt "STRINGS.SCREENS.STR_394046568"
 msgid "CAMPAIGN GENERATION"
-msgstr ""
+msgstr "作战型"
 
 #: STRINGS.SCREENS.STR_3968651824
 msgctxt "STRINGS.SCREENS.STR_3968651824"
 msgid "START GAME"
-msgstr ""
+msgstr "开始游戏"
 
 #: STRINGS.SCREENS.STR_3969778286
 msgctxt "STRINGS.SCREENS.STR_3969778286"
 msgid "PAUSED"
-msgstr ""
+msgstr "暂停"
 
 #: STRINGS.SCREENS.STR_3972743858
 msgctxt "STRINGS.SCREENS.STR_3972743858"
 msgid "View Steam Workshop"
-msgstr ""
+msgstr "浏览Steam Workshop"
 
 #: STRINGS.SCREENS.STR_3980307013
 msgctxt "STRINGS.SCREENS.STR_3980307013"
 msgid "Restore the campaign to the beginning of the current day"
-msgstr ""
+msgstr "恢复行动到今天开始的时候"
 
 #: STRINGS.SCREENS.STR_3982029207
 msgctxt "STRINGS.SCREENS.STR_3982029207"
 msgid "ITEMS + AUGMENTS"
-msgstr ""
+msgstr "工具 + 植入体"
 
 #: STRINGS.SCREENS.STR_3987801701
 msgctxt "STRINGS.SCREENS.STR_3987801701"
 msgid "Refresh Rate"
-msgstr ""
+msgstr "帧数"
 
 #: STRINGS.SCREENS.STR_4010401120
 msgctxt "STRINGS.SCREENS.STR_4010401120"
 msgid "ENTER\nINCOGNITA\n>"
-msgstr ""
+msgstr "进入\nINCOGNITA\n>"
 
 #: STRINGS.SCREENS.STR_4011540490
 msgctxt "STRINGS.SCREENS.STR_4011540490"
 msgid "NEW AGENTS <c:F4FF78F>UNLOCKED</>\n"
-msgstr ""
+msgstr "新特工 <c:F4FF78F>解锁</>\n"
 
 #: STRINGS.SCREENS.STR_4016574117
 msgctxt "STRINGS.SCREENS.STR_4016574117"
 msgid "AVAILABLE AGENTS"
-msgstr ""
+msgstr "可用特工"
 
 #: STRINGS.SCREENS.STR_4024588825
 msgctxt "STRINGS.SCREENS.STR_4024588825"
 msgid "OBJECTIVE"
-msgstr ""
+msgstr "目标"
 
 #: STRINGS.SCREENS.STR_4025920717
 msgctxt "STRINGS.SCREENS.STR_4025920717"
 msgid "EMPTY PROGRAM SLOT"
-msgstr ""
+msgstr "空的程序槽"
 
 #: STRINGS.SCREENS.STR_4057752493
 msgctxt "STRINGS.SCREENS.STR_4057752493"
 msgid "Thank you for playing! We're always looking for feedback, so if you'd like to leave us a review, we'd love to read it. Plus, it helps spread the word about the game, and we really appreciate that."
-msgstr ""
+msgstr "感谢您的游玩！我们一直在收集玩家反馈，所以如果你有兴趣给我们发送一份评价，我们一定会好好阅读的。而且这也会帮着宣传游戏，我们真的十分感激。"
 
 #: STRINGS.SCREENS.STR_4060478193
 msgctxt "STRINGS.SCREENS.STR_4060478193"
 msgid "RANDOMIZE"
-msgstr ""
+msgstr "随机"
 
 #: STRINGS.SCREENS.STR_407962545
 msgctxt "STRINGS.SCREENS.STR_407962545"
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: STRINGS.SCREENS.STR_4101678630
 msgctxt "STRINGS.SCREENS.STR_4101678630"
 msgid "ACTIVE"
-msgstr ""
+msgstr "激活"
 
 #: STRINGS.SCREENS.STR_4110276810
 msgctxt "STRINGS.SCREENS.STR_4110276810"
 msgid "Rotate the map clockwise 90 degrees."
-msgstr ""
+msgstr "地图顺时针旋转90度。"
 
 #: STRINGS.SCREENS.STR_4111271185
 msgctxt "STRINGS.SCREENS.STR_4111271185"
 msgid "View gameplay and graphics options"
-msgstr ""
+msgstr "浏览游戏和画面设置"
 
 #: STRINGS.SCREENS.STR_4112987787
 msgctxt "STRINGS.SCREENS.STR_4112987787"
 msgid "If disabled, metrics regarding gameplay and play time will not be sent. No personal information is ever included whether metrics are enabled or not."
-msgstr ""
+msgstr "如果禁用，metrics regarding gameplay and play time will not be sent. No personal information is ever included whether metrics are enabled or not."
 
 #: STRINGS.SCREENS.STR_413948372
 msgctxt "STRINGS.SCREENS.STR_413948372"
 msgid "Resume the game"
-msgstr ""
+msgstr "回到游戏"
 
 #: STRINGS.SCREENS.STR_4140104366
 msgctxt "STRINGS.SCREENS.STR_4140104366"
 msgid "EQUIPMENT"
-msgstr ""
+msgstr "装备"
 
 #: STRINGS.SCREENS.STR_4155824738
 msgctxt "STRINGS.SCREENS.STR_4155824738"
 msgid "TACTICAL VIEW"
-msgstr ""
+msgstr "战术观察"
 
 #: STRINGS.SCREENS.STR_416224050
 msgctxt "STRINGS.SCREENS.STR_416224050"
 msgid "200"
-msgstr ""
+msgstr "200"
 
 #: STRINGS.SCREENS.STR_4178687125
 msgctxt "STRINGS.SCREENS.STR_4178687125"
 msgid "LEVEL 1"
-msgstr ""
+msgstr "等级 1"
 
 #: STRINGS.SCREENS.STR_4178687126
 msgctxt "STRINGS.SCREENS.STR_4178687126"
 msgid "LEVEL 2"
-msgstr ""
+msgstr "等级 2"
 
 #: STRINGS.SCREENS.STR_4178687127
 msgctxt "STRINGS.SCREENS.STR_4178687127"
 msgid "LEVEL 3"
-msgstr ""
+msgstr "等级 3"
 
 #: STRINGS.SCREENS.STR_4178687128
 msgctxt "STRINGS.SCREENS.STR_4178687128"
 msgid "LEVEL 4"
-msgstr ""
+msgstr "等级 4"
 
 #: STRINGS.SCREENS.STR_4178687129
 msgctxt "STRINGS.SCREENS.STR_4178687129"
 msgid "LEVEL 5"
-msgstr ""
+msgstr "等级 5"
 
 #: STRINGS.SCREENS.STR_4182038508
 msgctxt "STRINGS.SCREENS.STR_4182038508"
 msgid "VOICE ACTORS"
-msgstr ""
+msgstr "配音"
 
 #: STRINGS.SCREENS.STR_4192659562
 msgctxt "STRINGS.SCREENS.STR_4192659562"
 msgid "LEVEL RETRIES"
-msgstr ""
+msgstr "关卡重试"
 
 #: STRINGS.SCREENS.STR_4198555971
 msgctxt "STRINGS.SCREENS.STR_4198555971"
 msgid "STORAGE (CLICK TO EQUIP)"
-msgstr ""
+msgstr "存储 (点击装备)"
 
 #: STRINGS.SCREENS.STR_42
 msgctxt "STRINGS.SCREENS.STR_42"
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #: STRINGS.SCREENS.STR_4219267394
 msgctxt "STRINGS.SCREENS.STR_4219267394"
 msgid "VIEW WORKSHOP"
-msgstr ""
+msgstr "浏览WORKSHOP"
 
 #: STRINGS.SCREENS.STR_4238637918
 msgctxt "STRINGS.SCREENS.STR_4238637918"
 msgid "wallToggle"
-msgstr ""
+msgstr "调整墙壁"
 
 #: STRINGS.SCREENS.STR_423926352
 msgctxt "STRINGS.SCREENS.STR_423926352"
 msgid "Hold [ ALT ] in order to get a better view of the map"
-msgstr ""
+msgstr "按住 [ ALT ] 可以更清楚的查看地图"
 
 #: STRINGS.SCREENS.STR_4244907661
 msgctxt "STRINGS.SCREENS.STR_4244907661"
 msgid "Captions"
-msgstr ""
+msgstr "标题"
 
 #: STRINGS.SCREENS.STR_4250607000
 msgctxt "STRINGS.SCREENS.STR_4250607000"
 msgid "REWINDS"
-msgstr ""
+msgstr "回溯"
 
 #: STRINGS.SCREENS.STR_4264818721
 msgctxt "STRINGS.SCREENS.STR_4264818721"
 msgid "Edge Pan Speed"
-msgstr ""
+msgstr "视角移动速度"
 
 #: STRINGS.SCREENS.STR_4282258817
 msgctxt "STRINGS.SCREENS.STR_4282258817"
 msgid "SELECT AGENT"
-msgstr ""
+msgstr "选择特工"
 
 #: STRINGS.SCREENS.STR_476357528
 msgctxt "STRINGS.SCREENS.STR_476357528"
 msgid "CLOSE"
-msgstr ""
+msgstr "关闭"
 
 #: STRINGS.SCREENS.STR_48
 msgctxt "STRINGS.SCREENS.STR_48"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: STRINGS.SCREENS.STR_486040300
 msgctxt "STRINGS.SCREENS.STR_486040300"
 msgid "MONST3R"
-msgstr ""
+msgstr "MONST3R"
 
 #: STRINGS.SCREENS.STR_49
 msgctxt "STRINGS.SCREENS.STR_49"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: STRINGS.SCREENS.STR_492921971
 msgctxt "STRINGS.SCREENS.STR_492921971"
 msgid "End Transmission\nHOTKEY: <c:FF8411>[ Esc ]</c>"
-msgstr ""
+msgstr "结束传输\n快捷键: <c:FF8411>[ Esc ]</c>"
 
 #: STRINGS.SCREENS.STR_51
 msgctxt "STRINGS.SCREENS.STR_51"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: STRINGS.SCREENS.STR_517759365
 msgctxt "STRINGS.SCREENS.STR_517759365"
 msgid "POWER"
-msgstr ""
+msgstr "PWR"
 
 #: STRINGS.SCREENS.STR_52822900
 msgctxt "STRINGS.SCREENS.STR_52822900"
 msgid "EXIT GAME"
-msgstr ""
+msgstr "退出游戏"
 
 #: STRINGS.SCREENS.STR_530288300
 msgctxt "STRINGS.SCREENS.STR_530288300"
 msgid "cameraRotateL"
-msgstr ""
+msgstr "镜头左转"
 
 #: STRINGS.SCREENS.STR_530288306
 msgctxt "STRINGS.SCREENS.STR_530288306"
 msgid "cameraRotateR"
-msgstr ""
+msgstr "镜头右转"
 
 #: STRINGS.SCREENS.STR_54
 msgctxt "STRINGS.SCREENS.STR_54"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: STRINGS.SCREENS.STR_550165959
 msgctxt "STRINGS.SCREENS.STR_550165959"
 msgid "PROGRAM NAME"
-msgstr ""
+msgstr "程序名称"
 
 #: STRINGS.SCREENS.STR_550432230
 msgctxt "STRINGS.SCREENS.STR_550432230"
 msgid "B E W A R E  O F  T H E  D A T A  G U A R D I A N S"
-msgstr ""
+msgstr "数 据 守 卫"
 
 #: STRINGS.SCREENS.STR_557527194
 msgctxt "STRINGS.SCREENS.STR_557527194"
 msgid "REQUIRES MORE XP TO UNLOCK"
-msgstr ""
+msgstr "需要更多XP解锁"
 
 #: STRINGS.SCREENS.STR_563106812
 msgctxt "STRINGS.SCREENS.STR_563106812"
 msgid "<c:FDFA68>INCOMING MESSAGE</>\n"
-msgstr ""
+msgstr "<c:FDFA68>新消息</>\n"
 
 #: STRINGS.SCREENS.STR_573425521
 msgctxt "STRINGS.SCREENS.STR_573425521"
 msgid "RATE US ON STEAM"
-msgstr ""
+msgstr "在STEAM上给我们打分"
 
 #: STRINGS.SCREENS.STR_582781778
 msgctxt "STRINGS.SCREENS.STR_582781778"
 msgid "MISSIONS COMPLETED"
-msgstr ""
+msgstr "任务完成"
 
 #: STRINGS.SCREENS.STR_589926612
 msgctxt "STRINGS.SCREENS.STR_589926612"
 msgid "Full Decor"
-msgstr ""
+msgstr "场景细节"
 
 #: STRINGS.SCREENS.STR_590530336
 msgctxt "STRINGS.SCREENS.STR_590530336"
 msgid "ITEMS"
-msgstr ""
+msgstr "工具"
 
 #: STRINGS.SCREENS.STR_61
 msgctxt "STRINGS.SCREENS.STR_61"
 msgid "="
-msgstr ""
+msgstr "="
 
 #: STRINGS.SCREENS.STR_610854735
 msgctxt "STRINGS.SCREENS.STR_610854735"
 msgid "Finish your turn and advance to the Corporation turn."
-msgstr ""
+msgstr "结束你的回合并推到企业的回合"
 
 #: STRINGS.SCREENS.STR_615592795
 msgctxt "STRINGS.SCREENS.STR_615592795"
 msgid "Edge Pan Distance"
-msgstr ""
+msgstr "视角移动距离"
 
 #: STRINGS.SCREENS.STR_62
 msgctxt "STRINGS.SCREENS.STR_62"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: STRINGS.SCREENS.STR_6363215
 msgctxt "STRINGS.SCREENS.STR_6363215"
 msgid "AP"
-msgstr ""
+msgstr "AP"
 
 #: STRINGS.SCREENS.STR_647685599
 msgctxt "STRINGS.SCREENS.STR_647685599"
 msgid "EXECUTIVE TERMINALS"
-msgstr ""
+msgstr "执行终端"
 
 #: STRINGS.SCREENS.STR_648042476
 msgctxt "STRINGS.SCREENS.STR_648042476"
