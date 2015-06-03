@@ -15419,27 +15419,27 @@ msgstr "重甲 %d"
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR_DESC"
 msgid "Requires Armor Piercing weapons."
-msgstr ""
+msgstr "需要具有穿刺效果的武器"
 
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON"
 msgid "CYBER CONSCIOUSNESS"
-msgstr ""
+msgstr "计算机意识"
 
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON_DESC"
 msgid "If KO, this unit will possess a mainframe device as a Daemon program"
-msgstr ""
+msgstr "如果KO，该单元将作为一个守护进程控制一台主机"
 
 #: STRINGS.UI.TOOLTIPS.KO_IMMUNE
 msgctxt "STRINGS.UI.TOOLTIPS.KO_IMMUNE"
 msgid "KO IMMUNE"
-msgstr ""
+msgstr "免疫击倒"
 
 #: STRINGS.UI.TOOLTIPS.KO_IMMUNE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_IMMUNE_DESC"
 msgid "KO damage has no effect."
-msgstr ""
+msgstr "KO伤害没有影响"
 
 #: STRINGS.UI.TOOLTIPS.KO_RESISTANT
 msgctxt "STRINGS.UI.TOOLTIPS.KO_RESISTANT"
@@ -15454,7 +15454,7 @@ msgstr "减少击倒时间"
 #: STRINGS.UI.TOOLTIPS.LOOT_TOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.LOOT_TOOLTIP"
 msgid "<ttbody><ttheader2>LOOT {1} CR</>\nLoot credits</>"
-msgstr ""
+msgstr "<ttbody><ttheader2>战利品 {1} CR</>\n战利品 CR</>"
 
 #: STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS
 msgctxt "STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS"
@@ -15464,7 +15464,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS_DESC"
 msgid "If this device has more than 2 FIREWALLS, EMP's break 2 FIREWALLS instead of disabling it."
-msgstr ""
+msgstr "如果该设备拥有的防火墙超过两个,EMP会破坏2个防火墙而不是使它瘫痪"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE"
@@ -15474,12 +15474,12 @@ msgstr "活跃"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_DAEMON
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_DAEMON"
 msgid "DAEMON PROGRAM"
-msgstr ""
+msgstr "守护进程"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_GRID"
 msgid "%s GRID"
-msgstr "%s GRID"
+msgstr "%s 网络"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_HACK_UNIT"
@@ -15504,7 +15504,7 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED"
 msgid "DAEMON MASKED"
-msgstr ""
+msgstr "隐藏的守护进程"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_OFF
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_OFF"
@@ -15514,17 +15514,17 @@ msgstr "关闭"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_PARASITE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_PARASITE"
 msgid "PARASITE HOSTED"
-msgstr ""
+msgstr "寄生生物"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_PARASITE_V2
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_PARASITE_V2"
 msgid "PARASITE 2.0 HOSTED"
-msgstr ""
+msgstr "寄生生物v2"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOT
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOT"
 msgid "REBOOT: %d"
-msgstr "重启"
+msgstr "重启: %d"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOTING
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_REBOOTING"
@@ -15539,12 +15539,12 @@ msgstr "没有安装"
 #: STRINGS.UI.TOOLTIPS.NOT_STACKABLE
 msgctxt "STRINGS.UI.TOOLTIPS.NOT_STACKABLE"
 msgid "Can't install multiples of this augment"
-msgstr ""
+msgstr "该补充物不能安装多于一个"
 
 #: STRINGS.UI.TOOLTIPS.NO_HEARING
 msgctxt "STRINGS.UI.TOOLTIPS.NO_HEARING"
 msgid "NO HEARING"
-msgstr ""
+msgstr "没有声音"
 
 #: STRINGS.UI.TOOLTIPS.NO_HEARING_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.NO_HEARING_DESC"
@@ -15559,17 +15559,17 @@ msgstr "无效区"
 #: STRINGS.UI.TOOLTIPS.NULL_ZONE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.NULL_ZONE_DESC"
 msgid "This drone emits a field which blocks hacking of firewalls in a range of {1} tiles."
-msgstr ""
+msgstr "这个机器人会产生一个场来阻止在{1}格范围内骇入防火墙"
 
 #: STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST
 msgctxt "STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST"
 msgid "PERIPHERAL BOOST"
-msgstr ""
+msgstr "PERIPHERAL BOOST"
 
 #: STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST_DESC"
 msgid "180 degree Line of Sight"
-msgstr ""
+msgstr "180度直线的视线"
 
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS"
@@ -15579,7 +15579,7 @@ msgstr "防护罩 %d"
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC"
 msgid "Blocks shots against this target. Shields reduced by 1 for each shot taken."
-msgstr ""
+msgstr "封锁目标的射击。每次被射到护盾减少1点"
 
 #: STRINGS.UI.TOOLTIPS.PWR_STEAL
 msgctxt "STRINGS.UI.TOOLTIPS.PWR_STEAL"
@@ -15604,7 +15604,7 @@ msgstr "为工具花费CR"
 #: STRINGS.UI.TOOLTIPS.STACKABLE
 msgctxt "STRINGS.UI.TOOLTIPS.STACKABLE"
 msgid "Multiples of this augment will stack"
-msgstr ""
+msgstr "多于1个的补充物将会堆叠"
 
 #: STRINGS.UI.TOOLTIPS.STEAL
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL"
@@ -15614,7 +15614,7 @@ msgstr "偷窃"
 #: STRINGS.UI.TOOLTIPS.STEAL_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL_DESC"
 msgid "Steal credits from logged in accounts at the cost of raising the alarm."
-msgstr ""
+msgstr "以引起警报为代价从账户偷取CR"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_ANARCHY
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_ANARCHY"
@@ -15624,12 +15624,12 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_FIREWALL
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_FIREWALL"
 msgid "\n\nThis program breaks {1} FIREWALLS each use."
-msgstr ""
+msgstr "\n\n该程序每次使用破坏{1}放火墙"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_FIREWALL_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_FIREWALL_DESC"
 msgid "<c:F4FF78>FIREWALL BREAKING</>\nCorporate assets are often protected by FIREWALLS. Many of the Agency's programs are designed to break them down."
-msgstr ""
+msgstr "<c:F4FF78>防火墙破坏</>\n集团的资产一般是被防火墙保护的. 特工的许多程序是被设计用来破坏它们的"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_HACKING
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_HACKING"
@@ -15654,7 +15654,7 @@ msgstr "\n\n 该程序每次使用消耗 {1} PWR."
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC"
 msgid "<c:F4FF78>PWR USE</>\nSome programs require PWR from the Agency to operate."
-msgstr ""
+msgstr "<c:F4FF78>PWR 使用</>\n一些程序需要从特工得到PWR来运行"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_STEALTH
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_STEALTH"
@@ -15674,22 +15674,22 @@ msgstr "升级库存"
 #: STRINGS.UI.TOOLTIPS.WILL_ENCUMBER
 msgctxt "STRINGS.UI.TOOLTIPS.WILL_ENCUMBER"
 msgid "<c:A30000>ENCUMBERED\nUsing this slot will slow the agent by {1} AP</>"
-msgstr ""
+msgstr "<c:A30000>阻碍的\n使用该槽会使特工行动变慢消耗{1}AP</>"
 
 #: STRINGS.UI.TOOLTIP_AGENT_DOWN
 msgctxt "STRINGS.UI.TOOLTIP_AGENT_DOWN"
 msgid "AGENT DOWN"
-msgstr ""
+msgstr "特工丧失行动能力"
 
 #: STRINGS.UI.TOOLTIP_AGENT_DOWN_DESC
 msgctxt "STRINGS.UI.TOOLTIP_AGENT_DOWN_DESC"
 msgid "This agent is down. Drag them to the exit or use a medgel to revive."
-msgstr ""
+msgstr "该特工丧失行动能力.把他们拖到出口或者使用medgel来恢复"
 
 #: STRINGS.UI.TOOLTIP_ALREADY_OWN
 msgctxt "STRINGS.UI.TOOLTIP_ALREADY_OWN"
 msgid "You already own this mainframe program!"
-msgstr ""
+msgstr "你已经拥有该主机程序"
 
 #: STRINGS.UI.TOOLTIP_CANT_PURCHASE
 msgctxt "STRINGS.UI.TOOLTIP_CANT_PURCHASE"
@@ -15719,7 +15719,7 @@ msgstr "暴露本地所有摄像头"
 #: STRINGS.UI.TOOLTIP_HACK_CONSOLE_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_CONSOLE_DB"
 msgid "Reveals the location of all consoles"
-msgstr ""
+msgstr "显示本地所有控制台"
 
 #: STRINGS.UI.TOOLTIP_HACK_DAEMON_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_DAEMON_DB"
@@ -15729,12 +15729,12 @@ msgstr "在主机中识别守护进程"
 #: STRINGS.UI.TOOLTIP_HACK_GUARD_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_GUARD_DB"
 msgid "Reveals the location of all heart monitors"
-msgstr ""
+msgstr "显示本地所有的心脏监控器"
 
 #: STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE"
 msgid "Captures this device in the mainframe"
-msgstr ""
+msgstr "在主机中占领这台设备"
 
 #: STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE_CAPTURED
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE_CAPTURED"
@@ -15744,7 +15744,7 @@ msgstr "该设备在特工的控制下"
 #: STRINGS.UI.TOOLTIP_HACK_MAP_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAP_DB"
 msgid "Reveals the outline of the facility"
-msgstr ""
+msgstr "显示设备的轮廓"
 
 #: STRINGS.UI.TOOLTIP_HACK_WITH_INCOGNITA
 msgctxt "STRINGS.UI.TOOLTIP_HACK_WITH_INCOGNITA"
@@ -15759,7 +15759,7 @@ msgstr "不活跃的"
 #: STRINGS.UI.TOOLTIP_INACTIVE_DESC
 msgctxt "STRINGS.UI.TOOLTIP_INACTIVE_DESC"
 msgid "This camera is currently inactive. It will activate when the Security Level increases surveillance."
-msgstr ""
+msgstr "这个摄像机是不活跃的。当安全等级提升时，它会被激活"
 
 #: STRINGS.UI.TOOLTIP_INVENTORY_FULL
 msgctxt "STRINGS.UI.TOOLTIP_INVENTORY_FULL"
@@ -15769,7 +15769,7 @@ msgstr "该单位的库存已满"
 #: STRINGS.UI.TOOLTIP_NAME_KO_TIME
 msgctxt "STRINGS.UI.TOOLTIP_NAME_KO_TIME"
 msgid "%s KO (%d)"
-msgstr "%s KO (%d)"
+msgstr "%s 击倒 (%d)"
 
 #: STRINGS.UI.TOOLTIP_NAME_PARALYZED
 msgctxt "STRINGS.UI.TOOLTIP_NAME_PARALYZED"
@@ -15799,7 +15799,7 @@ msgstr "扫描你所在的位置"
 #: STRINGS.UI.TOOLTIP_SCANNER_DESC
 msgctxt "STRINGS.UI.TOOLTIP_SCANNER_DESC"
 msgid "Sends a guard to investigate your location each alarm level"
-msgstr ""
+msgstr "每个警戒等级，派遣一个守卫到特工所在位置进行调查。"
 
 #: STRINGS.UI.TOOLTIP_TAGGED
 msgctxt "STRINGS.UI.TOOLTIP_TAGGED"
@@ -15819,12 +15819,12 @@ msgstr "新的CR总数"
 #: STRINGS.UI.TOTAL_XP
 msgctxt "STRINGS.UI.TOTAL_XP"
 msgid "TOTAL EXPERIENCE EARNED"
-msgstr ""
+msgstr "总共获得的经验数"
 
 #: STRINGS.UI.TRACKED
 msgctxt "STRINGS.UI.TRACKED"
 msgid "AGENT TRACKED"
-msgstr ""
+msgstr "特工被跟踪"
 
 #: STRINGS.UI.TRACKED_TT
 msgctxt "STRINGS.UI.TRACKED_TT"
@@ -15964,7 +15964,7 @@ msgstr "那个单元不能移动到这里"
 #: STRINGS.UI.WARNING_NO_CENTRAL_2
 msgctxt "STRINGS.UI.WARNING_NO_CENTRAL_2"
 msgid "Only CENTRAL can complete this final task."
-msgstr ""
+msgstr "只有CENTRAL能完成这最后的任务"
 
 #: STRINGS.UI.WARNING_NO_PATH
 msgctxt "STRINGS.UI.WARNING_NO_PATH"
@@ -15979,7 +15979,7 @@ msgstr "没有有效目标"
 #: STRINGS.UI.WARNING_OBSERVE_GUARD
 msgctxt "STRINGS.UI.WARNING_OBSERVE_GUARD"
 msgid "Central is concerned about that guard."
-msgstr ""
+msgstr "Central 会关注那个警卫的"
 
 #: STRINGS.UI.WARNING_OBSERVE_GUARD_2
 msgctxt "STRINGS.UI.WARNING_OBSERVE_GUARD_2"
