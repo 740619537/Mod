@@ -7008,377 +7008,375 @@ msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_AFTER_MOVE_AWAY"
 msgid "That guard will reawaken soon. Don't bother tying him up - he's trained and augmented to resist physical restraints."
 msgstr "这名守卫不久就会苏醒。别想着能绑住他——他身上的插件能让他拜托身体上的束缚。"
 
-
-
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_AFTER_PEEK
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_AFTER_PEEK"
 msgid "We should have enough power left for <c:faff0a>Incognita</> to bypass that hardware."
-msgstr ""
+msgstr "我们得提供足够的能量让<c:faff0a>Incognita</> 避开那硬件"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_AWAKE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_AWAKE"
 msgid "There he is. <c:faff0a>Wake him up</>."
-msgstr ""
+msgstr "他在这。<c:faff0a>叫醒他</>。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_CAMERA
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_CAMERA"
 msgid "If that camera locks on, it will alert the whole building. We need <c:faff0a>Incognita</> to hack it."
-msgstr ""
+msgstr "如果被摄像头捕捉到，整座建筑都会产生警报。我们需要用<c:faff0a>Incognita</>来破解它。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_CAUGHT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_CAUGHT"
 msgid "Damn it, Operator!"
-msgstr ""
+msgstr "真见鬼，执行官!"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_CONSOLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_CONSOLE"
 msgid "We're going to need <c:faff0a>POWER (PWR)</> in order to hack their system. Jack that console for a quick boost."
-msgstr ""
+msgstr "我们需要<c:faff0a>电力 (PWR)</>来破解他们的系统。侵入那台主机来快速充电。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_DANGER_ZONE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_DANGER_ZONE"
 msgid "Hold up - Incognita has <c:faff0a>detected danger</> around the next corner."
-msgstr ""
+msgstr "停下 - Incognita 在下一个角落周围<c:faff0a>侦测到了危险</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_DISTRACT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_DISTRACT"
 msgid "That guard doesn't look like he's moving. <c:faff0a>Let's give him a reason to</>, shall we?"
-msgstr ""
+msgstr "这守卫看样子是不想动。<c:faff0a>我们来让他动</>，怎样?"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_DOOR_CORNER
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_DOOR_CORNER"
 msgid "Caution is our friend, operator. <c:faff0a>Get into position beside that door</> and scout the next room."
-msgstr ""
+msgstr "小心驶得万年船，执行官。<c:faff0a>走到那扇门边上</>，然后侦查下一间房间。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_END_TURN
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_END_TURN"
 msgid "Let him catch his breath. But don't dally, they'll notice our intrusion soon."
-msgstr ""
+msgstr "让他先喘口气。但是别悠闲，他们迟早会注意到我们的入侵。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_EXIT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_EXIT"
 msgid "Alright, let's keep moving. Their teleporter is just up ahead. Get to it and we'll use it to return to the jet."
-msgstr ""
+msgstr "好吧，我们继续行动。他们的传送器就在前头。到那里后我们就能回到载具上了。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_GET_OUT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_GET_OUT"
 msgid "It's unlocked. Get him out, and be careful not to alert the guard."
-msgstr ""
+msgstr "锁解开了。叫他出来，小心别惊动警卫。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_GOT_CONSOLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_GOT_CONSOLE"
 msgid "Good. That will help us bypass any security devices we encounter."
-msgstr ""
+msgstr "很好。这能帮助我们规避遭遇到的任何安全设备。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_HACK_CAMERA
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_HACK_CAMERA"
 msgid "Camera compromised. Its eyes are ours now. Let's keep moving."
-msgstr ""
+msgstr "摄像头被搞定了，它是我们的眼线了。让我们继续。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_KNOCK_OUT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_KNOCK_OUT"
 msgid "Good. Now <c:faff0a>approach the guard from behind</> and neutralize him."
-msgstr ""
+msgstr "很好。现在<c:faff0a>靠近保安的后背</>并制服他。 "
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_MELEE_PREP
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_MELEE_PREP"
 msgid "Alright, he's coming. <c:faff0a>Make sure Decker is ready for him</>."
-msgstr ""
+msgstr "看，他来了。<c:faff0a>确保Decker准备就绪</>。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_MOVE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_MOVE"
 msgid "Decker was captured. Again. Let's make sure he can walk."
-msgstr ""
+msgstr "Decker他，又一次被抓住了。先确保他还能走动。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_NEED_POWER
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_NEED_POWER"
 msgid "One more camera. We need more <c:faff0a>power for Incognita</> to bypass that hardware. Look for another console."
-msgstr ""
+msgstr "又一个摄像头。我们需要<c:faff0a>提供Incognita更多电力</>来规避它。去找其他的控制台。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_NEXT_ROOM
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_NEXT_ROOM"
 msgid "Nice work. We're almost there. Keep of out sight, and we should be able to get out of there in one piece."
-msgstr ""
+msgstr "干得好。成功近在咫尺。避开视野，我们就能安全地离开此地。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_OBSERVE_GUARD
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_OBSERVE_GUARD"
 msgid "That looks like the last of the security detail. <c:faff0a>Observe</> his movements so there are no more surprises."
-msgstr ""
+msgstr "看上去这就是安保的最后一道防线。<c:faff0a>观察</>他的行动路线以防万一。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_OBSERVE_GUARD_2
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_OBSERVE_GUARD_2"
 msgid "Looks like he's patroling. No trouble as long as we stay behind <c:faff0a>cover</> and out of his sight."
-msgstr ""
+msgstr "看上去他在巡逻。只要我们呆在<c:faff0a>掩体</>后面躲避他的视线就不会惹麻烦。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK"
 msgid "We don't have visibility on the hallway. You'll have to manually check for hostiles."
-msgstr ""
+msgstr "我们没有走廊的视野。你得自己检查敌情。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK_CORNER
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK_CORNER"
 msgid "Get Decker up to the recon point so he can get a better look."
-msgstr ""
+msgstr "将Decker移动到侦测点来让他看得更清楚些。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_PINNED
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_PINNED"
 msgid "Brutal, but effective. <c:faff0a>Proceed to the next door</>."
-msgstr ""
+msgstr "很残忍，但很有效。<c:faff0a>向下一扇门前进</>。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_REMIND_INCOGNITA
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_REMIND_INCOGNITA"
 msgid "Only one camera between you and the exit.\n<c:faff0a>Use Incognita</> to take it over."
-msgstr ""
+msgstr "距离出口只有一个摄像头了。\n<c:faff0a>使用Incognita</> 攻陷它。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_SEE_ARMOR
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_SEE_ARMOR"
 msgid "That guard is wearing <c:faff0a>armor</c>. Be careful - the Disrupter won't work on him."
-msgstr ""
+msgstr "那个守卫穿戴着<c:faff0a>护甲</c>。小心点 - 干扰器对他无效。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_SEE_ARMOR_2
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_SEE_ARMOR_2"
 msgid "We'll have to use his <c:faff0a>blind spots</c> to slip by."
-msgstr ""
+msgstr "我们得利用他的<c:faff0a>盲点</c>溜过去。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_SHUT_THE_DOOR
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_SHUT_THE_DOOR"
 msgid "<c:faff0a>Close the door</> to cover our tracks. If they catch us we'll lose uplink again."
-msgstr ""
+msgstr "通过<c:faff0a>关门</>来隐藏我们的行踪。如果被抓我们又得失去联系了。 "
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_TOOLS
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_TOOLS"
 msgid "Decker's tools should be in that safe. He'll need his <c:faff0a>Neural Disrupter</> to take down these guards."
-msgstr ""
+msgstr "Decker的工具应该在那保险箱里。他需要用他的<c:faff0a>神经干扰器</> 来放倒这些守卫。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_WAITING
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_WAITING"
 msgid "<c:faff0a>Get to the door.</>"
-msgstr ""
+msgstr "<c:faff0a>到门那边。</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_WON
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_WON"
 msgid "We're done here. Rendezvous with Internationale, and get ready for the next mission. We've got a lot more work to do."
-msgstr ""
+msgstr "这里没我们的事了。和Internationale会合后准备下一个任务吧。我们有好多事要办。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.1
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.1"
 msgid "Operator, we have a delicate situation here.\n\nDecker found himself some trouble on his day off. Something involving a whiskey bar and his big, loud mouth."
-msgstr ""
+msgstr "执行管，我们这出现了些微妙的状况。\n\nDecker在他休假的时候碰到了些麻烦。事情大致就是他没在威士忌酒吧里关注自己的大嘴巴。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.2
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.2"
 msgid "He's usually better at covering up after such indiscretions, but this time FTM security got the drop on him."
-msgstr ""
+msgstr "平时他都能更好地在口无遮拦后隐匿踪迹，但是这次FTM的安保系统把他给制住了。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.3
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.3"
 msgid "They noticed his non-market augments, and now they're curious about where he got them.\n\nI'd like to leave him to sweat it out for a while, but we can't have this coming back on us. We're going to break him out."
-msgstr ""
+msgstr "他们注意到了Decker的非市场插件，现在他们对这插件的由来起了兴趣。\n\n我自然会让这些烂摊子留给他自己去善后，但是我们不能之后又被这麻烦找上门来。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.4
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.4"
 msgid "Incognita has activated his failsafe neural uplink. I'm patching you through now."
-msgstr ""
+msgstr "Incognita已经启动了他的故障维护神经连接。我现在正在将你接入。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.5
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.5"
 msgid "Neural Uplink Initialized."
-msgstr ""
+msgstr "神经连接初始化成功。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.DESCRIPTION"
 msgid "Find the target, and hack into his cranial security."
-msgstr ""
+msgstr "找到目标，然后侵入他的脑神经安全系统。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TITLE"
 msgid "FINANCIAL PASS CODE"
-msgstr ""
+msgstr "财务密码"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TXT"
 msgid "A highly-placed financial officer has an office in this facility.\n\nWith his access codes, we can manipulate the market to our advantage."
-msgstr ""
+msgstr "一位高级别金融顾问在此地拥有一间办公室。\n\n一旦拥有了他的通行秘钥，我们就能通过支配市场来获取优势。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.MORE_INFO"
 msgid "The financial officer at this location holds pass codes for high value items in other locations. Infiltrating here may yield greater rewards for future locations."
-msgstr ""
+msgstr "此地的金融顾问持有事关其他地点高价值物品的通行码。通过渗透这里我们就能在之后的地点获得更多奖励。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.NAME"
 msgid "Chief Financial Suite"
-msgstr ""
+msgstr 金融主管套件。""
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.REWARD"
 msgid "Vault access card for use in other facilities."
-msgstr ""
+msgstr "能在其他设施使用的金库通信卡。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CYBERLAB.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CYBERLAB.DESCRIPTION"
 msgid "Find the augment grafting laboratory and hack into their machines."
-msgstr ""
+msgstr "找到插件移植实验室并且侵入他们的机器。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CYBERLAB.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CYBERLAB.INSET_TITLE"
 msgid "AUGMENTS"
-msgstr ""
+msgstr "插件"
 
 #: STRINGS.MISSIONS.LOCATIONS.CYBERLAB.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CYBERLAB.INSET_TXT"
 msgid "This is a research and development lab for cybernetic augments.\n\nThe augments in storage there will not yet have been genecoded to specific users."
-msgstr ""
+msgstr "这里是一间数据植入器材的开发实验室。\n\n那里的库存插件未被基因码绑定特定用户。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CYBERLAB.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CYBERLAB.MORE_INFO"
 msgid "Cybernetic augments give passive abilities to agents, often yielding powerful combinations with other items and programs.\n\nThe machines at this location will provide you the opportunity to install an augment for free, or enhance an agent with an additional augmentation socket."
-msgstr ""
+msgstr "数据植入物能提供特工被动能力，能和其他物品和程序产生强力联动。\n\n这里的器械能提供你一次免费安装插件的机会，或者给一名特工增加额外的插件槽。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CYBERLAB.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CYBERLAB.NAME"
 msgid "Cybernetics Lab"
-msgstr ""
+msgstr "电控实验室"
 
 #: STRINGS.MISSIONS.LOCATIONS.CYBERLAB.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CYBERLAB.REWARD"
 msgid "Gain a one-time ability to either install free augments in an agent, or expand their capacity for augmentation."
-msgstr ""
+msgstr "提供一次机会来选择下列一项增强：给一名特工安装免费的插件，或是增加他们的插件容量。"
 
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.DESCRIPTION"
 msgid "Make your way to the holding cells, and escort any prisoner back to to the telepad in order to escape."
-msgstr ""
+msgstr "设法到达拘留室，并且把囚犯护送到传送板逃生。"
 
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.INSET_TITLE"
 msgid "CORPORATE PRISONERS"
-msgstr ""
+msgstr "企业囚犯"
 
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.INSET_TXT"
 msgid "Detention centers hold high-value human assets for interrogation and deprogramming.\n\nThere may be intercepted Invisible agents on-site."
-msgstr ""
+msgstr "拘留中心扣留着一些关键人物以供刑讯逼供。\n\n当地可能会有被阻截的我方特工。"
 
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.MORE_INFO"
 msgid "We're not sure who they're holding here, but intel shows they have high-value.\n\nIt may be one of our missing agents, or a high-value prisoner that may be sold for a tidy profit. Either way, guiding the prisoner out will yield large benefits for our cause."
-msgstr ""
+msgstr "我不知道它们拘留的是谁，但是因特网显示他们拥有重要价值。\n\n可能会是我们中的一位失踪特工，或是一位能高价出手的重要囚犯。不管怎样，救出囚徒能为我们提供巨大利益。"
 
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.NAME"
 msgid "Detention Center"
-msgstr ""
+msgstr "拘留中心"
 
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.REWARD"
 msgid "Gain extra agents or a hostage rescue reward."
-msgstr ""
+msgstr "获取额外特工，或是人质拯救奖励。"
 
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.DESCRIPTION"
 msgid "Find the central server and upload Incognita before she expires."
-msgstr ""
+msgstr "找到中央服务器后在Incognita过期前将其上传。"
 
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.INSET_TITLE"
 msgid "SECNET ROOT ACCESS"
-msgstr ""
+msgstr "安网中枢通行"
 
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.INSET_TXT"
 msgid "This is the processing center that has been collating network traffic data from all of the corporations.\n\nWith their hardware, Incognita may be able to cover our tracks."
-msgstr ""
+msgstr "这里就是校对所有公司网路数据的进程中心。\n\n有了他们的硬件，Incognita就能隐匿我们的踪迹。"
 
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.MORE_INFO"
 msgid "There isn't a lot of information about this location, but Monst3r's intelligence show that the security here uses the most state-of-the art technology.\n\nExpect high level security and advanced countermeasures."
-msgstr ""
+msgstr "对于这里的信息不是很多，但是Monst3r的情报显示这里的安保使用的是最前沿的科技。\n\n请准备好遭遇高级的保安和更高超的防御对策。"
 
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.NAME"
 msgid "Mainframe"
-msgstr ""
+msgstr "中央处理器"
 
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.REWARD"
 msgid "You may survive to see tomorrow. Maybe."
-msgstr ""
+msgstr "你能活着看到明天的太阳了。大概吧。"
 
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.DESCRIPTION"
 msgid "Locate the weapon lockdown room and defeat its security to gain access to the item."
-msgstr ""
+msgstr "定位武器锁存室，制服安保设施，最后获得物品。"
 
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.INSET_TITLE"
 msgid "ADVANCED GEAR"
-msgstr ""
+msgstr "高档装备"
 
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.INSET_TXT"
 msgid "This is a regional security office, so expect hardened resistance.\n\nHigh-level security operatives may have specialized gear that we can re-purpose."
-msgstr ""
+msgstr "这里是区域性的安保办公室，请准备好面对更强的抵抗。\n\n高等级的安保设施内会有特殊的装置供我们善加利用。"
 
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.MORE_INFO"
 msgid "The corporation at this location is keeping a high-value item in here under heavy security.\n\nA successful infiltration here will gain you an item which normally costs a tidy sum at a Nanofab, for the more desirable cost of zero."
-msgstr ""
+msgstr "这个地区的公司重兵把守着一件高价值物品。\n\n成功入侵后你便能0出价获得一件平时使用巨额资金才能在纳米打印机上购得的物品。"
 
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.NAME"
 msgid "Security Dispatch"
-msgstr ""
+msgstr "保安派遣"
 
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.REWARD"
 msgid "A highly valued item to better equip your agents, or sell them for profit."
-msgstr ""
+msgstr "一个高价值的物品，建议给特工装备，也可出售求现。"
 
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.DESCRIPTION"
 msgid "Find the advanced Nanofab Terminal at this location and hack it to gain access."
-msgstr ""
+msgstr "找到这里的进阶纳米打印终端后破解登录之。"
 
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.INSET_TITLE"
 msgid "CONTRABAND TEMPLATES"
-msgstr ""
+msgstr "违禁品模版"
 
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.INSET_TXT"
 msgid "Most nanofabs have advanced security protocols to prevent unlicensed fabrications.\n\nThe fabricator at this location has been compromised, so we will be able to construct a wider range of items."
-msgstr ""
+msgstr "多数纳米打印机拥有防止违章生产的高级安保协议。\n\n这个区域的纳米打印机已经被渗透，我们能在此制造各种物品。"
 
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.MORE_INFO"
 msgid "This location contains an advanced Nanofab, providing a wide variety of tools that will help agents overcome more powerful security threats. Choose carefully to compliment their abilities and your strategy as an Operator.\n\nThese items do not come cheap, so you'll need to have saved significant credits to make use of it."
-msgstr ""
+msgstr "这个区域容有一台高级纳米打印机，能提供给特工对抗强力安保威胁的各式工具。身为执行官请在选择物品和策略时多加斟酌。\n\n这些工具科不会便宜，你得积攒足够的资金来获取它们。"
 
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.NAME"
 msgid "Nanofab Vestibule"
-msgstr ""
+msgstr "纳米打印机门厅"
 
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.REWARD"
 msgid "Gain access to a wide variety of counterfeit goods. You'll need enough credits to make use of this."
-msgstr ""
+msgstr "能提供多种多样的仿制物品。你得确保有足够的资金来运行这些。"
 
 #: STRINGS.MISSIONS.LOCATIONS.SECURITY.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SECURITY.DESCRIPTION"
 msgid "This will be a plain-language description of what you are trying to do in this particular mission type."
-msgstr ""
+msgstr "你在这类任务所要办的事阐述起来很简单。"
 
 #: STRINGS.MISSIONS.LOCATIONS.SECURITY.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SECURITY.INSET_TITLE"
 msgid "CORPORATE ESPIONAGE"
-msgstr ""
+msgstr "公司间谍行动"
 
 #: STRINGS.MISSIONS.LOCATIONS.SECURITY.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SECURITY.INSET_TXT"
 msgid "This is a secure site for the highest-value detainees. Proceed with caution."
-msgstr ""
+msgstr "这里是针对最高价值拘留者的保护设施。行动时多加小心。"
 
 #: STRINGS.MISSIONS.LOCATIONS.SECURITY.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SECURITY.MORE_INFO"
@@ -7388,132 +7386,132 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.SECURITY.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SECURITY.NAME"
 msgid "Secure Holding Facility"
-msgstr ""
+msgstr "安保拘留设施"
 
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.DESCRIPTION"
 msgid "Find the central server room and hack the inventory terminal"
-msgstr ""
+msgstr "找到中央服务器室后破解库存终端"
 
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.INSET_TITLE"
 msgid "MAINFRAME SOFTWARE"
-msgstr ""
+msgstr "中央处理器软件"
 
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.INSET_TXT"
 msgid "Server farms are used to develop new network security technologies.\n\nWe may find code that we can use to improve our infiltration routines."
-msgstr ""
+msgstr "服务器群被用来开发新的网络安保科技。\n\n我们会在这里找到能改进我们侵入路线的编码。"
 
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.MORE_INFO"
 msgid "Incognita can house powerful programs that help break corporate firewalls, provide utility for agents, and defend against daemons.\n\nThere are a wide variety of programs that can help our cause here, but make sure you bring enough credits to pay the broker."
-msgstr ""
+msgstr "Incognita 能存储攻破公司防火墙的强大软件，提供特工便捷，以及防御守护神。\n\n那里会有多种能提供我们帮助的软件，前提是得先代购钱。"
 
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.NAME"
 msgid "Server Farm"
-msgstr ""
+msgstr "服务器群"
 
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.REWARD"
 msgid "Server Farms warehouse advanced security programs that enhance Incognita's abilities."
-msgstr ""
+msgstr "服务器群储存着能提升Incognita能力的高阶安保系统。"
 
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.DESCRIPTION"
 msgid "Find the corporate directory terminal and retrieve the information."
-msgstr ""
+msgstr "找到公司的工商名录终端然后收回这些信息。"
 
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.INSET_TITLE"
 msgid "CURRENT SITE LISTS"
-msgstr ""
+msgstr "当前地址列表"
 
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.INSET_TXT"
 msgid "Executive terminals have elevated security credentials.\n\nCompromise one, and we will be able to pinpoint other facilities of interest."
-msgstr ""
+msgstr "执行终端拥有高层的安保凭证。\n\n破解其中一个后，我们就能标记出其他有利可图的设施了。"
 
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.MORE_INFO"
 msgid "This facility holds the locations of future targets of value.\n\nEach mission type provides key benefits to your agents, and while new locations will be presented to you over time, a successful infiltration here will speed up the process and give you more targets of your choosing."
-msgstr ""
+msgstr "这设施持有将会有价值的目标地点信息。\n\n每种任务的类型都提供给你的特工以关键利益，尽管你依旧会在过段时间后获得新的地点，对此地的一次成功侵入则能加速该过程并提供你更加多的目标来选择。"
 
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.NAME"
 msgid "Executive Terminals"
-msgstr ""
+msgstr "执行终端"
 
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.REWARD"
 msgid "Pinpoint new corporate locations of interest."
-msgstr ""
+msgstr "标记新的有利公司地点。"
 
 #: STRINGS.MISSIONS.LOCATIONS.TREASURY_HOLDING
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TREASURY_HOLDING"
 msgid "Treasury Office"
-msgstr ""
+msgstr "财务办公室"
 
 #: STRINGS.MISSIONS.LOCATIONS.TUTORIAL.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TUTORIAL.NAME"
 msgid "Interrogation Room"
-msgstr ""
+msgstr "审讯室"
 
 #: STRINGS.MISSIONS.LOCATIONS.VAULT.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.VAULT.DESCRIPTION"
 msgid "Break into their high security vault."
-msgstr ""
+msgstr "侵入他们戒备森严的金库。"
 
 #: STRINGS.MISSIONS.LOCATIONS.VAULT.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.VAULT.INSET_TITLE"
 msgid "CREDIT RESERVES"
-msgstr ""
+msgstr "资金储备区"
 
 #: STRINGS.MISSIONS.LOCATIONS.VAULT.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.VAULT.INSET_TXT"
 msgid "This facility warehouses credit hashes.\n\nWe could siphon off a portion without triggering a hash recall."
-msgstr ""
+msgstr "这里的设施储存着小包装现金。\n\n我们能在不触发资金收回的条件下吸取一部分。"
 
 #: STRINGS.MISSIONS.LOCATIONS.VAULT.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.VAULT.MORE_INFO"
 msgid "Vaults contain large sums of credits waiting to be stolen.\n\nHowever, the highest value items are behind locked doors, and if you are not bringing a vault access card into the mission, you will not be able to access it. You may need to infiltrate other missions to obtain it first."
-msgstr ""
+msgstr "金库存有大量诱人的资金。\n\n然而最值钱的物品被存放在上锁的门后面，必须使用金库通信密钥才能进入。你可以在其他任务中获取金库密钥。"
 
 #: STRINGS.MISSIONS.LOCATIONS.VAULT.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.VAULT.NAME"
 msgid "Vault"
-msgstr ""
+msgstr "金库"
 
 #: STRINGS.MISSIONS.LOCATIONS.VAULT.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.VAULT.REWARD"
 msgid "Vaults hold credits and art objects that can be sold. Vault access cards will open the doors to greater riches."
-msgstr ""
+msgstr "金库保管着资金以及能变卖的艺术品。金库通信卡能在此开出更多财产。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.POST.1
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.POST.1"
 msgid "Damn it, ShopCat. That's no way to treat your customers."
-msgstr ""
+msgstr "去你的，ShopCat。顾客不是你这么照顾的。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.POST.2
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.POST.2"
 msgid "You'd never get that kind of treatment at *my* shop. I have standards to uphold."
-msgstr ""
+msgstr "你在*我的*店里永远别想要这种待遇。我是个有原则的人。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.POST.3
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.POST.3"
 msgid "Is that a person pretending to be a cat, or a cat pretending to be a person? It's weird either way."
-msgstr ""
+msgstr "这到底是想假装猫的人，还是想扮成人的猫？不管怎样都是怪咖。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.POST.4
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.POST.4"
 msgid "On SecNet, nobody knows you are a cat."
-msgstr ""
+msgstr "在安网上，没人会知道你的真面目。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.POST.5
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.POST.5"
 msgid "Don't say I didn't warn you. Pity you can't get that gear anywhere else."
-msgstr "别说我没提醒过你。遗憾的是你并不能把那个带走。"
+msgstr "别说我没提醒你。这装置只有我卖，过了这村没这店。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.PRE.1
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.PRE.1"
