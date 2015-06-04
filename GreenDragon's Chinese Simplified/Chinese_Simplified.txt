@@ -14047,7 +14047,7 @@ msgstr "自己一个人前往是危险的，带上这个"
 #: STRINGS.UI.MONST3R.BUY_ITEM.6
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.6"
 msgid "My usual guarantee terms apply. I guarantee that you're on your own if you break this."
-msgstr ""
+msgstr "My usual guarantee terms apply. I guarantee that you're on your own if you break this."
 
 #: STRINGS.UI.MONST3R.BUY_ITEM.7
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.7"
@@ -14057,7 +14057,7 @@ msgstr "为了任何事情"
 #: STRINGS.UI.MONST3R.BUY_ITEM.8
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.8"
 msgid "Good call. That's prime gear."
-msgstr "Good call. That's prime gear."
+msgstr "说的好. 那是最好的装置."
 
 #: STRINGS.UI.MONST3R.BUY_ITEM.9
 msgctxt "STRINGS.UI.MONST3R.BUY_ITEM.9"
@@ -14067,7 +14067,7 @@ msgstr "现在，不要在一个地方用光它"
 #: STRINGS.UI.MONST3R.DAEMON_BLOCKER
 msgctxt "STRINGS.UI.MONST3R.DAEMON_BLOCKER"
 msgid "An ex-Sankaku executive smuggled this out, along with some intel I'm sending your way on a new type of Daemon. Don't thank me, I'm just keeping a customer alive."
-msgstr ""
+msgstr "An ex-Sankaku executive smuggled this out, along with some intel I'm sending your way on a new type of Daemon. Don't thank me, I'm just keeping a customer alive."
 
 #: STRINGS.UI.MONST3R.NOBUY.1
 msgctxt "STRINGS.UI.MONST3R.NOBUY.1"
@@ -14122,7 +14122,7 @@ msgstr "你曾经坚持过你的决定吗？"
 #: STRINGS.UI.MONST3R.NOSELL.4
 msgctxt "STRINGS.UI.MONST3R.NOSELL.4"
 msgid "You want it, then you don't. Then you do. Sigh."
-msgstr ""
+msgstr "你想要它，然后你不要它。现在你做了。"
 
 #: STRINGS.UI.MONST3R.NOSELL.5
 msgctxt "STRINGS.UI.MONST3R.NOSELL.5"
@@ -14167,22 +14167,22 @@ msgstr "我现在冒着巨大的风险卖东西给你。希望你的价格不要
 #: STRINGS.UI.MONST3R.OPEN_SPECIAL.3
 msgctxt "STRINGS.UI.MONST3R.OPEN_SPECIAL.3"
 msgid "I'm holding this thing for a client. Real motivated seller - you won't beat this price."
-msgstr ""
+msgstr "我为我的客户保存这个东西。真正的积极的卖家-我不会降价的"
 
 #: STRINGS.UI.MONST3R.PLOT_POINTS.1
 msgctxt "STRINGS.UI.MONST3R.PLOT_POINTS.1"
 msgid "Me and Gladstone go way back. She ever tell you how we met? I was her chief tech officer in the PanEuro cyber-interdiction force.\n\nWe put up a good fight, but it was a dead cause. In the end, the corporations just had the most toys."
-msgstr ""
+msgstr "Me and Gladstone go way back. She ever tell you how we met? I was her chief tech officer in the PanEuro cyber-interdiction force.\n\nWe put up a good fight, but it was a dead cause. In the end, the corporations just had the most toys."
 
 #: STRINGS.UI.MONST3R.PLOT_POINTS.2
 msgctxt "STRINGS.UI.MONST3R.PLOT_POINTS.2"
 msgid "How did you get recruited for Invisible? Gladstone's been trying to get me onboard for years, but I lost my stomach for wetwork.\n\nBesides, all real power is economic. My personal income as a freelance is bigger than a small country's GDP."
-msgstr "你怎么被隐形公司招聘了？Gladstone 想让我为他工作已经很多年了，但是因为wetwork丢了胃。\n\n除此之外，金钱是万能的。我个人的收入比那些小国家的GDP还要高"
+msgstr "你怎么被隐形公司征召了？Gladstone 想让我为他工作已经很多年了，但是因为wetwork丢了胃。\n\n除此之外，金钱是万能的。我个人的收入比那些小国家的GDP还要高"
 
 #: STRINGS.UI.MONST3R.PLOT_POINTS.3
 msgctxt "STRINGS.UI.MONST3R.PLOT_POINTS.3"
 msgid "I'm surprised it took the Corps this long to finally go after you. They're usually not so lenient with dissent. Have you ever seen a city block after a K&O pacification sweep?\n\nMessy stuff. They're completely ruthless when their bottom line is threatened."
-msgstr ""
+msgstr "我很惊讶它最终跟着你. 他们一般不宽大仁慈. \n\nMessy stuff. 当他们的底线受到威胁的时候，他们是无情的"
 
 #: STRINGS.UI.MONST3R.PLOT_POINTS.4
 msgctxt "STRINGS.UI.MONST3R.PLOT_POINTS.4"
@@ -14222,7 +14222,7 @@ msgstr "我有一个想要它的客户.你就让我高兴高兴吧"
 #: STRINGS.UI.MONST3R.SELL_ITEM.6
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.6"
 msgid "You keep me in stock, and I'll keep you in credits."
-msgstr "You keep me in stock, and I'll keep you in credits."
+msgstr "你为我屯着货物, 我给你CR."
 
 #: STRINGS.UI.MONST3R.SELL_ITEM.7
 msgctxt "STRINGS.UI.MONST3R.SELL_ITEM.7"
@@ -14252,7 +14252,7 @@ msgstr "该死，没有办法治疗你的客户了"
 #: STRINGS.UI.MONSTER_CATSHOP_POST.2
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_POST.2"
 msgid "You'd never get that kind of treatment at my shop. I have standards to uphold."
-msgstr "You'd never get that kind of treatment at my shop. I have standards to uphold."
+msgstr "在我的商店里你再也不能获得那种待遇了. 我有坚持的标准"
 
 #: STRINGS.UI.MONSTER_CATSHOP_POST.3
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_POST.3"
@@ -14267,7 +14267,7 @@ msgstr "不要说我没有警告过你。你再也不能在任何地方得到那
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.1
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.1"
 msgid "Oh no. It's *her*. Keep your wits about you."
-msgstr "Oh no. It's *her*. Keep your wits about you."
+msgstr "啧，是她！随时保持警惕。"
 
 #: STRINGS.UI.MONSTER_CATSHOP_PRE.2
 msgctxt "STRINGS.UI.MONSTER_CATSHOP_PRE.2"
@@ -14397,7 +14397,7 @@ msgstr "获得的程序"
 #: STRINGS.UI.PUTTING_AUGMENT_IN_INVENTORY
 msgctxt "STRINGS.UI.PUTTING_AUGMENT_IN_INVENTORY"
 msgid "No augment slots available. Placing augment in inventory."
-msgstr "No augment slots available. Placing augment in inventory."
+msgstr "没有可用的植入体插槽. 把植入体放入库存中."
 
 #: STRINGS.UI.PWR_DRAIN_ALERT_HEAD
 msgctxt "STRINGS.UI.PWR_DRAIN_ALERT_HEAD"
@@ -14462,7 +14462,7 @@ msgstr "弹药达到上限"
 #: STRINGS.UI.REASON.ARCHDAEMON_CHARGED
 msgctxt "STRINGS.UI.REASON.ARCHDAEMON_CHARGED"
 msgid "Archdaemon Inhibitor fully charged"
-msgstr ""
+msgstr "Archdaemon Inhibitor 充电完成"
 
 #: STRINGS.UI.REASON.ATTACK_USED
 msgctxt "STRINGS.UI.REASON.ATTACK_USED"
@@ -14537,7 +14537,7 @@ msgstr "不能为这个武器添装弹药"
 #: STRINGS.UI.REASON.CANT_STACK_BODIES
 msgctxt "STRINGS.UI.REASON.CANT_STACK_BODIES"
 msgid "Cannot stack bodies"
-msgstr "不能堆叠bodies"
+msgstr "不能堆叠"
 
 #: STRINGS.UI.REASON.CHARGE_FULL
 msgctxt "STRINGS.UI.REASON.CHARGE_FULL"
@@ -14572,7 +14572,7 @@ msgstr "敌人正在被牵制"
 #: STRINGS.UI.REASON.EQUIPPED_ON_COOLDOWN
 msgctxt "STRINGS.UI.REASON.EQUIPPED_ON_COOLDOWN"
 msgid "Equipped ability on cooldown"
-msgstr "Equipped ability on cooldown"
+msgstr "在冷却方面装备能力"
 
 #: STRINGS.UI.REASON.FULL_STASH
 msgctxt "STRINGS.UI.REASON.FULL_STASH"
@@ -14822,7 +14822,7 @@ msgstr "恢复人质"
 #: STRINGS.UI.RECAP.MAPPING
 msgctxt "STRINGS.UI.RECAP.MAPPING"
 msgid "MICROSLAM CREDITS"
-msgstr "MICROSLAM CREDITS"
+msgstr "MICROSLAM CR"
 
 #: STRINGS.UI.RECAP.NOTHACKED
 msgctxt "STRINGS.UI.RECAP.NOTHACKED"
@@ -14862,7 +14862,7 @@ msgstr "回收等级"
 #: STRINGS.UI.REGEN_LEVEL_BODY
 msgctxt "STRINGS.UI.REGEN_LEVEL_BODY"
 msgid "Regenerating the level will restart the current mission with a new level layout. Are you sure?"
-msgstr "Regenerating the level will restart the current mission with a new level layout. 你确定?"
+msgstr "重生等级将会重新开始当下的任务伴随一个新的等级布局. 你确定吗?"
 
 #: STRINGS.UI.REPUTATION_EARNED
 msgctxt "STRINGS.UI.REPUTATION_EARNED"
@@ -14997,7 +14997,7 @@ msgstr "保存游戏版本:"
 #: STRINGS.UI.SAVE_NOT_COMPATIBLE
 msgctxt "STRINGS.UI.SAVE_NOT_COMPATIBLE"
 msgid "Save game not compatible"
-msgstr "Save game not compatible"
+msgstr "不可兼容的保存游戏"
 
 #: STRINGS.UI.SCANNER_ALERT_HEAD
 msgctxt "STRINGS.UI.SCANNER_ALERT_HEAD"
@@ -15057,7 +15057,7 @@ msgstr "战利品 %s_"
 #: STRINGS.UI.SHOP_MINISERVER
 msgctxt "STRINGS.UI.SHOP_MINISERVER"
 msgid "ACCESS TO WAREZ: M1N1 B@Z@@R"
-msgstr "ACCESS TO WAREZ: M1N1 B@Z@@R"
+msgstr "接通盗版商: M1N1 B@Z@@R"
 
 #: STRINGS.UI.SHOP_MONST3R
 msgctxt "STRINGS.UI.SHOP_MONST3R"
@@ -15102,7 +15102,7 @@ msgstr "出售程序"
 #: STRINGS.UI.SHOP_SERVER
 msgctxt "STRINGS.UI.SHOP_SERVER"
 msgid "ACCESS TO WAREZ: GR@ND B@Z@@R"
-msgstr "ACCESS TO WAREZ: GR@ND B@Z@@R"
+msgstr "接通盗版商: GR@ND B@Z@@R"
 
 #: STRINGS.UI.SHOP_WAREZ
 msgctxt "STRINGS.UI.SHOP_WAREZ"
@@ -15132,7 +15132,7 @@ msgstr "购买完成.访问GR@ND B@Z@@R获得更多价值"
 #: STRINGS.UI.SMALLCATSHOP_BUY.3
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUY.3"
 msgid "HIGH LEVEL PROGRAMS AVAILABLE AT OUR FULL-SIZE LOCATIONS."
-msgstr ""
+msgstr "高等级可用的程序"
 
 #: STRINGS.UI.SMALLCATSHOP_BUY.4
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUY.4"
@@ -15142,7 +15142,7 @@ msgstr "THE CAT IS WHERE IT IS AT."
 #: STRINGS.UI.SMALLCATSHOP_BUYBACK.1
 msgctxt "STRINGS.UI.SMALLCATSHOP_BUYBACK.1"
 msgid "RETURN PROCESSED."
-msgstr "RETURN PROCESSED."
+msgstr "返回 PROCESSED."
 
 #: STRINGS.UI.SMALLCATSHOP_OPEN.1
 msgctxt "STRINGS.UI.SMALLCATSHOP_OPEN.1"
@@ -15172,7 +15172,7 @@ msgstr "交易完成"
 #: STRINGS.UI.SMALLCATSHOP_SELL.2
 msgctxt "STRINGS.UI.SMALLCATSHOP_SELL.2"
 msgid "BITS FLAGGED FOR RECYCLING."
-msgstr "BITS FLAGGED FOR RECYCLING."
+msgstr "比特标记为可回收"
 
 #: STRINGS.UI.SMALLCATSHOP_SELL.3
 msgctxt "STRINGS.UI.SMALLCATSHOP_SELL.3"
@@ -15222,7 +15222,7 @@ msgstr "机密的"
 #: STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_LOADOUT"
 msgid "You've selected CLASSIFIED components to your team. Please select a team loadout that you have access to."
-msgstr ""
+msgstr "你已经为你的队伍选择了机密组件.请选择一个你已经拥有的队伍来武装"
 
 #: STRINGS.UI.TEAM_SELECT.UNLOCK_CENTRAL_MONSTER
 msgctxt "STRINGS.UI.TEAM_SELECT.UNLOCK_CENTRAL_MONSTER"
@@ -15267,17 +15267,17 @@ msgstr "调查奇怪的事件"
 #: STRINGS.UI.TIME_ATTACK_DESC
 msgctxt "STRINGS.UI.TIME_ATTACK_DESC"
 msgid "We're evening the playing field, and you only have 2 minutes to complete every turn. Are you able to act fast enough, or will the corporations get you first?"
-msgstr ""
+msgstr "我们踏平场地，而且每回合你只有2分钟去完成。你有能力的足够快或者企业让你第一吗？"
 
 #: STRINGS.UI.TIME_ATTACK_DIFFICULTY
 msgctxt "STRINGS.UI.TIME_ATTACK_DIFFICULTY"
 msgid "Time Attack"
-msgstr ""
+msgstr "计时挑战"
 
 #: STRINGS.UI.TIME_ATTACK_SHORT_DESC
 msgctxt "STRINGS.UI.TIME_ATTACK_SHORT_DESC"
 msgid "Test your skills against the clock."
-msgstr ""
+msgstr "争分夺秒的试验你的技能"
 
 #: STRINGS.UI.TOOLTIPS.ADDS_REPUTAION
 msgctxt "STRINGS.UI.TOOLTIPS.ADDS_REPUTAION"
@@ -15362,7 +15362,7 @@ msgstr "EMP的效果是永久破坏该单位的精细电子电路"
 #: STRINGS.UI.TOOLTIPS.ENCUMBERED
 msgctxt "STRINGS.UI.TOOLTIPS.ENCUMBERED"
 msgid "<c:A30000>ENCUMBERED\n-{1} AP</>"
-msgstr "<c:A30000>ENCUMBERED\n-{1} AP</>"
+msgstr "<c:A30000>妨碍性的\n-{1} AP</>"
 
 #: STRINGS.UI.TOOLTIPS.EQUIPPED
 msgctxt "STRINGS.UI.TOOLTIPS.EQUIPPED"
@@ -15397,7 +15397,7 @@ msgstr "骇人"
 #: STRINGS.UI.TOOLTIPS.HACK_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HACK_DESC"
 msgid "Hack in mainframe mode to earn credits. Refreshes every turn."
-msgstr ""
+msgstr "骇入主机模式来赚取CR。每回合恢复"
 
 #: STRINGS.UI.TOOLTIPS.HEART_MONITOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEART_MONITOR"
@@ -15457,7 +15457,7 @@ msgstr "<ttbody><ttheader2>战利品 {1} CR</>\n战利品 CR</>"
 #: STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS
 msgctxt "STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS"
 msgid "MAGNETIC REINFORCEMENTS"
-msgstr ""
+msgstr "磁性加固物"
 
 #: STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.MAGNETIC_REINFOREMENTS_DESC"
@@ -15497,7 +15497,7 @@ msgstr "不活跃"
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_LINKED_TO_POWER_GRID"
 msgid "This device is linked to power grid [%s]."
-msgstr ""
+msgstr "该设备和电力网有密切联系[%s]."
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_MASKED"
@@ -15567,7 +15567,7 @@ msgstr "PERIPHERAL BOOST"
 #: STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PERIPHERAL_BOOST_DESC"
 msgid "180 degree Line of Sight"
-msgstr "180度直线的视线"
+msgstr "广度视角"
 
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS"
@@ -15577,7 +15577,7 @@ msgstr "防护罩 %d"
 #: STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.PROTECTIVE_SHIELDS_DESC"
 msgid "Blocks shots against this target. Shields reduced by 1 for each shot taken."
-msgstr "封锁目标的射击。每次被射到护盾减少1点"
+msgstr "封锁目标的射击。护盾每次被射到护盾减少1点"
 
 #: STRINGS.UI.TOOLTIPS.PWR_STEAL
 msgctxt "STRINGS.UI.TOOLTIPS.PWR_STEAL"
@@ -15892,7 +15892,7 @@ msgstr "升级{1}"
 #: STRINGS.UI.VERY_HARD_DESC
 msgctxt "STRINGS.UI.VERY_HARD_DESC"
 msgid "We hide the danger zones if you can't see the sources. In addition, the alarm increases when knocking out guards, and you start with less PWR."
-msgstr ""
+msgstr "我们隐藏了危险的区域如果你不能看到源头.另外，当你击晕警卫时，警戒等级将会提升，你将以更少的PWR开始"
 
 #: STRINGS.UI.VERY_HARD_DIFFICULTY
 msgctxt "STRINGS.UI.VERY_HARD_DIFFICULTY"
