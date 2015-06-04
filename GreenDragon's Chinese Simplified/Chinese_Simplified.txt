@@ -3136,7 +3136,7 @@ msgstr "神经网络"
 #: STRINGS.ITEMS.AUGMENTS.DECKARDS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKARDS_FLAVOR"
 msgid "Over the years, most of Decker's vertebrae have been replaced with synthetics of varying quality. When jacked in, the jolts of pain allow him to differentiate subroutines."
-msgstr "多年以来， Decker 的大部分椎骨慢慢被良莠不齐的合成材料所替换。当他执行任务时，黑入设备所造成的阵痛可以使他区别出这台设备所安装的守护进程类别。"
+msgstr "多年以来， Decker 的大部分椎骨慢慢被良莠不齐的合成材料所替换。当他执行任务时，黑入设备所造成的镇痛可以使他区别出这台设备所安装的守护进程类别。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKARDS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKARDS_TIP"
@@ -3506,152 +3506,152 @@ msgstr "每回合一次，当特工使用一个需要3回合冷却的装备时�
 #: STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS
 msgctxt "STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS"
 msgid "Torque Injectors"
-msgstr ""
+msgstr "转矩调节器"
 
 #: STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS_FLAVOR"
 msgid "The hand is a versatile but an inefficient design. By restricting certain axes of motion, we are able to improve the speed and efficiency of others."
-msgstr ""
+msgstr "通过限制某些轴的运动，可以改善其他部件的速度与效率。"
 
 #: STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.TORQUE_INJECTORS_TIP"
 msgid "Reduces item cooldown by 1"
-msgstr ""
+msgstr "减少道具冷却 1 回合"
 
 #: STRINGS.ITEMS.BATON
 msgctxt "STRINGS.ITEMS.BATON"
 msgid "MONOFILAMENT BATON"
-msgstr ""
+msgstr "单纤维棍"
 
 #: STRINGS.ITEMS.BATON_FLAVOR
 msgctxt "STRINGS.ITEMS.BATON_FLAVOR"
 msgid "Though it looks like a simple club, in reality it's a short whip, thanks to advances in molecular construction. The filament is nearly invisible to the eye, and the results are often as hard to look at."
-msgstr ""
+msgstr "虽然它看起来像是个普通的棍子，实际上它是个短鞭，这得益于先进的分子构造。这种细线人眼几乎不可见，由此制造的成果也往往难以观察。"
 
 #: STRINGS.ITEMS.BATON_TOOLTIP
 msgctxt "STRINGS.ITEMS.BATON_TOOLTIP"
 msgid "Melee strikes are lethal."
-msgstr ""
+msgstr "近距离打击是致命的。"
 
 #: STRINGS.ITEMS.BUSTER_1
 msgctxt "STRINGS.ITEMS.BUSTER_1"
 msgid "Buster Chip I"
-msgstr ""
+msgstr "爆裂芯片 I"
 
 #: STRINGS.ITEMS.BUSTER_1_FLAVOR
 msgctxt "STRINGS.ITEMS.BUSTER_1_FLAVOR"
 msgid "A favourite of script kiddies and low-level corporate sysadmins, the Buster Chip automatically breaks down firewalls."
-msgstr ""
+msgstr "一个深受脚本小子与低级集团管理员喜爱的产品，爆裂芯片可以运行后可以自动破坏防火墙。"
 
 #: STRINGS.ITEMS.BUSTER_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.BUSTER_1_TOOLTIP"
 msgid "Use this to manually break through 2 firewalls."
-msgstr ""
+msgstr "使用它可以手动破坏 2 层防火墙。"
 
 #: STRINGS.ITEMS.BUSTER_2
 msgctxt "STRINGS.ITEMS.BUSTER_2"
 msgid "Buster Chip II"
-msgstr ""
+msgstr "爆裂芯片 II"
 
 #: STRINGS.ITEMS.BUSTER_2_FLAVOR
 msgctxt "STRINGS.ITEMS.BUSTER_2_FLAVOR"
 msgid "A favourite of script kiddies and low-level corporate sysadmins, the Buster Chip automatically breaks down firewalls."
-msgstr ""
+msgstr "一个深受脚本小子与低级集团管理员喜爱的产品，爆裂芯片可以运行后可以自动破坏防火墙"
 
 #: STRINGS.ITEMS.BUSTER_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.BUSTER_2_TOOLTIP"
 msgid "Use this to manually break through 3 firewalls."
-msgstr ""
+msgstr "使用它可以手动破坏 3 层防火墙"
 
 #: STRINGS.ITEMS.BUSTER_3
 msgctxt "STRINGS.ITEMS.BUSTER_3"
 msgid "Buster Chip III"
-msgstr ""
+msgstr "爆裂芯片 III"
 
 #: STRINGS.ITEMS.BUSTER_3_FLAVOR
 msgctxt "STRINGS.ITEMS.BUSTER_3_FLAVOR"
 msgid "A favourite of script kiddies and low-level corporate sysadmins, the Buster Chip automatically breaks down firewalls."
-msgstr ""
+msgstr "一个深受脚本小子与低级集团管理员喜爱的产品，爆裂芯片可以运行后可以自动破坏防火墙"
 
 #: STRINGS.ITEMS.BUSTER_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.BUSTER_3_TOOLTIP"
 msgid "Use this to manually break through 4 firewalls."
-msgstr ""
+msgstr "使用它可以手动破坏 4 层防火墙"
 
 #: STRINGS.ITEMS.CLIP
 msgctxt "STRINGS.ITEMS.CLIP"
 msgid "Charge Pack"
-msgstr ""
+msgstr "充能包"
 
 #: STRINGS.ITEMS.CLIP_FLAVOR
 msgctxt "STRINGS.ITEMS.CLIP_FLAVOR"
 msgid "Weapons capable of penetrating corporate armor require expensive and unstable energy packs."
-msgstr ""
+msgstr "武器能够穿透集团守卫的护甲是需要消耗昂贵且不稳定的能量包的。"
 
 #: STRINGS.ITEMS.CLIP_TIP
 msgctxt "STRINGS.ITEMS.CLIP_TIP"
 msgid "Refills a weapon's ammo or reduces an item's cooldown."
-msgstr ""
+msgstr "装填武器弹药或减少装备冷却时间。"
 
 #: STRINGS.ITEMS.CLOAK_1
 msgctxt "STRINGS.ITEMS.CLOAK_1"
 msgid "Cloaking Rig I"
-msgstr ""
+msgstr "隐身服 I"
 
 #: STRINGS.ITEMS.CLOAK_1_FLAVOR
 msgctxt "STRINGS.ITEMS.CLOAK_1_FLAVOR"
 msgid "Cloaking rigs use an array of holographic projectors to bend light around a small area, rendering it almost invisible. The projectors overheat quickly, however, limiting their utility."
-msgstr ""
+msgstr "隐身服利用大量的全息投影器来使小范围内光线发生折射，运作时遮蔽空间内几乎透明。投影器非常容易过热，无论如何请谨慎使用。"
 
 #: STRINGS.ITEMS.CLOAK_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.CLOAK_1_TOOLTIP"
 msgid "Renders the user invisible until their next turn or if they attack. This version will only maintain its effect for 4 tiles of movement."
-msgstr ""
+msgstr "使用者隐形，直到下一回合或做出攻击行为。这个版本只能维持效果移动 4 格。"
 
 #: STRINGS.ITEMS.CLOAK_2
 msgctxt "STRINGS.ITEMS.CLOAK_2"
 msgid "Cloaking Rig II"
-msgstr ""
+msgstr "隐身服 II"
 
 #: STRINGS.ITEMS.CLOAK_2_FLAVOR
 msgctxt "STRINGS.ITEMS.CLOAK_2_FLAVOR"
 msgid "An improved thermal profile allows for this rig to operate for much longer than the standard model."
-msgstr ""
+msgstr "一个改良的温控技术使得这件隐身服相比标准版本可以运转得更久。"
 
 #: STRINGS.ITEMS.CLOAK_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.CLOAK_2_TOOLTIP"
 msgid "Renders the user invisible until their next turn or if they attack."
-msgstr ""
+msgstr "使用者隐形，直到下一回合或做出攻击行为。"
 
 #: STRINGS.ITEMS.CLOAK_3
 msgctxt "STRINGS.ITEMS.CLOAK_3"
 msgid "Cloaking Rig III"
-msgstr ""
+msgstr "隐身服 III"
 
 #: STRINGS.ITEMS.CLOAK_3_FLAVOR
 msgctxt "STRINGS.ITEMS.CLOAK_3_FLAVOR"
 msgid "The cloaking rig has a wider-range field of vision, allowing it to obfuscate a larger area."
-msgstr ""
+msgstr "这个隐身服是一个广域版本，允许它在更大的范围内起作用。"
 
 #: STRINGS.ITEMS.CLOAK_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.CLOAK_3_TOOLTIP"
 msgid "Renders the user invisible until their next turn or if they attack. When used, also renders nearby agents in a small area invisible."
-msgstr ""
+msgstr "使用者隐形，直到下一回合或做出攻击行为。使用时，特工临近区域同样获得隐形效果"
 
 #: STRINGS.ITEMS.CLOAK_DECKARD
 msgctxt "STRINGS.ITEMS.CLOAK_DECKARD"
 msgid "Modded Cloaking Rig"
-msgstr ""
+msgstr "改制版隐身衣"
 
 #: STRINGS.ITEMS.CLOAK_DECKARD_FLAVOR
 msgctxt "STRINGS.ITEMS.CLOAK_DECKARD_FLAVOR"
 msgid "Decker managed to sneak this rig out of the building the day he was fired from his last corporate job."
-msgstr ""
+msgstr "Decker 失去集团工作那天，他想方设法把这件隐身衣顺出了公司。"
 
 #: STRINGS.ITEMS.CLOAK_DECKARD_TOOLTIP
 msgctxt "STRINGS.ITEMS.CLOAK_DECKARD_TOOLTIP"
 msgid "Renders the user invisible until their next turn or if they attack."
-msgstr ""
+msgstr "使用者隐形，直到下一回合或做出攻击行为。"
 
 #: STRINGS.ITEMS.CREDCHIP
 msgctxt "STRINGS.ITEMS.CREDCHIP"
@@ -3666,7 +3666,7 @@ msgstr ""
 #: STRINGS.ITEMS.DAEMON_BLOCKER_FLAVOR
 msgctxt "STRINGS.ITEMS.DAEMON_BLOCKER_FLAVOR"
 msgid "The corporations are working on a dangerous prototype Daemon. Thankfully, according to our intel, it doesn't sound like they'll be active in the standard facilities."
-msgstr ""
+msgstr "集团一直致力于设计一个非常危险的守护进程原型。幸运的是，根据我们的情报，它似乎不会被使用在基础设施上面。"
 
 #: STRINGS.ITEMS.DAEMON_BLOCKER_TOOLTIP
 msgctxt "STRINGS.ITEMS.DAEMON_BLOCKER_TOOLTIP"
@@ -3676,17 +3676,17 @@ msgstr ""
 #: STRINGS.ITEMS.DARTGUN_MONST3R
 msgctxt "STRINGS.ITEMS.DARTGUN_MONST3R"
 msgid "Overclocked Neural D.A.R.T."
-msgstr ""
+msgstr "超频神经 D.A.R.T."
 
 #: STRINGS.ITEMS.DARTGUN_MONST3R_FLAVOR
 msgctxt "STRINGS.ITEMS.DARTGUN_MONST3R_FLAVOR"
 msgid "There's no counting the number of hackers that have fried themselves with an overclocked energy gun. Monst3r's successful re-wiring has never been repeated."
-msgstr ""
+msgstr "数不清的黑客因为超频能量枪而失业。Monst3r 的成功还没有人能达到过。"
 
 #: STRINGS.ITEMS.DARTGUN_MONST3R_TOOLTIP
 msgctxt "STRINGS.ITEMS.DARTGUN_MONST3R_TOOLTIP"
 msgid "Spawns a Daemon after use. Recharges every 8 turns."
-msgstr ""
+msgstr "使用后生成一个守护进程。重新装填需 8 回合。"
 
 #: STRINGS.ITEMS.DART_GUN1_FLAVOR
 msgctxt "STRINGS.ITEMS.DART_GUN1_FLAVOR"
@@ -3696,62 +3696,62 @@ msgstr ""
 #: STRINGS.ITEMS.DART_GUN1_NAME
 msgctxt "STRINGS.ITEMS.DART_GUN1_NAME"
 msgid "Neural D.A.R.T."
-msgstr ""
+msgstr "神经 D.A.R.T."
 
 #: STRINGS.ITEMS.DART_GUN1_TOOLTIP
 msgctxt "STRINGS.ITEMS.DART_GUN1_TOOLTIP"
 msgid "Knocks a guard out from long range."
-msgstr ""
+msgstr "远距离击晕守卫。"
 
 #: STRINGS.ITEMS.DART_GUN_AMMO
 msgctxt "STRINGS.ITEMS.DART_GUN_AMMO"
 msgid "Riot D.A.R.T."
-msgstr ""
+msgstr "暴动 D.A.R.T."
 
 #: STRINGS.ITEMS.DART_GUN_AMMO_FLAVOR
 msgctxt "STRINGS.ITEMS.DART_GUN_AMMO_FLAVOR"
 msgid "A modified reservoir holds more toxin for additional shots. Used by corporate security forces doing crowd control."
-msgstr ""
+msgstr "一个经过改进的储液器可以存储更多的神经毒素从而提供额外的射击次数。被集团安保部队用来控制人群。"
 
 #: STRINGS.ITEMS.DART_GUN_AMMO_TOOLTIP
 msgctxt "STRINGS.ITEMS.DART_GUN_AMMO_TOOLTIP"
 msgid "High capacity toxin weapon."
-msgstr ""
+msgstr "大容量神经毒素武器。"
 
 #: STRINGS.ITEMS.DART_GUN_BIO
 msgctxt "STRINGS.ITEMS.DART_GUN_BIO"
 msgid "Biogenic D.A.R.T."
-msgstr ""
+msgstr "生化 D.A.R.T."
 
 #: STRINGS.ITEMS.DART_GUN_BIO_FLAVOR
 msgctxt "STRINGS.ITEMS.DART_GUN_BIO_FLAVOR"
 msgid "A small bioreactor recharges this D.A.R.T. launcher after every use. Do not open - contains no user-serviceable parts."
-msgstr ""
+msgstr "这个D.A.R.T.发射器在每次使用后一个小的细胞反应炉可以对其重新装弹。禁止拆卸 - 包含用户不可维修组件。"
 
 #: STRINGS.ITEMS.DART_GUN_BIO_TOOLTIP
 msgctxt "STRINGS.ITEMS.DART_GUN_BIO_TOOLTIP"
 msgid "Recharges every 7 turns."
-msgstr ""
+msgstr "每 7 回合重新装填弹药。"
 
 #: STRINGS.ITEMS.DART_GUN_DAM
 msgctxt "STRINGS.ITEMS.DART_GUN_DAM"
 msgid "Drilling D.A.R.T."
-msgstr ""
+msgstr "钻孔 D.A.R.T."
 
 #: STRINGS.ITEMS.DART_GUN_DAM_FLAVOR
 msgctxt "STRINGS.ITEMS.DART_GUN_DAM_FLAVOR"
 msgid "Tiny servomotors propel the syringe deep within the target's tissue before delivering its payload, resulting in a more effective drug delivery."
-msgstr ""
+msgstr "在药物释放前注射器依靠一个微型电机推进到目标更深的肌肉组织中，从而使药物更有效的发挥效果。"
 
 #: STRINGS.ITEMS.DART_GUN_DAM_TOOLTIP
 msgctxt "STRINGS.ITEMS.DART_GUN_DAM_TOOLTIP"
 msgid "Ranged targets."
-msgstr ""
+msgstr "远距离瞄准。"
 
 #: STRINGS.ITEMS.DEFIBRILLATOR
 msgctxt "STRINGS.ITEMS.DEFIBRILLATOR"
 msgid "VENTRICULAR LANCE"
-msgstr ""
+msgstr "心脏冲击"
 
 #: STRINGS.ITEMS.DEFIBRILLATOR_FLAVOR
 msgctxt "STRINGS.ITEMS.DEFIBRILLATOR_FLAVOR"
@@ -3761,12 +3761,12 @@ msgstr ""
 #: STRINGS.ITEMS.DEFIBRILLATOR_TOOLTIP
 msgctxt "STRINGS.ITEMS.DEFIBRILLATOR_TOOLTIP"
 msgid "Gives the agent +1 ARMOR PIERCING to all weapons for one turn."
-msgstr ""
+msgstr "回合内给予特工所有武器护甲穿透 +1。"
 
 #: STRINGS.ITEMS.DRONE_TURRET
 msgctxt "STRINGS.ITEMS.DRONE_TURRET"
 msgid "OBAKE Turret"
-msgstr ""
+msgstr "OBAKE 炮塔"
 
 #: STRINGS.ITEMS.DRONE_TURRET_FLAVOR
 msgctxt "STRINGS.ITEMS.DRONE_TURRET_FLAVOR"
@@ -3781,112 +3781,112 @@ msgstr ""
 #: STRINGS.ITEMS.ECON_CHIP
 msgctxt "STRINGS.ITEMS.ECON_CHIP"
 msgid "ECON CHIP"
-msgstr ""
+msgstr "转换芯片"
 
 #: STRINGS.ITEMS.ECON_CHIP_BANKS
 msgctxt "STRINGS.ITEMS.ECON_CHIP_BANKS"
 msgid "BANK'S CUSTOM ECON CHIP"
-msgstr ""
+msgstr "BANK'S 定制版 转换芯片"
 
 #: STRINGS.ITEMS.ECON_CHIP_BANKS_FLAVOR
 msgctxt "STRINGS.ITEMS.ECON_CHIP_BANKS_FLAVOR"
 msgid "This trusty device has probably seen more credits run through its circuits than some small countries."
-msgstr ""
+msgstr "这个可靠的设备中所运转过的 CR 可能比一个小国家的财富还要多。"
 
 #: STRINGS.ITEMS.ECON_CHIP_BANKS_TOOLTIP
 msgctxt "STRINGS.ITEMS.ECON_CHIP_BANKS_TOOLTIP"
 msgid "Collects credits from consoles instead of PWR. 50 credit per PWR point."
-msgstr ""
+msgstr "从控制台采集 CR 代替 PWR。每点 PWR 转换 50 CR。"
 
 #: STRINGS.ITEMS.ECON_CHIP_FLAVOR
 msgctxt "STRINGS.ITEMS.ECON_CHIP_FLAVOR"
 msgid "The SHL routine is a complex account processing algorithm that gets very creative with decimal points."
-msgstr ""
+msgstr "SHL 程序是一个让小数点变得非常有创造力的复杂的账户处理算法。"
 
 #: STRINGS.ITEMS.ECON_CHIP_TOOLTIP
 msgctxt "STRINGS.ITEMS.ECON_CHIP_TOOLTIP"
 msgid "Collects credits from consoles instead of PWR. 50 credit per PWR point."
-msgstr ""
+msgstr "从控制台采集 CR 代替 PWR。每点 PWR 转换 50 CR。"
 
 #: STRINGS.ITEMS.EMP_1
 msgctxt "STRINGS.ITEMS.EMP_1"
 msgid "EMP Pack I"
-msgstr ""
+msgstr "EMP 装置 I"
 
 #: STRINGS.ITEMS.EMP_1_FLAVOR
 msgctxt "STRINGS.ITEMS.EMP_1_FLAVOR"
 msgid "An EMP pack generates a large static charge in the air, scrambling electronics within a radius. Often used as safety devices in automated assembly lines."
-msgstr ""
+msgstr "EMP 装置在空气中产生一场大规模的静电充能，扰乱范围内的电子设备。经常被作为自动化装配线中的安全装置所使用。"
 
 #: STRINGS.ITEMS.EMP_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_1_TOOLTIP"
 msgid "Detonates at the end of the turn. Disables all Mainframe devices and drones in a range of 3 tiles"
-msgstr ""
+msgstr "准备好后在回合结尾触发。使 3 格内所有主机设备与无人机失效。"
 
 #: STRINGS.ITEMS.EMP_2
 msgctxt "STRINGS.ITEMS.EMP_2"
 msgid "EMP Pack II"
-msgstr ""
+msgstr "EMP 装置 II"
 
 #: STRINGS.ITEMS.EMP_2_FLAVOR
 msgctxt "STRINGS.ITEMS.EMP_2_FLAVOR"
 msgid "An EMP pack generates a large static charge in the air, scrambling electronics within a radius. Often used as safety devices in automated assembly lines."
-msgstr ""
+msgstr "EMP 装置在空气中产生一场大规模的静电充能，扰乱范围内的电子设备。经常被作为自动化装配线中的安全装置所使用。"
 
 #: STRINGS.ITEMS.EMP_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_2_TOOLTIP"
 msgid "Detonates at the end of the turn. Disables all Mainframe devices and drones in a range of 5 tiles"
-msgstr ""
+msgstr "准备好后在回合结尾触发。使 5 格内所有主机设备与无人机失效。"
 
 #: STRINGS.ITEMS.EMP_3
 msgctxt "STRINGS.ITEMS.EMP_3"
 msgid "EMP Pack III"
-msgstr ""
+msgstr "EMP 装置 III"
 
 #: STRINGS.ITEMS.EMP_3_FLAVOR
 msgctxt "STRINGS.ITEMS.EMP_3_FLAVOR"
 msgid "An EMP pack generates a large static charge in the air, scrambling electronics within a radius. Often used as safety devices in automated assembly lines."
-msgstr ""
+msgstr "EMP 装置在空气中产生一场大规模的静电充能，扰乱范围内的电子设备。经常被作为自动化装配线中的安全装置所使用。"
 
 #: STRINGS.ITEMS.EMP_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_3_TOOLTIP"
 msgid "Detonates at the end of the turn when primed. Disables all Mainframe devices and drones in a range of 7 tiles"
-msgstr ""
+msgstr "准备好后在回合结尾触发。使 7 格内所有主机设备与无人机失效。"
 
 #: STRINGS.ITEMS.EMP_TONY
 msgctxt "STRINGS.ITEMS.EMP_TONY"
 msgid "Tony's Modded EMP"
-msgstr ""
+msgstr "Tony 定制版 EMP"
 
 #: STRINGS.ITEMS.EMP_TONY_FLAVOR
 msgctxt "STRINGS.ITEMS.EMP_TONY_FLAVOR"
 msgid "The Doctor took a standard EMP pack and installed his own easier to use operating software."
-msgstr ""
+msgstr "博士在这个标准 EMP 装置上安装了一个自己用起来更顺手的操作软件。"
 
 #: STRINGS.ITEMS.EMP_TONY_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_TONY_TOOLTIP"
 msgid "Detonates at the end of the turn. Disables all Mainframe devices and drones in a range of 3 tiles"
-msgstr ""
+msgstr "准备好后在回合结尾触发。使 3 格内所有主机设备与无人机失效。"
 
 #: STRINGS.ITEMS.EXIT_PASS
 msgctxt "STRINGS.ITEMS.EXIT_PASS"
 msgid "Exit Access Card"
-msgstr ""
+msgstr "出口钥匙卡"
 
 #: STRINGS.ITEMS.EXIT_PASS_FLAVOR
 msgctxt "STRINGS.ITEMS.EXIT_PASS_FLAVOR"
 msgid "As it turns out, the code is a pretty secure 1024 bit key."
-msgstr ""
+msgstr "事实证明，这段代码是一个相当安全的 1024 位密匙。"
 
 #: STRINGS.ITEMS.EXIT_PASS_TOOLTIP
 msgctxt "STRINGS.ITEMS.EXIT_PASS_TOOLTIP"
 msgid "Used to access the high-security door leading to the exit teleporter."
-msgstr ""
+msgstr "它用来打开通向撤退传送点的高级安全门。"
 
 #: STRINGS.ITEMS.FINAL_RED
 msgctxt "STRINGS.ITEMS.FINAL_RED"
 msgid "Red Keycard"
-msgstr ""
+msgstr "红色钥匙卡"
 
 #: STRINGS.ITEMS.FINAL_RED_FLAVOR
 msgctxt "STRINGS.ITEMS.FINAL_RED_FLAVOR"
@@ -3896,12 +3896,12 @@ msgstr ""
 #: STRINGS.ITEMS.FINAL_RED_TIP
 msgctxt "STRINGS.ITEMS.FINAL_RED_TIP"
 msgid "Use along with the Yellow Keycard to open the elevator."
-msgstr ""
+msgstr "用来的黄色钥匙卡一起打开电梯。"
 
 #: STRINGS.ITEMS.FINAL_YELLOW
 msgctxt "STRINGS.ITEMS.FINAL_YELLOW"
 msgid "Yellow Keycard"
-msgstr ""
+msgstr "黄色钥匙卡"
 
 #: STRINGS.ITEMS.FINAL_YELLOW_FLAVOR
 msgctxt "STRINGS.ITEMS.FINAL_YELLOW_FLAVOR"
@@ -3911,52 +3911,52 @@ msgstr ""
 #: STRINGS.ITEMS.FINAL_YELLOW_TIP
 msgctxt "STRINGS.ITEMS.FINAL_YELLOW_TIP"
 msgid "Use along with the Red Keycard to open the elevator."
-msgstr ""
+msgstr "用来的红色钥匙卡一起打开电梯"
 
 #: STRINGS.ITEMS.GRENADE_CAMERA
 msgctxt "STRINGS.ITEMS.GRENADE_CAMERA"
 msgid "Camera Canister"
-msgstr ""
+msgstr "罐装摄像机"
 
 #: STRINGS.ITEMS.GRENADE_CAMERA_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_CAMERA_FLAVOR"
 msgid "Provides a full-spectrum view of its surroundings. Includes a safety to avoid embarrassing pocket-pics."
-msgstr ""
+msgstr "启动后提供它周围的全范围视野，它包含一个保险装置以避免装在口袋里时发生尴尬的意外。"
 
 #: STRINGS.ITEMS.GRENADE_CAMERA_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_CAMERA_TOOLTIP"
 msgid "Throw to place. Gives 360 vision in an area. Can be recovered."
-msgstr ""
+msgstr "扔到一个位置，获得那片区域 360 度的视野。可以被回收。"
 
 #: STRINGS.ITEMS.GRENADE_FLASH
 msgctxt "STRINGS.ITEMS.GRENADE_FLASH"
 msgid "Flash Grenade"
-msgstr ""
+msgstr "闪光弹"
 
 #: STRINGS.ITEMS.GRENADE_FLASH_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_FLASH_FLAVOR"
 msgid "Sometimes old technology is still good technology."
-msgstr ""
+msgstr "有些情况下过时的技术仍然是好技术。"
 
 #: STRINGS.ITEMS.GRENADE_FLASH_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_FLASH_TOOLTIP"
 msgid "Temporarily stuns guards in an area."
-msgstr ""
+msgstr "使范围内守卫陷入暂时眩晕。"
 
 #: STRINGS.ITEMS.GRENADE_HOLO
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO"
 msgid "Hologram Projector"
-msgstr "全息投影设备"
+msgstr "全息影像投影仪"
 
 #: STRINGS.ITEMS.GRENADE_HOLO_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO_FLAVOR"
 msgid "Holographic projection technology is used extensively in advertising and entertainment venues in the urban centers of the corp zones."
-msgstr ""
+msgstr "在集团管辖的市区中心，全息影像投影仪被应用于广告与娱乐业。"
 
 #: STRINGS.ITEMS.GRENADE_HOLO_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO_TOOLTIP"
 msgid "Throw to place a fake cover item. The projector can be heard 1 tile away. Can be recovered."
-msgstr "扔到地上产生一个虚拟的掩体。这个投影设备能在一格之外被听到。能够被回收。"
+msgstr "扔到一个位置并形成一个虚拟掩体。投影仪发出的声音在一格范围内会被听到。可回收。"
 
 #: STRINGS.ITEMS.GRENADE_SCAN
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN"
@@ -3966,12 +3966,12 @@ msgstr "扫描手雷"
 #: STRINGS.ITEMS.GRENADE_SCAN_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN_FLAVOR"
 msgid "Provides a limited view of its surroundings."
-msgstr "提供有限的视野。"
+msgstr "提供它周围的有限视野。"
 
 #: STRINGS.ITEMS.GRENADE_SCAN_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN_TOOLTIP"
 msgid "Throw to scan a room for agents or guards. Gives temporary vision of guards in the room"
-msgstr "扔进这个房间扫描。提供临时视野。"
+msgstr "守卫或特工可以扔出它并扫描一个房间。给予守卫所在房间的一个暂时视野。"
 
 #: STRINGS.ITEMS.GRENADE_SMOKE
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE"
@@ -3981,32 +3981,32 @@ msgstr "烟雾弹"
 #: STRINGS.ITEMS.GRENADE_SMOKE_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE_FLAVOR"
 msgid "The jet-black smoke not only occludes vision, but overpowers smell with the harsh odour of burnt circuit board."
-msgstr ""
+msgstr "浓密的黑烟不仅能遮挡视线，还可以掩盖电路板烧焦所发出的刺鼻气味。"
 
 #: STRINGS.ITEMS.GRENADE_SMOKE_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE_TOOLTIP"
 msgid "Throw to create a cloud of smoke that occludes vision in an area."
-msgstr ""
+msgstr "扔出并产生一团烟雾遮挡区域内视线。"
 
 #: STRINGS.ITEMS.INCOGNITA_DRIVE
 msgctxt "STRINGS.ITEMS.INCOGNITA_DRIVE"
 msgid "Incognita Memory Drive"
-msgstr ""
+msgstr "Incognita 内存驱动"
 
 #: STRINGS.ITEMS.INCOGNITA_DRIVE_FLAVOR
 msgctxt "STRINGS.ITEMS.INCOGNITA_DRIVE_FLAVOR"
 msgid "Quantum shadow recursion allows for the entirety of Incognita's personality matrix to be stored on a standard data drive, but it degrades over time."
-msgstr ""
+msgstr "量子阴影递归可以使 Incognita 的人格矩阵存储在标准数据驱动上，但随着时间推移这样会越来越危险。"
 
 #: STRINGS.ITEMS.INCOGNITA_DRIVE_TOOLTIP
 msgctxt "STRINGS.ITEMS.INCOGNITA_DRIVE_TOOLTIP"
 msgid "Plug this into the mainframe to take over OMNI's network."
-msgstr ""
+msgstr "把它插入主机，接管 OMNI 的网络。"
 
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.DESC"
 msgid "This effect triggers after the agent becomes cloaked for any reason."
-msgstr ""
+msgstr "无论特工以任何方式进入隐形状态时，此效果会被触发。"
 
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.NAME"
