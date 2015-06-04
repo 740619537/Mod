@@ -3946,7 +3946,7 @@ msgstr ""
 #: STRINGS.ITEMS.GRENADE_HOLO
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO"
 msgid "Hologram Projector"
-msgstr ""
+msgstr "全息投影设备"
 
 #: STRINGS.ITEMS.GRENADE_HOLO_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO_FLAVOR"
@@ -3956,27 +3956,27 @@ msgstr ""
 #: STRINGS.ITEMS.GRENADE_HOLO_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO_TOOLTIP"
 msgid "Throw to place a fake cover item. The projector can be heard 1 tile away. Can be recovered."
-msgstr ""
+msgstr "扔到地上产生一个虚拟的掩体。这个投影设备能在一格之外被听到。能够被回收。"
 
 #: STRINGS.ITEMS.GRENADE_SCAN
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN"
 msgid "Scanning Grenade"
-msgstr ""
+msgstr "扫描手雷"
 
 #: STRINGS.ITEMS.GRENADE_SCAN_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN_FLAVOR"
 msgid "Provides a limited view of its surroundings."
-msgstr ""
+msgstr "提供有限的视野。"
 
 #: STRINGS.ITEMS.GRENADE_SCAN_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN_TOOLTIP"
 msgid "Throw to scan a room for agents or guards. Gives temporary vision of guards in the room"
-msgstr ""
+msgstr "扔进这个房间扫描。提供临时视野。"
 
 #: STRINGS.ITEMS.GRENADE_SMOKE
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE"
 msgid "Smoke Grenade"
-msgstr ""
+msgstr "烟雾弹"
 
 #: STRINGS.ITEMS.GRENADE_SMOKE_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE_FLAVOR"
