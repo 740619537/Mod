@@ -11021,7 +11021,7 @@ msgstr "使用Incognita连接所有主机并且瘫痪他们的安全装置。"
 #: STRINGS.SCREENS.STR_684470914
 msgctxt "STRINGS.SCREENS.STR_684470914"
 msgid "Invisible, Inc. is designed as a thrilling experience by creating tough choices with permanent outcomes.\n\nYou can use the REWIND function to revert a particular choice, taking your game back to the start of your previous turn."
-msgstr "隐形公通过玩家谨慎的选择来达到最终结局从而营造刺激的游戏体验。\n\n你可以使用回溯功能回到特定的选择，将你的游戏返回到以前的回合"
+msgstr "隐形公司通过玩家谨慎的选择来达到最终结局从而营造刺激的游戏体验。\n\n你可以使用回溯功能回到特定的选择，将你的游戏返回到以前的回合"
 
 #: STRINGS.SCREENS.STR_687136771
 msgctxt "STRINGS.SCREENS.STR_687136771"
@@ -11061,7 +11061,7 @@ msgstr "新的项目解锁 <c:F4FF78F></>\n"
 #: STRINGS.SCREENS.STR_726802783
 msgctxt "STRINGS.SCREENS.STR_726802783"
 msgid "PLEASE WAIT. . ."
-msgstr "请稍后. . ."
+msgstr "请稍候. . ."
 
 #: STRINGS.SCREENS.STR_731759181
 msgctxt "STRINGS.SCREENS.STR_731759181"
@@ -11111,7 +11111,7 @@ msgstr "|>"
 #: STRINGS.SCREENS.STR_819388705
 msgctxt "STRINGS.SCREENS.STR_819388705"
 msgid "Incognita has provided you with <c:faff0a>TURING</>, allowing you to <c:faff0a>reduce all Firewalls by 2 at the cost of 5 Power (PWR)</>.\n"
-msgstr "Incognita已经为你提供了<c:faff0a>TURING</>，你可以使用 5 PWR <c:faff0a>降低所有防火墙两层</>.\n"
+msgstr "Incognita已经为你提供了<c:faff0a>图灵</>，你可以使用 5 PWR <c:faff0a>减少所有防火墙两层</>.\n"
 
 #: STRINGS.SCREENS.STR_822622234
 msgctxt "STRINGS.SCREENS.STR_822622234"
@@ -11151,7 +11151,7 @@ msgstr "将植入体植入特工来使用。你现在想要植入这个植入体
 #: STRINGS.SCREENS.STR_879562047
 msgctxt "STRINGS.SCREENS.STR_879562047"
 msgid "Units that are knocked out (KO) will wake up several turns later. Guards will become alert and begin hunting the level for your agents. \n\nStanding on a KO unit will pin them in place, postponing their recovery."
-msgstr "被击倒的警卫将会在几回合之后醒来。然后警卫将会变得警觉并会在此楼层搜寻你的特工。\n\n站在一个被击倒的警卫上面将会把他们压在原地并延迟他们的苏醒。"
+msgstr "被击晕的警卫将会在几回合之后醒来。然后警卫将会变得警觉并会在此楼层搜寻你的特工。\n\n站在一个被击晕的警卫上面将会将他们压制并延迟他们的苏醒。"
 
 #: STRINGS.SCREENS.STR_897435471
 msgctxt "STRINGS.SCREENS.STR_897435471"
@@ -11231,7 +11231,7 @@ msgstr "邮件长度至少为{1}个字符"
 #: STRINGS.SKILLS.ANARCHY1_TOOLTIP
 msgctxt "STRINGS.SKILLS.ANARCHY1_TOOLTIP"
 msgid "STEAL from KO guards"
-msgstr "从击倒警卫偷取"
+msgstr "从击晕警卫偷取"
 
 #: STRINGS.SKILLS.ANARCHY2_TOOLTIP
 msgctxt "STRINGS.SKILLS.ANARCHY2_TOOLTIP"
@@ -11441,7 +11441,7 @@ msgstr "关门\n动作"
 #: STRINGS.UI.ACTIONS.GIVE.NAME
 msgctxt "STRINGS.UI.ACTIONS.GIVE.NAME"
 msgid "TRANSFER"
-msgstr "转换"
+msgstr ""
 
 #: STRINGS.UI.ACTIONS.GIVE.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.GIVE.TOOLTIP"
@@ -11596,7 +11596,7 @@ msgstr "警戒\n监控器扫描"
 #: STRINGS.UI.ALARM_ENFORCERS
 msgctxt "STRINGS.UI.ALARM_ENFORCERS"
 msgid "The corporation has called in %d elite enforcer(s). Their security has also pinpointed %d agent location(s)."
-msgstr "公司已经派出 %d 精英执行者。他们的安全装置也已经发现了 %d 特工的位置。"
+msgstr "公司已经派出 %d 精英警卫。他们的安全装置也已经发现了 %d 特工的位置。"
 
 #: STRINGS.UI.ALARM_FIREWALLS
 msgctxt "STRINGS.UI.ALARM_FIREWALLS"
@@ -11691,7 +11691,7 @@ msgstr "警告\n特工被发现"
 #: STRINGS.UI.ALARM_TOOLTIP
 msgctxt "STRINGS.UI.ALARM_TOOLTIP"
 msgid "<c:F4FF78>SECURITY LEVEL</>\nThe facility detected Incognita's distrubance as she beamed you in. They are slowly tracking her signal down, and raising their defences as it locks onto your team's location. New security measures are added every 5 increments."
-msgstr "<c:F4FF78>安全等级</>\n当Incognita将你传送进来时公司检测到了她的干扰。他们缓慢的追踪Incognita信号并在你的小组的位置增强了守卫力量。每 5 次增加新的安全措施将会加入"
+msgstr "<c:F4FF78>安全等级</>\n当Incognita将你传送进来时公司检测到了她的干扰。他们缓慢的追踪Incognita信号并在你的小组的位置增强了守卫力量。每 5 次增强新的安全措施将会加入"
 
 #: STRINGS.UI.ALERT_DAMAGED_HEART
 msgctxt "STRINGS.UI.ALERT_DAMAGED_HEART"
@@ -11706,7 +11706,7 @@ msgstr "警告：敌人配备了心跳探测仪"
 #: STRINGS.UI.ALERT_IMPROVED_HEART
 msgctxt "STRINGS.UI.ALERT_IMPROVED_HEART"
 msgid "ALERT\nIMPROVED HEART MONITOR"
-msgstr "警告\n心跳探测仪升级"
+msgstr "警告\n敌人心跳探测仪升级"
 
 #: STRINGS.UI.BACK
 msgctxt "STRINGS.UI.BACK"
@@ -11776,7 +11776,7 @@ msgstr "%s 模式完成"
 #: STRINGS.UI.CATSHOP_BUY.1
 msgctxt "STRINGS.UI.CATSHOP_BUY.1"
 msgid "You will not regret this purchase!"
-msgstr "你不会后悔这笔交易！"
+msgstr "你不会后悔这笔交易的！"
 
 #: STRINGS.UI.CATSHOP_BUY.2
 msgctxt "STRINGS.UI.CATSHOP_BUY.2"
@@ -11891,12 +11891,12 @@ msgstr "警卫将会向你的特工开枪。你的特工可以迅速地躲藏在
 #: STRINGS.UI.CENTRAL_DOWN
 msgctxt "STRINGS.UI.CENTRAL_DOWN"
 msgid "Gladstone's down. We can't run this show without her."
-msgstr "Gladstone倒下了。这次行动我们不能没有她。"
+msgstr "Gladstone被干掉了。这次行动我们不能没有她。"
 
 #: STRINGS.UI.CENTRAL_MISSION_DIFFICULTY
 msgctxt "STRINGS.UI.CENTRAL_MISSION_DIFFICULTY"
 msgid "Looks like we've stirred up the hornet's nest. The corps are aware of our presence and are doubling-down on their security. Your job just got a lot tougher."
-msgstr "看来我们已经捅娄子了。警卫已经发现我们的存在并加倍保护安全。你的工作变得更加艰难了。"
+msgstr "看来我们已经捅娄子了。警卫已经发现我们的存在并加强保护力量。你的工作变得更加艰难了。"
 
 #: STRINGS.UI.CENTRAL_TITLE
 msgctxt "STRINGS.UI.CENTRAL_TITLE"
@@ -11931,7 +11931,7 @@ msgstr "正在冷却"
 #: STRINGS.UI.COMBAT_PANEL_FAIL_KO
 msgctxt "STRINGS.UI.COMBAT_PANEL_FAIL_KO"
 msgid "0 KO"
-msgstr "0 击倒"
+msgstr "0 击晕"
 
 #: STRINGS.UI.COMBAT_PANEL_IMMUNE
 msgctxt "STRINGS.UI.COMBAT_PANEL_IMMUNE"
