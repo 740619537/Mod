@@ -5011,1002 +5011,1002 @@ msgstr "打开门窥探能够看到房间里更清楚的情况。"
 #: STRINGS.LOADING_TIPS.7
 msgctxt "STRINGS.LOADING_TIPS.7"
 msgid "Sprinting allows an agent to move further, but the sound will attract nearby security."
-msgstr ""
+msgstr "冲刺使特工移动更远的距离，同时声音会把附近的警卫吸引过来。"
 
 #: STRINGS.LOADING_TIPS.8
 msgctxt "STRINGS.LOADING_TIPS.8"
 msgid "Weapon reloads are expensive and hard to find. Use ammunition sparingly. "
-msgstr ""
+msgstr "武器弹药十分昂贵并且不容易找到，记得省着点用"
 
 #: STRINGS.LOADING_TIPS.9
 msgctxt "STRINGS.LOADING_TIPS.9"
 msgid "Experiment with different items, augments and programs to create powerful synergies with each other."
-msgstr ""
+msgstr "尝试不同的物品、植入体和程序来达到最佳的协作效果。"
 
 #: STRINGS.LOADING_TIP_FINAL
 msgctxt "STRINGS.LOADING_TIP_FINAL"
 msgid "Operator, this is what you've prepared for. Let's hope it was enough."
-msgstr ""
+msgstr "专员，这就是你一直在为之努力的。希望这些努力已经够量了。"
 
 #: STRINGS.LOADING_TIP_FIRST
 msgctxt "STRINGS.LOADING_TIP_FIRST"
 msgid "You'll never survive a stand-up fight with the corps, so don't give them one. Stick to cover and stay out of sight."
-msgstr ""
+msgstr "不要和集团正面交火，你干不过的。呆在掩体后面，不要被敌人看到。"
 
 #: STRINGS.LOADING_TIP_TUTORIAL
 msgctxt "STRINGS.LOADING_TIP_TUTORIAL"
 msgid "Missing agent located: Decker, Brian. Initializing failsafe neural tap. Operator interface ready in 3...2...1..."
-msgstr ""
+msgstr "定位到失踪特工：Decker，Brian。正在初始化保险神经元接口。专员交互界面准备即将完成：3...2...1..."
 
 #: STRINGS.MAP_NAMES.ALGIERS
 msgctxt "STRINGS.MAP_NAMES.ALGIERS"
 msgid "Algiers"
-msgstr ""
+msgstr "阿尔及尔"
 
 #: STRINGS.MAP_NAMES.ANCHORAGE
 msgctxt "STRINGS.MAP_NAMES.ANCHORAGE"
 msgid "Anchorage"
-msgstr ""
+msgstr "安克雷奇"
 
 #: STRINGS.MAP_NAMES.ANTANANARIVO
 msgctxt "STRINGS.MAP_NAMES.ANTANANARIVO"
 msgid "Antananarivo"
-msgstr ""
+msgstr "安塔那那利佛"
 
 #: STRINGS.MAP_NAMES.ASTANA
 msgctxt "STRINGS.MAP_NAMES.ASTANA"
 msgid "Astana"
-msgstr ""
+msgstr "阿斯塔纳"
 
 #: STRINGS.MAP_NAMES.ATLANTA
 msgctxt "STRINGS.MAP_NAMES.ATLANTA"
 msgid "Atlanta"
-msgstr ""
+msgstr "亚特兰大"
 
 #: STRINGS.MAP_NAMES.BANGKOK
 msgctxt "STRINGS.MAP_NAMES.BANGKOK"
 msgid "Bangkok"
-msgstr ""
+msgstr "曼谷"
 
 #: STRINGS.MAP_NAMES.BEIRUT
 msgctxt "STRINGS.MAP_NAMES.BEIRUT"
 msgid "Beirut"
-msgstr ""
+msgstr "贝鲁特"
 
 #: STRINGS.MAP_NAMES.BOGOTA
 msgctxt "STRINGS.MAP_NAMES.BOGOTA"
 msgid "Bogota"
-msgstr ""
+msgstr "波哥大"
 
 #: STRINGS.MAP_NAMES.BRASILIA
 msgctxt "STRINGS.MAP_NAMES.BRASILIA"
 msgid "Brasilia"
-msgstr ""
+msgstr "巴西利亚"
 
 #: STRINGS.MAP_NAMES.BRISBANE
 msgctxt "STRINGS.MAP_NAMES.BRISBANE"
 msgid "Brisbane"
-msgstr ""
+msgstr "布里斯班"
 
 #: STRINGS.MAP_NAMES.BUDAPEST
 msgctxt "STRINGS.MAP_NAMES.BUDAPEST"
 msgid "Budapest"
-msgstr ""
+msgstr "布达佩斯"
 
 #: STRINGS.MAP_NAMES.CAIRO
 msgctxt "STRINGS.MAP_NAMES.CAIRO"
 msgid "Cairo"
-msgstr ""
+msgstr "开罗"
 
 #: STRINGS.MAP_NAMES.CAPE_TOWN
 msgctxt "STRINGS.MAP_NAMES.CAPE_TOWN"
 msgid "Cape Town"
-msgstr ""
+msgstr "开普敦"
 
 #: STRINGS.MAP_NAMES.CASABLANCA
 msgctxt "STRINGS.MAP_NAMES.CASABLANCA"
 msgid "Casablanca"
-msgstr ""
+msgstr "卡萨布兰卡"
 
 #: STRINGS.MAP_NAMES.CHENGDU
 msgctxt "STRINGS.MAP_NAMES.CHENGDU"
 msgid "Chengdu"
-msgstr ""
+msgstr "成都"
 
 #: STRINGS.MAP_NAMES.CHRISTCHURCH
 msgctxt "STRINGS.MAP_NAMES.CHRISTCHURCH"
 msgid "Christchurch"
-msgstr ""
+msgstr "基督城"
 
 #: STRINGS.MAP_NAMES.COLOMBO
 msgctxt "STRINGS.MAP_NAMES.COLOMBO"
 msgid "Colombo"
-msgstr ""
+msgstr "哥伦布"
 
 #: STRINGS.MAP_NAMES.DHAKA
 msgctxt "STRINGS.MAP_NAMES.DHAKA"
 msgid "Dhaka"
-msgstr ""
+msgstr "达卡"
 
 #: STRINGS.MAP_NAMES.DUBAI
 msgctxt "STRINGS.MAP_NAMES.DUBAI"
 msgid "Dubai"
-msgstr ""
+msgstr "迪拜"
 
 #: STRINGS.MAP_NAMES.GABORONE
 msgctxt "STRINGS.MAP_NAMES.GABORONE"
 msgid "Gaborone"
-msgstr ""
+msgstr "哈博罗内"
 
 #: STRINGS.MAP_NAMES.HAVANA
 msgctxt "STRINGS.MAP_NAMES.HAVANA"
 msgid "Havana"
-msgstr ""
+msgstr "哈瓦那"
 
 #: STRINGS.MAP_NAMES.HONG_KONG
 msgctxt "STRINGS.MAP_NAMES.HONG_KONG"
 msgid "Hong Kong"
-msgstr ""
+msgstr "香港"
 
 #: STRINGS.MAP_NAMES.ISTANBUL
 msgctxt "STRINGS.MAP_NAMES.ISTANBUL"
 msgid "Istanbul"
-msgstr ""
+msgstr "伊斯坦布尔"
 
 #: STRINGS.MAP_NAMES.JAKARTA
 msgctxt "STRINGS.MAP_NAMES.JAKARTA"
 msgid "Jakarta"
-msgstr ""
+msgstr "雅加达"
 
 #: STRINGS.MAP_NAMES.KABUL
 msgctxt "STRINGS.MAP_NAMES.KABUL"
 msgid "Kabul"
-msgstr ""
+msgstr "喀布尔"
 
 #: STRINGS.MAP_NAMES.KANSAS_CITY
 msgctxt "STRINGS.MAP_NAMES.KANSAS_CITY"
 msgid "Kansas City"
-msgstr ""
+msgstr "堪萨斯城"
 
 #: STRINGS.MAP_NAMES.LIMA
 msgctxt "STRINGS.MAP_NAMES.LIMA"
 msgid "Lima"
-msgstr ""
+msgstr "利马"
 
 #: STRINGS.MAP_NAMES.LONDON
 msgctxt "STRINGS.MAP_NAMES.LONDON"
 msgid "London"
-msgstr ""
+msgstr "伦敦"
 
 #: STRINGS.MAP_NAMES.MADRID
 msgctxt "STRINGS.MAP_NAMES.MADRID"
 msgid "Madrid"
-msgstr ""
+msgstr "马德里"
 
 #: STRINGS.MAP_NAMES.MANILA
 msgctxt "STRINGS.MAP_NAMES.MANILA"
 msgid "Manila"
-msgstr ""
+msgstr "马尼拉"
 
 #: STRINGS.MAP_NAMES.MEXICO_CITY
 msgctxt "STRINGS.MAP_NAMES.MEXICO_CITY"
 msgid "Mexico City"
-msgstr ""
+msgstr "墨西哥城"
 
 #: STRINGS.MAP_NAMES.MOMBASA
 msgctxt "STRINGS.MAP_NAMES.MOMBASA"
 msgid "Mombasa"
-msgstr ""
+msgstr "蒙巴萨"
 
 #: STRINGS.MAP_NAMES.MONROVIA
 msgctxt "STRINGS.MAP_NAMES.MONROVIA"
 msgid "Monrovia"
-msgstr ""
+msgstr "蒙罗维亚"
 
 #: STRINGS.MAP_NAMES.MOSCOW
 msgctxt "STRINGS.MAP_NAMES.MOSCOW"
 msgid "Moscow"
-msgstr ""
+msgstr "莫斯科"
 
 #: STRINGS.MAP_NAMES.NEW_DELHI
 msgctxt "STRINGS.MAP_NAMES.NEW_DELHI"
 msgid "New Delhi"
-msgstr ""
+msgstr "新德里"
 
 #: STRINGS.MAP_NAMES.NEW_YORK
 msgctxt "STRINGS.MAP_NAMES.NEW_YORK"
 msgid "New York"
-msgstr ""
+msgstr "纽约"
 
 #: STRINGS.MAP_NAMES.PERTH
 msgctxt "STRINGS.MAP_NAMES.PERTH"
 msgid "Perth"
-msgstr ""
+msgstr "珀斯"
 
 #: STRINGS.MAP_NAMES.PORTO_ALEGRE
 msgctxt "STRINGS.MAP_NAMES.PORTO_ALEGRE"
 msgid "Porto Alegre"
-msgstr ""
+msgstr "阿雷格里港"
 
 #: STRINGS.MAP_NAMES.REYKJAVIK
 msgctxt "STRINGS.MAP_NAMES.REYKJAVIK"
 msgid "Reykjavik"
-msgstr ""
+msgstr "雷克雅未克"
 
 #: STRINGS.MAP_NAMES.ROME
 msgctxt "STRINGS.MAP_NAMES.ROME"
 msgid "Rome"
-msgstr ""
+msgstr "罗马"
 
 #: STRINGS.MAP_NAMES.SANTA_CRUZ
 msgctxt "STRINGS.MAP_NAMES.SANTA_CRUZ"
 msgid "Santa Cruz"
-msgstr ""
+msgstr "圣克鲁兹"
 
 #: STRINGS.MAP_NAMES.SANTA_ROSA
 msgctxt "STRINGS.MAP_NAMES.SANTA_ROSA"
 msgid "Santa Rosa"
-msgstr ""
+msgstr "圣罗萨"
 
 #: STRINGS.MAP_NAMES.SAN_FRANCISCO
 msgctxt "STRINGS.MAP_NAMES.SAN_FRANCISCO"
 msgid "San Francisco"
-msgstr ""
+msgstr "旧金山"
 
 #: STRINGS.MAP_NAMES.SEOUL
 msgctxt "STRINGS.MAP_NAMES.SEOUL"
 msgid "Seoul"
-msgstr ""
+msgstr "首尔"
 
 #: STRINGS.MAP_NAMES.SINGAPORE
 msgctxt "STRINGS.MAP_NAMES.SINGAPORE"
 msgid "Singapore"
-msgstr ""
+msgstr "新加坡"
 
 #: STRINGS.MAP_NAMES.STOCKHOLM
 msgctxt "STRINGS.MAP_NAMES.STOCKHOLM"
 msgid "Stockholm"
-msgstr ""
+msgstr "斯德哥摩尔"
 
 #: STRINGS.MAP_NAMES.ST_JOHNS
 msgctxt "STRINGS.MAP_NAMES.ST_JOHNS"
 msgid "St John's"
-msgstr ""
+msgstr "圣约翰"
 
 #: STRINGS.MAP_NAMES.SYDNEY
 msgctxt "STRINGS.MAP_NAMES.SYDNEY"
 msgid "Sydney"
-msgstr ""
+msgstr "悉尼"
 
 #: STRINGS.MAP_NAMES.THUNDER_BAY
 msgctxt "STRINGS.MAP_NAMES.THUNDER_BAY"
 msgid "Thunder Bay"
-msgstr ""
+msgstr "雷湾"
 
 #: STRINGS.MAP_NAMES.TOKYO
 msgctxt "STRINGS.MAP_NAMES.TOKYO"
 msgid "Tokyo"
-msgstr ""
+msgstr "东京"
 
 #: STRINGS.MAP_NAMES.VANCOUVER
 msgctxt "STRINGS.MAP_NAMES.VANCOUVER"
 msgid "Vancouver"
-msgstr ""
+msgstr "温哥华"
 
 #: STRINGS.MISSIONS.AFTERMATH.CYBERNANO.1
 msgctxt "STRINGS.MISSIONS.AFTERMATH.CYBERNANO.1"
 msgid "Head office is catching on to us. Several devices have been remotely rebooted- I hope we don't run out of PWR."
-msgstr ""
+msgstr "总部已经赶上我们了。有些设备正在远程重启-我希望我们还剩的有PWR。"
 
 #: STRINGS.MISSIONS.AFTERMATH.CYBERNANO.2
 msgctxt "STRINGS.MISSIONS.AFTERMATH.CYBERNANO.2"
 msgid "We must have triggered something in their telemetry. They're toggling the power on some of the devices we've taken."
-msgstr ""
+msgstr "我们得对他们的遥测做些什么了。他们在远程切断我们夺取他们的设备电源。"
 
 #: STRINGS.MISSIONS.AFTERMATH.DISPATCH.1
 msgctxt "STRINGS.MISSIONS.AFTERMATH.DISPATCH.1"
 msgid "The item was resting on a pressure plate, and they know it's been moved. Guards are coming your way."
-msgstr ""
+msgstr "那东西是放在压力板上的，他们已经知道那东西被拿走了。警卫就快到你那去了。"
 
 #: STRINGS.MISSIONS.AFTERMATH.DISPATCH.2
 msgctxt "STRINGS.MISSIONS.AFTERMATH.DISPATCH.2"
 msgid "That got their attention. Don't be there when they arrive."
-msgstr ""
+msgstr "惊动到他们了。别呆那，快走。"
 
 #: STRINGS.MISSIONS.AFTERMATH.SERVERFARM.1
 msgctxt "STRINGS.MISSIONS.AFTERMATH.SERVERFARM.1"
 msgid "New daemons came online the second the connection dropped. I knew we couldn't trust that damned cat!"
-msgstr ""
+msgstr "新的守护进程在链接中断之前到了！我还以为那只死猫是个坑！"
 
 #: STRINGS.MISSIONS.AFTERMATH.SERVERFARM.2
 msgctxt "STRINGS.MISSIONS.AFTERMATH.SERVERFARM.2"
 msgid "The server has been compromised, and the site's automatic security measures are coming online. Watch out for new daemons."
-msgstr ""
+msgstr "那个服务器已经不能用了，网路上的自动防御措施也上线了。小心新的守护进程。"
 
 #: STRINGS.MISSIONS.AFTERMATH.TERMS.1
 msgctxt "STRINGS.MISSIONS.AFTERMATH.TERMS.1"
 msgid "Good job - you've got the site list. They noticed you poking about and have changed up their patrols. Be careful on your way out."
-msgstr ""
+msgstr "干得漂亮-你已经拿到网站列表了。他们注意到你在附近乱转悠，已经改变了巡逻路线。回去时小心些。"
 
 #: STRINGS.MISSIONS.AFTERMATH.TERMS.2
 msgctxt "STRINGS.MISSIONS.AFTERMATH.TERMS.2"
 msgid "You've got it, great. When you activated that terminal, it sent out an automated message to change up the guard duty. Be prepared for new patrol patterns."
-msgstr ""
+msgstr "做到了，漂亮！当你启动那个终端时，它将送出一封自动邮件修正警卫的职务。小心新的巡逻模式。"
 
 #: STRINGS.MISSIONS.AFTERMATH.VAULT.1
 msgctxt "STRINGS.MISSIONS.AFTERMATH.VAULT.1"
 msgid "That triggered a silent alarm. Expect company very soon."
-msgstr ""
+msgstr "呜~这触发了一个无声警报。估计小伙伴们马上就到。"
 
 #: STRINGS.MISSIONS.AFTERMATH.VAULT.2
 msgctxt "STRINGS.MISSIONS.AFTERMATH.VAULT.2"
 msgid "You've got the goods, now don't dally. They're sending someone to investigate the security breach."
-msgstr ""
+msgstr "已经拿到货物了，现在不要拖延。他们派了人来调查安全漏洞了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.GOTLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.GOTLOOT.1"
 msgid "Good work, operator. We can re-key that card to give us access to any corporate lockbox."
-msgstr ""
+msgstr "不错，专员。我们可以把那张卡重写，以后集团的保险箱随便开了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.GOTLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.GOTLOOT.2"
 msgid "Excellent. Now we need to find a place to use that card."
-msgstr ""
+msgstr "不能再棒了。现在我们得找个地方试试。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.GOTLOOT.3
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.GOTLOOT.3"
 msgid "That card opens up all sorts of interesting possibilities. Let's not let it go to waste."
-msgstr ""
+msgstr "这卡能满足你所有的好奇心，千万不要浪费机会。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.KILLEDTHEGUY.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.KILLEDTHEGUY.1"
 msgid "I guess we can take some consolation in the fact that the weasel didn't survive."
-msgstr ""
+msgstr "我想，黄鼠狼死了，至少这算是安慰吧。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.NOLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.NOLOOT.1"
 msgid "We're just wasting time out here, Operator. We really could have used that keycard."
-msgstr ""
+msgstr "我们只是在浪费时间，专员。我们刚刚就应该用了那张卡！"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.NOLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CFO.NOLOOT.2"
 msgid "You didn't get the card. We'll just have to make do with less."
-msgstr ""
+msgstr "你没拿到卡。我们得设法应付过去。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.BOUGHT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.BOUGHT.1"
 msgid "Nothing like a little self-improvement session to make our task a bit easier. Nice work."
-msgstr ""
+msgstr "没什么能像自我完善环节一样使我们的工作轻松一些。漂亮。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.BOUGHT.2.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.BOUGHT.2.1"
 msgid "They say augmentation can have side effects that can shorten your lifespan."
-msgstr ""
+msgstr "他们说，植入体会有副作用，比如说缩短你的寿命。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.BOUGHT.2.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.BOUGHT.2.2"
 msgid "In this case, I'd say the side effects of not having augments would be far more dangerous."
-msgstr ""
+msgstr "那么，我只想说，没有植入体的副作用远比那危险得多。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.MISSED.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.MISSED.1"
 msgid "Did you forget why you were down there? We needed those augmentations. We've got to prepare for the battle to come."
-msgstr ""
+msgstr "你还记得你为什么倒在这吗？我们需要那些植入体，不过我们得准备准备再来。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.MISSED.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.MISSED.2"
 msgid "You know what would really help our agents stay alive? Augmentations. Like the ones that you opted not to find. Good work."
-msgstr ""
+msgstr "你知道怎样做才能切实有效地让特工生存下来吗？答案是：植入体。正如你选择放弃寻找的那些。漂亮。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.SAW.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.SAW.1"
 msgid "Those augments were free for the taking, Operator. Tell me you haven't gone Luddite on us."
-msgstr ""
+msgstr "这些植入体再不会被发现，专员。别说你守旧反对我们。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.1"
 msgid "Recovery operation successful. Get that agent outfitted and prepped for the next mission."
-msgstr ""
+msgstr "回收行动成功。让那个特工装备好，准备出下一个任务。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.2"
 msgid "I'm sure the agent you recovered is grateful to get out of that cell. I'm grateful to have more boots on the ground."
-msgstr ""
+msgstr "我确信你所救回来的那个特工很感激你把他从牢里捞出来。我觉得我脚下更踏实了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.3
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.3"
 msgid "Nice work, Operator. We don't leave our people behind. They're much more useful under our control."
-msgstr ""
+msgstr "漂亮，专员。我们不要把人民落下了。他们在我们的控制下会更有用。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTNOTHING.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTNOTHING.1"
 msgid "Damn it, Operator! Did you even try to find the detention block? Our people might have been in there."
-msgstr ""
+msgstr "草！专员，你试着找过滞留障碍了吗？我们的人可能就在那！"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTOTHER.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTOTHER.1"
 msgid "I'm disappointed that our people weren't down there, but at least we got paid. Keep looking, Operator."
-msgstr ""
+msgstr "我很失望。我们的人不在下面。好吧，至少我们拿到报酬了。继续找吧，专员。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.1"
 msgid "This is a sad day, but at least we spared them from corporate deprogramming. They went down fighting."
-msgstr ""
+msgstr "这真是忧伤的一天，不过至少我们把他们从集团肃清上引开了。他们下去开干了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.2"
 msgid "You let that agent down, Operator. You can expect the same treatment if you're ever caught."
-msgstr ""
+msgstr "是你让那个特工被捕的，专员。如果你曾被捉住过的话你也会受到一样的待遇。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTOTHER.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTOTHER.1"
 msgid "The ransom on that worthless ass could have bought us vital supplies. You need to try harder."
-msgstr ""
+msgstr "在那个没用的鬼东西身上画的赎金本该够我们买一堆重要的补给。你再努力点了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.1"
 msgid "Good hunting, operator. I'm sure we'll put that new toy to good use."
-msgstr ""
+msgstr "好手法，专员。我想新玩具是派上用场了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.2"
 msgid "The more equipment we recover, the more tactical options we have in the field. Nice work."
-msgstr ""
+msgstr "我们回收的装备越多，战场上我们就有越多的战术选择。漂亮。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.3
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.3"
 msgid "Stow that gear in the secure hold while we're in-flight. I wouldn't want it going off accidentally."
-msgstr ""
+msgstr "干架时一定保管好那个装置，我可不想有什么意外发生。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.NOLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.NOLOOT.1"
 msgid "You were supposed to find high-tech gear in that facility. Don't disappoint me again."
-msgstr ""
+msgstr "你本应该在那个设施里找到尖端装置的，别再让我失望了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.NOLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.NOLOOT.2"
 msgid "The gear that you skipped over back there could mean the difference between life and death for our agents. That's on your head."
-msgstr ""
+msgstr "你所遗漏的那个装置可以决定我们特工的性命！这都掌握在你的手上。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.1"
 msgid "Nice haul, Operator. Everything is useful, if you're resourceful enough."
-msgstr ""
+msgstr "真是愉悦的一票，专员。所有东西我们都用得上，如果你足够机智。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.2"
 msgid "I'm sure you considered your purchases carefully. Wouldn't want you wasting the company dime on useless dreck."
-msgstr ""
+msgstr "我相信你肯定慎重的考虑过你所购置的东西。我可不希望你把钱浪费在废物上。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.MISSED.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.MISSED.1"
 msgid "Operator, get your head on straight. You didn't even use the nanofab. We don't have the luxury of time to waste!"
-msgstr ""
+msgstr "专员，别打盹。你甚至都没用纳米打印机！我们可没什么多的时间！"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.MISSED.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.MISSED.2"
 msgid "We can make do with normal nanofabs, but the one you missed at this facility would have given us a huge advantage."
-msgstr ""
+msgstr "我们可以设法打开普通的纳米打印机，不过你在设施里所遗漏的那个本该给我们巨大的优势。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.SAW.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.SAW.1"
 msgid "Nothing to your liking? I'm sorry, I'll try finding you a more upscale boutique next time."
-msgstr ""
+msgstr "没有对得上你胃口的？不好意思，下次我会试着给您准备更高档的精品。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.BOUGHT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.BOUGHT.1"
 msgid "Nice work. The more tools we have at our disposal, the better."
-msgstr ""
+msgstr "漂亮。我们能处理的工具越多越好。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.BOUGHT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.BOUGHT.2"
 msgid "Incognita has incorporated the new routines. She's already more useful to us."
-msgstr ""
+msgstr "Incognita已将新的路线合并。她真是越来越好用了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.MISSED.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.MISSED.1"
 msgid "We're wasting opportunities, Operator. It's not like we have time to write new programs ourselves."
-msgstr ""
+msgstr "专员我们在浪费机会！看来我们已经没时间再自己写入新的程序了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.MISSED.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.MISSED.2"
 msgid "Incognita would be a hell of a lot more useful if we gave her more programs to work with, Operator. <sigh> Maybe next time."
-msgstr ""
+msgstr "若是我们能提供更多的程序供使用的话，Incognita会有用的多得多，专员。或许下次吧。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.SAW.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.SAW.1"
 msgid "Didn't see anything to you liking, eh? I hope that doesn't come back to bite us."
-msgstr ""
+msgstr "找不到什么能让您满意的东西吗？我希望这不会是您印象不好。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.SAW.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.SAW.2"
 msgid "What were you doing down there? We went in to get new programs, and you just walked away."
-msgstr ""
+msgstr "你刚刚在那干嘛呢？我们本是要进去拿新的程序，你却那么走开了？！"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.1"
 msgid "Excellent work, Operator. Now to sift through the data and find the juiciest targets."
-msgstr ""
+msgstr "好极了，专员。现在好好筛选下这些数据，找到最肥的目标。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.2"
 msgid "That contact list will prove invaluable when planning our next move. Excellent work."
-msgstr ""
+msgstr "那份通讯录对我们下一步的行动简直是无价之宝。棒极了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.3
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.3"
 msgid "That executive had a very interesting list of contacts. I'm sure they won't miss it."
-msgstr ""
+msgstr "那个执行官的通讯录很有意思。我想他们不会丢掉它的。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.NOLIST.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.NOLIST.1"
 msgid "This is unacceptable. We needed that intel, Operator. Now we'll have to just take what targets we can find."
-msgstr ""
+msgstr "这让我怎么接受？我们本需要那个平台，专员。现在我们只有去找能找到的目标了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.NOLIST.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.NOLIST.2"
 msgid "Operator, those contacts would have helped us immensely. Pay more attention to the mission objectives."
-msgstr ""
+msgstr "专员，这些联系人将很大的帮到我们。多盯着点任务目标。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.EASYLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.EASYLOOT.1"
 msgid "Anything you recover from the field benefits the cause, but I can't help but wonder what they were hiding in the inner vault."
-msgstr ""
+msgstr "你在战场上回收的一切都将使我们的事业受益，然而我还是忍不住想弄清楚，他们到底在内层保险柜里藏了些什么。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.EASYLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.EASYLOOT.2"
 msgid "The inner vault was the real target, but at least you got the low hanging fruit. Bring a keycard next time."
-msgstr ""
+msgstr "内层保险箱是最终目标，不过至少你得把眼前的肥肉吃掉。下次记得带上门卡。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.1"
 msgid "Excellent work, Operator. Now we have to find a way to spend out newfound fortune."
-msgstr ""
+msgstr "好极了，专员。现在我们有了销赃的路子了。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.2"
 msgid "That is precisely the type of initiative I like to see. Pick their bones clean, Operator. Good show."
-msgstr ""
+msgstr "我就是想要看到这种主动权！把他们东西都拿走，骨头都别留下，专员。真是完美的表演。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.NOLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.NOLOOT.1"
 msgid "Would these missions work better if I drew you a map? You're going down there there for a reason, not just to fumble around in the dark."
-msgstr ""
+msgstr "要是我给你张地图是不是工作会轻松些？你是有个目的才下去，不是让你去摸黑的。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.NOLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.NOLOOT.2"
 msgid "Do you have stock in this corporation that I don't know about? Why else would you blow off your mission objectives like that?"
-msgstr ""
+msgstr "你他妈是不是瞒着我买集团的股票了？为什么你又一次放跑了你的任务目标？"
 
 #: STRINGS.MISSIONS.DAEMON_REVERSE.1
 msgctxt "STRINGS.MISSIONS.DAEMON_REVERSE.1"
 msgid "Corporate engineering at its finest. We can work with that."
-msgstr ""
+msgstr "集团的工程是最好的。我们可以好好利用一下。"
 
 #: STRINGS.MISSIONS.DAEMON_REVERSE.2
 msgctxt "STRINGS.MISSIONS.DAEMON_REVERSE.2"
 msgid "Well, that was unexpected. See if you can use it to our advantage."
-msgstr ""
+msgstr "噢，这真是意料之外的。看看你能不能把这玩意能不能用上。"
 
 #: STRINGS.MISSIONS.DAEMON_REVERSE.3
 msgctxt "STRINGS.MISSIONS.DAEMON_REVERSE.3"
 msgid "Finally, our luck is turning about. Now press the advantage!"
-msgstr ""
+msgstr "最后，总算的！我们的运气来了！抓紧它！"
 
 #: STRINGS.MISSIONS.DAEMON_REVERSE.4
 msgctxt "STRINGS.MISSIONS.DAEMON_REVERSE.4"
 msgid "Make the best of this situation, Operator - we don't get many lucky breaks."
-msgstr ""
+msgstr "充分利用现在的状况，专员！我们没多少运气剩下了。"
 
 #: STRINGS.MISSIONS.ENDING_1.ALIVE_OPTIONAL
 msgctxt "STRINGS.MISSIONS.ENDING_1.ALIVE_OPTIONAL"
 msgid "<c:777777>> Agent survival optional</>"
-msgstr ""
+msgstr "可选任务：特工存活。"
 
 #: STRINGS.MISSIONS.ENDING_1.BRING_CENTRAL
 msgctxt "STRINGS.MISSIONS.ENDING_1.BRING_CENTRAL"
 msgid "Access the Corporate Mainframe"
-msgstr ""
+msgstr "访问集团主机"
 
 #: STRINGS.MISSIONS.ENDING_1.BRING_MONST3R
 msgctxt "STRINGS.MISSIONS.ENDING_1.BRING_MONST3R"
 msgid "Bring Monst3r to the final security console"
-msgstr ""
+msgstr "把Monst3r送去最终安全总台。"
 
 #: STRINGS.MISSIONS.ENDING_1.COMMUNICATIONS_NEXUS
 msgctxt "STRINGS.MISSIONS.ENDING_1.COMMUNICATIONS_NEXUS"
 msgid "SECURITY HUB"
-msgstr ""
+msgstr "安全核心"
 
 #: STRINGS.MISSIONS.ENDING_1.ESCAPE_TO_ELEVATOR
 msgctxt "STRINGS.MISSIONS.ENDING_1.ESCAPE_TO_ELEVATOR"
 msgid "Get to the elevator"
-msgstr ""
+msgstr "去电梯那里"
 
 #: STRINGS.MISSIONS.ENDING_1.FIND_CONSOLE
 msgctxt "STRINGS.MISSIONS.ENDING_1.FIND_CONSOLE"
 msgid "Find the Security Hub"
-msgstr ""
+msgstr "找到安全核心"
 
 #: STRINGS.MISSIONS.ENDING_1.HACK_CONSOLE
 msgctxt "STRINGS.MISSIONS.ENDING_1.HACK_CONSOLE"
 msgid "Hack the Security Hub"
-msgstr ""
+msgstr "侵入安全核心"
 
 #: STRINGS.MISSIONS.ENDING_1.HACK_WITH_MONST3R
 msgctxt "STRINGS.MISSIONS.ENDING_1.HACK_WITH_MONST3R"
 msgid "HACK WITH MONST3R"
-msgstr ""
+msgstr "和Monst3r一块入寝"
 
 #: STRINGS.MISSIONS.ENDING_1.INTRO_1
 msgctxt "STRINGS.MISSIONS.ENDING_1.INTRO_1"
 msgid "It was a clean insertion, but they'll figure out we are here soon enough."
-msgstr ""
+msgstr "干净的植入体，不过他们很快就会发现我们在这了。"
 
 #: STRINGS.MISSIONS.ENDING_1.INTRO_2
 msgctxt "STRINGS.MISSIONS.ENDING_1.INTRO_2"
 msgid "There should be a communications nexus somewhere on this floor. If you get me there, I can keep the corp reinforcements tied up."
-msgstr ""
+msgstr "这层应该有个联系中心。如果你把我弄到那去，我就能让集团的支援在家过年。"
 
 #: STRINGS.MISSIONS.ENDING_1.INTRO_3
 msgctxt "STRINGS.MISSIONS.ENDING_1.INTRO_3"
 msgid "Alright. Let's get moving."
-msgstr ""
+msgstr "嗯，那么行动吧。"
 
 #: STRINGS.MISSIONS.ENDING_1.LEAVE_WITHOUT_CENTRAL
 msgctxt "STRINGS.MISSIONS.ENDING_1.LEAVE_WITHOUT_CENTRAL"
 msgid "You can't leave without Central!"
-msgstr ""
+msgstr "别丢下接线员！"
 
 #: STRINGS.MISSIONS.ENDING_1.MAINFRAME_LOCK
 msgctxt "STRINGS.MISSIONS.ENDING_1.MAINFRAME_LOCK"
 msgid "MAINFRAME LOCK"
-msgstr ""
+msgstr "主机锁"
 
 #: STRINGS.MISSIONS.ENDING_1.OBJ_SECURITY_HUB
 msgctxt "STRINGS.MISSIONS.ENDING_1.OBJ_SECURITY_HUB"
 msgid "Protect Monst3r"
-msgstr ""
+msgstr "保护Monst3r"
 
 #: STRINGS.MISSIONS.ENDING_1.REQUIRES_SPECIAL_ACCESS
 msgctxt "STRINGS.MISSIONS.ENDING_1.REQUIRES_SPECIAL_ACCESS"
 msgid "REQUIRES SPECIAL ACCESS"
-msgstr ""
+msgstr "需要特殊访问权限"
 
 #: STRINGS.MISSIONS.ENDING_1.UNKNOWN_THREAT
 msgctxt "STRINGS.MISSIONS.ENDING_1.UNKNOWN_THREAT"
 msgid "UNKNOWN THREAT"
-msgstr ""
+msgstr "未知威胁"
 
 #: STRINGS.MISSIONS.ENDING_1.UPLOAD_INCOGNITA
 msgctxt "STRINGS.MISSIONS.ENDING_1.UPLOAD_INCOGNITA"
 msgid "Upload Incognita"
-msgstr ""
+msgstr "上传Incognita"
 
 #: STRINGS.MISSIONS.ENDING_1.USE_JACKIN_1
 msgctxt "STRINGS.MISSIONS.ENDING_1.USE_JACKIN_1"
 msgid "Just look at this rig! They've got a Sendheiser P-37 feeding into a nitrogen-cooled transduction coil. And is that triple-inverse loop flop enhancer? I've never seen-"
-msgstr ""
+msgstr "快看这个钻井！他们弄到了台Sendheiser P-37来注入液氮制冷的能量转换线圈。那是个三层反向环形悬挂加速器吗？我从没见过-"
 
 #: STRINGS.MISSIONS.ENDING_1.USE_JACKIN_2
 msgctxt "STRINGS.MISSIONS.ENDING_1.USE_JACKIN_2"
 msgid "Will this work?"
-msgstr ""
+msgstr "这会有用么？"
 
 #: STRINGS.MISSIONS.ENDING_1.USE_JACKIN_3
 msgctxt "STRINGS.MISSIONS.ENDING_1.USE_JACKIN_3"
 msgid "Oh this will do nicely. Very nicely indeed."
-msgstr ""
+msgstr "非常有用，确是会非常有用。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.1
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.1"
 msgid "That agent's down but not out. Give them a shot of medgel and they'll be good as new."
-msgstr ""
+msgstr "那位特工失去行动能力，不过并没有出局。给他们注射一管医疗剂，他们就能活蹦乱跳了。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.10
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.10"
 msgid "OK... It's OK. We can recover from this. Get some medgel into that agent and get them out of there."
-msgstr ""
+msgstr "嗯...好了。我们能挺过去的。来点医疗剂注射下，然后把他们弄出去。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.11
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.11"
 msgid "Damn it, they've been tagged. New priority, Operator - begin evac procedures."
-msgstr ""
+msgstr "靠！他们被追踪了！最新优先任务，专员-开始撤离程序。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.12
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.12"
 msgid "Do you know how much time and money has gone into that agent's training? I won't have you wasting company resources that way. Get them back to the jet!"
-msgstr ""
+msgstr "你知道训练一个特工得花多长时间，多少钱么！我他妈的才不会让你这么浪费资源。把他们全搬上飞机！"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.13
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.13"
 msgid "Get that agent back on their feet, Operator! We need all hands on deck."
-msgstr ""
+msgstr "让他们站稳了，专员！各就各位了！"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.14
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.14"
 msgid "Find some medgel and get get them going again."
-msgstr ""
+msgstr "来点医疗剂让他们活过来。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.15
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.15"
 msgid "Damn it, Operator. Be more careful with our assets!"
-msgstr ""
+msgstr "操蛋了，专员。能不能对公司资产小心点用！"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.16
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.16"
 msgid "We don't leave agents in the field, Operator. Get them back on their feet or drag them to the exit."
-msgstr ""
+msgstr "别把特工留在战场上，专员。要么扶他们起来，要么把他们拖到出口。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.17
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.17"
 msgid "Agent down. They're stable, for now. Get some medgel into them or drag them back to the jet."
-msgstr ""
+msgstr "特工失去行动能力。他们情况现在还算稳定。要么给他们来管医疗剂，要么把他们拖回飞机。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.18
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.18"
 msgid "Damn it, an agent has been compromised. Don't let them fall into enemy hands."
-msgstr ""
+msgstr "日了狗了，一个特工投降了。别让他们被敌人带走了。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.19
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.19"
 msgid "Agent down. Repeat, agent down. Your new priority should be recovery. We can't afford to lose any more personnel."
-msgstr ""
+msgstr "特工失去行动能力，重复，特工失去行动能力。你的优先任务改为回收。我们受不起任何人力流失。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.2
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.2"
 msgid "Agent down, Operator. Don't even think of leaving them behind."
-msgstr ""
+msgstr "特工失去行动能力，专员。别想着把他们落下。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.20
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.20"
 msgid "Operator! You are playing with people's lives here. Get that agent back on their feet!"
-msgstr ""
+msgstr "专员！你他妈手上拿着几条人命！把特工给带回来！"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.3
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.3"
 msgid "We've lost contact with an agent. Move in our other assets to recover."
-msgstr ""
+msgstr "我们和一位特工失去联系。我们得向其他地区转移来挽回损失。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.4
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.4"
 msgid "Damn it! We can't afford that loss. I don't care if you have to drag them to the elevator - do NOT leave anyone behind."
-msgstr ""
+msgstr "操蛋！我们受不起这样的损失了。我不在乎你是否把他们拽去电梯那，别他妈的把任何人丢下。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.5
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.5"
 msgid "Shots fired. Agent down. Are you cracking under the pressure, Operator?"
-msgstr ""
+msgstr "遭遇开火。特工失去行动能力。你扛不住压干不了了么,专员？!"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.6
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.6"
 msgid "We don't want the corps interrogating our agents. Do not leave them bleeding on the field."
-msgstr ""
+msgstr "我可不想让我们的特工被集团审讯了。别让任何人在战场上流血。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.7
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.7"
 msgid "Agent down - use medgel to get them back on their feet."
-msgstr ""
+msgstr "特工失去行动能力-使用医疗剂来让他们重新行动。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.8
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.8"
 msgid "Pay attention, Operator! We can't afford casualties!"
-msgstr ""
+msgstr "注意了专员！我们承受不起人员伤亡！"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.9
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.9"
 msgid "Are you even paying attention? You let them walk right into that!"
-msgstr ""
+msgstr "你注意力放哪了？你就这么让他们那么往枪口上撞！"
 
 #: STRINGS.MISSIONS.ESCAPE.CAUGHT_BY_CAMERA
 msgctxt "STRINGS.MISSIONS.ESCAPE.CAUGHT_BY_CAMERA"
 msgid "That camera will keep making things harder for us Operator. Incognita has a program to deal with it."
-msgstr ""
+msgstr "那个摄像头会不断地干扰我们，专员。Incognita有对付这玩意的程序。"
 
 #: STRINGS.MISSIONS.ESCAPE.CELLBLOCK_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.CELLBLOCK_1"
 msgid "Look for a cellblock, there may be someone useful in there."
-msgstr ""
+msgstr "找到囚室，那可能有些对我们有用的人。"
 
 #: STRINGS.MISSIONS.ESCAPE.CELLBLOCK_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.CELLBLOCK_2"
 msgid "There's a high-security detention center on-site. I wonder who they're keeping in there."
-msgstr ""
+msgstr "这有一个受重保护的拘留中心。我很想知道他们在那关了谁。"
 
 #: STRINGS.MISSIONS.ESCAPE.CELLBLOCK_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.CELLBLOCK_3"
 msgid "They're keeping someone under detention here. It's high security, so they must be important."
-msgstr ""
+msgstr "他们在那关了些人。安全等级很高，那么那些人应该很重要。"
 
 #: STRINGS.MISSIONS.ESCAPE.CELLBLOCK_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.CELLBLOCK_4"
 msgid "There is a detention facility on the grounds. Keep an eye open for our agents."
-msgstr ""
+msgstr "地面上有个拘留设施。盯住看着有没我们的特工。"
 
 #: STRINGS.MISSIONS.ESCAPE.CENTRAL_HOSTAGE_DEATH
 msgctxt "STRINGS.MISSIONS.ESCAPE.CENTRAL_HOSTAGE_DEATH"
 msgid "Damn it! There goes any bonus. We will discuss this further in debriefing."
-msgstr ""
+msgstr "操！奖金全没了。我们在任务报告的时候再细谈"
 
 #: STRINGS.MISSIONS.ESCAPE.CEOOFFICE_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.CEOOFFICE_1"
 msgid "Upper Management is putting in some overtime. It's a good chance for us to pick his brain."
-msgstr ""
+msgstr "上层管理层在加班。要想问点什么的话趁现在。"
 
 #: STRINGS.MISSIONS.ESCAPE.CEOOFFICE_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.CEOOFFICE_2"
 msgid "A top financial assistant has been followed to this site. He should have vault access codes on him."
-msgstr ""
+msgstr "一个顶级金融助理被盯到曾上过这个网站，他应该有金库的访问权限。"
 
 #: STRINGS.MISSIONS.ESCAPE.CEOOFFICE_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.CEOOFFICE_3"
 msgid "The CFO of this facility should be busy in a chess match. Nab his vault codes while he is preoccupied"
-msgstr ""
+msgstr "这个设施的首席财务官应该是正忙着参加一个象棋比赛。在他全神贯注的时候拿到金库密码。"
 
 #: STRINGS.MISSIONS.ESCAPE.CEOOFFICE_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.CEOOFFICE_4"
 msgid "The first class suite in this facility has been hosting a financial seminar. At least one of the speakers will be around afterwards, for a chat."
-msgstr ""
+msgstr "该设施最高级的套房正用于一个金融研讨会。至少有一个演讲者之后会在附近，聊天什么的。"
 
 #: STRINGS.MISSIONS.ESCAPE.CONNECTION_BROKEN
 msgctxt "STRINGS.MISSIONS.ESCAPE.CONNECTION_BROKEN"
 msgid "You went out of range. His port will be fused now. We won't be getting any codes this time."
-msgstr ""
+msgstr "你在范围外了。他的端口肯定被烧了。现在我们拿不到任何密码了。"
 
 #: STRINGS.MISSIONS.ESCAPE.CYBERLAB_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.CYBERLAB_1"
 msgid "A high ranking operative will be receiving an augment installation in the morning. Maybe we can grab it first."
-msgstr ""
+msgstr "一个高级职员早上会去植入植入体。我们或许能在那之前把植入体带走。"
 
 #: STRINGS.MISSIONS.ESCAPE.CYBERLAB_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.CYBERLAB_2"
 msgid "The lab at this location is extremely busy. It's likely they will have augment stock on hand."
-msgstr ""
+msgstr "这块的实验室十分繁忙。很可能他们手头会有植入体。"
 
 #: STRINGS.MISSIONS.ESCAPE.CYBERLAB_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.CYBERLAB_3"
 msgid "Several augment designs are being developed at this laboratory. Anything past the prototype stage is likely going to be quite useful."
-msgstr ""
+msgstr "有些植入体是在这个实验室设计的。除了原型阶段的东西很可能都会对我们有大的帮助。"
 
 #: STRINGS.MISSIONS.ESCAPE.CYBERLAB_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.CYBERLAB_4"
 msgid "This augment lab has just received a large shipment for quality control checks. If you get in quick and quietly enough, they may not even realize any stock is missing."
-msgstr ""
+msgstr "这个植入体研究室不久前才完成一大票的质量管理检验。要是你足够快和隐匿的话，他们可能根本不会察觉到东西丢了。"
 
 #: STRINGS.MISSIONS.ESCAPE.FIRST_LEVEL.1
 msgctxt "STRINGS.MISSIONS.ESCAPE.FIRST_LEVEL.1"
 msgid "Bad news, Operator.\n\nThey caught us completely by surprise, so we have no firepower with us. The guards' weapons are genecoded to their owner and useless to us.\n\nWe're going to have to make do with what we can find along the way."
-msgstr ""
+msgstr "坏消息，专员。他们意外发现了我们，而我们并没有火器。警卫的武器都是基因编码的，所以我们用不上。我们得用我们沿途能用到的东西克服下。"
 
 #: STRINGS.MISSIONS.ESCAPE.FIRST_LEVEL.2
 msgctxt "STRINGS.MISSIONS.ESCAPE.FIRST_LEVEL.2"
 msgid "We've beamed you through the security grid. You should be somewhere near the target, but you'll need to look for it.\n\nGet the list, and find a transport pad to escape."
-msgstr ""
+msgstr "我们把你传送到了安全区域。你应该在目标附近，不过你需要找找。拿到清单，并找个传送点离开。"
 
 #: STRINGS.MISSIONS.ESCAPE.FIRST_LEVEL.3
 msgctxt "STRINGS.MISSIONS.ESCAPE.FIRST_LEVEL.3"
 msgid "But be quick about it - they noticed a disturbance when we ported in, and their alarm level is already rising."
-msgstr ""
+msgstr "不过一定要快-他们在我们传送时已经注意到干扰了，警报等级已经提升了。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_1"
 msgid "We're not sure what is in there, but take whatever you can find."
-msgstr ""
+msgstr "我们不清楚它放在哪里，把你找到的都带走吧。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_2"
 msgid "We need to rebuild our strength. Take anything that isn't nailed down."
-msgstr ""
+msgstr "我们需要重建我们的势力。凡事没钉死的都拿走！"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_3"
 msgid "Try to find as much intel and valuables as you can, and get back to the elevator."
-msgstr ""
+msgstr "尽量找多的核心和其他贵重的东西，并把它们带回电梯。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_4"
 msgid "You'll have a small window of opportunity to grab as much materiel as you can."
-msgstr ""
+msgstr "你有很小的机会来带走尽可能多的材料。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_5
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_5"
 msgid "Find anything of value that isn't bolted to the floor. Incognita will erase all records of our intrusion."
-msgstr ""
+msgstr "只要不是钉死在地板上的能找到的值钱的都带走。Incognita会把我们入侵的记录抹掉的。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_6
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_6"
 msgid "See what you can find. You never know what they're keeping at these unlisted sites."
-msgstr ""
+msgstr "看看你能找到些什么。你永远不会知道他们会在这些未在列表中出现的地方放些什么。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_7
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_7"
 msgid "See what you can find, and get back before they know you've been there. No risks."
-msgstr ""
+msgstr "看看你能找到些什么，在他们发现你之前回来。零风险。"
 
 #: STRINGS.MISSIONS.ESCAPE.GUARDROOM_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.GUARDROOM_1"
 msgid "There's a guard station here. You may be able to secure some weapons."
-msgstr ""
+msgstr "那有一个警备站。说不好你能弄到些武器。"
 
 #: STRINGS.MISSIONS.ESCAPE.GUARDROOM_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.GUARDROOM_2"
 msgid "Keep an eye out for an armory. We could certainly use the firepower."
-msgstr ""
+msgstr "注意军械库。我们肯定会用上火器。"
 
 #: STRINGS.MISSIONS.ESCAPE.GUARDROOM_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.GUARDROOM_3"
 msgid "There are a large number of guards on staff. Keep an eye out for unsecured weaponry."
-msgstr ""
+msgstr "这有一大批警卫在职。小心擦枪走火。"
 
 #: STRINGS.MISSIONS.ESCAPE.GUARDROOM_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.GUARDROOM_4"
 msgid "This is a training facility for new security staff. You may be able to steal some unlicensed firearms."
-msgstr ""
+msgstr "这是一个训练新警卫的设施。你可以试着拿走些无证武器。"
 
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_CONVO1
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_CONVO1"
 msgid "You. You're not one of them. Who.. who are you?"
-msgstr ""
+msgstr "你...你不是他们其中之一。你...你到底是谁？"
 
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_NAME
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_NAME"
 msgid "Hostage XX1"
-msgstr ""
+msgstr "人质XX1"
 
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS"
 msgid "VITAL STATUS"
-msgstr ""
+msgstr "生命状态"
 
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT"
 msgid "%d TURN(S) REMAINING"
-msgstr ""
+msgstr "剩余%d回合"
 
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT_DEATH
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT_DEATH"
 msgid "EXPIRED"
-msgstr ""
+msgstr "时间到。"
 
 #: STRINGS.MISSIONS.ESCAPE.INTERROGAGE_TARGET
 msgctxt "STRINGS.MISSIONS.ESCAPE.INTERROGAGE_TARGET"
 msgid "INTERROGATE TARGET"
-msgstr ""
+msgstr "审问目标"
 
 #: STRINGS.MISSIONS.ESCAPE.INTERROGATE_END
 msgctxt "STRINGS.MISSIONS.ESCAPE.INTERROGATE_END"
 msgid "We've got the vault passcodes. I've ejected a mem chip from his port. Grab it and get the hell out of there."
-msgstr ""
+msgstr "我们已经拿到了金库的密码。我从他的端口拔出了张脉冲芯片。戴上它赶快离开那。"
 
 #: STRINGS.MISSIONS.ESCAPE.INTERROGATE_START
 msgctxt "STRINGS.MISSIONS.ESCAPE.INTERROGATE_START"
 msgid "We are digging in his cerebral implant now, but it will take a few minutes. Stay close to the target so I can keep the scan running."
-msgstr ""
+msgstr "我们在取出他的脑内植入体，这会需要一些时间。呆在目标身边，这样我能保持扫描进行。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_1"
 msgid "The <Corporation> satellite network is having technical issues and has no visibility in this sector."
-msgstr ""
+msgstr "集团的卫星网路发生技术故障，已经失去了对这个地带的监控。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_10
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_10"
 msgid "There has to be a pattern to Corp behaviour. We'll crack it, but first we need supplies."
-msgstr ""
+msgstr "这肯定是集团的行动模式。我们能够破解它，不过在这之前我们得先补给了。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_11
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_11"
 msgid "It looks like we've found a hole in the security here"
-msgstr ""
+msgstr "看来我们找到了安全漏洞。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_2"
 msgid "They're rebooting their regional servers, and aren't recording the security telemetry from this installation."
-msgstr ""
+msgstr "他们在重启地区服务器，而且在这次安装中没有记录安全遥测。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_3"
 msgid "Operator, we've gained one-time access to the facility here."
-msgstr ""
+msgstr "专员，我们需要在这再一次访问设施。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_4"
