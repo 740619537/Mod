@@ -12262,217 +12262,217 @@ msgstr ""
 #: STRINGS.UI.DIFF_OPTION_COUNTERMEASURES
 msgctxt "STRINGS.UI.DIFF_OPTION_COUNTERMEASURES"
 msgid "INCREASED FINAL RESISTANCE"
-msgstr ""
+msgstr "负隅顽抗"
 
 #: STRINGS.UI.DIFF_OPTION_COUNTERMEASURES_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_COUNTERMEASURES_TIP"
 msgid "<c:FF8411>INCREASED FINAL RESISTANCE</c>\nIn the final mission, the corporations have a number of tricks up their sleeves to put your agents in danger. With this option off, the corporations lose one of their more dangerous security mechanisms."
-msgstr ""
+msgstr "负隅顽抗：最终任务中，集团将用尽一切小伎俩让你的特工处于险境。如果取消该选项，公司就失去了他们最危险的安全机制之一。"
 
 #: STRINGS.UI.DIFF_OPTION_CREDITS
 msgctxt "STRINGS.UI.DIFF_OPTION_CREDITS"
 msgid "CREDIT MULTIPLIER"
-msgstr ""
+msgstr "盆满钵盈"
 
 #: STRINGS.UI.DIFF_OPTION_CREDITS_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_CREDITS_TIP"
 msgid "<c:FF8411>CREDIT MULTIPLIER</c>\nGuards, corporate safes and mission completion are all sources of income for the agency. This option will multiply all money collected in the game by its value. If the Credit Multiplier is 0.5 and a guard would normally be looted for 400 credits, in this world he will only have 200 on him."
-msgstr ""
+msgstr "盆满钵盈：警卫、集团的保险柜和任务的完成都是组织收入的来源。该选项将倍增游戏中所取得的金钱。如果盆满钵盈被设置到0.5，一个警卫若正常被夺取400CR的话，在游戏中他就只会拥有200CR。"
 
 #: STRINGS.UI.DIFF_OPTION_DAEMONS
 msgctxt "STRINGS.UI.DIFF_OPTION_DAEMONS"
 msgid "DAEMON QUANTITY"
-msgstr ""
+msgstr "守护者数量"
 
 #: STRINGS.UI.DIFF_OPTION_DAEMONS_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_DAEMONS_TIP"
 msgid "<c:FF8411>DAEMON QUANTITY</c>\nDetermines the number of daemons installed onto devices throughout the level."
-msgstr ""
+msgstr "守护者数量：决定安装在本层设施上的守护进程数量"
 
 #: STRINGS.UI.DIFF_OPTION_DANGERZONE
 msgctxt "STRINGS.UI.DIFF_OPTION_DANGERZONE"
 msgid "SHOW DANGER ZONES"
-msgstr ""
+msgstr "看见危险"
 
 #: STRINGS.UI.DIFF_OPTION_DANGERZONE_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_DANGERZONE_TIP"
 msgid "<c:FF8411>DANGER ZONES</c>\nWith this option selected, your agency's powerful AI computer Incognita is able to calculate and predict places that will put your agents in danger.\n\nAreas that are being watched by the enemy will appear in red on the floor. These areas will be seen even before the source of the vision has been revealed. "
-msgstr ""
+msgstr "危险地区：开启此选项后，组织的强力AI电脑Incognita将能够计算并预测危险地区。敌人所监测的地区将在地图上显示为红色。这些地区在被探索之前就会显示在地图上。"
 
 #: STRINGS.UI.DIFF_OPTION_GUARDSPAWNS
 msgctxt "STRINGS.UI.DIFF_OPTION_GUARDSPAWNS"
 msgid "GUARDS PER LEVEL"
-msgstr ""
+msgstr "循序渐进"
 
 #: STRINGS.UI.DIFF_OPTION_GUARDSPAWNS_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_GUARDSPAWNS_TIP"
 msgid "<c:FF8411>GUARDS PER LEVEL</c>\nThis setting will adjust the number and type of guards that will be spawned in the level from the start of the mission.\n\nLESS will have fewer guards than the normal setting and the elite guard types will show up later.\n\nMORE will have a larger number of guards than normal and they will upgrade to elite unit types earlier. "
-msgstr ""
+msgstr "循序渐进：该选项将调整游戏开局警卫的数量和种类。选择“低”警卫将会比正常要少，并且菁英部队将会晚些出现。选择“多”则会有更多的警卫，并且菁英将会更早出现。"
 
 #: STRINGS.UI.DIFF_OPTION_HOURS
 msgctxt "STRINGS.UI.DIFF_OPTION_HOURS"
 msgid "CAMPAIGN HOURS"
-msgstr ""
+msgstr "战斗时长"
 
 #: STRINGS.UI.DIFF_OPTION_HOURS_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_HOURS_TIP"
 msgid "<c:FF8411>CAMPAIGN HOURS</c>\nThe campaign hours determines how long the campaign will last before the agency is challenged with the final mission. Setting the hours to endless will cause the final mission to never appear, thus potentially allowing the team to infiltrate forever. "
-msgstr ""
+msgstr "战斗时长：该选项决定战役在特工挑战最终任务之前持续多长时间。设置无限时将使最终任务不会出现，潜在地使特工无限潜行，不得脱出。"
 
 #: STRINGS.UI.DIFF_OPTION_IRONMAN
 msgctxt "STRINGS.UI.DIFF_OPTION_IRONMAN"
 msgid "IRON MAN"
-msgstr ""
+msgstr "硬汉"
 
 #: STRINGS.UI.DIFF_OPTION_IRONMAN_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_IRONMAN_TIP"
 msgid "<c:FF8411>IRON MAN MODE</c>\nInvisible, Inc. has an undo feature called REWIND that lets you fix one mistake per mission. Iron Man mode sets the REWINDS to 0 to maximize the tension and achievement of victory."
-msgstr ""
+msgstr "硬汉模式：隐形公司有一个名为“回溯”的撤销系统，它允许你每次任务有一次改正自己错误地机会。硬汉模式将取消回溯，瞬间扩大你的警惕感，满足你的成就感。"
 
 #: STRINGS.UI.DIFF_OPTION_KOTIME
 msgctxt "STRINGS.UI.DIFF_OPTION_KOTIME"
 msgid "ADDITIONAL KO TIME"
-msgstr ""
+msgstr "倒地不醒"
 
 #: STRINGS.UI.DIFF_OPTION_KOTIME_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_KOTIME_TIP"
 msgid "<c:FF8411>ADDITIONAL KO TIME</c>\nThis setting adjusts the number of turns a Neural Disrupter will KO a guard for. Setting this value to 99 will effectively remove the guards from play when they are knocked out."
-msgstr ""
+msgstr "倒地不醒：该选项调整神经干扰装置使警卫倒地的回合数。将该数值调到99将事实上使倒地警卫退出游戏。"
 
 #: STRINGS.UI.DIFF_OPTION_LEVEL_RETRIES
 msgctxt "STRINGS.UI.DIFF_OPTION_LEVEL_RETRIES"
 msgid "LEVEL RETRIES"
-msgstr ""
+msgstr "卷土重来"
 
 #: STRINGS.UI.DIFF_OPTION_LEVEL_RETRIES_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_LEVEL_RETRIES_TIP"
 msgid "<c:FF8411>LEVEL RETRIES</c>\nTurning this mode on will allow you to retry missions at the beginning of the mission or previous day.\n\nThe levels will be randomly generated again, so you'll get a fresh challenge without losing your agent progress."
-msgstr ""
+msgstr "卷土重来：开启该模式将允许你从任务开始或是前一天重来。难度将被随机生成，因此你将在不流失特工进度的同时体验到全新的挑战。"
 
 #: STRINGS.UI.DIFF_OPTION_MELEEFRONT
 msgctxt "STRINGS.UI.DIFF_OPTION_MELEEFRONT"
 msgid "ALLOW MELEE WHILE SEEN"
-msgstr ""
+msgstr "绝地反击"
 
 #: STRINGS.UI.DIFF_OPTION_MELEEFRONT_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_MELEEFRONT_TIP"
 msgid "<c:FF8411>MELEE WHILE SEEN</c>\nBy default, your agents reaction times are faster than the guards, and you can melee them as long as you are in melee range. With this option off, you can only melee a guard from outside their cone of vision."
-msgstr ""
+msgstr "绝地反击：开启此选项，你的特工反应能力将远比警卫要快，即使被他们发现，只要在攻击范围内你就可以对他们攻击。关掉该选项后，你只能在警卫的锥形视野外攻击他们。"
 
 #: STRINGS.UI.DIFF_OPTION_MONEY
 msgctxt "STRINGS.UI.DIFF_OPTION_MONEY"
 msgid "STARTING MONEY"
-msgstr ""
+msgstr "起始金钱"
 
 #: STRINGS.UI.DIFF_OPTION_MONEY_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_MONEY_TIP"
 msgid "<c:FF8411>STARTING MONEY</c>\nSet how many credits the agency will have right at the start of the game."
-msgstr ""
+msgstr "起始金钱：设置机构在游戏开始时有多少CR。"
 
 #: STRINGS.UI.DIFF_OPTION_REWINDS
 msgctxt "STRINGS.UI.DIFF_OPTION_REWINDS"
 msgid "REWINDS"
-msgstr ""
+msgstr "回溯"
 
 #: STRINGS.UI.DIFF_OPTION_REWINDS_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_REWINDS_TIP"
 msgid "<c:FF8411>REWINDS</c>\nA rewind will allow you to turn back time to the beginning of your previous turn. Setting zero rewinds will set your game in IRON MAN mode."
-msgstr ""
+msgstr "回溯：回溯允许你时间倒流倒上一个你的回合。设置零回溯将进入硬汉模式"
 
 #: STRINGS.UI.DIFF_OPTION_ROOMS
 msgctxt "STRINGS.UI.DIFF_OPTION_ROOMS"
 msgid "ROOMS IN LEVEL"
-msgstr ""
+msgstr "房间数量"
 
 #: STRINGS.UI.DIFF_OPTION_ROOMS_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_ROOMS_TIP"
 msgid "<c:FF8411>ROOMS IN LEVEL</c>\nThe general size of the level can be adjusted by increasing or decreasing the number of rooms the procedural generation will try to form. During the generation code, some of these rooms may be merged together to create larger spaces, so the results will not be exactly as you predict."
-msgstr ""
+msgstr "房间数量：整个楼层的空间可以被生成程序试图形成的房间数量调整。在生成模式中，有些房间将被柔和到一块形成大的空间，所以结果可能并不像你预料的那样。"
 
 #: STRINGS.UI.DIFF_OPTION_SAFES
 msgctxt "STRINGS.UI.DIFF_OPTION_SAFES"
 msgid "SAFES PER LEVEL"
-msgstr ""
+msgstr "保险柜数量"
 
 #: STRINGS.UI.DIFF_OPTION_SAFES_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_SAFES_TIP"
 msgid "<c:FF8411>SAFES PER LEVEL</c>\nThis setting will control the number of safes spread throughout the level. This will also increase the amount of CREDITS available in the level."
-msgstr ""
+msgstr "保险柜数量：该设置将控制每层的保险柜的数量。这也会使该层的提供的CR增多。"
 
 #: STRINGS.UI.DIFF_OPTION_SHOW_SETTINGS_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_SHOW_SETTINGS_TIP"
 msgid "<c:FF8411>SHOW SETTINGS</c>\nToggling this button will show all the settings used to generate the campaigns. Changing any of the options will put you into CUSTOM mode"
-msgstr ""
+msgstr "展开设置：点开该按钮将显示生成战役的所有设置，改变任何一项将使你进入自定义模式。"
 
 #: STRINGS.UI.DIFF_OPTION_STARTPWR
 msgctxt "STRINGS.UI.DIFF_OPTION_STARTPWR"
 msgid "MISSION START PWR"
-msgstr ""
+msgstr "起始PWR"
 
 #: STRINGS.UI.DIFF_OPTION_STARTPWR_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_STARTPWR_TIP"
 msgid "<c:FF8411>MISSION START PWR</c>\nThis setting is the amount of PWR the agency will start with at the beginning of each mission."
-msgstr ""
+msgstr "起始PWR：该设置决定每次任务开始时PWR的数量"
 
 #: STRINGS.UI.DIFF_OPTION_TIMEATTACK
 msgctxt "STRINGS.UI.DIFF_OPTION_TIMEATTACK"
 msgid "TIME ATTACK MODE"
-msgstr ""
+msgstr "计时挑战模式"
 
 #: STRINGS.UI.DIFF_OPTION_TIMEATTACK_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_TIMEATTACK_TIP"
 msgid "<c:FF8411>TIME ATTACK</c>\nIn this mode, you get a limited amount of time per turn, and then it will auto advance to the corporation's turn.\n\nHow quickly can you complete the game without dying?"
-msgstr ""
+msgstr "计时挑战：该模式下，每回合你都在时间限制下，并且将自动前进到集团的回合。你能多快无伤完成任务呢？"
 
 #: STRINGS.UI.DOORS.ALREADY_LOCKED
 msgctxt "STRINGS.UI.DOORS.ALREADY_LOCKED"
 msgid "Already locked"
-msgstr ""
+msgstr "已经上锁"
 
 #: STRINGS.UI.DOORS.BREAK
 msgctxt "STRINGS.UI.DOORS.BREAK"
 msgid "BREAK"
-msgstr ""
+msgstr "破坏"
 
 #: STRINGS.UI.DOORS.BREAK_TT
 msgctxt "STRINGS.UI.DOORS.BREAK_TT"
 msgid "Break this door."
-msgstr ""
+msgstr "破坏该门"
 
 #: STRINGS.UI.DOORS.BROKEN
 msgctxt "STRINGS.UI.DOORS.BROKEN"
 msgid "BROKEN"
-msgstr ""
+msgstr "已破坏"
 
 #: STRINGS.UI.DOORS.CANT_BREAK
 msgctxt "STRINGS.UI.DOORS.CANT_BREAK"
 msgid "Cannot break"
-msgstr ""
+msgstr "不能破坏"
 
 #: STRINGS.UI.DOORS.CANT_USE
 msgctxt "STRINGS.UI.DOORS.CANT_USE"
 msgid "Cannot use doors"
-msgstr ""
+msgstr "不能使用该门"
 
 #: STRINGS.UI.DOORS.CLOSE
 msgctxt "STRINGS.UI.DOORS.CLOSE"
 msgid "CLOSE"
-msgstr ""
+msgstr "关闭"
 
 #: STRINGS.UI.DOORS.CLOSED
 msgctxt "STRINGS.UI.DOORS.CLOSED"
 msgid "CLOSED"
-msgstr ""
+msgstr "已关闭"
 
 #: STRINGS.UI.DOORS.CLOSE_TT
 msgctxt "STRINGS.UI.DOORS.CLOSE_TT"
 msgid "Close this door."
-msgstr ""
+msgstr "关上此门"
 
 #: STRINGS.UI.DOORS.DISABLED
 msgctxt "STRINGS.UI.DOORS.DISABLED"
 msgid "DOOR DISABLED"
-msgstr ""
+msgstr "禁用该门"
 
 #: STRINGS.UI.DOORS.DROP_BODY
 msgctxt "STRINGS.UI.DOORS.DROP_BODY"
@@ -12482,147 +12482,147 @@ msgstr ""
 #: STRINGS.UI.DOORS.ELEVATOR
 msgctxt "STRINGS.UI.DOORS.ELEVATOR"
 msgid "LOCKED - COMPLETE OBJECTIVE"
-msgstr ""
+msgstr "已锁-需要完成任务"
 
 #: STRINGS.UI.DOORS.GUARD
 msgctxt "STRINGS.UI.DOORS.GUARD"
 msgid "LOCKED - GUARD ELEVATOR"
-msgstr ""
+msgstr "已锁-需要警卫电梯"
 
 #: STRINGS.UI.DOORS.GUARD_ELEVATOR
 msgctxt "STRINGS.UI.DOORS.GUARD_ELEVATOR"
 msgid "GUARD ELEVATOR"
-msgstr ""
+msgstr "警卫电梯"
 
 #: STRINGS.UI.DOORS.INUSE
 msgctxt "STRINGS.UI.DOORS.INUSE"
 msgid "LOCKED - IN USE"
-msgstr ""
+msgstr "已锁-使用中"
 
 #: STRINGS.UI.DOORS.LOCK
 msgctxt "STRINGS.UI.DOORS.LOCK"
 msgid "LOCK"
-msgstr ""
+msgstr "锁"
 
 #: STRINGS.UI.DOORS.LOCKED
 msgctxt "STRINGS.UI.DOORS.LOCKED"
 msgid "LOCKED"
-msgstr ""
+msgstr "上锁"
 
 #: STRINGS.UI.DOORS.LOCK_TT
 msgctxt "STRINGS.UI.DOORS.LOCK_TT"
 msgid "Lock this door with a passcard."
-msgstr ""
+msgstr "用身份卡锁上这扇门"
 
 #: STRINGS.UI.DOORS.NOT_CLOSED
 msgctxt "STRINGS.UI.DOORS.NOT_CLOSED"
 msgid "Not closed"
-msgstr ""
+msgstr "没有关闭"
 
 #: STRINGS.UI.DOORS.NOT_LOCKED
 msgctxt "STRINGS.UI.DOORS.NOT_LOCKED"
 msgid "Not locked"
-msgstr ""
+msgstr "没有上锁"
 
 #: STRINGS.UI.DOORS.NOT_OPEN
 msgctxt "STRINGS.UI.DOORS.NOT_OPEN"
 msgid "Not open"
-msgstr ""
+msgstr "没开"
 
 #: STRINGS.UI.DOORS.NO_ENTRY
 msgctxt "STRINGS.UI.DOORS.NO_ENTRY"
 msgid "NO ENTRY"
-msgstr ""
+msgstr "禁止进入"
 
 #: STRINGS.UI.DOORS.NO_ENTRY_TT
 msgctxt "STRINGS.UI.DOORS.NO_ENTRY_TT"
 msgid "An unopenable door that can only be used by GUARDS, EXECUTIVES and ENFORCERS."
-msgstr ""
+msgstr "一扇只能由警卫、执行官、执行力量使用的打不开的门。"
 
 #: STRINGS.UI.DOORS.OFFICE
 msgctxt "STRINGS.UI.DOORS.OFFICE"
 msgid "LOCKED - BREAK THE DAEMON"
-msgstr ""
+msgstr "已锁-需要破坏守护进程"
 
 #: STRINGS.UI.DOORS.OPEN
 msgctxt "STRINGS.UI.DOORS.OPEN"
 msgid "OPEN"
-msgstr ""
+msgstr "打开"
 
 #: STRINGS.UI.DOORS.OPEN_TT
 msgctxt "STRINGS.UI.DOORS.OPEN_TT"
 msgid "Open this door."
-msgstr ""
+msgstr "打开这扇门"
 
 #: STRINGS.UI.DOORS.SECURITY
 msgctxt "STRINGS.UI.DOORS.SECURITY"
-msgid "LOCKED - LVL1 SECURITY PASSCARD"
-msgstr ""
+msgid "LOCKED - 需要LVL1 SECURITY PASSCARD"
+msgstr "已锁-等级1安全身份卡"
 
 #: STRINGS.UI.DOORS.SECURITY_LONGDESC
 msgctxt "STRINGS.UI.DOORS.SECURITY_LONGDESC"
 msgid "Lvl1 security passcards can be stolen from the guards, and only work in the facility where they are found."
-msgstr ""
+msgstr "等级1安全身份卡可以从警卫身上偷取，而且只在它们被发现的设施中管用。"
 
 #: STRINGS.UI.DOORS.SPECIAL_EXIT
 msgctxt "STRINGS.UI.DOORS.SPECIAL_EXIT"
 msgid "SECURITY EXIT"
-msgstr ""
+msgstr "安全出口"
 
 #: STRINGS.UI.DOORS.SPECIAL_EXIT_LONGDESC
 msgctxt "STRINGS.UI.DOORS.SPECIAL_EXIT_LONGDESC"
 msgid "Security Exit Cards are stored in a safe somewhere in the building."
-msgstr ""
+msgstr "安全出口许可卡被放在建筑中的某个保险柜内。"
 
 #: STRINGS.UI.DOORS.TOOLTIP
 msgctxt "STRINGS.UI.DOORS.TOOLTIP"
 msgid "DOOR"
-msgstr ""
+msgstr "门"
 
 #: STRINGS.UI.DOORS.TOOLTIP_SECURITY
 msgctxt "STRINGS.UI.DOORS.TOOLTIP_SECURITY"
 msgid "LVL1 SECURITY DOOR"
-msgstr ""
+msgstr "等级1安全门"
 
 #: STRINGS.UI.DOORS.TOOLTIP_SPECIAL_EXIT
 msgctxt "STRINGS.UI.DOORS.TOOLTIP_SPECIAL_EXIT"
 msgid "SECURITY EXIT"
-msgstr ""
+msgstr "安全出口"
 
 #: STRINGS.UI.DOORS.TOOLTIP_VAULT
 msgctxt "STRINGS.UI.DOORS.TOOLTIP_VAULT"
 msgid "VAULT DOOR"
-msgstr ""
+msgstr "金库门"
 
 #: STRINGS.UI.DOORS.UNLOCK
 msgctxt "STRINGS.UI.DOORS.UNLOCK"
 msgid "UNLOCK"
-msgstr ""
+msgstr "开锁"
 
 #: STRINGS.UI.DOORS.UNLOCK_TT
 msgctxt "STRINGS.UI.DOORS.UNLOCK_TT"
 msgid "Unlock this door."
-msgstr ""
+msgstr "开这扇门的锁"
 
 #: STRINGS.UI.DOORS.VAULT
 msgctxt "STRINGS.UI.DOORS.VAULT"
 msgid "LOCKED - VAULT ACCESS CARD"
-msgstr ""
+msgstr "已锁-需要金库权限卡"
 
 #: STRINGS.UI.DOORS.VAULT_LONGDESC
 msgctxt "STRINGS.UI.DOORS.VAULT_LONGDESC"
 msgid "Vault Access Cards can be found by interrogating corporate executives in Financial Suite missions."
-msgstr ""
+msgstr "金库权限卡只有在金融会议任务中审问集团的执行官才能得到。"
 
 #: STRINGS.UI.DOOR_TRACKED
 msgctxt "STRINGS.UI.DOOR_TRACKED"
 msgid "WARNING"
-msgstr ""
+msgstr "警告"
 
 #: STRINGS.UI.DOOR_TRACKED_TT
 msgctxt "STRINGS.UI.DOOR_TRACKED_TT"
 msgid "The enemy will react to this action."
-msgstr ""
+msgstr "敌人将对此动作做出反应。"
 
 #: STRINGS.UI.EARLY_ACCESS_DAYS
 msgctxt "STRINGS.UI.EARLY_ACCESS_DAYS"
@@ -12642,72 +12642,72 @@ msgstr ""
 #: STRINGS.UI.EARLY_ACCESS_MESSAGE
 msgctxt "STRINGS.UI.EARLY_ACCESS_MESSAGE"
 msgid "Invisible Inc. is a deep, procedural stealth game. It requires you to think about every move lest it be your last.\n\nThis game is still in development, but the essential gameplay components are there for you to enjoy. We are currently hard at work to complete the game, and we'd love your feedback.\n\nIf you have questions or comments, please stop by our forums!"
-msgstr ""
+msgstr "隐形公司是一个深度程式化的潜行游戏。你需要仔细思考每一步以免自断后路。游戏还在开发中，不过最基本的游戏元素都在这了。我们正努力地完成这个游戏，我们十分欢迎您的反馈。如果你有任何意见或是问题，请在我们的论坛上留言！"
 
 #: STRINGS.UI.EARLY_ACCESS_NEXT_UPDATE
 msgctxt "STRINGS.UI.EARLY_ACCESS_NEXT_UPDATE"
 msgid "STATUS: %s"
-msgstr ""
+msgstr "状态：%s"
 
 #: STRINGS.UI.ENDLESS_DESC
 msgctxt "STRINGS.UI.ENDLESS_DESC"
 msgid "There is no time limit and no end mission here, and the difficulty continues to rise as the days go by.\n\nHow long can you survive?"
-msgstr ""
+msgstr "这里没有时限，也没有任务的终结，任务难度将会随着天数不断增大。你能坚持多长时间呢？"
 
 #: STRINGS.UI.ENDLESS_DIFFICULTY
 msgctxt "STRINGS.UI.ENDLESS_DIFFICULTY"
 msgid "Endless"
-msgstr ""
+msgstr "无尽旅程"
 
 #: STRINGS.UI.ENDLESS_PLUS_DESC
 msgctxt "STRINGS.UI.ENDLESS_PLUS_DESC"
 msgid "No time limits, on the most difficult option settings. How long can you keep Invisible afloat?"
-msgstr ""
+msgstr "没有时限，在最高难度的设置基础上游戏。你能够使隐形公司维持多少天呢？"
 
 #: STRINGS.UI.ENDLESS_PLUS_DIFFICULTY
 msgctxt "STRINGS.UI.ENDLESS_PLUS_DIFFICULTY"
 msgid "Endless Plus"
-msgstr ""
+msgstr "无尽旅程"
 
 #: STRINGS.UI.ENDLESS_PLUS_SHORT_DESC
 msgctxt "STRINGS.UI.ENDLESS_PLUS_SHORT_DESC"
 msgid "Play an unlimited campaign on the hardest difficulty."
-msgstr ""
+msgstr "在最高难度下游玩无限任务。"
 
 #: STRINGS.UI.ENDLESS_SHORT_DESC
 msgctxt "STRINGS.UI.ENDLESS_SHORT_DESC"
 msgid "Play an unlimited campaign."
-msgstr ""
+msgstr "游玩无限任务"
 
 #: STRINGS.UI.ENEMY_ACTIVITY
 msgctxt "STRINGS.UI.ENEMY_ACTIVITY"
 msgid "ENEMY ACTIVITY"
-msgstr ""
+msgstr "敌人行动"
 
 #: STRINGS.UI.EXIT
 msgctxt "STRINGS.UI.EXIT"
 msgid "X LOG OUT"
-msgstr ""
+msgstr "X 退出"
 
 #: STRINGS.UI.EXPERIENCED_DESC
 msgctxt "STRINGS.UI.EXPERIENCED_DESC"
 msgid "Now that you have a better hang of the game, the corporations are tougher and we're pulling away the safety net. No more level retries: your every action counts."
-msgstr ""
+msgstr "现在你对游戏系统基本了解了，集团更难对付，因此我们将切断安全网络。没有重来，你的每一步都将决定你的命运。"
 
 #: STRINGS.UI.EXPERIENCED_DIFFICULTY
 msgctxt "STRINGS.UI.EXPERIENCED_DIFFICULTY"
 msgid "Experienced"
-msgstr ""
+msgstr "经验丰富"
 
 #: STRINGS.UI.EXPERIENCED_SHORT_DESC
 msgctxt "STRINGS.UI.EXPERIENCED_SHORT_DESC"
 msgid "Things are starting to heat up."
-msgstr ""
+msgstr "事情开始有料了。"
 
 #: STRINGS.UI.EXPLORATION_CREDITS
 msgctxt "STRINGS.UI.EXPLORATION_CREDITS"
 msgid "EXPLORATION BONUS"
-msgstr ""
+msgstr "探索奖励"
 
 #: STRINGS.UI.EXP_CAP
 msgctxt "STRINGS.UI.EXP_CAP"
@@ -12717,297 +12717,297 @@ msgstr ""
 #: STRINGS.UI.EXP_GAINED
 msgctxt "STRINGS.UI.EXP_GAINED"
 msgid "<c:f0ff78>{1}</c> / {2} XP"
-msgstr ""
+msgstr "XP"
 
 #: STRINGS.UI.FLAG_CONTROL_TT
 msgctxt "STRINGS.UI.FLAG_CONTROL_TT"
 msgid "Hacked for {1} turn(s)"
-msgstr ""
+msgstr "已侵入{1}回合"
 
 #: STRINGS.UI.FLAG_DEAD_TT
 msgctxt "STRINGS.UI.FLAG_DEAD_TT"
 msgid "This agent is down. Revive with a MED-GEL or by dragging to the escape point."
-msgstr ""
+msgstr "该特工失去行动能力。使用医疗剂复活他或是把他拉到撤离点。"
 
 #: STRINGS.UI.FLAG_KO_PIN_TT
 msgctxt "STRINGS.UI.FLAG_KO_PIN_TT"
 msgid "This unit is KO for {1} turn(s). This countdown is paused while the unit is pinned."
-msgstr ""
+msgstr "该单位被击晕{1}回合。该倒数将在单位被按倒时取消。"
 
 #: STRINGS.UI.FLAG_KO_TT
 msgctxt "STRINGS.UI.FLAG_KO_TT"
 msgid "This unit is KO for {1} turn(s)."
-msgstr ""
+msgstr "该单位被击倒{1}回合。"
 
 #: STRINGS.UI.FLY_TXT.ADRENAL_REGULATOR
 msgctxt "STRINGS.UI.FLY_TXT.ADRENAL_REGULATOR"
 msgid "ADRENALIN REGULATOR +{1} AP"
-msgstr ""
+msgstr "肾上腺素+{1}AP"
 
 #: STRINGS.UI.FLY_TXT.AMBUSH_READY
 msgctxt "STRINGS.UI.FLY_TXT.AMBUSH_READY"
 msgid "AMBUSH READY"
-msgstr ""
+msgstr "伏击已就绪"
 
 #: STRINGS.UI.FLY_TXT.ARMORED
 msgctxt "STRINGS.UI.FLY_TXT.ARMORED"
 msgid "ENEMY ARMORED!"
-msgstr ""
+msgstr "敌人装备了护甲！"
 
 #: STRINGS.UI.FLY_TXT.ARMOR_UP
 msgctxt "STRINGS.UI.FLY_TXT.ARMOR_UP"
 msgid "ARMORED UP"
-msgstr ""
+msgstr "护甲着装"
 
 #: STRINGS.UI.FLY_TXT.ATTACK_USED
 msgctxt "STRINGS.UI.FLY_TXT.ATTACK_USED"
 msgid "ATTACK USED"
-msgstr ""
+msgstr "攻击已使用"
 
 #: STRINGS.UI.FLY_TXT.AUGMENT_INSTALLED
 msgctxt "STRINGS.UI.FLY_TXT.AUGMENT_INSTALLED"
 msgid "AUGMENT INSTALLED"
-msgstr ""
+msgstr "植入体已安装"
 
 #: STRINGS.UI.FLY_TXT.CONSCIOUSNESS_MONITOR
 msgctxt "STRINGS.UI.FLY_TXT.CONSCIOUSNESS_MONITOR"
 msgid "CONSCIOUSNESS MONITOR"
-msgstr ""
+msgstr "意识监视器"
 
 #: STRINGS.UI.FLY_TXT.DECODING
 msgctxt "STRINGS.UI.FLY_TXT.DECODING"
 msgid "DECODING in {1}..."
-msgstr ""
+msgstr "解码即将完成：{1}"
 
 #: STRINGS.UI.FLY_TXT.DECODING_COMPLETE
 msgctxt "STRINGS.UI.FLY_TXT.DECODING_COMPLETE"
 msgid "DECRYPTION COMPLETE"
-msgstr ""
+msgstr "破译完成"
 
 #: STRINGS.UI.FLY_TXT.DOOR_SLAMMED
 msgctxt "STRINGS.UI.FLY_TXT.DOOR_SLAMMED"
 msgid "DOOR SLAMMED"
-msgstr ""
+msgstr "门已撞开"
 
 #: STRINGS.UI.FLY_TXT.ENCUMBERED
 msgctxt "STRINGS.UI.FLY_TXT.ENCUMBERED"
 msgid "ENCUMBERED!\n-{1} AP"
-msgstr ""
+msgstr "被妨碍-{1}AP"
 
 #: STRINGS.UI.FLY_TXT.EXTRA_ATTACK
 msgctxt "STRINGS.UI.FLY_TXT.EXTRA_ATTACK"
 msgid "EXTRA ATTACK"
-msgstr ""
+msgstr "额外攻击"
 
 #: STRINGS.UI.FLY_TXT.FACILITY_REVEALED
 msgctxt "STRINGS.UI.FLY_TXT.FACILITY_REVEALED"
 msgid "FACILITY MAP\nREVEALED"
-msgstr ""
+msgstr "获得设施地图"
 
 #: STRINGS.UI.FLY_TXT.IMPROVED_HEART_MONITOR
 msgctxt "STRINGS.UI.FLY_TXT.IMPROVED_HEART_MONITOR"
 msgid "IMPROVED HEART\nMONITOR"
-msgstr ""
+msgstr "改良心脏探测仪"
 
 #: STRINGS.UI.FLY_TXT.MINUS_PWR
 msgctxt "STRINGS.UI.FLY_TXT.MINUS_PWR"
 msgid "-{1} PWR"
-msgstr ""
+msgstr "-{1}能量"
 
 #: STRINGS.UI.FLY_TXT.MONITOR_DISABLED
 msgctxt "STRINGS.UI.FLY_TXT.MONITOR_DISABLED"
 msgid "HEART MONITOR DISABLED"
-msgstr ""
+msgstr "心脏探测器故障"
 
 #: STRINGS.UI.FLY_TXT.MOVEMENT_BOOSTED
 msgctxt "STRINGS.UI.FLY_TXT.MOVEMENT_BOOSTED"
 msgid "MOVEMENT BOOSTED"
-msgstr ""
+msgstr "加速行动"
 
 #: STRINGS.UI.FLY_TXT.NOT_ENOUGH_PWR
 msgctxt "STRINGS.UI.FLY_TXT.NOT_ENOUGH_PWR"
 msgid "NOT ENOUGH PWR"
-msgstr ""
+msgstr "PWR不够"
 
 #: STRINGS.UI.FLY_TXT.OVERWATCH_READY
 msgctxt "STRINGS.UI.FLY_TXT.OVERWATCH_READY"
 msgid "OVERWATCH READY"
-msgstr ""
+msgstr "窥视就绪"
 
 #: STRINGS.UI.FLY_TXT.PANIC
 msgctxt "STRINGS.UI.FLY_TXT.PANIC"
 msgid "PANIC"
-msgstr ""
+msgstr "恐慌"
 
 #: STRINGS.UI.FLY_TXT.PARALYZED
 msgctxt "STRINGS.UI.FLY_TXT.PARALYZED"
 msgid "PARALYZED"
-msgstr ""
+msgstr "麻痹生效"
 
 #: STRINGS.UI.FLY_TXT.PERSONAL_SHIELD
 msgctxt "STRINGS.UI.FLY_TXT.PERSONAL_SHIELD"
 msgid "PERSONAL SHIELD"
-msgstr ""
+msgstr "个人护盾"
 
 #: STRINGS.UI.FLY_TXT.PLUS_PWR
 msgctxt "STRINGS.UI.FLY_TXT.PLUS_PWR"
 msgid "+{1} PWR"
-msgstr ""
+msgstr "+{1}PWR"
 
 #: STRINGS.UI.FLY_TXT.POWER_OFF
 msgctxt "STRINGS.UI.FLY_TXT.POWER_OFF"
 msgid "POWER OFF"
-msgstr ""
+msgstr "电源关闭"
 
 #: STRINGS.UI.FLY_TXT.POWER_ON
 msgctxt "STRINGS.UI.FLY_TXT.POWER_ON"
 msgid "POWER ON"
-msgstr ""
+msgstr "电源开启"
 
 #: STRINGS.UI.FLY_TXT.PREDICTIVE_BRAWLING
 msgctxt "STRINGS.UI.FLY_TXT.PREDICTIVE_BRAWLING"
 msgid "PREDICTIVE BRAWLING +{1} AP"
-msgstr ""
+msgstr "可预测冲突"
 
 #: STRINGS.UI.FLY_TXT.REBOOTING
 msgctxt "STRINGS.UI.FLY_TXT.REBOOTING"
 msgid "REBOOTING"
-msgstr ""
+msgstr "重启"
 
 #: STRINGS.UI.FLY_TXT.RECAPTURED
 msgctxt "STRINGS.UI.FLY_TXT.RECAPTURED"
 msgid "RECAPTURED!"
-msgstr ""
+msgstr "再次占领"
 
 #: STRINGS.UI.FLY_TXT.REVEALED
 msgctxt "STRINGS.UI.FLY_TXT.REVEALED"
 msgid "REVEALED"
-msgstr ""
+msgstr "已显露"
 
 #: STRINGS.UI.FLY_TXT.REVIVED
 msgctxt "STRINGS.UI.FLY_TXT.REVIVED"
 msgid "REVIVED"
-msgstr ""
+msgstr "已复活"
 
 #: STRINGS.UI.FLY_TXT.SCANNING
 msgctxt "STRINGS.UI.FLY_TXT.SCANNING"
 msgid "SCANNING"
-msgstr ""
+msgstr "扫描"
 
 #: STRINGS.UI.FLY_TXT.SIGHTED
 msgctxt "STRINGS.UI.FLY_TXT.SIGHTED"
 msgid "ENEMY SIGHTED!"
-msgstr ""
+msgstr "发现敌人"
 
 #: STRINGS.UI.FLY_TXT.SNEAKING
 msgctxt "STRINGS.UI.FLY_TXT.SNEAKING"
 msgid "SNEAKING"
-msgstr ""
+msgstr "潜行中"
 
 #: STRINGS.UI.FLY_TXT.SPRINTING
 msgctxt "STRINGS.UI.FLY_TXT.SPRINTING"
 msgid "SPRINTING"
-msgstr ""
+msgstr "冲刺中"
 
 #: STRINGS.UI.FLY_TXT.TAGGED
 msgctxt "STRINGS.UI.FLY_TXT.TAGGED"
 msgid "TAGGED"
-msgstr ""
+msgstr "已标记"
 
 #: STRINGS.UI.FLY_TXT.THERMAL_GENERATOR
 msgctxt "STRINGS.UI.FLY_TXT.THERMAL_GENERATOR"
 msgid "THERMAL GENERATOR"
-msgstr ""
+msgstr "热量探测仪"
 
 #: STRINGS.UI.FLY_TXT.TURRET_OVERWATCH
 msgctxt "STRINGS.UI.FLY_TXT.TURRET_OVERWATCH"
 msgid "OVERWATCH"
-msgstr ""
+msgstr "窥探"
 
 #: STRINGS.UI.FLY_TXT.UNLOCKED
 msgctxt "STRINGS.UI.FLY_TXT.UNLOCKED"
 msgid "UNLOCKED"
-msgstr ""
+msgstr "已解锁"
 
 #: STRINGS.UI.FLY_TXT.VENTRICULAR_PIERCING
 msgctxt "STRINGS.UI.FLY_TXT.VENTRICULAR_PIERCING"
 msgid "PIERCING UP"
-msgstr ""
+msgstr "刺中"
 
 #: STRINGS.UI.FLY_TXT.WIRELESS_HIJACK
 msgctxt "STRINGS.UI.FLY_TXT.WIRELESS_HIJACK"
 msgid "WIRELESS HIJACK"
-msgstr ""
+msgstr "无线入侵"
 
 #: STRINGS.UI.FORUMS
 msgctxt "STRINGS.UI.FORUMS"
 msgid "VISIT FORUMS"
-msgstr ""
+msgstr "访问论坛"
 
 #: STRINGS.UI.GENERATING_WORLD.1
 msgctxt "STRINGS.UI.GENERATING_WORLD.1"
 msgid "Procedural generation algorithm initialized."
-msgstr ""
+msgstr "程序产生算法已初始化"
 
 #: STRINGS.UI.GENERATING_WORLD.2
 msgctxt "STRINGS.UI.GENERATING_WORLD.2"
 msgid "Computing facility layout and room connectivity..."
-msgstr ""
+msgstr "计算设施布局和房间连通性..."
 
 #: STRINGS.UI.GENERATING_WORLD.3
 msgctxt "STRINGS.UI.GENERATING_WORLD.3"
 msgid "Facility complete. Generation successful."
-msgstr ""
+msgstr "设施构建完成。任务生成成功。"
 
 #: STRINGS.UI.GENOPTIONS.ALARMTYPE.1
 msgctxt "STRINGS.UI.GENOPTIONS.ALARMTYPE.1"
 msgid "EASY"
-msgstr ""
+msgstr "简单"
 
 #: STRINGS.UI.GENOPTIONS.ALARMTYPE.2
 msgctxt "STRINGS.UI.GENOPTIONS.ALARMTYPE.2"
 msgid "NORMAL"
-msgstr ""
+msgstr "正常"
 
 #: STRINGS.UI.GENOPTIONS.DAEMONS.1
 msgctxt "STRINGS.UI.GENOPTIONS.DAEMONS.1"
 msgid "LESS"
-msgstr ""
+msgstr "少量"
 
 #: STRINGS.UI.GENOPTIONS.DAEMONS.2
 msgctxt "STRINGS.UI.GENOPTIONS.DAEMONS.2"
 msgid "NORMAL"
-msgstr ""
+msgstr "正常"
 
 #: STRINGS.UI.GENOPTIONS.DAEMONS.3
 msgctxt "STRINGS.UI.GENOPTIONS.DAEMONS.3"
 msgid "MORE"
-msgstr ""
+msgstr "更多"
 
 #: STRINGS.UI.GENOPTIONS.GUARDSPAWNS.1
 msgctxt "STRINGS.UI.GENOPTIONS.GUARDSPAWNS.1"
 msgid "LESS"
-msgstr ""
+msgstr "少"
 
 #: STRINGS.UI.GENOPTIONS.GUARDSPAWNS.2
 msgctxt "STRINGS.UI.GENOPTIONS.GUARDSPAWNS.2"
 msgid "NORMAL"
-msgstr ""
+msgstr "正常"
 
 #: STRINGS.UI.GENOPTIONS.GUARDSPAWNS.3
 msgctxt "STRINGS.UI.GENOPTIONS.GUARDSPAWNS.3"
 msgid "MORE"
-msgstr ""
+msgstr "多"
 
 #: STRINGS.UI.GENOPTIONS.HOURS.1
 msgctxt "STRINGS.UI.GENOPTIONS.HOURS.1"
 msgid "24 Hours"
-msgstr ""
+msgstr "24小时"
 
 #: STRINGS.UI.GENOPTIONS.HOURS.2
 msgctxt "STRINGS.UI.GENOPTIONS.HOURS.2"
 msgid "48 Hours"
-msgstr ""
+msgstr "48小时"
 
 #: STRINGS.UI.GENOPTIONS.HOURS.3
 msgctxt "STRINGS.UI.GENOPTIONS.HOURS.3"
